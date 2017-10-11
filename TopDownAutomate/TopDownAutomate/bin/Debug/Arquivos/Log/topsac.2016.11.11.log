@@ -1,0 +1,84 @@
+[11/11/2016 12:04:28] Sistema Iniciado.
+[11/11/2016 12:05:24] Aberto driver com Chrome.
+[11/11/2016 12:06:29] Controle instanciado: 53689
+[11/11/2016 12:09:09] Arquivo do pacote do CA 53689 extraído.
+[11/11/2016 12:09:19] Resultado do Login na WEB Maritima    (10.1.1.159): Sucesso Ao logar.
+[11/11/2016 12:09:19] Sistema procurará os arquivos na(s) pasta(s): jtopdown topsaude web 
+[11/11/2016 12:09:19] Quantidade de Arquivos: 2 (arquivos que não estão na raíz).
+[11/11/2016 12:09:19] Arquivo ENCONTRADO em \\10.1.1.159\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\atd\GuiaHonorariosItem2_3_02_01.jasper
+[11/11/2016 12:09:19] Arquivo ENCONTRADO em \\10.1.1.159\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\atd\GuiaHonorarios_3_02_01.jasper
+[11/11/2016 12:09:19] Busca Aprofundada necessária não realizada
+[11/11/2016 12:09:19] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 317 milisegundo(s).
+[11/11/2016 12:09:26] K:\Pacotes\53651-53700\53689-RICARDO\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\atd\GuiaHonorariosItem2_3_02_01.jasper copiado para \\10.1.1.159\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\atd\GuiaHonorariosItem2_3_02_01.jasper
+[11/11/2016 12:09:26] K:\Pacotes\53651-53700\53689-RICARDO\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\atd\GuiaHonorarios_3_02_01.jasper copiado para \\10.1.1.159\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\atd\GuiaHonorarios_3_02_01.jasper
+[11/11/2016 16:24:46] Sistema finalizado.
+
+[11/11/2016 16:24:51] Sistema Iniciado.
+[11/11/2016 16:25:09] Aberto driver com Chrome.
+[11/11/2016 16:25:22] Controle instanciado: 53696
+[11/11/2016 16:26:00] Arquivo do pacote do CA 53696 extraído.
+[11/11/2016 16:26:17] Banco Selecionado Para aplicar: SEPACO-TESTE
+[11/11/2016 16:26:19] Atribuído objeto do tipo Package - TS.AUT_FCH_PEDIDO_AUTORIZACAO_ddl.sql em ts/SEPACO-TESTE
+[11/11/2016 16:26:21] Sistema alterando o aplica para ordem certa de aplicação
+[11/11/2016 16:26:30] Sistema finalizado.
+
+[11/11/2016 16:26:31] Sistema Iniciado.
+[11/11/2016 16:26:38] Aberto driver com Chrome.
+[11/11/2016 16:26:50] Controle instanciado: 53696
+[11/11/2016 16:26:57] Banco Selecionado Para aplicar: HOMO_MED
+[11/11/2016 16:26:59] Atribuído objeto do tipo Package - TS.AUT_FCH_PEDIDO_AUTORIZACAO_ddl.sql em ts_teste/HOMO_MED
+[11/11/2016 16:27:02] Sistema alterando o aplica para ordem certa de aplicação
+[11/11/2016 16:27:04] Selecionado P/ Não Criptografar em: HOMO_MED 
+[11/11/2016 16:27:04] Selecionado P/ Criptografar em: 
+[11/11/2016 16:27:04] Arquivo "APLICA.SQL" criado com sucesso.
+[11/11/2016 16:27:10] Executado o aplica no sqlplus.
+[11/11/2016 16:29:29] Resultado do Login na WEB HOMOLOG V11    (10.10.100.147): Sucesso Ao logar.
+[11/11/2016 16:29:29] Sistema procurará os arquivos na(s) pasta(s): jtopdown TopSaude 
+[11/11/2016 16:29:29] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[11/11/2016 16:29:30] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\atd\asp\ATD0028a.asp
+[11/11/2016 16:29:30] Busca Aprofundada necessária não realizada
+[11/11/2016 16:29:30] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 18 milisegundo(s).
+[11/11/2016 16:29:31] K:\Pacotes\53651-53700\53696-Amanda\web\atd\asp\ATD0028a.asp copiado para \\10.10.100.147\TopSaude\web\atd\asp\ATD0028a.asp
+[11/11/2016 16:40:59] Banco Selecionado Para aplicar: INST_MED
+[11/11/2016 16:40:59] Banco Selecionado Para aplicar: DEMO_MED
+[11/11/2016 16:40:59] Banco Selecionado Para aplicar: HOMO_MED
+[11/11/2016 16:40:59] Banco Selecionado Para aplicar: SEPACO-TESTE
+[11/11/2016 16:41:04] Atribuído objeto do tipo Package - TS.AUT_FCH_PEDIDO_AUTORIZACAO_ddl.sql em ts/INST_MED
+[11/11/2016 16:41:04] Atribuído objeto do tipo Package - TS.AUT_FCH_PEDIDO_AUTORIZACAO_ddl.sql em ts/DEMO_MED
+[11/11/2016 16:41:04] Atribuído objeto do tipo Package - TS.AUT_FCH_PEDIDO_AUTORIZACAO_ddl.sql em ts_teste/HOMO_MED
+[11/11/2016 16:41:04] Atribuído objeto do tipo Package - TS.AUT_FCH_PEDIDO_AUTORIZACAO_ddl.sql em ts/SEPACO-TESTE
+[11/11/2016 16:41:06] Sistema alterando o aplica para ordem certa de aplicação
+[11/11/2016 16:41:12] Selecionado P/ Não Criptografar em: INST_MED DEMO_MED HOMO_MED 
+[11/11/2016 16:41:12] Selecionado P/ Criptografar em: SEPACO-TESTE 
+[11/11/2016 16:41:12] Arquivo "APLICA.SQL" criado com sucesso.
+[11/11/2016 16:41:19] Executado o aplica no sqlplus.
+[11/11/2016 16:46:59] Resultado do Login na WEB HOMOLOG V11    (10.10.100.147): Sucesso Ao logar.
+[11/11/2016 16:46:59] Sistema procurará os arquivos na(s) pasta(s): jtopdown TopSaude 
+[11/11/2016 16:46:59] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[11/11/2016 16:46:59] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\atd\asp\ATD0028a.asp
+[11/11/2016 16:46:59] Busca Aprofundada necessária não realizada
+[11/11/2016 16:46:59] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 17 milisegundo(s).
+[11/11/2016 16:47:00] K:\Pacotes\53651-53700\53696-Amanda\web\atd\asp\ATD0028a.asp copiado para \\10.10.100.147\TopSaude\web\atd\asp\ATD0028a.asp
+[11/11/2016 16:47:04] Resultado do Login na WEB Instalacao V11    (10.10.100.134): Sucesso Ao logar.
+[11/11/2016 16:47:04] Sistema procurará os arquivos na(s) pasta(s): Jtopdown TOPSAUDE 
+[11/11/2016 16:47:04] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[11/11/2016 16:47:04] Arquivo ENCONTRADO em \\10.10.100.134\TOPSAUDE\web\atd\asp\ATD0028a.asp
+[11/11/2016 16:47:04] Busca Aprofundada necessária não realizada
+[11/11/2016 16:47:04] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 11 milisegundo(s).
+[11/11/2016 16:47:05] K:\Pacotes\53651-53700\53696-Amanda\web\atd\asp\ATD0028a.asp copiado para \\10.10.100.134\TOPSAUDE\web\atd\asp\ATD0028a.asp
+[11/11/2016 16:47:14] Resultado do Login na WEB Demo_Med    (223.223.2.206): Sucesso Ao logar.
+[11/11/2016 16:47:14] Sistema procurará os arquivos na(s) pasta(s): jtopdown TopSaude 
+[11/11/2016 16:47:14] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[11/11/2016 16:47:14] Arquivo ENCONTRADO em \\223.223.2.206\TopSaude\web\atd\asp\ATD0028a.asp
+[11/11/2016 16:47:14] Busca Aprofundada necessária não realizada
+[11/11/2016 16:47:14] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 19 milisegundo(s).
+[11/11/2016 16:47:16] K:\Pacotes\53651-53700\53696-Amanda\web\atd\asp\ATD0028a.asp copiado para \\223.223.2.206\TopSaude\web\atd\asp\ATD0028a.asp
+[11/11/2016 16:48:04] Banco Selecionado Para aplicar: SEP_VAZIO
+[11/11/2016 16:48:06] Atribuído objeto do tipo Package - TS.AUT_FCH_PEDIDO_AUTORIZACAO_ddl.sql em ts_teste/SEP_VAZIO
+[11/11/2016 16:48:08] Sistema alterando o aplica para ordem certa de aplicação
+[11/11/2016 16:48:09] Selecionado P/ Não Criptografar em: SEP_VAZIO 
+[11/11/2016 16:48:09] Selecionado P/ Criptografar em: 
+[11/11/2016 16:48:09] Arquivo "APLICA.SQL" criado com sucesso.
+[11/11/2016 16:48:14] Executado o aplica no sqlplus.
+[11/11/2016 17:32:52] Sistema finalizado.
+

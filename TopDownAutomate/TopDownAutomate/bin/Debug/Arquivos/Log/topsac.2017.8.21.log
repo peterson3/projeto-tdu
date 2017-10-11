@@ -1,0 +1,95 @@
+[21/08/2017 11:49:34] Sistema Iniciado.
+[21/08/2017 11:50:08] Sistema finalizado.
+
+[21/08/2017 18:24:32] Sistema Iniciado.
+[21/08/2017 18:24:55] Aberto driver com Chrome.
+[21/08/2017 18:42:45] Sistema finalizado.
+
+[21/08/2017 18:42:49] Sistema Iniciado.
+[21/08/2017 18:43:05] Aberto driver com Chrome.
+[21/08/2017 18:43:18] Controle instanciado: 56832
+[21/08/2017 18:44:52] Arquivo do pacote do CA 56832 extraído.
+[21/08/2017 18:46:27] Banco Selecionado Para aplicar: HOMO_ODO
+[21/08/2017 18:46:32] Atribuído objeto do tipo Script - SAC66841_SCRIPT_TS.OCORRENCIA_CONTRATO_INSERT_DDL.SQL em ts_teste/HOMO_ODO
+[21/08/2017 18:46:32] Atribuído objeto do tipo Script - SAC66841_SCRIPT_TS.OCORRENCIA_ASSOCIADO_INSERT_DDL.SQL em ts_teste/HOMO_ODO
+[21/08/2017 18:46:32] Atribuído objeto do tipo Procedure - TS.ASS_GRAVA_OCORRENCIA_RN412.SQL em ts_teste/HOMO_ODO
+[21/08/2017 18:46:51] Sistema alterando o aplica para ordem certa de aplicação
+[21/08/2017 18:46:53] Selecionado P/ Não Criptografar em: HOMO_ODO 
+[21/08/2017 18:46:53] Selecionado P/ Criptografar em: 
+[21/08/2017 18:46:54] Arquivo "APLICA.SQL" criado com sucesso.
+[21/08/2017 18:47:02] Executado o aplica no sqlplus.
+[21/08/2017 19:34:16] Arquivo do pacote do CA 56832 extraído.
+[21/08/2017 19:34:31] Banco Selecionado Para aplicar: HOMO_ODO
+[21/08/2017 19:34:35] Atribuído objeto do tipo Script - SAC66841_SCRIPT_TS.OCORRENCIA_CONTRATO_INSERT_DDL.SQL em ts_teste/HOMO_ODO
+[21/08/2017 19:34:35] Atribuído objeto do tipo Script - SAC66841_SCRIPT_TS.OCORRENCIA_ASSOCIADO_INSERT_DDL.SQL em ts_teste/HOMO_ODO
+[21/08/2017 19:34:35] Atribuído objeto do tipo Procedure - TS.ASS_GRAVA_OCORRENCIA_RN412.SQL em ts_teste/HOMO_ODO
+[21/08/2017 19:34:36] Sistema alterando o aplica para ordem certa de aplicação
+[21/08/2017 19:34:37] Selecionado P/ Não Criptografar em: HOMO_ODO 
+[21/08/2017 19:34:37] Selecionado P/ Criptografar em: 
+[21/08/2017 19:34:37] Arquivo "APLICA.SQL" criado com sucesso.
+[21/08/2017 19:34:46] Executado o aplica no sqlplus.
+[21/08/2017 19:43:23] Banco Selecionado Para aplicar: INST_ODO
+[21/08/2017 19:43:23] Banco Selecionado Para aplicar: DEMO_ODO
+[21/08/2017 19:43:23] Banco Selecionado Para aplicar: HOMO_ODO
+[21/08/2017 19:43:23] Banco Selecionado Para aplicar: SEG_DES5
+[21/08/2017 19:43:23] Banco Selecionado Para aplicar: SEG_VAZIO
+[21/08/2017 19:43:33] Atribuído objeto do tipo Script - SAC66841_SCRIPT_TS.OCORRENCIA_CONTRATO_INSERT_DDL.SQL em ts/INST_ODO
+[21/08/2017 19:43:33] Atribuído objeto do tipo Script - SAC66841_SCRIPT_TS.OCORRENCIA_CONTRATO_INSERT_DDL.SQL em ts/DEMO_ODO
+[21/08/2017 19:43:33] Atribuído objeto do tipo Script - SAC66841_SCRIPT_TS.OCORRENCIA_CONTRATO_INSERT_DDL.SQL em ts_teste/HOMO_ODO
+[21/08/2017 19:43:33] Atribuído objeto do tipo Script - SAC66841_SCRIPT_TS.OCORRENCIA_CONTRATO_INSERT_DDL.SQL em ts/SEG_DES5
+[21/08/2017 19:43:33] Atribuído objeto do tipo Script - SAC66841_SCRIPT_TS.OCORRENCIA_CONTRATO_INSERT_DDL.SQL em seg_teste/SEG_VAZIO
+[21/08/2017 19:43:33] Atribuído objeto do tipo Script - SAC66841_SCRIPT_TS.OCORRENCIA_ASSOCIADO_INSERT_DDL.SQL em ts/INST_ODO
+[21/08/2017 19:43:33] Atribuído objeto do tipo Script - SAC66841_SCRIPT_TS.OCORRENCIA_ASSOCIADO_INSERT_DDL.SQL em ts/DEMO_ODO
+[21/08/2017 19:43:33] Atribuído objeto do tipo Script - SAC66841_SCRIPT_TS.OCORRENCIA_ASSOCIADO_INSERT_DDL.SQL em ts_teste/HOMO_ODO
+[21/08/2017 19:43:33] Atribuído objeto do tipo Script - SAC66841_SCRIPT_TS.OCORRENCIA_ASSOCIADO_INSERT_DDL.SQL em ts/SEG_DES5
+[21/08/2017 19:43:33] Atribuído objeto do tipo Script - SAC66841_SCRIPT_TS.OCORRENCIA_ASSOCIADO_INSERT_DDL.SQL em seg_teste/SEG_VAZIO
+[21/08/2017 19:43:33] Atribuído objeto do tipo Procedure - TS.ASS_GRAVA_OCORRENCIA_RN412.SQL em ts/INST_ODO
+[21/08/2017 19:43:33] Atribuído objeto do tipo Procedure - TS.ASS_GRAVA_OCORRENCIA_RN412.SQL em ts/DEMO_ODO
+[21/08/2017 19:43:33] Atribuído objeto do tipo Procedure - TS.ASS_GRAVA_OCORRENCIA_RN412.SQL em ts_teste/HOMO_ODO
+[21/08/2017 19:43:33] Atribuído objeto do tipo Procedure - TS.ASS_GRAVA_OCORRENCIA_RN412.SQL em ts/SEG_DES5
+[21/08/2017 19:43:33] Atribuído objeto do tipo Procedure - TS.ASS_GRAVA_OCORRENCIA_RN412.SQL em seg_teste/SEG_VAZIO
+[21/08/2017 19:43:35] Sistema alterando o aplica para ordem certa de aplicação
+[21/08/2017 19:43:40] Selecionado P/ Não Criptografar em: INST_ODO DEMO_ODO HOMO_ODO SEG_VAZIO 
+[21/08/2017 19:43:40] Selecionado P/ Criptografar em: SEG_DES5 
+[21/08/2017 19:43:41] Arquivo "APLICA.SQL" criado com sucesso.
+[21/08/2017 19:43:47] Executado o aplica no sqlplus.
+[21/08/2017 19:56:28] Banco Selecionado Para aplicar: nuvem_01
+[21/08/2017 19:56:54] Banco Selecionado Para aplicar: ODO_VAZIO
+[21/08/2017 19:56:54] Banco Selecionado Para aplicar: nuvem_01
+[21/08/2017 19:56:57] Atribuído objeto do tipo Script - SAC66841_SCRIPT_TS.OCORRENCIA_CONTRATO_INSERT_DDL.SQL em odo_teste/ODO_VAZIO
+[21/08/2017 19:56:57] Atribuído objeto do tipo Script - SAC66841_SCRIPT_TS.OCORRENCIA_CONTRATO_INSERT_DDL.SQL em ts/nuvem_01
+[21/08/2017 19:56:57] Atribuído objeto do tipo Script - SAC66841_SCRIPT_TS.OCORRENCIA_ASSOCIADO_INSERT_DDL.SQL em odo_teste/ODO_VAZIO
+[21/08/2017 19:56:57] Atribuído objeto do tipo Script - SAC66841_SCRIPT_TS.OCORRENCIA_ASSOCIADO_INSERT_DDL.SQL em ts/nuvem_01
+[21/08/2017 19:56:57] Atribuído objeto do tipo Procedure - TS.ASS_GRAVA_OCORRENCIA_RN412.SQL em odo_teste/ODO_VAZIO
+[21/08/2017 19:56:57] Atribuído objeto do tipo Procedure - TS.ASS_GRAVA_OCORRENCIA_RN412.SQL em ts/nuvem_01
+[21/08/2017 19:56:58] Sistema alterando o aplica para ordem certa de aplicação
+[21/08/2017 19:57:00] Selecionado P/ Não Criptografar em: ODO_VAZIO nuvem_01 
+[21/08/2017 19:57:00] Selecionado P/ Criptografar em: 
+[21/08/2017 19:57:00] Arquivo "APLICA.SQL" criado com sucesso.
+[21/08/2017 19:57:06] Executado o aplica no sqlplus.
+[21/08/2017 19:58:08] Resultado do Login na WEB HOMOLOG V11    (10.10.100.147): Sucesso Ao logar.
+[21/08/2017 19:58:08] Sistema procurará os arquivos na(s) pasta(s): jtopdown TopSaude 
+[21/08/2017 19:58:08] Quantidade de Arquivos: 3 (arquivos que não estão na raíz).
+[21/08/2017 19:58:10] Realizando busca aprofundada para objetos não encontrados...
+[21/08/2017 19:58:31] Tempo que levou para achar todos os arquivos: 0 minuto(s), 22 segundo(s) e 571 milisegundo(s).
+[21/08/2017 19:58:40] K:\Pacotes\56801-56850\56832-DIEGO\TopSaudeNet\TD.TopSaude.Service\TD.TopSaude.Service.Odo\build\ServicosUnimedSeguros\bin\ServicosUnimedSeguros.dll copiado para \\10.10.100.147\TopSaude\web\TopSaudeNET\TD.TopSaude.Service\TD.TopSaude.Service.Odo\build\ServicosUnimedSeguros\bin\ServicosUnimedSeguros.dll
+[21/08/2017 19:58:40] K:\Pacotes\56801-56850\56832-DIEGO\TopSaudeNet\TD.TopSaude.Service\TD.TopSaude.Service.Odo\build\ServicosUnimedSeguros\wsdl\webServicePortalBeneficiario.wsdl copiado para \\10.10.100.147\TopSaude\web\TopSaudeNET\TD.TopSaude.Service\TD.TopSaude.Service.Odo\build\ServicosUnimedSeguros\wsdl\webServicePortalBeneficiario.wsdl
+[21/08/2017 19:58:40] K:\Pacotes\56801-56850\56832-DIEGO\TopSaudeNet\TD.TopSaude.Service\TD.TopSaude.Service.Odo\build\ServicosUnimedSeguros\wsdl\webServicePortalBeneficiario.xsd copiado para \\10.10.100.147\TopSaude\web\TopSaudeNET\TD.TopSaude.Service\TD.TopSaude.Service.Odo\build\ServicosUnimedSeguros\wsdl\webServicePortalBeneficiario.xsd
+[21/08/2017 19:58:45] Resultado do Login na WEB Instalacao V11    (10.10.100.134): Sucesso Ao logar.
+[21/08/2017 19:58:45] Sistema procurará os arquivos na(s) pasta(s): Jtopdown TOPSAUDE 
+[21/08/2017 19:58:45] Quantidade de Arquivos: 3 (arquivos que não estão na raíz).
+[21/08/2017 19:58:46] Realizando busca aprofundada para objetos não encontrados...
+[21/08/2017 19:59:08] Tempo que levou para achar todos os arquivos: 0 minuto(s), 22 segundo(s) e 596 milisegundo(s).
+[21/08/2017 19:59:22] K:\Pacotes\56801-56850\56832-DIEGO\TopSaudeNet\TD.TopSaude.Service\TD.TopSaude.Service.Odo\build\ServicosUnimedSeguros\bin\ServicosUnimedSeguros.dll copiado para \\10.10.100.134\TOPSAUDE\WEB\topsaudenet\TD.TopSaude.Service\TD.TopSaude.Service.Odo\build\ServicosUnimedSeguros\bin\ServicosUnimedSeguros.dll
+[21/08/2017 19:59:22] K:\Pacotes\56801-56850\56832-DIEGO\TopSaudeNet\TD.TopSaude.Service\TD.TopSaude.Service.Odo\build\ServicosUnimedSeguros\wsdl\webServicePortalBeneficiario.wsdl copiado para \\10.10.100.134\TOPSAUDE\WEB\topsaudenet\TD.TopSaude.Service\TD.TopSaude.Service.Odo\build\ServicosUnimedSeguros\wsdl\webServicePortalBeneficiario.wsdl
+[21/08/2017 19:59:22] K:\Pacotes\56801-56850\56832-DIEGO\TopSaudeNet\TD.TopSaude.Service\TD.TopSaude.Service.Odo\build\ServicosUnimedSeguros\wsdl\webServicePortalBeneficiario.xsd copiado para \\10.10.100.134\TOPSAUDE\WEB\topsaudenet\TD.TopSaude.Service\TD.TopSaude.Service.Odo\build\ServicosUnimedSeguros\wsdl\webServicePortalBeneficiario.xsd
+[21/08/2017 19:59:34] Resultado do Login na WEB DEMO_ODO    (223.223.2.194): Sucesso Ao logar.
+[21/08/2017 19:59:34] Sistema procurará os arquivos na(s) pasta(s): jtopdown TopSaude 
+[21/08/2017 19:59:35] Quantidade de Arquivos: 3 (arquivos que não estão na raíz).
+[21/08/2017 19:59:36] Realizando busca aprofundada para objetos não encontrados...
+[21/08/2017 20:00:37] Tempo que levou para achar todos os arquivos: 1 minuto(s), 2 segundo(s) e 790 milisegundo(s).
+[21/08/2017 20:00:43] K:\Pacotes\56801-56850\56832-DIEGO\TopSaudeNet\TD.TopSaude.Service\TD.TopSaude.Service.Odo\build\ServicosUnimedSeguros\bin\ServicosUnimedSeguros.dll copiado para \\223.223.2.194\TopSaude\web\TopSaudeNET\TD.TopSaude.Service\TD.TopSaude.Service.Odo\build\ServicosUnimedSeguros\bin\ServicosUnimedSeguros.dll
+[21/08/2017 20:00:43] K:\Pacotes\56801-56850\56832-DIEGO\TopSaudeNet\TD.TopSaude.Service\TD.TopSaude.Service.Odo\build\ServicosUnimedSeguros\wsdl\webServicePortalBeneficiario.wsdl copiado para \\223.223.2.194\TopSaude\web\TopSaudeNET\TD.TopSaude.Service\TD.TopSaude.Service.Odo\build\ServicosUnimedSeguros\wsdl
+[21/08/2017 20:00:43] K:\Pacotes\56801-56850\56832-DIEGO\TopSaudeNet\TD.TopSaude.Service\TD.TopSaude.Service.Odo\build\ServicosUnimedSeguros\wsdl\webServicePortalBeneficiario.xsd copiado para \\223.223.2.194\TopSaude\web\TopSaudeNET\TD.TopSaude.Service\TD.TopSaude.Service.Odo\build\ServicosUnimedSeguros\wsdl
+[21/08/2017 20:05:59] Sistema finalizado.
+

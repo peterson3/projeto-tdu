@@ -1,0 +1,72 @@
+[28/04/2017 11:51:06] Sistema Iniciado.
+[28/04/2017 11:51:40] Aberto driver com Chrome.
+[28/04/2017 11:52:53] Controle instanciado: 55308
+[28/04/2017 11:55:25] Arquivo do pacote do CA 55308 extraído.
+[28/04/2017 12:00:09] Log de versões do CA 55308 aberto.
+[28/04/2017 12:00:34] Erro de de execução no sqlplus.
+[28/04/2017 12:00:44] Banco Selecionado Para aplicar: QUALI_BR
+[28/04/2017 12:00:48] Atribuído objeto do tipo Script - script_novos_tumor.sql em ts_teste/QUALI_BR
+[28/04/2017 12:00:48] Atribuído objeto do tipo Script - script_novos_TIPO_ESTADIAMENTO_TUMOR.sql em ts_teste/QUALI_BR
+[28/04/2017 12:00:48] Atribuído objeto do tipo Script - script_novos_itens_medicos.sql em ts_teste/QUALI_BR
+[28/04/2017 12:00:48] Atribuído objeto do tipo Script - script_novos_ANS_NODULO.sql em ts_teste/QUALI_BR
+[28/04/2017 12:00:48] Atribuído objeto do tipo Script - script_novos_ANS_METASTASE.sql em ts_teste/QUALI_BR
+[28/04/2017 12:00:48] Atribuído objeto do tipo Script - script_mat_med.sql em ts_teste/QUALI_BR
+[28/04/2017 12:00:48] Atribuído objeto do tipo Script - script_materiais5.sql em ts_teste/QUALI_BR
+[28/04/2017 12:00:48] Atribuído objeto do tipo Script - script_materiais4.sql em ts_teste/QUALI_BR
+[28/04/2017 12:00:48] Atribuído objeto do tipo Script - script_materiais3.sql em ts_teste/QUALI_BR
+[28/04/2017 12:00:48] Atribuído objeto do tipo Script - script_materiais2.sql em ts_teste/QUALI_BR
+[28/04/2017 12:00:48] Atribuído objeto do tipo Script - script_materiais1.sql em ts_teste/QUALI_BR
+[28/04/2017 12:00:48] Atribuído objeto do tipo Script - carga_ANS_VERSAO_TISS_dml.sql em ts_teste/QUALI_BR
+[28/04/2017 12:00:48] Atribuído objeto do tipo Table - ts.item_mat_med_ddl.sql em ts_teste/QUALI_BR
+[28/04/2017 12:00:48] Atribuído objeto do tipo Table - TS.ANS_VERSAO_TISS_ddl.sql em ts_teste/QUALI_BR
+[28/04/2017 12:00:50] Sistema alterando o aplica para ordem certa de aplicação
+[28/04/2017 12:00:52] Selecionado P/ Não Criptografar em: QUALI_BR 
+[28/04/2017 12:00:52] Selecionado P/ Criptografar em: 
+[28/04/2017 12:00:52] Arquivo "APLICA.SQL" criado com sucesso.
+[28/04/2017 12:01:05] Executado o aplica no sqlplus.
+[28/04/2017 12:49:30] Sistema finalizado.
+
+[28/04/2017 12:49:39] Sistema Iniciado.
+[28/04/2017 12:50:28] Aberto driver com Chrome.
+[28/04/2017 12:53:43] Controle instanciado: 55308
+[28/04/2017 12:58:38] Arquivo do pacote do CA 55308 extraído.
+[28/04/2017 12:58:49] Log de versões do CA 55308 aberto.
+[28/04/2017 12:58:54] Banco Selecionado Para aplicar: QUALI_BR
+[28/04/2017 12:58:58] Atribuído objeto do tipo Script - script_novos_tumor.sql em ts_teste/QUALI_BR
+[28/04/2017 12:58:58] Atribuído objeto do tipo Script - script_novos_TIPO_ESTADIAMENTO_TUMOR.sql em ts_teste/QUALI_BR
+[28/04/2017 12:58:58] Atribuído objeto do tipo Script - script_novos_itens_medicos.sql em ts_teste/QUALI_BR
+[28/04/2017 12:58:58] Atribuído objeto do tipo Script - script_novos_ANS_NODULO.sql em ts_teste/QUALI_BR
+[28/04/2017 12:58:58] Atribuído objeto do tipo Script - script_novos_ANS_METASTASE.sql em ts_teste/QUALI_BR
+[28/04/2017 12:58:58] Atribuído objeto do tipo Script - script_mat_med.sql em ts_teste/QUALI_BR
+[28/04/2017 12:58:58] Atribuído objeto do tipo Script - script_materiais5.sql em ts_teste/QUALI_BR
+[28/04/2017 12:58:58] Atribuído objeto do tipo Script - script_materiais4.sql em ts_teste/QUALI_BR
+[28/04/2017 12:58:58] Atribuído objeto do tipo Script - script_materiais3.sql em ts_teste/QUALI_BR
+[28/04/2017 12:58:58] Atribuído objeto do tipo Script - script_materiais2.sql em ts_teste/QUALI_BR
+[28/04/2017 12:58:58] Atribuído objeto do tipo Script - script_materiais1.sql em ts_teste/QUALI_BR
+[28/04/2017 12:58:58] Atribuído objeto do tipo Script - carga_ANS_VERSAO_TISS_dml.sql em ts_teste/QUALI_BR
+[28/04/2017 12:58:58] Atribuído objeto do tipo Table - ts.item_mat_med_ddl.sql em ts_teste/QUALI_BR
+[28/04/2017 12:58:58] Atribuído objeto do tipo Table - TS.ANS_VERSAO_TISS_ddl.sql em ts_teste/QUALI_BR
+[28/04/2017 12:59:48] Atribuído objeto do tipo Script - script_novos_tumor.sql em ts_teste/QUALI_BR
+[28/04/2017 12:59:48] Atribuído objeto do tipo Script - script_novos_TIPO_ESTADIAMENTO_TUMOR.sql em ts_teste/QUALI_BR
+[28/04/2017 12:59:48] Atribuído objeto do tipo Script - script_novos_itens_medicos.sql em ts_teste/QUALI_BR
+[28/04/2017 12:59:48] Atribuído objeto do tipo Script - script_novos_ANS_NODULO.sql em ts_teste/QUALI_BR
+[28/04/2017 12:59:48] Atribuído objeto do tipo Script - script_novos_ANS_METASTASE.sql em ts_teste/QUALI_BR
+[28/04/2017 12:59:48] Atribuído objeto do tipo Script - script_mat_med.sql em ts_teste/QUALI_BR
+[28/04/2017 12:59:48] Atribuído objeto do tipo Script - script_materiais5.sql em ts_teste/QUALI_BR
+[28/04/2017 12:59:48] Atribuído objeto do tipo Script - script_materiais4.sql em ts_teste/QUALI_BR
+[28/04/2017 12:59:48] Atribuído objeto do tipo Script - script_materiais3.sql em ts_teste/QUALI_BR
+[28/04/2017 12:59:48] Atribuído objeto do tipo Script - script_materiais2.sql em ts_teste/QUALI_BR
+[28/04/2017 12:59:48] Atribuído objeto do tipo Script - script_materiais1.sql em ts_teste/QUALI_BR
+[28/04/2017 12:59:48] Atribuído objeto do tipo Script - carga_ANS_VERSAO_TISS_dml.sql em ts_teste/QUALI_BR
+[28/04/2017 12:59:48] Atribuído objeto do tipo Table - ts.item_mat_med_ddl.sql em ts_teste/QUALI_BR
+[28/04/2017 12:59:48] Atribuído objeto do tipo Table - TS.ANS_VERSAO_TISS_ddl.sql em ts_teste/QUALI_BR
+[28/04/2017 12:59:50] Sistema alterando o aplica para ordem certa de aplicação
+[28/04/2017 12:59:53] Selecionado P/ Não Criptografar em: QUALI_BR 
+[28/04/2017 12:59:53] Selecionado P/ Criptografar em: 
+[28/04/2017 12:59:53] Arquivo "APLICA.SQL" criado com sucesso.
+[28/04/2017 13:00:05] Executado o aplica no sqlplus.
+[28/04/2017 13:05:27] Log de aplicão no banco do CA 55308 aberto.
+[28/04/2017 13:06:27] Executado o aplica no sqlplus.
+[28/04/2017 13:08:00] Log de aplicão no banco do CA 55308 aberto.
+[28/04/2017 13:17:47] Sistema finalizado.
+

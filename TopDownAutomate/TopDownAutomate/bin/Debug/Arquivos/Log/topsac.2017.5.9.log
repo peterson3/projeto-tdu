@@ -1,0 +1,195 @@
+[09/05/2017 18:14:27] Sistema Iniciado.
+[09/05/2017 18:14:55] Aberto driver com Chrome.
+[09/05/2017 18:17:00] Salvo novas configurações de usuário
+[09/05/2017 18:17:01] Sistema finalizado.
+
+[09/05/2017 18:17:31] Sistema Iniciado.
+[09/05/2017 18:18:37] Sistema finalizado.
+
+[09/05/2017 18:18:38] Sistema Iniciado.
+[09/05/2017 18:18:48] Aberto driver com Chrome.
+[09/05/2017 18:20:20] Controle instanciado: 55428
+[09/05/2017 18:21:06] Arquivo do pacote do CA 55428 extraído.
+[09/05/2017 18:34:56] Sistema finalizado.
+
+[09/05/2017 18:39:48] Sistema Iniciado.
+[09/05/2017 18:40:51] Aberto driver com Chrome.
+[09/05/2017 18:41:05] Controle instanciado: 55428
+[09/05/2017 18:41:51] Banco Selecionado Para aplicar: FRANCA_TD
+[09/05/2017 18:42:10] Atribuído objeto do tipo Script - 002_CRIA_OPCOES_MENU_QUALIDADE_dml.sql em ts/FRANCA_TD
+[09/05/2017 18:42:10] Atribuído objeto do tipo Script - 001_CRIA_JOB_IMPORTACAO_QUALIDADE_dml.sql em ts/FRANCA_TD
+[09/05/2017 18:42:10] Atribuído objeto do tipo Package - TS_MON.MON_TISS_EXE_MONITORA_ddl.sql em ts/FRANCA_TD
+[09/05/2017 18:42:10] Atribuído objeto do tipo Index - TS_MON.MON_TISS_QUALI_LCTOS_ITENS_IDX001_ddl.SQL em ts/FRANCA_TD
+[09/05/2017 18:42:10] Atribuído objeto do tipo Index - TS_MON.MON_TISS_QUALI_LCTOS_IDX001_ddl.SQL em ts/FRANCA_TD
+[09/05/2017 18:42:10] Atribuído objeto do tipo Index - TS_MON.MON_TISS_QUALI_GUIAS_IDX001_ddl.SQL em ts/FRANCA_TD
+[09/05/2017 18:42:10] Atribuído objeto do tipo Index - TS_MON.MON_TISS_QUALI_ARQ_IDX001_ddl.SQL em ts/FRANCA_TD
+[09/05/2017 18:42:10] Atribuído objeto do tipo Index - TS_MON.MON_TISS_QUALI_ARQ_GUIAS_IDX001_ddl.SQL em ts/FRANCA_TD
+[09/05/2017 18:42:10] Atribuído objeto do tipo Table - TS_MON.MON_TISS_QUALI_LCTOS_ITENS_ddl.sql em ts/FRANCA_TD
+[09/05/2017 18:42:10] Atribuído objeto do tipo Table - TS_MON.MON_TISS_QUALI_LCTOS_ddl.sql em ts/FRANCA_TD
+[09/05/2017 18:42:10] Atribuído objeto do tipo Table - TS_MON.MON_TISS_QUALI_GUIAS_ddl.sql em ts/FRANCA_TD
+[09/05/2017 18:42:10] Atribuído objeto do tipo Table - TS_MON.MON_TISS_QUALI_ARQ_GUIAS_ddl.sql em ts/FRANCA_TD
+[09/05/2017 18:42:10] Atribuído objeto do tipo Table - TS_MON.MON_TISS_QUALI_ARQ_ddl.sql em ts/FRANCA_TD
+[09/05/2017 18:42:14] Sistema alterando o aplica para ordem certa de aplicação
+[09/05/2017 18:42:25] Selecionado P/ Não Criptografar em: FRANCA_TD 
+[09/05/2017 18:42:25] Selecionado P/ Criptografar em: 
+[09/05/2017 18:42:25] Arquivo "APLICA.SQL" criado com sucesso.
+[09/05/2017 18:42:36] Executado o aplica no sqlplus.
+[09/05/2017 18:44:38] Log de aplicão no banco do CA 55428 aberto.
+[09/05/2017 19:02:24] Banco Selecionado Para aplicar: FRANCA_TD
+[09/05/2017 19:02:30] Atribuído objeto do tipo Script - 002_CRIA_OPCOES_MENU_QUALIDADE_dml.sql em ts_mon/FRANCA_TD
+[09/05/2017 19:02:30] Atribuído objeto do tipo Script - 001_CRIA_JOB_IMPORTACAO_QUALIDADE_dml.sql em ts_mon/FRANCA_TD
+[09/05/2017 19:02:30] Atribuído objeto do tipo Package - TS_MON.MON_TISS_EXE_MONITORA_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 19:02:30] Atribuído objeto do tipo Index - TS_MON.MON_TISS_QUALI_LCTOS_ITENS_IDX001_ddl.SQL em ts_mon/FRANCA_TD
+[09/05/2017 19:02:30] Atribuído objeto do tipo Index - TS_MON.MON_TISS_QUALI_LCTOS_IDX001_ddl.SQL em ts_mon/FRANCA_TD
+[09/05/2017 19:02:30] Atribuído objeto do tipo Index - TS_MON.MON_TISS_QUALI_GUIAS_IDX001_ddl.SQL em ts_mon/FRANCA_TD
+[09/05/2017 19:02:30] Atribuído objeto do tipo Index - TS_MON.MON_TISS_QUALI_ARQ_IDX001_ddl.SQL em ts_mon/FRANCA_TD
+[09/05/2017 19:02:30] Atribuído objeto do tipo Index - TS_MON.MON_TISS_QUALI_ARQ_GUIAS_IDX001_ddl.SQL em ts_mon/FRANCA_TD
+[09/05/2017 19:02:30] Atribuído objeto do tipo Table - TS_MON.MON_TISS_QUALI_LCTOS_ITENS_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 19:02:30] Atribuído objeto do tipo Table - TS_MON.MON_TISS_QUALI_LCTOS_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 19:02:30] Atribuído objeto do tipo Table - TS_MON.MON_TISS_QUALI_GUIAS_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 19:02:30] Atribuído objeto do tipo Table - TS_MON.MON_TISS_QUALI_ARQ_GUIAS_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 19:02:30] Atribuído objeto do tipo Table - TS_MON.MON_TISS_QUALI_ARQ_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 19:02:31] Sistema alterando o aplica para ordem certa de aplicação
+[09/05/2017 19:02:34] Selecionado P/ Não Criptografar em: FRANCA_TD 
+[09/05/2017 19:02:34] Selecionado P/ Criptografar em: 
+[09/05/2017 19:02:34] Arquivo "APLICA.SQL" criado com sucesso.
+[09/05/2017 19:02:49] Executado o aplica no sqlplus.
+[09/05/2017 19:04:52] Erro de de execução no sqlplus.
+[09/05/2017 19:04:53] Log de aplicão no banco do CA 55428 aberto.
+[09/05/2017 19:21:24] Arquivo do pacote do CA 55428 extraído.
+[09/05/2017 19:21:30] Banco Selecionado Para aplicar: FRANCA_TD
+[09/05/2017 19:21:35] Atribuído objeto do tipo Script - 002_CRIA_OPCOES_MENU_QUALIDADE_dml.sql em ts_mon/FRANCA_TD
+[09/05/2017 19:21:35] Atribuído objeto do tipo Script - 001_CRIA_JOB_IMPORTACAO_QUALIDADE_dml.sql em ts_mon/FRANCA_TD
+[09/05/2017 19:21:35] Atribuído objeto do tipo Package - TS_MON.MON_TISS_EXE_MONITORA_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 19:21:35] Atribuído objeto do tipo Index - TS_MON.MON_TISS_QUALI_LCTOS_ITENS_IDX001_ddl.SQL em ts_mon/FRANCA_TD
+[09/05/2017 19:21:35] Atribuído objeto do tipo Index - TS_MON.MON_TISS_QUALI_LCTOS_IDX001_ddl.SQL em ts_mon/FRANCA_TD
+[09/05/2017 19:21:35] Atribuído objeto do tipo Index - TS_MON.MON_TISS_QUALI_GUIAS_IDX001_ddl.SQL em ts_mon/FRANCA_TD
+[09/05/2017 19:21:35] Atribuído objeto do tipo Index - TS_MON.MON_TISS_QUALI_ARQ_IDX001_ddl.SQL em ts_mon/FRANCA_TD
+[09/05/2017 19:21:35] Atribuído objeto do tipo Index - TS_MON.MON_TISS_QUALI_ARQ_GUIAS_IDX001_ddl.SQL em ts_mon/FRANCA_TD
+[09/05/2017 19:21:35] Atribuído objeto do tipo Table - TS_MON.MON_TISS_QUALI_LCTOS_ITENS_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 19:21:35] Atribuído objeto do tipo Table - TS_MON.MON_TISS_QUALI_LCTOS_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 19:21:35] Atribuído objeto do tipo Table - TS_MON.MON_TISS_QUALI_GUIAS_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 19:21:35] Atribuído objeto do tipo Table - TS_MON.MON_TISS_QUALI_ARQ_GUIAS_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 19:21:35] Atribuído objeto do tipo Table - TS_MON.MON_TISS_QUALI_ARQ_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 19:21:35] Atribuído objeto do tipo Table - TS_MON.MON_TISS_PAG_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 19:21:35] Atribuído objeto do tipo Table - TS_MON.MON_TISS_NR_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 19:21:35] Atribuído objeto do tipo Table - TS_MON.MON_TISS_CONTROLE_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 19:21:35] Atribuído objeto do tipo Table - TS_MON.MON_TISS_CONTAS_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 19:21:36] Sistema alterando o aplica para ordem certa de aplicação
+[09/05/2017 19:21:38] Selecionado P/ Não Criptografar em: FRANCA_TD 
+[09/05/2017 19:21:38] Selecionado P/ Criptografar em: 
+[09/05/2017 19:21:39] Arquivo "APLICA.SQL" criado com sucesso.
+[09/05/2017 19:21:47] Executado o aplica no sqlplus.
+[09/05/2017 19:23:37] Log de aplicão no banco do CA 55428 aberto.
+[09/05/2017 19:26:08] Sistema finalizado.
+
+[09/05/2017 19:32:09] Sistema Iniciado.
+[09/05/2017 19:32:11] Sistema finalizado.
+
+[09/05/2017 19:35:14] Sistema Iniciado.
+[09/05/2017 19:35:24] Aberto driver com Chrome.
+[09/05/2017 19:35:53] Controle instanciado: 55428
+[09/05/2017 19:36:04] Arquivo do pacote do CA 55428 extraído.
+[09/05/2017 19:36:11] Banco Selecionado Para aplicar: FRANCA_TD
+[09/05/2017 19:36:17] Atribuído objeto do tipo Script - 002_CRIA_OPCOES_MENU_QUALIDADE_dml.sql em ts_mon/FRANCA_TD
+[09/05/2017 19:36:17] Atribuído objeto do tipo Script - 001_CRIA_JOB_IMPORTACAO_QUALIDADE_dml.sql em ts_mon/FRANCA_TD
+[09/05/2017 19:36:17] Atribuído objeto do tipo Package - TS_MON.MON_TISS_EXE_MONITORA_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 19:36:17] Atribuído objeto do tipo Index - TS_MON.MON_TISS_QUALI_LCTOS_ITENS_IDX001_ddl.SQL em ts_mon/FRANCA_TD
+[09/05/2017 19:36:17] Atribuído objeto do tipo Index - TS_MON.MON_TISS_QUALI_LCTOS_IDX001_ddl.SQL em ts_mon/FRANCA_TD
+[09/05/2017 19:36:17] Atribuído objeto do tipo Index - TS_MON.MON_TISS_QUALI_GUIAS_IDX001_ddl.SQL em ts_mon/FRANCA_TD
+[09/05/2017 19:36:17] Atribuído objeto do tipo Index - TS_MON.MON_TISS_QUALI_ARQ_IDX001_ddl.SQL em ts_mon/FRANCA_TD
+[09/05/2017 19:36:17] Atribuído objeto do tipo Index - TS_MON.MON_TISS_QUALI_ARQ_GUIAS_IDX001_ddl.SQL em ts_mon/FRANCA_TD
+[09/05/2017 19:36:17] Atribuído objeto do tipo Table - TS_MON.MON_TISS_QUALI_LCTOS_ITENS_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 19:36:17] Atribuído objeto do tipo Table - TS_MON.MON_TISS_QUALI_LCTOS_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 19:36:17] Atribuído objeto do tipo Table - TS_MON.MON_TISS_QUALI_GUIAS_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 19:36:17] Atribuído objeto do tipo Table - TS_MON.MON_TISS_QUALI_ARQ_GUIAS_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 19:36:17] Atribuído objeto do tipo Table - TS_MON.MON_TISS_QUALI_ARQ_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 19:36:17] Atribuído objeto do tipo Table - TS_MON.MON_TISS_PAG_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 19:36:17] Atribuído objeto do tipo Table - TS_MON.MON_TISS_NR_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 19:36:17] Atribuído objeto do tipo Table - TS_MON.MON_TISS_CONTROLE_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 19:36:17] Atribuído objeto do tipo Table - TS_MON.MON_TISS_CONTAS_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 19:36:19] Sistema alterando o aplica para ordem certa de aplicação
+[09/05/2017 19:36:21] Selecionado P/ Não Criptografar em: FRANCA_TD 
+[09/05/2017 19:36:21] Selecionado P/ Criptografar em: 
+[09/05/2017 19:36:21] Arquivo "APLICA.SQL" criado com sucesso.
+[09/05/2017 19:36:32] Executado o aplica no sqlplus.
+[09/05/2017 19:44:03] Sistema Iniciado.
+[09/05/2017 19:44:11] Aberto driver com Chrome.
+[09/05/2017 19:44:59] Controle instanciado: 55428
+[09/05/2017 19:45:08] Banco Selecionado Para aplicar: FRANCA_TD
+[09/05/2017 19:45:13] Atribuído objeto do tipo Script - 002_CRIA_OPCOES_MENU_QUALIDADE_dml.sql em ts_mon/FRANCA_TD
+[09/05/2017 19:45:13] Atribuído objeto do tipo Script - 001_CRIA_JOB_IMPORTACAO_QUALIDADE_dml.sql em ts_mon/FRANCA_TD
+[09/05/2017 19:45:13] Atribuído objeto do tipo Package - TS_MON.MON_TISS_EXE_MONITORA_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 19:45:13] Atribuído objeto do tipo Index - TS_MON.MON_TISS_QUALI_LCTOS_ITENS_IDX001_ddl.SQL em ts_mon/FRANCA_TD
+[09/05/2017 19:45:13] Atribuído objeto do tipo Index - TS_MON.MON_TISS_QUALI_LCTOS_IDX001_ddl.SQL em ts_mon/FRANCA_TD
+[09/05/2017 19:45:13] Atribuído objeto do tipo Index - TS_MON.MON_TISS_QUALI_GUIAS_IDX001_ddl.SQL em ts_mon/FRANCA_TD
+[09/05/2017 19:45:13] Atribuído objeto do tipo Index - TS_MON.MON_TISS_QUALI_ARQ_IDX001_ddl.SQL em ts_mon/FRANCA_TD
+[09/05/2017 19:45:13] Atribuído objeto do tipo Index - TS_MON.MON_TISS_QUALI_ARQ_GUIAS_IDX001_ddl.SQL em ts_mon/FRANCA_TD
+[09/05/2017 19:45:13] Atribuído objeto do tipo Table - TS_MON.MON_TISS_QUALI_LCTOS_ITENS_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 19:45:13] Atribuído objeto do tipo Table - TS_MON.MON_TISS_QUALI_LCTOS_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 19:45:13] Atribuído objeto do tipo Table - TS_MON.MON_TISS_QUALI_GUIAS_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 19:45:13] Atribuído objeto do tipo Table - TS_MON.MON_TISS_QUALI_ARQ_GUIAS_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 19:45:13] Atribuído objeto do tipo Table - TS_MON.MON_TISS_QUALI_ARQ_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 19:45:13] Atribuído objeto do tipo Table - TS_MON.MON_TISS_PAG_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 19:45:13] Atribuído objeto do tipo Table - TS_MON.MON_TISS_NR_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 19:45:13] Atribuído objeto do tipo Table - TS_MON.MON_TISS_CONTROLE_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 19:45:13] Atribuído objeto do tipo Table - TS_MON.MON_TISS_CONTAS_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 19:45:14] Sistema alterando o aplica para ordem certa de aplicação
+[09/05/2017 19:45:16] Selecionado P/ Não Criptografar em: FRANCA_TD 
+[09/05/2017 19:45:16] Selecionado P/ Criptografar em: 
+[09/05/2017 19:45:16] Arquivo "APLICA.SQL" criado com sucesso.
+[09/05/2017 19:45:31] Executado o aplica no sqlplus.
+[09/05/2017 20:06:40] Sistema Iniciado.
+[09/05/2017 20:07:00] Aberto driver com Chrome.
+[09/05/2017 20:07:20] Controle instanciado: 55428
+[09/05/2017 20:07:32] Banco Selecionado Para aplicar: FRANCA_TD
+[09/05/2017 20:07:37] Atribuído objeto do tipo Script - 002_CRIA_OPCOES_MENU_QUALIDADE_dml.sql em ts_mon/FRANCA_TD
+[09/05/2017 20:07:37] Atribuído objeto do tipo Script - 001_CRIA_JOB_IMPORTACAO_QUALIDADE_dml.sql em ts_mon/FRANCA_TD
+[09/05/2017 20:07:37] Atribuído objeto do tipo Package - TS_MON.MON_TISS_EXE_MONITORA_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 20:07:37] Atribuído objeto do tipo Index - TS_MON.MON_TISS_QUALI_LCTOS_ITENS_IDX001_ddl.SQL em ts_mon/FRANCA_TD
+[09/05/2017 20:07:37] Atribuído objeto do tipo Index - TS_MON.MON_TISS_QUALI_LCTOS_IDX001_ddl.SQL em ts_mon/FRANCA_TD
+[09/05/2017 20:07:37] Atribuído objeto do tipo Index - TS_MON.MON_TISS_QUALI_GUIAS_IDX001_ddl.SQL em ts_mon/FRANCA_TD
+[09/05/2017 20:07:37] Atribuído objeto do tipo Index - TS_MON.MON_TISS_QUALI_ARQ_IDX001_ddl.SQL em ts_mon/FRANCA_TD
+[09/05/2017 20:07:37] Atribuído objeto do tipo Index - TS_MON.MON_TISS_QUALI_ARQ_GUIAS_IDX001_ddl.SQL em ts_mon/FRANCA_TD
+[09/05/2017 20:07:37] Atribuído objeto do tipo Table - TS_MON.MON_TISS_QUALI_LCTOS_ITENS_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 20:07:37] Atribuído objeto do tipo Table - TS_MON.MON_TISS_QUALI_LCTOS_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 20:07:37] Atribuído objeto do tipo Table - TS_MON.MON_TISS_QUALI_GUIAS_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 20:07:37] Atribuído objeto do tipo Table - TS_MON.MON_TISS_QUALI_ARQ_GUIAS_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 20:07:37] Atribuído objeto do tipo Table - TS_MON.MON_TISS_QUALI_ARQ_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 20:07:37] Atribuído objeto do tipo Table - TS_MON.MON_TISS_PAG_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 20:07:37] Atribuído objeto do tipo Table - TS_MON.MON_TISS_NR_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 20:07:37] Atribuído objeto do tipo Table - TS_MON.MON_TISS_CONTROLE_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 20:07:37] Atribuído objeto do tipo Table - TS_MON.MON_TISS_CONTAS_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 20:07:39] Sistema alterando o aplica para ordem certa de aplicação
+[09/05/2017 20:07:41] Selecionado P/ Não Criptografar em: FRANCA_TD 
+[09/05/2017 20:07:41] Selecionado P/ Criptografar em: 
+[09/05/2017 20:07:41] Arquivo "APLICA.SQL" criado com sucesso.
+[09/05/2017 20:07:51] Executado o aplica no sqlplus.
+[09/05/2017 20:15:33] Sistema Iniciado.
+[09/05/2017 20:15:41] Aberto driver com Chrome.
+[09/05/2017 20:16:02] Controle instanciado: 55428
+[09/05/2017 20:16:10] Banco Selecionado Para aplicar: FRANCA_TD
+[09/05/2017 20:16:15] Atribuído objeto do tipo Script - 002_CRIA_OPCOES_MENU_QUALIDADE_dml.sql em ts_mon/FRANCA_TD
+[09/05/2017 20:16:15] Atribuído objeto do tipo Script - 001_CRIA_JOB_IMPORTACAO_QUALIDADE_dml.sql em ts_mon/FRANCA_TD
+[09/05/2017 20:16:15] Atribuído objeto do tipo Package - TS_MON.MON_TISS_EXE_MONITORA_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 20:16:15] Atribuído objeto do tipo Index - TS_MON.MON_TISS_QUALI_LCTOS_ITENS_IDX001_ddl.SQL em ts_mon/FRANCA_TD
+[09/05/2017 20:16:15] Atribuído objeto do tipo Index - TS_MON.MON_TISS_QUALI_LCTOS_IDX001_ddl.SQL em ts_mon/FRANCA_TD
+[09/05/2017 20:16:15] Atribuído objeto do tipo Index - TS_MON.MON_TISS_QUALI_GUIAS_IDX001_ddl.SQL em ts_mon/FRANCA_TD
+[09/05/2017 20:16:15] Atribuído objeto do tipo Index - TS_MON.MON_TISS_QUALI_ARQ_IDX001_ddl.SQL em ts_mon/FRANCA_TD
+[09/05/2017 20:16:15] Atribuído objeto do tipo Index - TS_MON.MON_TISS_QUALI_ARQ_GUIAS_IDX001_ddl.SQL em ts_mon/FRANCA_TD
+[09/05/2017 20:16:15] Atribuído objeto do tipo Table - TS_MON.MON_TISS_QUALI_LCTOS_ITENS_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 20:16:15] Atribuído objeto do tipo Table - TS_MON.MON_TISS_QUALI_LCTOS_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 20:16:15] Atribuído objeto do tipo Table - TS_MON.MON_TISS_QUALI_GUIAS_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 20:16:15] Atribuído objeto do tipo Table - TS_MON.MON_TISS_QUALI_ARQ_GUIAS_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 20:16:15] Atribuído objeto do tipo Table - TS_MON.MON_TISS_QUALI_ARQ_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 20:16:15] Atribuído objeto do tipo Table - TS_MON.MON_TISS_PAG_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 20:16:15] Atribuído objeto do tipo Table - TS_MON.MON_TISS_NR_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 20:16:15] Atribuído objeto do tipo Table - TS_MON.MON_TISS_CONTROLE_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 20:16:15] Atribuído objeto do tipo Table - TS_MON.MON_TISS_CONTAS_ddl.sql em ts_mon/FRANCA_TD
+[09/05/2017 20:16:17] Sistema alterando o aplica para ordem certa de aplicação
+[09/05/2017 20:16:19] Selecionado P/ Não Criptografar em: FRANCA_TD 
+[09/05/2017 20:16:19] Selecionado P/ Criptografar em: 
+[09/05/2017 20:16:19] Arquivo "APLICA.SQL" criado com sucesso.
+[09/05/2017 20:16:30] Executado o aplica no sqlplus.
+[09/05/2017 20:22:06] Banco Selecionado Para aplicar: FRANCA_TD
+[09/05/2017 20:23:57] Log de aplicão no banco do CA 55428 aberto.

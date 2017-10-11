@@ -1,0 +1,68 @@
+[10/03/2017 09:38:18] Sistema Iniciado.
+[10/03/2017 09:39:16] Aberto driver com Chrome.
+[10/03/2017 09:41:13] Sistema finalizado.
+
+[10/03/2017 09:41:17] Sistema Iniciado.
+[10/03/2017 09:41:31] Aberto driver com Chrome.
+[10/03/2017 09:42:21] Sistema finalizado.
+
+[10/03/2017 09:42:23] Sistema Iniciado.
+[10/03/2017 09:42:35] Aberto driver com Chrome.
+[10/03/2017 09:42:56] Controle instanciado: 54836
+[10/03/2017 09:43:53] Banco Selecionado Para aplicar: INST_MED
+[10/03/2017 09:43:53] Banco Selecionado Para aplicar: DEMO_MED
+[10/03/2017 09:43:53] Banco Selecionado Para aplicar: HOMO_MED
+[10/03/2017 09:43:53] Banco Selecionado Para aplicar: SEPACO-TESTE
+[10/03/2017 09:43:53] Banco Selecionado Para aplicar: SEP_VAZIO
+[10/03/2017 09:44:02] Atribuído objeto do tipo Package - TS.AUT_FCH_PEDIDO_AUTORIZACAO_ddl.sql em ts/INST_MED
+[10/03/2017 09:44:02] Atribuído objeto do tipo Package - TS.AUT_FCH_PEDIDO_AUTORIZACAO_ddl.sql em ts/DEMO_MED
+[10/03/2017 09:44:02] Atribuído objeto do tipo Package - TS.AUT_FCH_PEDIDO_AUTORIZACAO_ddl.sql em ts_teste/HOMO_MED
+[10/03/2017 09:44:02] Atribuído objeto do tipo Package - TS.AUT_FCH_PEDIDO_AUTORIZACAO_ddl.sql em ts/SEPACO-TESTE
+[10/03/2017 09:44:02] Atribuído objeto do tipo Package - TS.AUT_FCH_PEDIDO_AUTORIZACAO_ddl.sql em ts_teste/SEP_VAZIO
+[10/03/2017 09:44:04] Sistema alterando o aplica para ordem certa de aplicação
+[10/03/2017 09:44:08] Selecionado P/ Não Criptografar em: INST_MED DEMO_MED HOMO_MED SEP_VAZIO 
+[10/03/2017 09:44:08] Selecionado P/ Criptografar em: SEPACO-TESTE 
+[10/03/2017 09:44:09] Arquivo "APLICA.SQL" criado com sucesso.
+[10/03/2017 09:44:18] Executado o aplica no sqlplus.
+[10/03/2017 09:55:15] Resultado do Login na WEB HOMOLOG V11    (10.10.100.147): Sucesso Ao logar.
+[10/03/2017 09:55:15] Sistema procurará os arquivos na(s) pasta(s): jtopdown TopSaude 
+[10/03/2017 09:55:15] Quantidade de Arquivos: 4 (arquivos que não estão na raíz).
+[10/03/2017 09:55:15] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\atd\asp\atd0027q.asp
+[10/03/2017 09:55:15] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\atd\asp\ATD0028a.asp
+[10/03/2017 09:55:15] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\atd\asp\ATD0028b.asp
+[10/03/2017 09:55:15] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\atd\asp\ATD0034a.asp
+[10/03/2017 09:55:15] Busca Aprofundada necessária não realizada
+[10/03/2017 09:55:15] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 84 milisegundo(s).
+[10/03/2017 09:55:17] K:\Pacotes\54801-54850\54836-JULIO\web\atd\asp\atd0027q.asp copiado para \\10.10.100.147\TopSaude\web\atd\asp\atd0027q.asp
+[10/03/2017 09:55:18] K:\Pacotes\54801-54850\54836-JULIO\web\atd\asp\ATD0028a.asp copiado para \\10.10.100.147\TopSaude\web\atd\asp\ATD0028a.asp
+[10/03/2017 09:55:18] K:\Pacotes\54801-54850\54836-JULIO\web\atd\asp\ATD0028b.asp copiado para \\10.10.100.147\TopSaude\web\atd\asp\ATD0028b.asp
+[10/03/2017 09:55:18] K:\Pacotes\54801-54850\54836-JULIO\web\atd\asp\ATD0034a.asp copiado para \\10.10.100.147\TopSaude\web\atd\asp\ATD0034a.asp
+[10/03/2017 09:55:28] Resultado do Login na WEB Instalacao V11    (10.10.100.134): Sucesso Ao logar.
+[10/03/2017 09:55:28] Sistema procurará os arquivos na(s) pasta(s): Jtopdown TOPSAUDE 
+[10/03/2017 09:55:28] Quantidade de Arquivos: 4 (arquivos que não estão na raíz).
+[10/03/2017 09:55:28] Arquivo ENCONTRADO em \\10.10.100.134\TOPSAUDE\web\atd\asp\atd0027q.asp
+[10/03/2017 09:55:28] Arquivo ENCONTRADO em \\10.10.100.134\TOPSAUDE\web\atd\asp\ATD0028a.asp
+[10/03/2017 09:55:28] Arquivo ENCONTRADO em \\10.10.100.134\TOPSAUDE\web\atd\asp\ATD0028b.asp
+[10/03/2017 09:55:28] Arquivo ENCONTRADO em \\10.10.100.134\TOPSAUDE\web\atd\asp\ATD0034a.asp
+[10/03/2017 09:55:28] Busca Aprofundada necessária não realizada
+[10/03/2017 09:55:28] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 282 milisegundo(s).
+[10/03/2017 09:55:30] K:\Pacotes\54801-54850\54836-JULIO\web\atd\asp\atd0027q.asp copiado para \\10.10.100.134\TOPSAUDE\web\atd\asp\atd0027q.asp
+[10/03/2017 09:55:30] K:\Pacotes\54801-54850\54836-JULIO\web\atd\asp\ATD0028a.asp copiado para \\10.10.100.134\TOPSAUDE\web\atd\asp\ATD0028a.asp
+[10/03/2017 09:55:30] K:\Pacotes\54801-54850\54836-JULIO\web\atd\asp\ATD0028b.asp copiado para \\10.10.100.134\TOPSAUDE\web\atd\asp\ATD0028b.asp
+[10/03/2017 09:55:30] K:\Pacotes\54801-54850\54836-JULIO\web\atd\asp\ATD0034a.asp copiado para \\10.10.100.134\TOPSAUDE\web\atd\asp\ATD0034a.asp
+[10/03/2017 09:55:35] Resultado do Login na WEB Demo_Med    (223.223.2.206): Sucesso Ao logar.
+[10/03/2017 09:55:35] Sistema procurará os arquivos na(s) pasta(s): jtopdown TopSaude 
+[10/03/2017 09:55:35] Quantidade de Arquivos: 4 (arquivos que não estão na raíz).
+[10/03/2017 09:55:35] Arquivo ENCONTRADO em \\223.223.2.206\TopSaude\web\atd\asp\atd0027q.asp
+[10/03/2017 09:55:35] Arquivo ENCONTRADO em \\223.223.2.206\TopSaude\web\atd\asp\ATD0028a.asp
+[10/03/2017 09:55:35] Arquivo ENCONTRADO em \\223.223.2.206\TopSaude\web\atd\asp\ATD0028b.asp
+[10/03/2017 09:55:35] Arquivo ENCONTRADO em \\223.223.2.206\TopSaude\web\atd\asp\ATD0034a.asp
+[10/03/2017 09:55:35] Busca Aprofundada necessária não realizada
+[10/03/2017 09:55:35] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 49 milisegundo(s).
+[10/03/2017 09:55:36] K:\Pacotes\54801-54850\54836-JULIO\web\atd\asp\atd0027q.asp copiado para \\223.223.2.206\TopSaude\web\atd\asp\atd0027q.asp
+[10/03/2017 09:55:36] K:\Pacotes\54801-54850\54836-JULIO\web\atd\asp\ATD0028a.asp copiado para \\223.223.2.206\TopSaude\web\atd\asp\ATD0028a.asp
+[10/03/2017 09:55:36] K:\Pacotes\54801-54850\54836-JULIO\web\atd\asp\ATD0028b.asp copiado para \\223.223.2.206\TopSaude\web\atd\asp\ATD0028b.asp
+[10/03/2017 09:55:36] Alterando atributo de arquivo de somente leitura.
+[10/03/2017 09:55:37] K:\Pacotes\54801-54850\54836-JULIO\web\atd\asp\ATD0034a.asp copiado para \\223.223.2.206\TopSaude\web\atd\asp\ATD0034a.asp
+[10/03/2017 10:05:57] Sistema finalizado.
+

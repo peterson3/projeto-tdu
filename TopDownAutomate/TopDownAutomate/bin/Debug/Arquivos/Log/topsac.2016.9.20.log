@@ -1,0 +1,26 @@
+[20/09/2016 11:55:45] Sistema Iniciado.
+[20/09/2016 11:57:20] Aberto driver com Chrome.
+[20/09/2016 12:00:25] Controle instanciado: 52954
+[20/09/2016 12:00:47] Arquivo do pacote do CA 52954 extraído.
+[20/09/2016 12:00:55] Log de versões do CA 52954 aberto.
+[20/09/2016 12:01:28] Banco Selecionado Para aplicar: HOMO_MED
+[20/09/2016 12:01:34] Sistema alterando o aplica para ordem certa de aplicação
+[20/09/2016 12:01:39] Banco Selecionado Para aplicar: METLIFE
+[20/09/2016 12:01:45] Atribuído objeto do tipo Script - TS.ASSOCIADO_UPD_002_dml.sql em ts/METLIFE
+[20/09/2016 12:01:46] Sistema alterando o aplica para ordem certa de aplicação
+[20/09/2016 12:01:47] Selecionado P/ Não Criptografar em: METLIFE 
+[20/09/2016 12:01:47] Selecionado P/ Criptografar em: 
+[20/09/2016 12:01:48] Arquivo "APLICA.SQL" criado com sucesso.
+[20/09/2016 12:02:00] Executado o aplica no sqlplus.
+[20/09/2016 12:13:28] Executado o aplica no sqlplus.
+[20/09/2016 13:55:14] Executado o aplica no sqlplus.
+[20/09/2016 15:00:39] Erro de de execução no sqlplus.
+[20/09/2016 15:35:15] Banco Selecionado Para aplicar: METLIFE
+[20/09/2016 15:35:18] Atribuído objeto do tipo Script - TS.ASSOCIADO_UPD_002_dml.sql em ts/METLIFE
+[20/09/2016 15:35:20] Sistema alterando o aplica para ordem certa de aplicação
+[20/09/2016 15:35:21] Selecionado P/ Não Criptografar em: METLIFE 
+[20/09/2016 15:35:21] Selecionado P/ Criptografar em: 
+[20/09/2016 15:35:21] Arquivo "APLICA.SQL" criado com sucesso.
+[20/09/2016 15:35:31] Executado o aplica no sqlplus.
+[20/09/2016 16:55:58] Sistema finalizado.
+

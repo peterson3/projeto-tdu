@@ -1,0 +1,141 @@
+[13/04/2017 13:40:57] Sistema Iniciado.
+[13/04/2017 13:41:17] Sistema finalizado.
+
+[13/04/2017 14:36:04] Sistema Iniciado.
+[13/04/2017 15:02:22] Aberto driver com Chrome.
+[13/04/2017 15:02:35] Controle instanciado: 55146
+[13/04/2017 15:03:20] Arquivo do pacote do CA 55146 extraído.
+[13/04/2017 15:03:28] Banco Selecionado Para aplicar: MAR_VAZIO
+[13/04/2017 15:03:28] Banco Selecionado Para aplicar: GIST
+[13/04/2017 15:03:33] Atribuído objeto do tipo Script - TS_JOB_TMR_RETORNO_ARQ_ddl.sql em mar_teste/MAR_VAZIO
+[13/04/2017 15:03:33] Atribuído objeto do tipo Script - TS_JOB_TMR_RETORNO_ARQ_ddl.sql em ts/GIST
+[13/04/2017 15:03:33] Atribuído objeto do tipo Script - EMPRESA_CONECTIVIDADE.sql em mar_teste/MAR_VAZIO
+[13/04/2017 15:03:33] Atribuído objeto do tipo Script - EMPRESA_CONECTIVIDADE.sql em ts/GIST
+[13/04/2017 15:03:33] Atribuído objeto do tipo Script - CRIA_UTL_FILE_TMR_DDL.SQL em mar_teste/MAR_VAZIO
+[13/04/2017 15:03:33] Atribuído objeto do tipo Script - CRIA_UTL_FILE_TMR_DDL.SQL em ts/GIST
+[13/04/2017 15:03:33] Atribuído objeto do tipo Package - TS.ITF_TMR_SOMPO_ddl.sql em mar_teste/MAR_VAZIO
+[13/04/2017 15:03:33] Atribuído objeto do tipo Package - TS.ITF_TMR_SOMPO_ddl.sql em ts/GIST
+[13/04/2017 15:03:33] Atribuído objeto do tipo Procedure - TS.TS_NOVO_PRESTADOR_ddl.sql em mar_teste/MAR_VAZIO
+[13/04/2017 15:03:33] Atribuído objeto do tipo Procedure - TS.TS_NOVO_PRESTADOR_ddl.sql em ts/GIST
+[13/04/2017 15:03:33] Atribuído objeto do tipo Procedure - TS.PRS_PRESTADOR_SERVICO_ddl.sql em mar_teste/MAR_VAZIO
+[13/04/2017 15:03:33] Atribuído objeto do tipo Procedure - TS.PRS_PRESTADOR_SERVICO_ddl.sql em ts/GIST
+[13/04/2017 15:03:33] Atribuído objeto do tipo Procedure - ts.cm_complementa_xml_ddl.sql em mar_teste/MAR_VAZIO
+[13/04/2017 15:03:33] Atribuído objeto do tipo Procedure - ts.cm_complementa_xml_ddl.sql em ts/GIST
+[13/04/2017 15:03:33] Atribuído objeto do tipo Table - ts.prestador_servico_ddl.sql em mar_teste/MAR_VAZIO
+[13/04/2017 15:03:33] Atribuído objeto do tipo Table - ts.prestador_servico_ddl.sql em ts/GIST
+[13/04/2017 15:03:33] Atribuído objeto do tipo Table - TS.PRESTADOR_EMPRESA_CONECT_ddl.sql em mar_teste/MAR_VAZIO
+[13/04/2017 15:03:33] Atribuído objeto do tipo Table - TS.PRESTADOR_EMPRESA_CONECT_ddl.sql em ts/GIST
+[13/04/2017 15:03:33] Atribuído objeto do tipo Table - TS.EMPRESA_CONECTIVIDADE_ddl.sql em mar_teste/MAR_VAZIO
+[13/04/2017 15:03:33] Atribuído objeto do tipo Table - TS.EMPRESA_CONECTIVIDADE_ddl.sql em ts/GIST
+[13/04/2017 15:03:34] Sistema alterando o aplica para ordem certa de aplicação
+[13/04/2017 15:03:36] Selecionado P/ Não Criptografar em: MAR_VAZIO 
+[13/04/2017 15:03:36] Selecionado P/ Criptografar em: GIST 
+[13/04/2017 15:03:36] Arquivo "APLICA.SQL" criado com sucesso.
+[13/04/2017 15:03:54] Executado o aplica no sqlplus.
+[13/04/2017 15:23:32] Resultado do Login na WEB Maritima    (10.1.1.159): Sucesso Ao logar.
+[13/04/2017 15:23:32] Sistema procurará os arquivos na(s) pasta(s): jtopdown topsaude web 
+[13/04/2017 15:23:32] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[13/04/2017 15:23:34] Realizando busca aprofundada para objetos não encontrados...
+[13/04/2017 15:24:53] Tempo que levou para achar todos os arquivos: 1 minuto(s), 21 segundo(s) e 385 milisegundo(s).
+[13/04/2017 18:30:52] Sistema finalizado.
+
+[13/04/2017 18:30:58] Sistema Iniciado.
+[13/04/2017 18:31:27] Aberto driver com Chrome.
+[13/04/2017 18:31:49] Controle instanciado: 55190
+[13/04/2017 18:32:13] Arquivo do pacote do CA 55190 extraído.
+[13/04/2017 18:32:29] Banco Selecionado Para aplicar: HOMO_MED
+[13/04/2017 18:32:32] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.CMS_GRAVA_PARAMETRO_COMISSAO_ddl.sql em ts_teste/HOMO_MED
+[13/04/2017 18:32:32] Atribuído objeto do tipo Procedure - TS.CMS_GRAVA_PARAMETRO_COMISSAO_DDL.SQL em ts_teste/HOMO_MED
+[13/04/2017 18:32:34] Sistema alterando o aplica para ordem certa de aplicação
+[13/04/2017 18:32:36] Selecionado P/ Não Criptografar em: HOMO_MED 
+[13/04/2017 18:32:36] Selecionado P/ Criptografar em: 
+[13/04/2017 18:32:36] Arquivo "APLICA.SQL" criado com sucesso.
+[13/04/2017 18:32:44] Executado o aplica no sqlplus.
+[13/04/2017 18:34:32] Banco Selecionado Para aplicar: INST_ODO
+[13/04/2017 18:34:32] Banco Selecionado Para aplicar: INST_MED
+[13/04/2017 18:34:32] Banco Selecionado Para aplicar: DEMO_MED
+[13/04/2017 18:34:32] Banco Selecionado Para aplicar: DEMO_ODO
+[13/04/2017 18:34:32] Banco Selecionado Para aplicar: HOMO_MED
+[13/04/2017 18:34:32] Banco Selecionado Para aplicar: HOMO_ODO
+[13/04/2017 18:34:32] Banco Selecionado Para aplicar: SEG_DES5
+[13/04/2017 18:34:32] Banco Selecionado Para aplicar: SEPACO-TESTE
+[13/04/2017 18:34:32] Banco Selecionado Para aplicar: SEP_VAZIO
+[13/04/2017 18:34:47] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.CMS_GRAVA_PARAMETRO_COMISSAO_ddl.sql em ts/INST_ODO
+[13/04/2017 18:34:47] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.CMS_GRAVA_PARAMETRO_COMISSAO_ddl.sql em ts/INST_MED
+[13/04/2017 18:34:47] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.CMS_GRAVA_PARAMETRO_COMISSAO_ddl.sql em ts/DEMO_MED
+[13/04/2017 18:34:47] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.CMS_GRAVA_PARAMETRO_COMISSAO_ddl.sql em ts/DEMO_ODO
+[13/04/2017 18:34:47] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.CMS_GRAVA_PARAMETRO_COMISSAO_ddl.sql em ts_teste/HOMO_MED
+[13/04/2017 18:34:47] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.CMS_GRAVA_PARAMETRO_COMISSAO_ddl.sql em ts_teste/HOMO_ODO
+[13/04/2017 18:34:47] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.CMS_GRAVA_PARAMETRO_COMISSAO_ddl.sql em ts/SEG_DES5
+[13/04/2017 18:34:47] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.CMS_GRAVA_PARAMETRO_COMISSAO_ddl.sql em ts/SEPACO-TESTE
+[13/04/2017 18:34:47] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.CMS_GRAVA_PARAMETRO_COMISSAO_ddl.sql em ts_teste/SEP_VAZIO
+[13/04/2017 18:34:47] Atribuído objeto do tipo Procedure - TS.CMS_GRAVA_PARAMETRO_COMISSAO_DDL.SQL em ts/INST_ODO
+[13/04/2017 18:34:47] Atribuído objeto do tipo Procedure - TS.CMS_GRAVA_PARAMETRO_COMISSAO_DDL.SQL em ts/INST_MED
+[13/04/2017 18:34:47] Atribuído objeto do tipo Procedure - TS.CMS_GRAVA_PARAMETRO_COMISSAO_DDL.SQL em ts/DEMO_MED
+[13/04/2017 18:34:47] Atribuído objeto do tipo Procedure - TS.CMS_GRAVA_PARAMETRO_COMISSAO_DDL.SQL em ts/DEMO_ODO
+[13/04/2017 18:34:47] Atribuído objeto do tipo Procedure - TS.CMS_GRAVA_PARAMETRO_COMISSAO_DDL.SQL em ts_teste/HOMO_MED
+[13/04/2017 18:34:47] Atribuído objeto do tipo Procedure - TS.CMS_GRAVA_PARAMETRO_COMISSAO_DDL.SQL em ts_teste/HOMO_ODO
+[13/04/2017 18:34:47] Atribuído objeto do tipo Procedure - TS.CMS_GRAVA_PARAMETRO_COMISSAO_DDL.SQL em ts/SEG_DES5
+[13/04/2017 18:34:47] Atribuído objeto do tipo Procedure - TS.CMS_GRAVA_PARAMETRO_COMISSAO_DDL.SQL em ts/SEPACO-TESTE
+[13/04/2017 18:34:47] Atribuído objeto do tipo Procedure - TS.CMS_GRAVA_PARAMETRO_COMISSAO_DDL.SQL em ts_teste/SEP_VAZIO
+[13/04/2017 18:34:54] Sistema alterando o aplica para ordem certa de aplicação
+[13/04/2017 18:35:04] Selecionado P/ Não Criptografar em: INST_ODO INST_MED DEMO_MED DEMO_ODO HOMO_MED HOMO_ODO SEP_VAZIO 
+[13/04/2017 18:35:04] Selecionado P/ Criptografar em: SEG_DES5 SEPACO-TESTE 
+[13/04/2017 18:35:04] Arquivo "APLICA.SQL" criado com sucesso.
+[13/04/2017 18:35:11] Executado o aplica no sqlplus.
+[13/04/2017 18:41:38] Resultado do Login na WEB HOMOLOG V11    (10.10.100.147): Sucesso Ao logar.
+[13/04/2017 18:41:38] Sistema procurará os arquivos na(s) pasta(s): jtopdown TopSaude 
+[13/04/2017 18:41:38] Quantidade de Arquivos: 2 (arquivos que não estão na raíz).
+[13/04/2017 18:41:38] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\cms\asp\cms0053a.asp
+[13/04/2017 18:41:38] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\cms\asp\CMS0053b.asp
+[13/04/2017 18:41:38] Busca Aprofundada necessária não realizada
+[13/04/2017 18:41:38] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 21 milisegundo(s).
+[13/04/2017 18:41:39] Alterando atributo de arquivo de somente leitura.
+[13/04/2017 18:41:40] K:\Pacotes\55151-55200\55190-MARCOS\web\cms\asp\cms0053a.asp copiado para \\10.10.100.147\TopSaude\web\cms\asp\cms0053a.asp
+[13/04/2017 18:41:40] Alterando atributo de arquivo de somente leitura.
+[13/04/2017 18:41:40] K:\Pacotes\55151-55200\55190-MARCOS\web\cms\asp\CMS0053b.asp copiado para \\10.10.100.147\TopSaude\web\cms\asp\CMS0053b.asp
+[13/04/2017 18:41:44] Resultado do Login na WEB Instalacao V11    (10.10.100.134): Sucesso Ao logar.
+[13/04/2017 18:41:44] Sistema procurará os arquivos na(s) pasta(s): Jtopdown TOPSAUDE 
+[13/04/2017 18:41:44] Quantidade de Arquivos: 2 (arquivos que não estão na raíz).
+[13/04/2017 18:41:44] Arquivo ENCONTRADO em \\10.10.100.134\TOPSAUDE\web\cms\asp\cms0053a.asp
+[13/04/2017 18:41:44] Arquivo ENCONTRADO em \\10.10.100.134\TOPSAUDE\web\cms\asp\CMS0053b.asp
+[13/04/2017 18:41:44] Busca Aprofundada necessária não realizada
+[13/04/2017 18:41:44] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 16 milisegundo(s).
+[13/04/2017 18:41:45] Alterando atributo de arquivo de somente leitura.
+[13/04/2017 18:41:45] K:\Pacotes\55151-55200\55190-MARCOS\web\cms\asp\cms0053a.asp copiado para \\10.10.100.134\TOPSAUDE\web\cms\asp\cms0053a.asp
+[13/04/2017 18:41:45] Alterando atributo de arquivo de somente leitura.
+[13/04/2017 18:41:45] K:\Pacotes\55151-55200\55190-MARCOS\web\cms\asp\CMS0053b.asp copiado para \\10.10.100.134\TOPSAUDE\web\cms\asp\CMS0053b.asp
+[13/04/2017 18:41:50] Resultado do Login na WEB Demo_Med    (223.223.2.206): Sucesso Ao logar.
+[13/04/2017 18:41:50] Sistema procurará os arquivos na(s) pasta(s): jtopdown TopSaude 
+[13/04/2017 18:41:50] Quantidade de Arquivos: 2 (arquivos que não estão na raíz).
+[13/04/2017 18:41:50] Arquivo ENCONTRADO em \\223.223.2.206\TopSaude\web\cms\asp\cms0053a.asp
+[13/04/2017 18:41:50] Arquivo ENCONTRADO em \\223.223.2.206\TopSaude\web\cms\asp\CMS0053b.asp
+[13/04/2017 18:41:50] Busca Aprofundada necessária não realizada
+[13/04/2017 18:41:50] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 30 milisegundo(s).
+[13/04/2017 18:41:51] K:\Pacotes\55151-55200\55190-MARCOS\web\cms\asp\cms0053a.asp copiado para \\223.223.2.206\TopSaude\web\cms\asp\cms0053a.asp
+[13/04/2017 18:41:51] K:\Pacotes\55151-55200\55190-MARCOS\web\cms\asp\CMS0053b.asp copiado para \\223.223.2.206\TopSaude\web\cms\asp\CMS0053b.asp
+[13/04/2017 18:41:55] Resultado do Login na WEB DEMO_ODO    (223.223.2.194): Sucesso Ao logar.
+[13/04/2017 18:41:55] Sistema procurará os arquivos na(s) pasta(s): jtopdown TopSaude 
+[13/04/2017 18:41:55] Quantidade de Arquivos: 2 (arquivos que não estão na raíz).
+[13/04/2017 18:41:55] Arquivo ENCONTRADO em \\223.223.2.194\TopSaude\web\cms\asp\cms0053a.asp
+[13/04/2017 18:41:55] Arquivo ENCONTRADO em \\223.223.2.194\TopSaude\web\cms\asp\CMS0053b.asp
+[13/04/2017 18:41:55] Busca Aprofundada necessária não realizada
+[13/04/2017 18:41:55] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 35 milisegundo(s).
+[13/04/2017 18:41:55] Alterando atributo de arquivo de somente leitura.
+[13/04/2017 18:41:55] K:\Pacotes\55151-55200\55190-MARCOS\web\cms\asp\cms0053a.asp copiado para \\223.223.2.194\TopSaude\web\cms\asp\cms0053a.asp
+[13/04/2017 18:41:55] Alterando atributo de arquivo de somente leitura.
+[13/04/2017 18:41:55] K:\Pacotes\55151-55200\55190-MARCOS\web\cms\asp\CMS0053b.asp copiado para \\223.223.2.194\TopSaude\web\cms\asp\CMS0053b.asp
+[13/04/2017 18:42:05] Resultado do Login na WEB Unimed Odo    (172.25.10.44): Sucesso Ao logar.
+[13/04/2017 18:42:05] Sistema procurará os arquivos na(s) pasta(s): jtopdown logs odo_portal toprel TopSaude transfodontoans 
+[13/04/2017 18:42:05] Quantidade de Arquivos: 2 (arquivos que não estão na raíz).
+[13/04/2017 18:42:06] Arquivo ENCONTRADO em \\172.25.10.44\TopSaude\web\cms\asp\cms0053a.asp
+[13/04/2017 18:42:06] Arquivo ENCONTRADO em \\172.25.10.44\TopSaude\web\cms\asp\CMS0053b.asp
+[13/04/2017 18:42:06] Busca Aprofundada necessária não realizada
+[13/04/2017 18:42:06] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 583 milisegundo(s).
+[13/04/2017 18:42:07] K:\Pacotes\55151-55200\55190-MARCOS\web\cms\asp\cms0053a.asp copiado para \\172.25.10.44\TopSaude\web\cms\asp\cms0053a.asp
+[13/04/2017 18:42:07] K:\Pacotes\55151-55200\55190-MARCOS\web\cms\asp\CMS0053b.asp copiado para \\172.25.10.44\TopSaude\web\cms\asp\CMS0053b.asp
+[13/04/2017 18:42:13] Sistema finalizado.
+
+[13/04/2017 18:42:22] Sistema Iniciado.
+[13/04/2017 19:04:20] Sistema finalizado.
+

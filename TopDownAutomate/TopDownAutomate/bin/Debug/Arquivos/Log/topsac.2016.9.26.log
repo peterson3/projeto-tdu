@@ -1,0 +1,46 @@
+[26/09/2016 11:10:33] Sistema Iniciado.
+[26/09/2016 11:14:06] Aberto driver com Chrome.
+[26/09/2016 11:14:57] Controle instanciado: 52871
+[26/09/2016 11:15:26] Banco Selecionado Para aplicar: GIST
+[26/09/2016 11:15:32] Atribuído objeto do tipo Job - TS.MAR_ITF_JOB_RETORNO_RECEBIMENTO_ddl.sql em ts/GIST
+[26/09/2016 11:15:32] Atribuído objeto do tipo Job - TS.MAR_GERA_XML_PDF_BOLETOS_ddl.sql em ts/GIST
+[26/09/2016 11:15:32] Atribuído objeto do tipo Script - ts_sec.modulo_ts.sec.funcao_insert.sql em ts/GIST
+[26/09/2016 11:15:32] Atribuído objeto do tipo Script - ts.tipo_relatorio_insert_dml.sql em ts/GIST
+[26/09/2016 11:15:32] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.MAR_EMITE_FATURA_ddl.sql em ts/GIST
+[26/09/2016 11:15:32] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.FAT_ATUALIZA_IMP_ddl.sql em ts/GIST
+[26/09/2016 11:15:32] Atribuído objeto do tipo Package - ts.mar_itf_integracao_fat_ret_sap_ddl.spc em ts/GIST
+[26/09/2016 11:15:32] Atribuído objeto do tipo Package - ts.mar_itf_integracao_fat_cr_sap_ddl.sql em ts/GIST
+[26/09/2016 11:15:32] Atribuído objeto do tipo Package - TS.MAR_BOLETOS_SEM_RETORNO_SAP_ddl.sql em ts/GIST
+[26/09/2016 11:15:32] Atribuído objeto do tipo Procedure - TS.SUR_GERA_COBRANCA_ddl.sql em ts/GIST
+[26/09/2016 11:15:32] Atribuído objeto do tipo Procedure - TS.MAR_EMITE_FATURA_ddl.sql em ts/GIST
+[26/09/2016 11:15:32] Atribuído objeto do tipo Procedure - TS.FAT_GERA_XML_COBRANCA_110_DDL.SQL em ts/GIST
+[26/09/2016 11:15:32] Atribuído objeto do tipo Function - TS.FAT_ATUALIZA_IMP_ddl.sql em ts/GIST
+[26/09/2016 11:15:32] Atribuído objeto do tipo Index - ts.IDX_COBRANCA_TXT_01_ddl.sql em ts/GIST
+[26/09/2016 11:15:32] Atribuído objeto do tipo Table - TS.REMESSA_IMPRESSAO_DDL.SQL em ts/GIST
+[26/09/2016 11:15:32] Atribuído objeto do tipo Table - TS.MAR_ITF_COBRANCAAPOLICE_ddl.sql em ts/GIST
+[26/09/2016 11:15:32] Atribuído objeto do tipo Table - ts.cobranca_ddl.sql em ts/GIST
+[26/09/2016 11:15:35] Sistema alterando o aplica para ordem certa de aplicação
+[26/09/2016 11:15:38] Selecionado P/ Não Criptografar em: GIST 
+[26/09/2016 11:15:38] Selecionado P/ Criptografar em: 
+[26/09/2016 11:15:38] Arquivo "APLICA.SQL" criado com sucesso.
+[26/09/2016 11:16:07] Executado o aplica no sqlplus.
+[26/09/2016 11:22:26] Erro de de execução no sqlplus.
+[26/09/2016 11:22:35] Resultado do Login na WEB Maritima    (10.1.1.159): Sucesso Ao logar.
+[26/09/2016 11:22:35] Sistema procurará os arquivos na(s) pasta(s): jtopdown topsaude web 
+[26/09/2016 11:22:35] Quantidade de Arquivos: 4 (arquivos que não estão na raíz).
+[26/09/2016 11:22:36] Arquivo ENCONTRADO em \\10.1.1.159\web\fat\asp\FAT1044b.asp
+[26/09/2016 11:22:36] Arquivo ENCONTRADO em \\10.1.1.159\web\fat\asp\FAT3005a.asp
+[26/09/2016 11:22:36] Arquivo ENCONTRADO em \\10.1.1.159\web\fat\asp\FAT3005b.asp
+[26/09/2016 11:22:36] Arquivo ENCONTRADO em \\10.1.1.159\web\fat\rel\TsFat1044MtsM.dll
+[26/09/2016 11:22:36] Busca Aprofundada necessária não realizada
+[26/09/2016 11:22:36] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 652 milisegundo(s).
+[26/09/2016 11:22:50] K:\Pacotes\52851-52900\52871-JOAO\web\fat\asp\FAT1044b.asp copiado para \\10.1.1.159\web\fat\asp\FAT1044b.asp
+[26/09/2016 11:22:50] K:\Pacotes\52851-52900\52871-JOAO\web\fat\asp\FAT3005a.asp copiado para \\10.1.1.159\web\fat\asp\FAT3005a.asp
+[26/09/2016 11:22:51] K:\Pacotes\52851-52900\52871-JOAO\web\fat\asp\FAT3005b.asp copiado para \\10.1.1.159\web\fat\asp\FAT3005b.asp
+[26/09/2016 11:22:52] K:\Pacotes\52851-52900\52871-JOAO\web\fat\rel\TsFat1044MtsM.dll copiado para \\10.1.1.159\web\fat\rel\TsFat1044MtsM.dll
+[26/09/2016 11:23:37] Log de aplicão no banco do CA 52871 aberto.
+[26/09/2016 14:28:43] Sistema finalizado.
+
+[26/09/2016 17:36:53] Sistema Iniciado.
+[26/09/2016 17:51:01] Sistema finalizado.
+

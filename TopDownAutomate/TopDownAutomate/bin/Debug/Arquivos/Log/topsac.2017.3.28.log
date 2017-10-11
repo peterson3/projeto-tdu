@@ -1,0 +1,21 @@
+[28/03/2017 18:21:42] Sistema Iniciado.
+[28/03/2017 18:22:08] Aberto driver com Chrome.
+[28/03/2017 18:22:51] Controle instanciado: 55005
+[28/03/2017 18:23:02] Arquivo do pacote do CA 55005 extraído.
+[28/03/2017 18:23:09] Log de versões do CA 55005 aberto.
+[28/03/2017 18:23:17] Banco Selecionado Para aplicar: GIST
+[28/03/2017 18:23:20] Atribuído objeto do tipo Package - TS.MAR_INTEGRACAO_PORTAL_DDL.SQL em ts/GIST
+[28/03/2017 18:23:22] Sistema alterando o aplica para ordem certa de aplicação
+[28/03/2017 18:23:28] Selecionado P/ Não Criptografar em: 
+[28/03/2017 18:23:28] Selecionado P/ Criptografar em: GIST 
+[28/03/2017 18:23:28] Arquivo "APLICA.SQL" criado com sucesso.
+[28/03/2017 18:23:44] Executado o aplica no sqlplus.
+[28/03/2017 18:29:43] Banco Selecionado Para aplicar: MAR_VAZIO
+[28/03/2017 18:29:45] Atribuído objeto do tipo Package - TS.MAR_INTEGRACAO_PORTAL_DDL.SQL em mar_teste/MAR_VAZIO
+[28/03/2017 18:29:47] Sistema alterando o aplica para ordem certa de aplicação
+[28/03/2017 18:29:49] Selecionado P/ Não Criptografar em: MAR_VAZIO 
+[28/03/2017 18:29:49] Selecionado P/ Criptografar em: 
+[28/03/2017 18:29:49] Arquivo "APLICA.SQL" criado com sucesso.
+[28/03/2017 18:29:55] Executado o aplica no sqlplus.
+[28/03/2017 18:35:52] Sistema finalizado.
+

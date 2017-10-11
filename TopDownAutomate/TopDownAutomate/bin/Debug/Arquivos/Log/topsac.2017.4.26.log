@@ -1,0 +1,128 @@
+[26/04/2017 20:11:19] Sistema Iniciado.
+[26/04/2017 20:11:37] Aberto driver com Chrome.
+[26/04/2017 20:11:55] Controle instanciado: 55271
+[26/04/2017 20:12:12] Arquivo do pacote do CA 55271 extraído.
+[26/04/2017 20:12:31] Log de versões do CA 55271 aberto.
+[26/04/2017 20:12:37] Banco Selecionado Para aplicar: QUALI_BR
+[26/04/2017 20:13:01] Atribuído objeto do tipo Package - TS_ODO.ODO_AUT_REL_GUIA_TISS_3_03_01_ddl.sql em ts_teste/QUALI_BR
+[26/04/2017 20:15:57] Banco Selecionado Para aplicar: QUALI_BR
+[26/04/2017 20:16:05] Atribuído objeto do tipo Script - INSERT_RELATORIO_TISS_3_03_02_DENTAL.SQL em ts_teste/QUALI_BR
+[26/04/2017 20:16:05] Atribuído objeto do tipo Package - TS_ODO.ODO_AUT_REL_GUIA_TISS_3_03_01_ddl.sql em ts_teste/QUALI_BR
+[26/04/2017 20:16:06] Sistema alterando o aplica para ordem certa de aplicação
+[26/04/2017 20:16:12] Selecionado P/ Não Criptografar em: QUALI_BR 
+[26/04/2017 20:16:12] Selecionado P/ Criptografar em: 
+[26/04/2017 20:16:12] Arquivo "APLICA.SQL" criado com sucesso.
+[26/04/2017 20:16:22] Executado o aplica no sqlplus.
+[26/04/2017 20:19:42] Resultado do Login na WEB quali-br    (10.10.100.131): Sucesso Ao logar.
+[26/04/2017 20:19:42] Sistema procurará os arquivos na(s) pasta(s): jtopdown Suporte TOPSAUDE 
+[26/04/2017 20:19:42] Quantidade de Arquivos: 3 (arquivos que não estão na raíz).
+[26/04/2017 20:19:42] Pasta ENCONTRADA em \\10.10.100.131\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\odo_atd\
+[26/04/2017 20:19:42] Pasta ENCONTRADA em \\10.10.100.131\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\odo_atd\
+[26/04/2017 20:19:42] Arquivo ENCONTRADO em \\10.10.100.131\TOPSAUDE\web\odo_atd\asp\odo_atd1021b.asp
+[26/04/2017 20:19:42] Busca Aprofundada necessária não realizada
+[26/04/2017 20:19:42] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 79 milisegundo(s).
+[26/04/2017 20:19:44] K:\Pacotes\55251-55300\55271-JULIO\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\odo_atd\GuiaTratamentoOdontologicoItens_3_03_02.jasper copiado para \\10.10.100.131\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\odo_atd\
+[26/04/2017 20:19:45] K:\Pacotes\55251-55300\55271-JULIO\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\odo_atd\GuiaTratamentoOdontologico_3_03_02.jasper copiado para \\10.10.100.131\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\odo_atd\
+[26/04/2017 20:19:45] K:\Pacotes\55251-55300\55271-JULIO\web\odo_atd\asp\odo_atd1021b.asp copiado para \\10.10.100.131\TOPSAUDE\web\odo_atd\asp\odo_atd1021b.asp
+[26/04/2017 20:20:01] Resultado do Login na WEB quali-br    (10.10.100.131): Sucesso Ao logar.
+[26/04/2017 20:20:01] Sistema procurará os arquivos na(s) pasta(s): jtopdown Suporte TOPSAUDE 
+[26/04/2017 20:20:01] Quantidade de Arquivos: 3 (arquivos que não estão na raíz).
+[26/04/2017 20:20:01] Arquivo ENCONTRADO em \\10.10.100.131\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\odo_atd\GuiaTratamentoOdontologicoItens_3_03_02.jasper
+[26/04/2017 20:20:01] Arquivo ENCONTRADO em \\10.10.100.131\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\odo_atd\GuiaTratamentoOdontologico_3_03_02.jasper
+[26/04/2017 20:20:01] Arquivo ENCONTRADO em \\10.10.100.131\TOPSAUDE\web\odo_atd\asp\odo_atd1021b.asp
+[26/04/2017 20:20:01] Busca Aprofundada necessária não realizada
+[26/04/2017 20:20:01] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 32 milisegundo(s).
+[26/04/2017 20:25:34] Sistema finalizado.
+
+[26/04/2017 20:26:05] Sistema Iniciado.
+[26/04/2017 20:26:16] Aberto driver com Chrome.
+[26/04/2017 20:27:37] Controle instanciado: 55266
+[26/04/2017 20:28:40] Arquivo do pacote do CA 55266 extraído.
+[26/04/2017 20:28:42] Log de versões do CA 55266 aberto.
+[26/04/2017 20:29:00] Sistema finalizado.
+
+[26/04/2017 20:29:26] Sistema Iniciado.
+[26/04/2017 20:29:35] Aberto driver com Chrome.
+[26/04/2017 20:29:50] Controle instanciado: 55266
+[26/04/2017 20:30:27] Arquivo do pacote do CA 55266 extraído.
+[26/04/2017 20:31:20] Banco Selecionado Para aplicar: HOMO_ODO
+[26/04/2017 20:31:25] Atribuído objeto do tipo Script - INSERT_RELATORIO_TISS_3_03_02_DENTAL.SQL em ts_teste/HOMO_ODO
+[26/04/2017 20:31:31] Sistema alterando o aplica para ordem certa de aplicação
+[26/04/2017 20:31:32] Selecionado P/ Não Criptografar em: HOMO_ODO 
+[26/04/2017 20:31:32] Selecionado P/ Criptografar em: 
+[26/04/2017 20:31:32] Arquivo "APLICA.SQL" criado com sucesso.
+[26/04/2017 20:31:44] Executado o aplica no sqlplus.
+[26/04/2017 20:34:47] Log de aplicão no banco do CA 55266 aberto.
+[26/04/2017 20:35:02] Resultado do Login na WEB HOMOLOG V11    (10.10.100.147): Sucesso Ao logar.
+[26/04/2017 20:35:02] Sistema procurará os arquivos na(s) pasta(s): jtopdown TopSaude 
+[26/04/2017 20:35:02] Quantidade de Arquivos: 2 (arquivos que não estão na raíz).
+[26/04/2017 20:35:02] Pasta ENCONTRADA em \\10.10.100.147\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\odo_atd\
+[26/04/2017 20:35:02] Pasta ENCONTRADA em \\10.10.100.147\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\odo_atd\
+[26/04/2017 20:35:02] Busca Aprofundada necessária não realizada
+[26/04/2017 20:35:02] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 47 milisegundo(s).
+[26/04/2017 20:35:03] K:\Pacotes\55251-55300\55266-JULIO\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\odo_atd\GuiaTratamentoOdontologicoItens_3_03_02.jasper copiado para \\10.10.100.147\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\odo_atd\
+[26/04/2017 20:35:03] K:\Pacotes\55251-55300\55266-JULIO\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\odo_atd\GuiaTratamentoOdontologico_3_03_02.jasper copiado para \\10.10.100.147\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\odo_atd\
+[26/04/2017 20:35:09] Resultado do Login na WEB Instalacao V11    (10.10.100.134): Sucesso Ao logar.
+[26/04/2017 20:35:09] Sistema procurará os arquivos na(s) pasta(s): Jtopdown TOPSAUDE 
+[26/04/2017 20:35:09] Quantidade de Arquivos: 2 (arquivos que não estão na raíz).
+[26/04/2017 20:35:09] Pasta ENCONTRADA em \\10.10.100.134\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\odo_atd\
+[26/04/2017 20:35:09] Pasta ENCONTRADA em \\10.10.100.134\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\odo_atd\
+[26/04/2017 20:35:09] Busca Aprofundada necessária não realizada
+[26/04/2017 20:35:09] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 19 milisegundo(s).
+[26/04/2017 20:35:10] K:\Pacotes\55251-55300\55266-JULIO\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\odo_atd\GuiaTratamentoOdontologicoItens_3_03_02.jasper copiado para \\10.10.100.134\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\odo_atd\
+[26/04/2017 20:35:10] K:\Pacotes\55251-55300\55266-JULIO\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\odo_atd\GuiaTratamentoOdontologico_3_03_02.jasper copiado para \\10.10.100.134\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\odo_atd\
+[26/04/2017 20:35:14] Resultado do Login na WEB DEMO_ODO    (223.223.2.194): Sucesso Ao logar.
+[26/04/2017 20:35:14] Sistema procurará os arquivos na(s) pasta(s): jtopdown TopSaude 
+[26/04/2017 20:35:14] Quantidade de Arquivos: 2 (arquivos que não estão na raíz).
+[26/04/2017 20:35:14] Pasta ENCONTRADA em \\223.223.2.194\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\odo_atd\
+[26/04/2017 20:35:14] Pasta ENCONTRADA em \\223.223.2.194\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\odo_atd\
+[26/04/2017 20:35:14] Busca Aprofundada necessária não realizada
+[26/04/2017 20:35:14] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 43 milisegundo(s).
+[26/04/2017 20:35:15] K:\Pacotes\55251-55300\55266-JULIO\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\odo_atd\GuiaTratamentoOdontologicoItens_3_03_02.jasper copiado para \\223.223.2.194\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\odo_atd\
+[26/04/2017 20:35:15] K:\Pacotes\55251-55300\55266-JULIO\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\odo_atd\GuiaTratamentoOdontologico_3_03_02.jasper copiado para \\223.223.2.194\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\odo_atd\
+[26/04/2017 20:35:23] Resultado do Login na WEB Metlife(dev)    (10.90.150.82): Sucesso Ao logar.
+[26/04/2017 20:35:25] Sistema procurará os arquivos na(s) pasta(s): JTopDown ReportsDental TopSaude 
+[26/04/2017 20:35:25] Quantidade de Arquivos: 2 (arquivos que não estão na raíz).
+[26/04/2017 20:35:26] Pasta ENCONTRADA em \\10.90.150.82\TopSaude\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\odo_atd\
+[26/04/2017 20:35:27] Pasta ENCONTRADA em \\10.90.150.82\TopSaude\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\odo_atd\
+[26/04/2017 20:35:27] Busca Aprofundada necessária não realizada
+[26/04/2017 20:35:27] Tempo que levou para achar todos os arquivos: 0 minuto(s), 2 segundo(s) e 481 milisegundo(s).
+[26/04/2017 20:35:29] K:\Pacotes\55251-55300\55266-JULIO\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\odo_atd\GuiaTratamentoOdontologicoItens_3_03_02.jasper copiado para \\10.90.150.82\TopSaude\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\odo_atd\
+[26/04/2017 20:35:30] K:\Pacotes\55251-55300\55266-JULIO\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\odo_atd\GuiaTratamentoOdontologico_3_03_02.jasper copiado para \\10.90.150.82\TopSaude\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\odo_atd\
+[26/04/2017 20:35:38] Resultado do Login na WEB Unimed Odo    (172.25.10.44): Sucesso Ao logar.
+[26/04/2017 20:35:39] Sistema procurará os arquivos na(s) pasta(s): jtopdown logs odo_portal toprel TopSaude transfodontoans 
+[26/04/2017 20:35:39] Quantidade de Arquivos: 2 (arquivos que não estão na raíz).
+[26/04/2017 20:35:39] Pasta ENCONTRADA em \\172.25.10.44\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\odo_atd\
+[26/04/2017 20:35:39] Pasta ENCONTRADA em \\172.25.10.44\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\odo_atd\
+[26/04/2017 20:35:39] Busca Aprofundada necessária não realizada
+[26/04/2017 20:35:39] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 565 milisegundo(s).
+[26/04/2017 20:35:40] K:\Pacotes\55251-55300\55266-JULIO\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\odo_atd\GuiaTratamentoOdontologicoItens_3_03_02.jasper copiado para \\172.25.10.44\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\odo_atd\
+[26/04/2017 20:35:40] K:\Pacotes\55251-55300\55266-JULIO\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\odo_atd\GuiaTratamentoOdontologico_3_03_02.jasper copiado para \\172.25.10.44\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\odo_atd\
+[26/04/2017 20:36:19] Banco Selecionado Para aplicar: INST_ODO
+[26/04/2017 20:36:19] Banco Selecionado Para aplicar: DEMO_ODO
+[26/04/2017 20:36:19] Banco Selecionado Para aplicar: HOMO_ODO
+[26/04/2017 20:36:19] Banco Selecionado Para aplicar: METLIFE
+[26/04/2017 20:36:19] Banco Selecionado Para aplicar: SEG_DES5
+[26/04/2017 20:36:19] Banco Selecionado Para aplicar: METLIFE_VAZIO
+[26/04/2017 20:36:19] Banco Selecionado Para aplicar: ODO_VAZIO
+[26/04/2017 20:36:32] Atribuído objeto do tipo Script - INSERT_RELATORIO_TISS_3_03_02_DENTAL.SQL em ts/INST_ODO
+[26/04/2017 20:36:32] Atribuído objeto do tipo Script - INSERT_RELATORIO_TISS_3_03_02_DENTAL.SQL em ts_metlife/DEMO_ODO
+[26/04/2017 20:36:32] Atribuído objeto do tipo Script - INSERT_RELATORIO_TISS_3_03_02_DENTAL.SQL em ts_metlife/HOMO_ODO
+[26/04/2017 20:36:32] Atribuído objeto do tipo Script - INSERT_RELATORIO_TISS_3_03_02_DENTAL.SQL em ts_metlife/METLIFE
+[26/04/2017 20:36:32] Atribuído objeto do tipo Script - INSERT_RELATORIO_TISS_3_03_02_DENTAL.SQL em ts/SEG_DES5
+[26/04/2017 20:36:32] Atribuído objeto do tipo Script - INSERT_RELATORIO_TISS_3_03_02_DENTAL.SQL em ml_teste/METLIFE_VAZIO
+[26/04/2017 20:36:32] Atribuído objeto do tipo Script - INSERT_RELATORIO_TISS_3_03_02_DENTAL.SQL em odo_teste/ODO_VAZIO
+[26/04/2017 20:36:43] Atribuído objeto do tipo Script - INSERT_RELATORIO_TISS_3_03_02_DENTAL.SQL em ts/INST_ODO
+[26/04/2017 20:36:43] Atribuído objeto do tipo Script - INSERT_RELATORIO_TISS_3_03_02_DENTAL.SQL em ts/DEMO_ODO
+[26/04/2017 20:36:43] Atribuído objeto do tipo Script - INSERT_RELATORIO_TISS_3_03_02_DENTAL.SQL em ts_teste/HOMO_ODO
+[26/04/2017 20:36:43] Atribuído objeto do tipo Script - INSERT_RELATORIO_TISS_3_03_02_DENTAL.SQL em ts/METLIFE
+[26/04/2017 20:36:43] Atribuído objeto do tipo Script - INSERT_RELATORIO_TISS_3_03_02_DENTAL.SQL em ts/SEG_DES5
+[26/04/2017 20:36:43] Atribuído objeto do tipo Script - INSERT_RELATORIO_TISS_3_03_02_DENTAL.SQL em ml_teste/METLIFE_VAZIO
+[26/04/2017 20:36:43] Atribuído objeto do tipo Script - INSERT_RELATORIO_TISS_3_03_02_DENTAL.SQL em odo_teste/ODO_VAZIO
+[26/04/2017 20:36:45] Sistema alterando o aplica para ordem certa de aplicação
+[26/04/2017 20:36:49] Selecionado P/ Não Criptografar em: INST_ODO DEMO_ODO HOMO_ODO METLIFE SEG_DES5 METLIFE_VAZIO ODO_VAZIO 
+[26/04/2017 20:36:49] Selecionado P/ Criptografar em: 
+[26/04/2017 20:36:49] Arquivo "APLICA.SQL" criado com sucesso.
+[26/04/2017 20:37:03] Executado o aplica no sqlplus.
+[26/04/2017 20:50:23] Sistema finalizado.
+

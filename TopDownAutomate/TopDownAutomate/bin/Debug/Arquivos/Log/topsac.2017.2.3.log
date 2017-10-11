@@ -1,0 +1,61 @@
+[03/02/2017 10:05:28] Sistema Iniciado.
+[03/02/2017 10:06:19] Aberto driver com Chrome.
+[03/02/2017 10:06:38] Controle instanciado: 54559
+[03/02/2017 10:06:54] Arquivo do pacote do CA 54559 extraído.
+[03/02/2017 10:07:05] Banco Selecionado Para aplicar: HOMO_ODO
+[03/02/2017 10:07:08] Atribuído objeto do tipo Procedure - TS_ODO.ODO_PAG_PROCESSA_PAGAMENTO_TS_ddl.sql em ts_teste/HOMO_ODO
+[03/02/2017 10:07:11] Sistema alterando o aplica para ordem certa de aplicação
+[03/02/2017 10:07:14] Selecionado P/ Não Criptografar em: HOMO_ODO 
+[03/02/2017 10:07:14] Selecionado P/ Criptografar em: 
+[03/02/2017 10:07:14] Arquivo "APLICA.SQL" criado com sucesso.
+[03/02/2017 10:07:21] Executado o aplica no sqlplus.
+[03/02/2017 10:17:14] Executado o aplica no sqlplus.
+[03/02/2017 10:23:13] Executado o aplica no sqlplus.
+[03/02/2017 10:30:01] Banco Selecionado Para aplicar: INST_ODO
+[03/02/2017 10:30:01] Banco Selecionado Para aplicar: DEMO_ODO
+[03/02/2017 10:30:01] Banco Selecionado Para aplicar: HOMO_ODO
+[03/02/2017 10:30:01] Banco Selecionado Para aplicar: METLIFE
+[03/02/2017 10:30:01] Banco Selecionado Para aplicar: METLIFE_VAZIO
+[03/02/2017 10:30:22] Atribuído objeto do tipo Procedure - TS_ODO.ODO_PAG_PROCESSA_PAGAMENTO_TS_ddl.sql em ts_odo/INST_ODO
+[03/02/2017 10:30:22] Atribuído objeto do tipo Procedure - TS_ODO.ODO_PAG_PROCESSA_PAGAMENTO_TS_ddl.sql em ts_odo/DEMO_ODO
+[03/02/2017 10:30:22] Atribuído objeto do tipo Procedure - TS_ODO.ODO_PAG_PROCESSA_PAGAMENTO_TS_ddl.sql em ts_teste/HOMO_ODO
+[03/02/2017 10:30:22] Atribuído objeto do tipo Procedure - TS_ODO.ODO_PAG_PROCESSA_PAGAMENTO_TS_ddl.sql em ts_odo/METLIFE
+[03/02/2017 10:30:22] Atribuído objeto do tipo Procedure - TS_ODO.ODO_PAG_PROCESSA_PAGAMENTO_TS_ddl.sql em ts_teste/METLIFE_VAZIO
+[03/02/2017 10:30:24] Sistema alterando o aplica para ordem certa de aplicação
+[03/02/2017 10:30:30] Selecionado P/ Não Criptografar em: INST_ODO DEMO_ODO HOMO_ODO METLIFE_VAZIO 
+[03/02/2017 10:30:30] Selecionado P/ Criptografar em: METLIFE 
+[03/02/2017 10:30:30] Arquivo "APLICA.SQL" criado com sucesso.
+[03/02/2017 10:30:43] Executado o aplica no sqlplus.
+[03/02/2017 10:44:16] Banco Selecionado Para aplicar: INST_ODO
+[03/02/2017 10:44:16] Banco Selecionado Para aplicar: METLIFE_VAZIO
+[03/02/2017 10:44:21] Atribuído objeto do tipo Procedure - TS_ODO.ODO_PAG_PROCESSA_PAGAMENTO_TS_ddl.sql em ts_odo/INST_ODO
+[03/02/2017 10:44:21] Atribuído objeto do tipo Procedure - TS_ODO.ODO_PAG_PROCESSA_PAGAMENTO_TS_ddl.sql em ts_teste/METLIFE_VAZIO
+[03/02/2017 10:44:23] Sistema alterando o aplica para ordem certa de aplicação
+[03/02/2017 10:44:24] Selecionado P/ Não Criptografar em: INST_ODO METLIFE_VAZIO 
+[03/02/2017 10:44:24] Selecionado P/ Criptografar em: 
+[03/02/2017 10:44:25] Arquivo "APLICA.SQL" criado com sucesso.
+[03/02/2017 10:44:34] Executado o aplica no sqlplus.
+[03/02/2017 11:09:49] Banco Selecionado Para aplicar: INST_ODO
+[03/02/2017 11:09:49] Banco Selecionado Para aplicar: METLIFE_VAZIO
+[03/02/2017 11:09:53] Atribuído objeto do tipo Procedure - TS_ODO.ODO_PAG_PROCESSA_PAGAMENTO_TS_ddl.sql em ts/INST_ODO
+[03/02/2017 11:09:53] Atribuído objeto do tipo Procedure - TS_ODO.ODO_PAG_PROCESSA_PAGAMENTO_TS_ddl.sql em ts_teste/METLIFE_VAZIO
+[03/02/2017 11:09:54] Sistema alterando o aplica para ordem certa de aplicação
+[03/02/2017 11:09:56] Selecionado P/ Não Criptografar em: INST_ODO METLIFE_VAZIO 
+[03/02/2017 11:09:56] Selecionado P/ Criptografar em: 
+[03/02/2017 11:09:56] Arquivo "APLICA.SQL" criado com sucesso.
+[03/02/2017 11:10:03] Executado o aplica no sqlplus.
+[03/02/2017 11:15:58] Banco Selecionado Para aplicar: METLIFE_VAZIO
+[03/02/2017 11:16:01] Atribuído objeto do tipo Procedure - TS_ODO.ODO_PAG_PROCESSA_PAGAMENTO_TS_ddl.sql em ml_teste/METLIFE_VAZIO
+[03/02/2017 11:16:03] Sistema alterando o aplica para ordem certa de aplicação
+[03/02/2017 11:16:04] Selecionado P/ Não Criptografar em: METLIFE_VAZIO 
+[03/02/2017 11:16:04] Selecionado P/ Criptografar em: 
+[03/02/2017 11:16:04] Arquivo "APLICA.SQL" criado com sucesso.
+[03/02/2017 11:16:13] Erro de de execução no sqlplus.
+[03/02/2017 11:16:15] Executado o aplica no sqlplus.
+[03/02/2017 11:17:09] Executado o aplica no sqlplus.
+[03/02/2017 11:56:43] Erro de de execução no sqlplus.
+[03/02/2017 11:56:52] Sistema finalizado.
+
+[03/02/2017 16:05:11] Sistema Iniciado.
+[03/02/2017 18:34:49] Sistema finalizado.
+

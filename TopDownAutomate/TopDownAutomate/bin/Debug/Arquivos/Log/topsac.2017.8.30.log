@@ -1,0 +1,16 @@
+[30/08/2017 09:41:29] Sistema Iniciado.
+[30/08/2017 09:46:23] Aberto driver com Chrome.
+[30/08/2017 09:46:55] Controle instanciado: 56937
+[30/08/2017 09:49:51] Arquivo do pacote do CA 56937 extraído.
+[30/08/2017 09:50:01] Banco Selecionado Para aplicar: GIST
+[30/08/2017 09:50:04] Atribuído objeto do tipo Procedure - TS.AT_PEDIDO_INCLUSAO_ddl.sql em ts/GIST
+[30/08/2017 09:50:04] Atribuído objeto do tipo Procedure - TS.AT_PEDIDO_ALTERACAO_ddl.sql em ts/GIST
+[30/08/2017 09:50:04] Atribuído objeto do tipo Table - TS.AUTORIZACAO_ITEM_FUNCAO_ddl.sql em ts/GIST
+[30/08/2017 09:50:06] Sistema alterando o aplica para ordem certa de aplicação
+[30/08/2017 09:50:08] Selecionado P/ Não Criptografar em: GIST 
+[30/08/2017 09:50:08] Selecionado P/ Criptografar em: 
+[30/08/2017 09:50:08] Arquivo "APLICA.SQL" criado com sucesso.
+[30/08/2017 09:50:16] Executado o aplica no sqlplus.
+[30/08/2017 09:52:13] Log de aplicão no banco do CA 56937 aberto.
+[30/08/2017 10:28:05] Sistema finalizado.
+

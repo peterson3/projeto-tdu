@@ -1,0 +1,13 @@
+[17/05/2017 19:23:47] Sistema Iniciado.
+[17/05/2017 19:24:03] Aberto driver com Chrome.
+[17/05/2017 19:24:29] Controle instanciado: 55525
+[17/05/2017 19:25:35] Arquivo do pacote do CA 55525 extraído.
+[17/05/2017 19:25:40] Log de versões do CA 55525 aberto.
+[17/05/2017 19:26:19] Banco Selecionado Para aplicar: QUALI_BR
+[17/05/2017 19:26:21] Atribuído objeto do tipo Package - TS_BR.ODO_PRS_UTL_INTEGRACAO_DDL.SQL em ts_teste/QUALI_BR
+[17/05/2017 19:26:24] Sistema alterando o aplica para ordem certa de aplicação
+[17/05/2017 19:26:26] Selecionado P/ Não Criptografar em: QUALI_BR 
+[17/05/2017 19:26:26] Selecionado P/ Criptografar em: 
+[17/05/2017 19:26:26] Arquivo "APLICA.SQL" criado com sucesso.
+[17/05/2017 19:26:34] Executado o aplica no sqlplus.
+[17/05/2017 19:27:16] Log de aplicão no banco do CA 55525 aberto.

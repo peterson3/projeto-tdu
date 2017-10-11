@@ -1,0 +1,191 @@
+[19/12/2016 13:43:41] Sistema Iniciado.
+[19/12/2016 13:44:00] Aberto driver com Chrome.
+[19/12/2016 13:44:17] Controle instanciado: 53966
+[19/12/2016 13:44:39] Banco Selecionado Para aplicar: GIST
+[19/12/2016 13:44:39] Banco Selecionado Para aplicar: SEG_DES8
+[19/12/2016 13:44:39] Banco Selecionado Para aplicar: SEG_VAZIO
+[19/12/2016 13:44:55] Banco Selecionado Para aplicar: GIST
+[19/12/2016 13:45:01] Atribuído objeto do tipo Script - ts_sec.funcao_INSERT_DDL.SQL em ts/GIST
+[19/12/2016 13:45:01] Atribuído objeto do tipo Script - TS.TS_JOB_INSERT_DDL.SQL em ts/GIST
+[19/12/2016 13:45:01] Atribuído objeto do tipo Script - 9_update_tipo_reajuste_rpc.sql em ts/GIST
+[19/12/2016 13:45:01] Atribuído objeto do tipo Script - 8_script_limpa_dup_ans_rpc_automatico.sql em ts/GIST
+[19/12/2016 13:45:01] Atribuído objeto do tipo Script - 7_script_atualiza_contrato_plano_rpc.sql em ts/GIST
+[19/12/2016 13:45:01] Atribuído objeto do tipo Script - 6_script_ts_job_rpc_canc.sql em ts/GIST
+[19/12/2016 13:45:01] Atribuído objeto do tipo Script - 5_script_tipo_motivo_justificativa_rpc.sql em ts/GIST
+[19/12/2016 13:45:01] Atribuído objeto do tipo Script - 4_script_tipo_justificativa_rpc.sql em ts/GIST
+[19/12/2016 13:45:01] Atribuído objeto do tipo Script - 3_insert_ans_tipo_justificativa_rpc.sql em ts/GIST
+[19/12/2016 13:45:01] Atribuído objeto do tipo Script - 2_insert_funcoes_rpc.sql em ts/GIST
+[19/12/2016 13:45:01] Atribuído objeto do tipo Script - 1_insert_tipo_ocorrencia_contrato_rpc.sql em ts/GIST
+[19/12/2016 13:45:01] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.CON_RETIFICAR_GRUPO_CONTRATO_DDL.SQL em ts/GIST
+[19/12/2016 13:45:01] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.CON_CALCULA_NOVA_VIGENCIA_DDL.SQL em ts/GIST
+[19/12/2016 13:45:01] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.ANS_RPC_CANCELAMENTO_ddl.sql em ts/GIST
+[19/12/2016 13:45:01] Atribuído objeto do tipo Sinonimo - ts_sistema.ans_rcs_consultas_rpc_ddl.sql em ts/GIST
+[19/12/2016 13:45:01] Atribuído objeto do tipo Sinonimo - ts_sistema.ans_atu_contrato_plano_ret_ddl.sql em ts/GIST
+[19/12/2016 13:45:01] Atribuído objeto do tipo Sinonimo - ts_sistema.ans_atu_contrato_plano_canc_ddl.sql em ts/GIST
+[19/12/2016 13:45:01] Atribuído objeto do tipo Package - TS.CON_RETIFICAR_GRUPO_CONTRATO_DDL.SQL em ts/GIST
+[19/12/2016 13:45:01] Atribuído objeto do tipo Package - ts.ass_cons_reajuste_ddl.sql em ts/GIST
+[19/12/2016 13:45:01] Atribuído objeto do tipo Package - TS.ANS_RPC_CANCELAMENTO_ddl.sql em ts/GIST
+[19/12/2016 13:45:01] Atribuído objeto do tipo Package - ts.ans_rcs_consultas_rpc_ddl.sql em ts/GIST
+[19/12/2016 13:45:01] Atribuído objeto do tipo Procedure - TS.CON_CALCULA_NOVA_VIGENCIA_ddl.sql em ts/GIST
+[19/12/2016 13:45:01] Atribuído objeto do tipo Procedure - TS.ANS_RPC_GERA_ARQUIVO_ddl.sql em ts/GIST
+[19/12/2016 13:45:01] Atribuído objeto do tipo Procedure - TS.ANS_RPC_APROVACAO_ddl.sql em ts/GIST
+[19/12/2016 13:45:01] Atribuído objeto do tipo Procedure - ts.ans_atu_contrato_plano_ret_ddl.sql em ts/GIST
+[19/12/2016 13:45:01] Atribuído objeto do tipo Procedure - ts.ans_atu_contrato_plano_canc_ddl.sql em ts/GIST
+[19/12/2016 13:45:01] Atribuído objeto do tipo Index - TS.CONTRATO_PLANO_IDX004_DDL.SQL em ts/GIST
+[19/12/2016 13:45:01] Atribuído objeto do tipo Index - TS.CONTRATO_PLANO_IDX003_DDL.SQL em ts/GIST
+[19/12/2016 13:45:01] Atribuído objeto do tipo Index - TS.CONTRATO_COBRANCA_IDX010_DDL.SQL em ts/GIST
+[19/12/2016 13:45:01] Atribuído objeto do tipo Table - TS.TIPO_MOTIVO_JUSTIFICATIVA_RPC_ddl.sql em ts/GIST
+[19/12/2016 13:45:01] Atribuído objeto do tipo Table - TS.TIPO_JUSTIFICATIVA_RPC_ddl.sql em ts/GIST
+[19/12/2016 13:45:01] Atribuído objeto do tipo Table - TS.CONTRATO_PLANO_ddl.sql em ts/GIST
+[19/12/2016 13:45:01] Atribuído objeto do tipo Table - ts.contrato_cobranca_ddl.sql em ts/GIST
+[19/12/2016 13:45:01] Atribuído objeto do tipo Table - TS.ANS_TIPO_JUSTIFICATIVA_RPC_ddl.sql em ts/GIST
+[19/12/2016 13:45:01] Atribuído objeto do tipo Table - TS.ANS_RPC_AUTOMATICO_ddl.sql em ts/GIST
+[19/12/2016 13:45:03] Sistema alterando o aplica para ordem certa de aplicação
+[19/12/2016 13:45:05] Selecionado P/ Não Criptografar em: GIST 
+[19/12/2016 13:45:05] Selecionado P/ Criptografar em: 
+[19/12/2016 13:45:05] Arquivo "APLICA.SQL" criado com sucesso.
+[19/12/2016 13:45:13] Executado o aplica no sqlplus.
+[19/12/2016 13:48:33] Banco Selecionado Para aplicar: MAR_VAZIO
+[19/12/2016 13:48:40] Atribuído objeto do tipo Script - ts_sec.funcao_INSERT_DDL.SQL em mar_teste/MAR_VAZIO
+[19/12/2016 13:48:40] Atribuído objeto do tipo Script - TS.TS_JOB_INSERT_DDL.SQL em mar_teste/MAR_VAZIO
+[19/12/2016 13:48:40] Atribuído objeto do tipo Script - 9_update_tipo_reajuste_rpc.sql em mar_teste/MAR_VAZIO
+[19/12/2016 13:48:40] Atribuído objeto do tipo Script - 8_script_limpa_dup_ans_rpc_automatico.sql em mar_teste/MAR_VAZIO
+[19/12/2016 13:48:40] Atribuído objeto do tipo Script - 7_script_atualiza_contrato_plano_rpc.sql em mar_teste/MAR_VAZIO
+[19/12/2016 13:48:40] Atribuído objeto do tipo Script - 6_script_ts_job_rpc_canc.sql em mar_teste/MAR_VAZIO
+[19/12/2016 13:48:40] Atribuído objeto do tipo Script - 5_script_tipo_motivo_justificativa_rpc.sql em mar_teste/MAR_VAZIO
+[19/12/2016 13:48:40] Atribuído objeto do tipo Script - 4_script_tipo_justificativa_rpc.sql em mar_teste/MAR_VAZIO
+[19/12/2016 13:48:40] Atribuído objeto do tipo Script - 3_insert_ans_tipo_justificativa_rpc.sql em mar_teste/MAR_VAZIO
+[19/12/2016 13:48:40] Atribuído objeto do tipo Script - 2_insert_funcoes_rpc.sql em mar_teste/MAR_VAZIO
+[19/12/2016 13:48:40] Atribuído objeto do tipo Script - 1_insert_tipo_ocorrencia_contrato_rpc.sql em mar_teste/MAR_VAZIO
+[19/12/2016 13:48:40] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.CON_RETIFICAR_GRUPO_CONTRATO_DDL.SQL em mar_teste/MAR_VAZIO
+[19/12/2016 13:48:40] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.CON_CALCULA_NOVA_VIGENCIA_DDL.SQL em mar_teste/MAR_VAZIO
+[19/12/2016 13:48:40] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.ANS_RPC_CANCELAMENTO_ddl.sql em mar_teste/MAR_VAZIO
+[19/12/2016 13:48:40] Atribuído objeto do tipo Sinonimo - ts_sistema.ans_rcs_consultas_rpc_ddl.sql em mar_teste/MAR_VAZIO
+[19/12/2016 13:48:40] Atribuído objeto do tipo Sinonimo - ts_sistema.ans_atu_contrato_plano_ret_ddl.sql em mar_teste/MAR_VAZIO
+[19/12/2016 13:48:40] Atribuído objeto do tipo Sinonimo - ts_sistema.ans_atu_contrato_plano_canc_ddl.sql em mar_teste/MAR_VAZIO
+[19/12/2016 13:48:40] Atribuído objeto do tipo Package - TS.CON_RETIFICAR_GRUPO_CONTRATO_DDL.SQL em mar_teste/MAR_VAZIO
+[19/12/2016 13:48:40] Atribuído objeto do tipo Package - ts.ass_cons_reajuste_ddl.sql em mar_teste/MAR_VAZIO
+[19/12/2016 13:48:40] Atribuído objeto do tipo Package - TS.ANS_RPC_CANCELAMENTO_ddl.sql em mar_teste/MAR_VAZIO
+[19/12/2016 13:48:40] Atribuído objeto do tipo Package - ts.ans_rcs_consultas_rpc_ddl.sql em mar_teste/MAR_VAZIO
+[19/12/2016 13:48:40] Atribuído objeto do tipo Procedure - TS.CON_CALCULA_NOVA_VIGENCIA_ddl.sql em mar_teste/MAR_VAZIO
+[19/12/2016 13:48:40] Atribuído objeto do tipo Procedure - TS.ANS_RPC_GERA_ARQUIVO_ddl.sql em mar_teste/MAR_VAZIO
+[19/12/2016 13:48:40] Atribuído objeto do tipo Procedure - TS.ANS_RPC_APROVACAO_ddl.sql em mar_teste/MAR_VAZIO
+[19/12/2016 13:48:40] Atribuído objeto do tipo Procedure - ts.ans_atu_contrato_plano_ret_ddl.sql em mar_teste/MAR_VAZIO
+[19/12/2016 13:48:40] Atribuído objeto do tipo Procedure - ts.ans_atu_contrato_plano_canc_ddl.sql em mar_teste/MAR_VAZIO
+[19/12/2016 13:48:40] Atribuído objeto do tipo Index - TS.CONTRATO_PLANO_IDX004_DDL.SQL em mar_teste/MAR_VAZIO
+[19/12/2016 13:48:40] Atribuído objeto do tipo Index - TS.CONTRATO_PLANO_IDX003_DDL.SQL em mar_teste/MAR_VAZIO
+[19/12/2016 13:48:40] Atribuído objeto do tipo Index - TS.CONTRATO_COBRANCA_IDX010_DDL.SQL em mar_teste/MAR_VAZIO
+[19/12/2016 13:48:40] Atribuído objeto do tipo Table - TS.TIPO_MOTIVO_JUSTIFICATIVA_RPC_ddl.sql em mar_teste/MAR_VAZIO
+[19/12/2016 13:48:40] Atribuído objeto do tipo Table - TS.TIPO_JUSTIFICATIVA_RPC_ddl.sql em mar_teste/MAR_VAZIO
+[19/12/2016 13:48:40] Atribuído objeto do tipo Table - TS.CONTRATO_PLANO_ddl.sql em mar_teste/MAR_VAZIO
+[19/12/2016 13:48:40] Atribuído objeto do tipo Table - ts.contrato_cobranca_ddl.sql em mar_teste/MAR_VAZIO
+[19/12/2016 13:48:40] Atribuído objeto do tipo Table - TS.ANS_TIPO_JUSTIFICATIVA_RPC_ddl.sql em mar_teste/MAR_VAZIO
+[19/12/2016 13:48:40] Atribuído objeto do tipo Table - TS.ANS_RPC_AUTOMATICO_ddl.sql em mar_teste/MAR_VAZIO
+[19/12/2016 13:48:42] Sistema alterando o aplica para ordem certa de aplicação
+[19/12/2016 13:48:44] Selecionado P/ Não Criptografar em: MAR_VAZIO 
+[19/12/2016 13:48:44] Selecionado P/ Criptografar em: 
+[19/12/2016 13:48:45] Arquivo "APLICA.SQL" criado com sucesso.
+[19/12/2016 13:48:52] Executado o aplica no sqlplus.
+[19/12/2016 14:08:05] Sistema finalizado.
+
+[19/12/2016 14:17:57] Sistema Iniciado.
+[19/12/2016 14:19:50] Sistema finalizado.
+
+[19/12/2016 14:19:58] Sistema Iniciado.
+[19/12/2016 14:46:09] Sistema finalizado.
+
+[19/12/2016 16:28:56] Sistema Iniciado.
+[19/12/2016 16:29:14] Aberto driver com Chrome.
+[19/12/2016 16:29:39] Controle instanciado: 53966
+[19/12/2016 16:29:45] Banco Selecionado Para aplicar: GIST
+[19/12/2016 16:29:52] Atribuído objeto do tipo Script - ts_sec.funcao_INSERT_DDL.SQL em ts/GIST
+[19/12/2016 16:29:52] Atribuído objeto do tipo Script - TS.TS_JOB_INSERT_DDL.SQL em ts/GIST
+[19/12/2016 16:29:52] Atribuído objeto do tipo Script - 9_update_tipo_reajuste_rpc.sql em ts/GIST
+[19/12/2016 16:29:52] Atribuído objeto do tipo Script - 8_script_limpa_dup_ans_rpc_automatico.sql em ts/GIST
+[19/12/2016 16:29:52] Atribuído objeto do tipo Script - 7_script_atualiza_contrato_plano_rpc.sql em ts/GIST
+[19/12/2016 16:29:52] Atribuído objeto do tipo Script - 6_script_ts_job_rpc_canc.sql em ts/GIST
+[19/12/2016 16:29:52] Atribuído objeto do tipo Script - 5_script_tipo_motivo_justificativa_rpc.sql em ts/GIST
+[19/12/2016 16:29:52] Atribuído objeto do tipo Script - 4_script_tipo_justificativa_rpc.sql em ts/GIST
+[19/12/2016 16:29:52] Atribuído objeto do tipo Script - 3_insert_ans_tipo_justificativa_rpc.sql em ts/GIST
+[19/12/2016 16:29:52] Atribuído objeto do tipo Script - 2_insert_funcoes_rpc.sql em ts/GIST
+[19/12/2016 16:29:52] Atribuído objeto do tipo Script - 1_insert_tipo_ocorrencia_contrato_rpc.sql em ts/GIST
+[19/12/2016 16:29:52] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.CON_RETIFICAR_GRUPO_CONTRATO_DDL.SQL em ts/GIST
+[19/12/2016 16:29:52] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.CON_CALCULA_NOVA_VIGENCIA_DDL.SQL em ts/GIST
+[19/12/2016 16:29:52] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.ANS_RPC_CANCELAMENTO_ddl.sql em ts/GIST
+[19/12/2016 16:29:52] Atribuído objeto do tipo Sinonimo - ts_sistema.ans_rcs_consultas_rpc_ddl.sql em ts/GIST
+[19/12/2016 16:29:52] Atribuído objeto do tipo Sinonimo - ts_sistema.ans_atu_contrato_plano_ret_ddl.sql em ts/GIST
+[19/12/2016 16:29:52] Atribuído objeto do tipo Sinonimo - ts_sistema.ans_atu_contrato_plano_canc_ddl.sql em ts/GIST
+[19/12/2016 16:29:52] Atribuído objeto do tipo Package - TS.CON_RETIFICAR_GRUPO_CONTRATO_DDL.SQL em ts/GIST
+[19/12/2016 16:29:52] Atribuído objeto do tipo Package - ts.ass_cons_reajuste_ddl.sql em ts/GIST
+[19/12/2016 16:29:52] Atribuído objeto do tipo Package - TS.ANS_RPC_CANCELAMENTO_ddl.sql em ts/GIST
+[19/12/2016 16:29:52] Atribuído objeto do tipo Package - ts.ans_rcs_consultas_rpc_ddl.sql em ts/GIST
+[19/12/2016 16:29:52] Atribuído objeto do tipo Procedure - TS.CON_CALCULA_NOVA_VIGENCIA_ddl.sql em ts/GIST
+[19/12/2016 16:29:52] Atribuído objeto do tipo Procedure - TS.ANS_RPC_GERA_ARQUIVO_ddl.sql em ts/GIST
+[19/12/2016 16:29:52] Atribuído objeto do tipo Procedure - TS.ANS_RPC_APROVACAO_ddl.sql em ts/GIST
+[19/12/2016 16:29:52] Atribuído objeto do tipo Procedure - ts.ans_atu_contrato_plano_ret_ddl.sql em ts/GIST
+[19/12/2016 16:29:52] Atribuído objeto do tipo Procedure - ts.ans_atu_contrato_plano_canc_ddl.sql em ts/GIST
+[19/12/2016 16:29:52] Atribuído objeto do tipo Index - TS.CONTRATO_PLANO_IDX004_DDL.SQL em ts/GIST
+[19/12/2016 16:29:52] Atribuído objeto do tipo Index - TS.CONTRATO_PLANO_IDX003_DDL.SQL em ts/GIST
+[19/12/2016 16:29:52] Atribuído objeto do tipo Index - TS.CONTRATO_COBRANCA_IDX010_DDL.SQL em ts/GIST
+[19/12/2016 16:29:52] Atribuído objeto do tipo Table - TS.TIPO_MOTIVO_JUSTIFICATIVA_RPC_ddl.sql em ts/GIST
+[19/12/2016 16:29:52] Atribuído objeto do tipo Table - TS.TIPO_JUSTIFICATIVA_RPC_ddl.sql em ts/GIST
+[19/12/2016 16:29:52] Atribuído objeto do tipo Table - TS.CONTRATO_PLANO_ddl.sql em ts/GIST
+[19/12/2016 16:29:52] Atribuído objeto do tipo Table - ts.contrato_cobranca_ddl.sql em ts/GIST
+[19/12/2016 16:29:52] Atribuído objeto do tipo Table - TS.ANS_TIPO_JUSTIFICATIVA_RPC_ddl.sql em ts/GIST
+[19/12/2016 16:29:52] Atribuído objeto do tipo Table - TS.ANS_RPC_AUTOMATICO_ddl.sql em ts/GIST
+[19/12/2016 16:29:53] Sistema alterando o aplica para ordem certa de aplicação
+[19/12/2016 16:29:55] Selecionado P/ Não Criptografar em: 
+[19/12/2016 16:29:55] Selecionado P/ Criptografar em: GIST 
+[19/12/2016 16:29:55] Arquivo "APLICA.SQL" criado com sucesso.
+[19/12/2016 16:30:00] Executado o aplica no sqlplus.
+[19/12/2016 16:34:34] Executado o aplica no sqlplus.
+[19/12/2016 16:54:47] Resultado do Login na WEB Maritima    (10.1.1.159): Sucesso Ao logar.
+[19/12/2016 16:54:47] Sistema procurará os arquivos na(s) pasta(s): jtopdown topsaude web 
+[19/12/2016 16:54:47] Quantidade de Arquivos: 25 (arquivos que não estão na raíz).
+[19/12/2016 16:54:48] Pasta ENCONTRADA em \\10.1.1.159\web\ans\asp\
+[19/12/2016 16:54:48] Pasta ENCONTRADA em \\10.1.1.159\web\ans\asp\
+[19/12/2016 16:54:48] Pasta ENCONTRADA em \\10.1.1.159\web\ans\asp\
+[19/12/2016 16:54:48] Arquivo ENCONTRADO em \\10.1.1.159\web\ans\asp\ans0024a.asp
+[19/12/2016 16:54:48] Arquivo ENCONTRADO em \\10.1.1.159\web\ans\asp\ans0024b.asp
+[19/12/2016 16:54:48] Pasta ENCONTRADA em \\10.1.1.159\web\ans\asp\
+[19/12/2016 16:54:48] Pasta ENCONTRADA em \\10.1.1.159\web\ans\asp\
+[19/12/2016 16:54:48] Pasta ENCONTRADA em \\10.1.1.159\web\ans\asp\
+[19/12/2016 16:54:49] Pasta ENCONTRADA em \\10.1.1.159\web\ans\asp\
+[19/12/2016 16:54:49] Pasta ENCONTRADA em \\10.1.1.159\web\ans\asp\
+[19/12/2016 16:54:49] Pasta ENCONTRADA em \\10.1.1.159\web\ans\asp\
+[19/12/2016 16:54:49] Pasta ENCONTRADA em \\10.1.1.159\web\ans\asp\
+[19/12/2016 16:54:49] Pasta ENCONTRADA em \\10.1.1.159\web\ans\asp\
+[19/12/2016 16:54:49] Pasta ENCONTRADA em \\10.1.1.159\web\ans\asp\
+[19/12/2016 16:54:50] Pasta ENCONTRADA em \\10.1.1.159\web\ans\asp\
+[19/12/2016 16:54:50] Arquivo ENCONTRADO em \\10.1.1.159\web\ass\asp\ass0098a.asp
+[19/12/2016 16:54:50] Arquivo ENCONTRADO em \\10.1.1.159\web\ass\asp\ass0098b.asp
+[19/12/2016 16:54:50] Arquivo ENCONTRADO em \\10.1.1.159\web\ass\asp\ass0205a.asp
+[19/12/2016 16:54:50] Arquivo ENCONTRADO em \\10.1.1.159\web\ass\asp\ass0205b.asp
+[19/12/2016 16:54:50] Pasta ENCONTRADA em \\10.1.1.159\web\ass\asp\
+[19/12/2016 16:54:50] Pasta ENCONTRADA em \\10.1.1.159\web\ass\asp\
+[19/12/2016 16:54:50] Pasta ENCONTRADA em \\10.1.1.159\web\ass\asp\
+[19/12/2016 16:54:53] Tempo que levou para achar todos os arquivos: 0 minuto(s), 5 segundo(s) e 728 milisegundo(s).
+[19/12/2016 16:54:55] K:\Pacotes\53951-54000\53966-FABIANO\web\ans\asp\ans0014a.asp copiado para \\10.1.1.159\web\ans\asp\
+[19/12/2016 16:54:55] K:\Pacotes\53951-54000\53966-FABIANO\web\ans\asp\ans0014b.asp copiado para \\10.1.1.159\web\ans\asp\
+[19/12/2016 16:54:56] K:\Pacotes\53951-54000\53966-FABIANO\web\ans\asp\ans0014c.asp copiado para \\10.1.1.159\web\ans\asp\
+[19/12/2016 16:54:56] K:\Pacotes\53951-54000\53966-FABIANO\web\ans\asp\ans0024a.asp copiado para \\10.1.1.159\web\ans\asp\ans0024a.asp
+[19/12/2016 16:54:56] K:\Pacotes\53951-54000\53966-FABIANO\web\ans\asp\ans0024b.asp copiado para \\10.1.1.159\web\ans\asp\ans0024b.asp
+[19/12/2016 16:54:56] K:\Pacotes\53951-54000\53966-FABIANO\web\ans\asp\ans0052.js copiado para \\10.1.1.159\web\ans\asp\
+[19/12/2016 16:54:56] K:\Pacotes\53951-54000\53966-FABIANO\web\ans\asp\ans0052a.asp copiado para \\10.1.1.159\web\ans\asp\
+[19/12/2016 16:54:56] K:\Pacotes\53951-54000\53966-FABIANO\web\ans\asp\ans0052b.asp copiado para \\10.1.1.159\web\ans\asp\
+[19/12/2016 16:54:57] K:\Pacotes\53951-54000\53966-FABIANO\web\ans\asp\ans0052c.asp copiado para \\10.1.1.159\web\ans\asp\
+[19/12/2016 16:54:57] K:\Pacotes\53951-54000\53966-FABIANO\web\ans\asp\ans0052d.asp copiado para \\10.1.1.159\web\ans\asp\
+[19/12/2016 16:54:57] K:\Pacotes\53951-54000\53966-FABIANO\web\ans\asp\ans0053.js copiado para \\10.1.1.159\web\ans\asp\
+[19/12/2016 16:54:57] K:\Pacotes\53951-54000\53966-FABIANO\web\ans\asp\ans0053a.asp copiado para \\10.1.1.159\web\ans\asp\
+[19/12/2016 16:54:57] K:\Pacotes\53951-54000\53966-FABIANO\web\ans\asp\ans0053b.asp copiado para \\10.1.1.159\web\ans\asp\
+[19/12/2016 16:54:57] K:\Pacotes\53951-54000\53966-FABIANO\web\ans\asp\ans0053c.asp copiado para \\10.1.1.159\web\ans\asp\
+[19/12/2016 16:54:57] K:\Pacotes\53951-54000\53966-FABIANO\web\ans\asp\ans0053d.asp copiado para \\10.1.1.159\web\ans\asp\
+[19/12/2016 16:54:58] K:\Pacotes\53951-54000\53966-FABIANO\web\ass\asp\ass0098a.asp copiado para \\10.1.1.159\web\ass\asp\ass0098a.asp
+[19/12/2016 16:54:58] K:\Pacotes\53951-54000\53966-FABIANO\web\ass\asp\ass0098b.asp copiado para \\10.1.1.159\web\ass\asp\ass0098b.asp
+[19/12/2016 16:54:58] K:\Pacotes\53951-54000\53966-FABIANO\web\ass\asp\ass0205a.asp copiado para \\10.1.1.159\web\ass\asp\ass0205a.asp
+[19/12/2016 16:54:58] K:\Pacotes\53951-54000\53966-FABIANO\web\ass\asp\ass0205b.asp copiado para \\10.1.1.159\web\ass\asp\ass0205b.asp
+[19/12/2016 16:54:58] K:\Pacotes\53951-54000\53966-FABIANO\web\ass\asp\ass0501a.asp copiado para \\10.1.1.159\web\ass\asp\
+[19/12/2016 16:54:59] K:\Pacotes\53951-54000\53966-FABIANO\web\ass\asp\ass0501b.asp copiado para \\10.1.1.159\web\ass\asp\
+[19/12/2016 16:54:59] K:\Pacotes\53951-54000\53966-FABIANO\web\ass\asp\ass0501c.asp copiado para \\10.1.1.159\web\ass\asp\
+[19/12/2016 16:55:03] Sistema finalizado.
+

@@ -1,0 +1,145 @@
+[24/05/2017 18:21:31] Sistema Iniciado.
+[24/05/2017 18:21:57] Aberto driver com Chrome.
+[24/05/2017 18:22:18] Controle instanciado: 55571
+[24/05/2017 18:24:45] Arquivo do pacote do CA 55571 extraído.
+[24/05/2017 18:24:55] Banco Selecionado Para aplicar: HOMO_MED
+[24/05/2017 18:24:59] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.PEP_RCS_CONSULTA_PKG_ddl.sql em ts_teste/HOMO_MED
+[24/05/2017 18:24:59] Atribuído objeto do tipo Package - TS.PEP_RCS_CONSULTA_PKG_ddl.sql em ts_teste/HOMO_MED
+[24/05/2017 18:25:00] Sistema alterando o aplica para ordem certa de aplicação
+[24/05/2017 18:25:01] Selecionado P/ Não Criptografar em: HOMO_MED 
+[24/05/2017 18:25:01] Selecionado P/ Criptografar em: 
+[24/05/2017 18:25:01] Arquivo "APLICA.SQL" criado com sucesso.
+[24/05/2017 18:25:09] Executado o aplica no sqlplus.
+[24/05/2017 18:28:03] Log de aplicão no banco do CA 55571 aberto.
+[24/05/2017 18:28:16] Resultado do Login na WEB HOMOLOG V11    (10.10.100.147): Sucesso Ao logar.
+[24/05/2017 18:28:16] Sistema procurará os arquivos na(s) pasta(s): jtopdown TopSaude 
+[24/05/2017 18:28:16] Quantidade de Arquivos: 60 (arquivos que não estão na raíz).
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\gen\asp\GEN0112a.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\hes\asp\hes0010c.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\pep\asp\pep0001a.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\pep\asp\pep0002a.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\pep\asp\pep0002b.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\pep\asp\pep0003c.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\pep\asp\pep0003d.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\pep\asp\pep0006a.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\pep\asp\pep0006b.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\pep\asp\pep0008a.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\pep\asp\pep0008b.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\pep\asp\pep0008c.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\pep\asp\pep0009a.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\pep\asp\pep0009b.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\pep\asp\pep0009c.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\pep\asp\pep0010a.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\pep\asp\pep0010b.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\pep\asp\pep0011a.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\pep\asp\pep0011b.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\pep\asp\pep0011c.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\pep\asp\pep0012a.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\pep\asp\pep0012b.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\pep\asp\pep0013a.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\pep\asp\pep0013b.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\pep\asp\pep0015a.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\pep\asp\pep0019a.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\pep\asp\pep0019b.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\pep\asp\pep0020a.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\pep\asp\pep0020b.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\pep\asp\pep0023c.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\pep\asp\pep0026a.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\pep\asp\pep0027a.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\pep\asp\pep0028a.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\pep\asp\pep0028b.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\pep\asp\pep0030a.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\pep\asp\pep0031a.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\pep\asp\pep0032a.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\pep\asp\pep0032b.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\pep\asp\pep0040a.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\pep\asp\pep0040b.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\pep\asp\pep0049a.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\pep\asp\pep0049b.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\pep\asp\pep0049c.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\pep\asp\pep0050a.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\pep\asp\pep0050b.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\pep\asp\pep0051a.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\pep\asp\pep0051b.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\pep\asp\pep0052a.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\pep\asp\pep0052b.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\pep\asp\pep0053a.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\pep\asp\pep0053b.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\pep\asp\pep0054a.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\pep\asp\pep0054b.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\rge\asp\rge0002a.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\rge\asp\rge0002b.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\rge\asp\rge0002c.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\rge\asp\rge0002d.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\rge\asp\rge0002e.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\rge\asp\rge0003a.asp
+[24/05/2017 18:28:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\rge\asp\rge0003b.asp
+[24/05/2017 18:28:16] Busca Aprofundada necessária não realizada
+[24/05/2017 18:28:16] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 400 milisegundo(s).
+[24/05/2017 18:28:17] K:\Pacotes\55551-55600\55571-fabiana\web\gen\asp\GEN0112a.asp copiado para \\10.10.100.147\TopSaude\web\gen\asp\GEN0112a.asp
+[24/05/2017 18:28:17] K:\Pacotes\55551-55600\55571-fabiana\web\hes\asp\hes0010c.asp copiado para \\10.10.100.147\TopSaude\web\hes\asp\hes0010c.asp
+[24/05/2017 18:28:17] Alterando atributo de arquivo de somente leitura.
+[24/05/2017 18:28:17] K:\Pacotes\55551-55600\55571-fabiana\web\pep\asp\pep0001a.asp copiado para \\10.10.100.147\TopSaude\web\pep\asp\pep0001a.asp
+[24/05/2017 18:28:18] K:\Pacotes\55551-55600\55571-fabiana\web\pep\asp\pep0002a.asp copiado para \\10.10.100.147\TopSaude\web\pep\asp\pep0002a.asp
+[24/05/2017 18:28:18] K:\Pacotes\55551-55600\55571-fabiana\web\pep\asp\pep0002b.asp copiado para \\10.10.100.147\TopSaude\web\pep\asp\pep0002b.asp
+[24/05/2017 18:28:18] K:\Pacotes\55551-55600\55571-fabiana\web\pep\asp\pep0003c.asp copiado para \\10.10.100.147\TopSaude\web\pep\asp\pep0003c.asp
+[24/05/2017 18:28:18] Alterando atributo de arquivo de somente leitura.
+[24/05/2017 18:28:18] K:\Pacotes\55551-55600\55571-fabiana\web\pep\asp\pep0003d.asp copiado para \\10.10.100.147\TopSaude\web\pep\asp\pep0003d.asp
+[24/05/2017 18:28:18] K:\Pacotes\55551-55600\55571-fabiana\web\pep\asp\pep0006a.asp copiado para \\10.10.100.147\TopSaude\web\pep\asp\pep0006a.asp
+[24/05/2017 18:28:18] K:\Pacotes\55551-55600\55571-fabiana\web\pep\asp\pep0006b.asp copiado para \\10.10.100.147\TopSaude\web\pep\asp\pep0006b.asp
+[24/05/2017 18:28:18] K:\Pacotes\55551-55600\55571-fabiana\web\pep\asp\pep0008a.asp copiado para \\10.10.100.147\TopSaude\web\pep\asp\pep0008a.asp
+[24/05/2017 18:28:18] K:\Pacotes\55551-55600\55571-fabiana\web\pep\asp\pep0008b.asp copiado para \\10.10.100.147\TopSaude\web\pep\asp\pep0008b.asp
+[24/05/2017 18:28:18] K:\Pacotes\55551-55600\55571-fabiana\web\pep\asp\pep0008c.asp copiado para \\10.10.100.147\TopSaude\web\pep\asp\pep0008c.asp
+[24/05/2017 18:28:18] K:\Pacotes\55551-55600\55571-fabiana\web\pep\asp\pep0009a.asp copiado para \\10.10.100.147\TopSaude\web\pep\asp\pep0009a.asp
+[24/05/2017 18:28:18] K:\Pacotes\55551-55600\55571-fabiana\web\pep\asp\pep0009b.asp copiado para \\10.10.100.147\TopSaude\web\pep\asp\pep0009b.asp
+[24/05/2017 18:28:18] K:\Pacotes\55551-55600\55571-fabiana\web\pep\asp\pep0009c.asp copiado para \\10.10.100.147\TopSaude\web\pep\asp\pep0009c.asp
+[24/05/2017 18:28:18] K:\Pacotes\55551-55600\55571-fabiana\web\pep\asp\pep0010a.asp copiado para \\10.10.100.147\TopSaude\web\pep\asp\pep0010a.asp
+[24/05/2017 18:28:18] K:\Pacotes\55551-55600\55571-fabiana\web\pep\asp\pep0010b.asp copiado para \\10.10.100.147\TopSaude\web\pep\asp\pep0010b.asp
+[24/05/2017 18:28:18] K:\Pacotes\55551-55600\55571-fabiana\web\pep\asp\pep0011a.asp copiado para \\10.10.100.147\TopSaude\web\pep\asp\pep0011a.asp
+[24/05/2017 18:28:18] K:\Pacotes\55551-55600\55571-fabiana\web\pep\asp\pep0011b.asp copiado para \\10.10.100.147\TopSaude\web\pep\asp\pep0011b.asp
+[24/05/2017 18:28:18] K:\Pacotes\55551-55600\55571-fabiana\web\pep\asp\pep0011c.asp copiado para \\10.10.100.147\TopSaude\web\pep\asp\pep0011c.asp
+[24/05/2017 18:28:19] K:\Pacotes\55551-55600\55571-fabiana\web\pep\asp\pep0012a.asp copiado para \\10.10.100.147\TopSaude\web\pep\asp\pep0012a.asp
+[24/05/2017 18:28:19] K:\Pacotes\55551-55600\55571-fabiana\web\pep\asp\pep0012b.asp copiado para \\10.10.100.147\TopSaude\web\pep\asp\pep0012b.asp
+[24/05/2017 18:28:19] Alterando atributo de arquivo de somente leitura.
+[24/05/2017 18:28:19] K:\Pacotes\55551-55600\55571-fabiana\web\pep\asp\pep0013a.asp copiado para \\10.10.100.147\TopSaude\web\pep\asp\pep0013a.asp
+[24/05/2017 18:28:19] Alterando atributo de arquivo de somente leitura.
+[24/05/2017 18:28:19] K:\Pacotes\55551-55600\55571-fabiana\web\pep\asp\pep0013b.asp copiado para \\10.10.100.147\TopSaude\web\pep\asp\pep0013b.asp
+[24/05/2017 18:28:19] Alterando atributo de arquivo de somente leitura.
+[24/05/2017 18:28:19] K:\Pacotes\55551-55600\55571-fabiana\web\pep\asp\pep0015a.asp copiado para \\10.10.100.147\TopSaude\web\pep\asp\pep0015a.asp
+[24/05/2017 18:28:19] K:\Pacotes\55551-55600\55571-fabiana\web\pep\asp\pep0019a.asp copiado para \\10.10.100.147\TopSaude\web\pep\asp\pep0019a.asp
+[24/05/2017 18:28:19] K:\Pacotes\55551-55600\55571-fabiana\web\pep\asp\pep0019b.asp copiado para \\10.10.100.147\TopSaude\web\pep\asp\pep0019b.asp
+[24/05/2017 18:28:19] K:\Pacotes\55551-55600\55571-fabiana\web\pep\asp\pep0020a.asp copiado para \\10.10.100.147\TopSaude\web\pep\asp\pep0020a.asp
+[24/05/2017 18:28:19] K:\Pacotes\55551-55600\55571-fabiana\web\pep\asp\pep0020b.asp copiado para \\10.10.100.147\TopSaude\web\pep\asp\pep0020b.asp
+[24/05/2017 18:28:19] K:\Pacotes\55551-55600\55571-fabiana\web\pep\asp\pep0023c.asp copiado para \\10.10.100.147\TopSaude\web\pep\asp\pep0023c.asp
+[24/05/2017 18:28:19] K:\Pacotes\55551-55600\55571-fabiana\web\pep\asp\pep0026a.asp copiado para \\10.10.100.147\TopSaude\web\pep\asp\pep0026a.asp
+[24/05/2017 18:28:20] K:\Pacotes\55551-55600\55571-fabiana\web\pep\asp\pep0027a.asp copiado para \\10.10.100.147\TopSaude\web\pep\asp\pep0027a.asp
+[24/05/2017 18:28:20] K:\Pacotes\55551-55600\55571-fabiana\web\pep\asp\pep0028a.asp copiado para \\10.10.100.147\TopSaude\web\pep\asp\pep0028a.asp
+[24/05/2017 18:28:20] K:\Pacotes\55551-55600\55571-fabiana\web\pep\asp\pep0028b.asp copiado para \\10.10.100.147\TopSaude\web\pep\asp\pep0028b.asp
+[24/05/2017 18:28:20] K:\Pacotes\55551-55600\55571-fabiana\web\pep\asp\pep0030a.asp copiado para \\10.10.100.147\TopSaude\web\pep\asp\pep0030a.asp
+[24/05/2017 18:28:20] K:\Pacotes\55551-55600\55571-fabiana\web\pep\asp\pep0031a.asp copiado para \\10.10.100.147\TopSaude\web\pep\asp\pep0031a.asp
+[24/05/2017 18:28:20] K:\Pacotes\55551-55600\55571-fabiana\web\pep\asp\pep0032a.asp copiado para \\10.10.100.147\TopSaude\web\pep\asp\pep0032a.asp
+[24/05/2017 18:28:20] K:\Pacotes\55551-55600\55571-fabiana\web\pep\asp\pep0032b.asp copiado para \\10.10.100.147\TopSaude\web\pep\asp\pep0032b.asp
+[24/05/2017 18:28:20] K:\Pacotes\55551-55600\55571-fabiana\web\pep\asp\pep0040a.asp copiado para \\10.10.100.147\TopSaude\web\pep\asp\pep0040a.asp
+[24/05/2017 18:28:20] K:\Pacotes\55551-55600\55571-fabiana\web\pep\asp\pep0040b.asp copiado para \\10.10.100.147\TopSaude\web\pep\asp\pep0040b.asp
+[24/05/2017 18:28:20] K:\Pacotes\55551-55600\55571-fabiana\web\pep\asp\pep0049a.asp copiado para \\10.10.100.147\TopSaude\web\pep\asp\pep0049a.asp
+[24/05/2017 18:28:20] K:\Pacotes\55551-55600\55571-fabiana\web\pep\asp\pep0049b.asp copiado para \\10.10.100.147\TopSaude\web\pep\asp\pep0049b.asp
+[24/05/2017 18:28:20] K:\Pacotes\55551-55600\55571-fabiana\web\pep\asp\pep0049c.asp copiado para \\10.10.100.147\TopSaude\web\pep\asp\pep0049c.asp
+[24/05/2017 18:28:20] K:\Pacotes\55551-55600\55571-fabiana\web\pep\asp\pep0050a.asp copiado para \\10.10.100.147\TopSaude\web\pep\asp\pep0050a.asp
+[24/05/2017 18:28:20] K:\Pacotes\55551-55600\55571-fabiana\web\pep\asp\pep0050b.asp copiado para \\10.10.100.147\TopSaude\web\pep\asp\pep0050b.asp
+[24/05/2017 18:28:20] K:\Pacotes\55551-55600\55571-fabiana\web\pep\asp\pep0051a.asp copiado para \\10.10.100.147\TopSaude\web\pep\asp\pep0051a.asp
+[24/05/2017 18:28:20] K:\Pacotes\55551-55600\55571-fabiana\web\pep\asp\pep0051b.asp copiado para \\10.10.100.147\TopSaude\web\pep\asp\pep0051b.asp
+[24/05/2017 18:28:20] K:\Pacotes\55551-55600\55571-fabiana\web\pep\asp\pep0052a.asp copiado para \\10.10.100.147\TopSaude\web\pep\asp\pep0052a.asp
+[24/05/2017 18:28:21] K:\Pacotes\55551-55600\55571-fabiana\web\pep\asp\pep0052b.asp copiado para \\10.10.100.147\TopSaude\web\pep\asp\pep0052b.asp
+[24/05/2017 18:28:21] K:\Pacotes\55551-55600\55571-fabiana\web\pep\asp\pep0053a.asp copiado para \\10.10.100.147\TopSaude\web\pep\asp\pep0053a.asp
+[24/05/2017 18:28:21] K:\Pacotes\55551-55600\55571-fabiana\web\pep\asp\pep0053b.asp copiado para \\10.10.100.147\TopSaude\web\pep\asp\pep0053b.asp
+[24/05/2017 18:28:21] K:\Pacotes\55551-55600\55571-fabiana\web\pep\asp\pep0054a.asp copiado para \\10.10.100.147\TopSaude\web\pep\asp\pep0054a.asp
+[24/05/2017 18:28:21] K:\Pacotes\55551-55600\55571-fabiana\web\pep\asp\pep0054b.asp copiado para \\10.10.100.147\TopSaude\web\pep\asp\pep0054b.asp
+[24/05/2017 18:28:21] K:\Pacotes\55551-55600\55571-fabiana\web\rge\asp\rge0002a.asp copiado para \\10.10.100.147\TopSaude\web\rge\asp\rge0002a.asp
+[24/05/2017 18:28:21] K:\Pacotes\55551-55600\55571-fabiana\web\rge\asp\rge0002b.asp copiado para \\10.10.100.147\TopSaude\web\rge\asp\rge0002b.asp
+[24/05/2017 18:28:21] K:\Pacotes\55551-55600\55571-fabiana\web\rge\asp\rge0002c.asp copiado para \\10.10.100.147\TopSaude\web\rge\asp\rge0002c.asp
+[24/05/2017 18:28:21] K:\Pacotes\55551-55600\55571-fabiana\web\rge\asp\rge0002d.asp copiado para \\10.10.100.147\TopSaude\web\rge\asp\rge0002d.asp
+[24/05/2017 18:28:21] K:\Pacotes\55551-55600\55571-fabiana\web\rge\asp\rge0002e.asp copiado para \\10.10.100.147\TopSaude\web\rge\asp\rge0002e.asp
+[24/05/2017 18:28:21] K:\Pacotes\55551-55600\55571-fabiana\web\rge\asp\rge0003a.asp copiado para \\10.10.100.147\TopSaude\web\rge\asp\rge0003a.asp
+[24/05/2017 18:28:21] K:\Pacotes\55551-55600\55571-fabiana\web\rge\asp\rge0003b.asp copiado para \\10.10.100.147\TopSaude\web\rge\asp\rge0003b.asp
+[24/05/2017 18:29:31] Sistema finalizado.
+

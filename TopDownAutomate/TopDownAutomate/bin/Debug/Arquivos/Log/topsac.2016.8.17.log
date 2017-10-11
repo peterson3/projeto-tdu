@@ -1,0 +1,60 @@
+[17/08/2016 11:19:31] Sistema Iniciado.
+[17/08/2016 11:21:02] Aberto driver com Chrome.
+[17/08/2016 11:28:10] Controle instanciado: 52627
+[17/08/2016 11:38:38] Resultado do Login na WEB TOPADM    (10.10.100.138): Sucesso Ao logar.
+[17/08/2016 11:38:38] Sistema procurará os arquivos na(s) pasta(s): Admin2 app jtopdown PROJETOS 
+[17/08/2016 11:38:38] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[17/08/2016 11:39:03] Realizando busca aprofundada para objetos não encontrados...
+[17/08/2016 11:39:12] Tempo que levou para achar todos os arquivos: 0 minuto(s), 34 segundo(s) e 305 milisegundo(s).
+[17/08/2016 11:39:19] K:\Pacotes\52601-52650\52627-CHRISTIANO\web\fat\asp\FAT1100b.asp copiado para \\10.10.100.138\PROJETOS\topadministradora\web\fat\asp\FAT1100b.asp
+[17/08/2016 11:41:35] Sistema Iniciado.
+[17/08/2016 11:42:06] Aberto driver com Chrome.
+[17/08/2016 11:42:55] Controle instanciado: 52585
+[17/08/2016 11:44:07] Arquivo do pacote do CA 52585 extraído.
+[17/08/2016 11:44:24] Log de versões do CA 52585 aberto.
+[17/08/2016 14:31:54] Resultado do Login na WEB HOMOLOG V11    (10.10.100.147): Sucesso Ao logar.
+[17/08/2016 14:31:54] Sistema procurará os arquivos na(s) pasta(s): jtopdown TopSaude 
+[17/08/2016 14:31:54] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[17/08/2016 14:31:54] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\ass\asp\ASS0304.JS
+[17/08/2016 14:31:54] Busca Aprofundada necessária não realizada
+[17/08/2016 14:31:54] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 21 milisegundo(s).
+[17/08/2016 14:31:58] K:\Pacotes\52551-52600\52585-PEDRO\web\ass\asp\ASS0304.JS copiado para \\10.10.100.147\TopSaude\web\ass\asp\ASS0304.JS
+[17/08/2016 14:54:41] Resultado do Login na WEB Instalacao V11    (10.10.100.134): Sucesso Ao logar.
+[17/08/2016 14:54:41] Sistema procurará os arquivos na(s) pasta(s): Jtopdown TOPSAUDE 
+[17/08/2016 14:54:41] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[17/08/2016 14:54:41] Arquivo ENCONTRADO em \\10.10.100.134\TOPSAUDE\web\ass\asp\ASS0304.JS
+[17/08/2016 14:54:41] Busca Aprofundada necessária não realizada
+[17/08/2016 14:54:41] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 13 milisegundo(s).
+[17/08/2016 14:54:44] K:\Pacotes\52551-52600\52585-PEDRO\web\ass\asp\ASS0304.JS copiado para \\10.10.100.134\TOPSAUDE\web\ass\asp\ASS0304.JS
+[17/08/2016 14:55:00] Resultado do Login na WEB Demo_Med    (223.223.2.206): Sucesso Ao logar.
+[17/08/2016 14:55:00] Sistema procurará os arquivos na(s) pasta(s): jtopdown TopSaude 
+[17/08/2016 14:55:00] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[17/08/2016 14:55:00] Arquivo ENCONTRADO em \\223.223.2.206\TopSaude\web\ass\asp\ASS0304.JS
+[17/08/2016 14:55:00] Busca Aprofundada necessária não realizada
+[17/08/2016 14:55:00] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 20 milisegundo(s).
+[17/08/2016 14:55:01] K:\Pacotes\52551-52600\52585-PEDRO\web\ass\asp\ASS0304.JS copiado para \\223.223.2.206\TopSaude\web\ass\asp\ASS0304.JS
+[17/08/2016 14:55:39] Resultado do Login na WEB DEMO_ODO    (223.223.2.194): Sucesso Ao logar.
+[17/08/2016 14:55:39] Sistema procurará os arquivos na(s) pasta(s): jtopdown TopSaude 
+[17/08/2016 14:55:40] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[17/08/2016 14:55:40] Arquivo ENCONTRADO em \\223.223.2.194\TopSaude\web\ass\asp\ASS0304.JS
+[17/08/2016 14:55:40] Busca Aprofundada necessária não realizada
+[17/08/2016 14:55:40] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 19 milisegundo(s).
+[17/08/2016 14:55:42] K:\Pacotes\52551-52600\52585-PEDRO\web\ass\asp\ASS0304.JS copiado para \\223.223.2.194\TopSaude\web\ass\asp\ASS0304.JS
+[17/08/2016 14:58:28] Sistema finalizado.
+
+[17/08/2016 14:58:30] Sistema finalizado.
+
+[17/08/2016 15:22:50] Sistema Iniciado.
+[17/08/2016 15:27:11] Sistema finalizado.
+
+[17/08/2016 16:15:23] Sistema Iniciado.
+[17/08/2016 16:15:34] Aberto driver com Chrome.
+[17/08/2016 16:22:41] Controle instanciado: 52627
+[17/08/2016 16:22:54] Resultado do Login na WEB TOPADM    (10.10.100.138): Sucesso Ao logar.
+[17/08/2016 16:22:54] Sistema procurará os arquivos na(s) pasta(s): Admin2 app jtopdown PROJETOS 
+[17/08/2016 16:22:54] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[17/08/2016 16:22:56] Realizando busca aprofundada para objetos não encontrados...
+[17/08/2016 16:23:04] Tempo que levou para achar todos os arquivos: 0 minuto(s), 9 segundo(s) e 611 milisegundo(s).
+[17/08/2016 16:23:09] K:\Pacotes\52601-52650\52627-CHRISTIANO\web\fat\asp\FAT1100b.asp copiado para \\10.10.100.138\PROJETOS\topadministradora\web\fat\asp\FAT1100b.asp
+[17/08/2016 17:21:16] Sistema finalizado.
+

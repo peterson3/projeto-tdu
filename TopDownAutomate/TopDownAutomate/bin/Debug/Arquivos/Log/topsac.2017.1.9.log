@@ -1,0 +1,23 @@
+[09/01/2017 11:15:53] Sistema Iniciado.
+[09/01/2017 11:16:31] Aberto driver com Chrome.
+[09/01/2017 11:16:56] Controle instanciado: 54327
+[09/01/2017 11:18:05] Arquivo do pacote do CA 54327 extraído.
+[09/01/2017 11:18:07] Erro de de execução no sqlplus.
+[09/01/2017 11:18:20] Banco Selecionado Para aplicar: MAR_VAZIO
+[09/01/2017 11:18:20] Banco Selecionado Para aplicar: GIST
+[09/01/2017 11:18:20] Banco Selecionado Para aplicar: SEG_DES8
+[09/01/2017 11:18:20] Banco Selecionado Para aplicar: SEG_VAZIO
+[09/01/2017 11:18:24] Atribuído objeto do tipo Procedure - TS.CON_CALCULA_NOVA_VIGENCIA_ddl.sql em mar_teste/MAR_VAZIO
+[09/01/2017 11:18:24] Atribuído objeto do tipo Procedure - TS.CON_CALCULA_NOVA_VIGENCIA_ddl.sql em ts/GIST
+[09/01/2017 11:18:24] Atribuído objeto do tipo Procedure - TS.CON_CALCULA_NOVA_VIGENCIA_ddl.sql em ts/SEG_DES8
+[09/01/2017 11:18:24] Atribuído objeto do tipo Procedure - TS.CON_CALCULA_NOVA_VIGENCIA_ddl.sql em seg_teste/SEG_VAZIO
+[09/01/2017 11:18:26] Sistema alterando o aplica para ordem certa de aplicação
+[09/01/2017 11:18:31] Selecionado P/ Não Criptografar em: MAR_VAZIO GIST SEG_DES8 SEG_VAZIO 
+[09/01/2017 11:18:31] Selecionado P/ Criptografar em: 
+[09/01/2017 11:18:31] Arquivo "APLICA.SQL" criado com sucesso.
+[09/01/2017 11:18:38] Executado o aplica no sqlplus.
+[09/01/2017 13:27:50] Sistema Iniciado.
+[09/01/2017 13:28:15] Aberto driver com Chrome.
+[09/01/2017 13:29:29] Controle instanciado: 54327
+[09/01/2017 13:32:00] Sistema finalizado.
+

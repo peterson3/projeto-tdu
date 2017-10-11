@@ -1,0 +1,23 @@
+[18/04/2017 17:50:50] Sistema Iniciado.
+[18/04/2017 17:52:24] Aberto driver com Chrome.
+[18/04/2017 17:52:46] Controle instanciado: 55218
+[18/04/2017 18:09:34] Banco Selecionado Para aplicar: QUALI_BR
+[18/04/2017 18:09:37] Atribuído objeto do tipo Procedure - TS.PAG_LANC_MANUAL_EXPEDIENTE_ddl.sql em ts_teste/QUALI_BR
+[18/04/2017 18:09:39] Sistema alterando o aplica para ordem certa de aplicação
+[18/04/2017 18:09:40] Selecionado P/ Não Criptografar em: QUALI_BR 
+[18/04/2017 18:09:40] Selecionado P/ Criptografar em: 
+[18/04/2017 18:09:40] Arquivo "APLICA.SQL" criado com sucesso.
+[18/04/2017 18:15:27] Sistema finalizado.
+
+[18/04/2017 18:15:29] Sistema Iniciado.
+[18/04/2017 18:16:43] Aberto driver com Chrome.
+[18/04/2017 18:17:19] Controle instanciado: 55218
+[18/04/2017 18:17:28] Banco Selecionado Para aplicar: IAMSPEDB
+[18/04/2017 18:17:31] Atribuído objeto do tipo Procedure - TS.PAG_LANC_MANUAL_EXPEDIENTE_ddl.sql em TS/IAMSPEDB
+[18/04/2017 18:17:33] Sistema alterando o aplica para ordem certa de aplicação
+[18/04/2017 18:17:37] Selecionado P/ Não Criptografar em: IAMSPEDB 
+[18/04/2017 18:17:37] Selecionado P/ Criptografar em: 
+[18/04/2017 18:17:37] Arquivo "APLICA.SQL" criado com sucesso.
+[18/04/2017 18:18:09] Executado o aplica no sqlplus.
+[18/04/2017 20:53:29] Sistema finalizado.
+

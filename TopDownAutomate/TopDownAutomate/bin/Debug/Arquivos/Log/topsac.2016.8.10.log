@@ -1,0 +1,117 @@
+[10/08/2016 13:53:04] Sistema Iniciado.
+[10/08/2016 13:53:20] Aberto driver com Chrome.
+[10/08/2016 13:53:35] Controle instanciado: 52509
+[10/08/2016 14:20:48] Sistema finalizado.
+
+[10/08/2016 14:20:50] Sistema Iniciado.
+[10/08/2016 14:21:25] Aberto driver com Chrome.
+[10/08/2016 14:23:35] Controle instanciado: 52557
+[10/08/2016 14:24:09] Arquivo do pacote do CA 52557 extraído.
+[10/08/2016 14:24:26] Arquivo do pacote do CA 52557 extraído.
+[10/08/2016 14:26:57] Banco Selecionado Para aplicar: METLIFE
+[10/08/2016 14:30:24] Banco Selecionado Para aplicar: METLIFE
+[10/08/2016 14:30:32] Atribuído objeto do tipo Procedure - TS_METLIFE.ITF_MONDIAL_ddl.sql em ts/METLIFE
+[10/08/2016 14:30:34] Sistema alterando o aplica para ordem certa de aplicação
+[10/08/2016 14:30:36] Selecionado P/ Não Criptografar em: METLIFE 
+[10/08/2016 14:30:36] Selecionado P/ Criptografar em: 
+[10/08/2016 14:30:36] Arquivo "APLICA.SQL" criado com sucesso.
+[10/08/2016 14:31:00] Executado o aplica no sqlplus.
+[10/08/2016 14:33:25] Sistema finalizado.
+
+[10/08/2016 14:41:03] Sistema Iniciado.
+[10/08/2016 14:41:03] Não Encontrado o Arquivo de Banco. Criando..
+[10/08/2016 14:41:03] Abrindo Conexão..
+[10/08/2016 14:41:05] Sistema finalizado.
+
+[10/08/2016 14:45:45] Sistema Iniciado.
+[10/08/2016 14:45:59] Sistema finalizado.
+
+[10/08/2016 14:48:59] Sistema Iniciado.
+[10/08/2016 14:49:14] Sistema finalizado.
+
+[10/08/2016 14:49:32] Sistema Iniciado.
+[10/08/2016 14:49:38] Sistema finalizado.
+
+[10/08/2016 14:51:27] Sistema Iniciado.
+[10/08/2016 14:51:29] Sistema finalizado.
+
+[10/08/2016 14:54:36] Sistema Iniciado.
+[10/08/2016 14:54:40] Sistema finalizado.
+
+[10/08/2016 14:54:59] Sistema Iniciado.
+[10/08/2016 14:55:06] Sistema finalizado.
+
+[10/08/2016 15:00:20] Sistema Iniciado.
+[10/08/2016 15:00:22] Sistema finalizado.
+
+[10/08/2016 16:37:07] Sistema Iniciado.
+[10/08/2016 16:37:24] Aberto driver com Chrome.
+[10/08/2016 16:37:44] Sistema finalizado.
+
+[10/08/2016 17:33:03] Sistema Iniciado.
+[10/08/2016 17:33:27] Sistema finalizado.
+
+[10/08/2016 17:33:31] Sistema Iniciado.
+[10/08/2016 17:34:22] Aberto driver com Chrome.
+[10/08/2016 17:36:51] Controle instanciado: 52552
+[10/08/2016 17:37:34] Arquivo do pacote do CA 52552 extraído.
+[10/08/2016 17:37:40] Log de versões do CA 52552 aberto.
+[10/08/2016 17:39:33] Banco Selecionado Para aplicar: HOMO_MED
+[10/08/2016 17:39:33] Banco Selecionado Para aplicar: HOMO_ODO
+[10/08/2016 17:39:45] Atribuído objeto do tipo Script - 18_TS.SAC60222_TIPO_RELATORIO_INSERT_FINANCEIRO_DDL.SQL em ts_teste/HOMO_MED
+[10/08/2016 17:39:45] Atribuído objeto do tipo Script - 18_TS.SAC60222_TIPO_RELATORIO_INSERT_FINANCEIRO_DDL.SQL em ts_teste/HOMO_ODO
+[10/08/2016 17:39:45] Atribuído objeto do tipo Script - 17_TS.SAC60222_TIPO_RELATORIO_INSERT_DDL.SQL em ts_teste/HOMO_MED
+[10/08/2016 17:39:45] Atribuído objeto do tipo Script - 17_TS.SAC60222_TIPO_RELATORIO_INSERT_DDL.SQL em ts_teste/HOMO_ODO
+[10/08/2016 17:39:45] Atribuído objeto do tipo Script - 04_SAC60222_TS_PARAMETRO_SISTEMA_INSERT.sql em ts_teste/HOMO_MED
+[10/08/2016 17:39:45] Atribuído objeto do tipo Script - 04_SAC60222_TS_PARAMETRO_SISTEMA_INSERT.sql em ts_teste/HOMO_ODO
+[10/08/2016 17:39:45] Atribuído objeto do tipo Script - 04b_SAC60222_TS_SEC_FUNCAO_PDFs_INSERT.sql em ts_teste/HOMO_MED
+[10/08/2016 17:39:45] Atribuído objeto do tipo Script - 04b_SAC60222_TS_SEC_FUNCAO_PDFs_INSERT.sql em ts_teste/HOMO_ODO
+[10/08/2016 17:39:45] Atribuído objeto do tipo Script - 04a_SAC60222_TS_JOB_INSERT.sql em ts_teste/HOMO_MED
+[10/08/2016 17:39:45] Atribuído objeto do tipo Script - 04a_SAC60222_TS_JOB_INSERT.sql em ts_teste/HOMO_ODO
+[10/08/2016 17:39:45] Atribuído objeto do tipo Script - 03_SAC60222_TS_SEC_FUNCAO_INDICE_INSERT.sql em ts_teste/HOMO_MED
+[10/08/2016 17:39:45] Atribuído objeto do tipo Script - 03_SAC60222_TS_SEC_FUNCAO_INDICE_INSERT.sql em ts_teste/HOMO_ODO
+[10/08/2016 17:39:45] Atribuído objeto do tipo Script - 02_SAC60222_TS_SEC_FUNCAO_MEMORIA_INSERT.sql em ts_teste/HOMO_MED
+[10/08/2016 17:39:45] Atribuído objeto do tipo Script - 02_SAC60222_TS_SEC_FUNCAO_MEMORIA_INSERT.sql em ts_teste/HOMO_ODO
+[10/08/2016 17:39:45] Atribuído objeto do tipo Script - 01_SAC60222_TS_SEC_FUNCAO_INDICE_INSERT.sql em ts_teste/HOMO_MED
+[10/08/2016 17:39:45] Atribuído objeto do tipo Script - 01_SAC60222_TS_SEC_FUNCAO_INDICE_INSERT.sql em ts_teste/HOMO_ODO
+[10/08/2016 17:39:45] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.CON_TBL_REAJUSTE_TECNICO_ddl.sql em ts_teste/HOMO_MED
+[10/08/2016 17:39:45] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.CON_TBL_REAJUSTE_TECNICO_ddl.sql em ts_teste/HOMO_ODO
+[10/08/2016 17:39:45] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.CON_TBL_MEM_CALC_REAJ_ddl.sql em ts_teste/HOMO_MED
+[10/08/2016 17:39:45] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.CON_TBL_MEM_CALC_REAJ_ddl.sql em ts_teste/HOMO_ODO
+[10/08/2016 17:39:45] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.CON_FCH_MEMORIA_REAJUSTE_ddl.sql em ts_teste/HOMO_MED
+[10/08/2016 17:39:45] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.CON_FCH_MEMORIA_REAJUSTE_ddl.sql em ts_teste/HOMO_ODO
+[10/08/2016 17:39:45] Atribuído objeto do tipo Package - ts.CON_FCH_MEMORIA_REAJUSTE_ddl.sql em ts_teste/HOMO_MED
+[10/08/2016 17:39:45] Atribuído objeto do tipo Package - ts.CON_FCH_MEMORIA_REAJUSTE_ddl.sql em ts_teste/HOMO_ODO
+[10/08/2016 17:39:45] Atribuído objeto do tipo Procedure - TS.HES_INDICE_ECONOMICO_ddl.sql em ts_teste/HOMO_MED
+[10/08/2016 17:39:45] Atribuído objeto do tipo Procedure - TS.HES_INDICE_ECONOMICO_ddl.sql em ts_teste/HOMO_ODO
+[10/08/2016 17:39:45] Atribuído objeto do tipo Trigger - TS.TR_CON_TBL_MEM_CALC_REAJ_01_ddl.sql em ts_teste/HOMO_MED
+[10/08/2016 17:39:45] Atribuído objeto do tipo Trigger - TS.TR_CON_TBL_MEM_CALC_REAJ_01_ddl.sql em ts_teste/HOMO_ODO
+[10/08/2016 17:39:45] Atribuído objeto do tipo Table - TS.INDICE_ECONOMICO_ddl.sql em ts_teste/HOMO_MED
+[10/08/2016 17:39:45] Atribuído objeto do tipo Table - TS.INDICE_ECONOMICO_ddl.sql em ts_teste/HOMO_ODO
+[10/08/2016 17:39:45] Atribuído objeto do tipo Table - TS.COTACAO_INDICE_ddl.sql em ts_teste/HOMO_MED
+[10/08/2016 17:39:45] Atribuído objeto do tipo Table - TS.COTACAO_INDICE_ddl.sql em ts_teste/HOMO_ODO
+[10/08/2016 17:39:45] Atribuído objeto do tipo Table - TS.CON_TBL_REAJUSTE_TECNICO_ddl.sql em ts_teste/HOMO_MED
+[10/08/2016 17:39:45] Atribuído objeto do tipo Table - TS.CON_TBL_REAJUSTE_TECNICO_ddl.sql em ts_teste/HOMO_ODO
+[10/08/2016 17:39:45] Atribuído objeto do tipo Table - TS.CON_TBL_MEM_CALC_REAJ_ddl.sql em ts_teste/HOMO_MED
+[10/08/2016 17:39:45] Atribuído objeto do tipo Table - TS.CON_TBL_MEM_CALC_REAJ_ddl.sql em ts_teste/HOMO_ODO
+[10/08/2016 17:39:45] Atribuído objeto do tipo Sequence - TS.TS_CON_TBL_MEM_CALC_REAJ_SEQ_ddl.sql em ts_teste/HOMO_MED
+[10/08/2016 17:39:45] Atribuído objeto do tipo Sequence - TS.TS_CON_TBL_MEM_CALC_REAJ_SEQ_ddl.sql em ts_teste/HOMO_ODO
+[10/08/2016 17:39:45] Atribuído objeto do tipo Sequence - TS.CON_TBL_REAJUSTE_TECNICO_SEQ_ddl.sql em ts_teste/HOMO_MED
+[10/08/2016 17:39:45] Atribuído objeto do tipo Sequence - TS.CON_TBL_REAJUSTE_TECNICO_SEQ_ddl.sql em ts_teste/HOMO_ODO
+[10/08/2016 17:39:50] Sistema alterando o aplica para ordem certa de aplicação
+[10/08/2016 17:39:52] Selecionado P/ Não Criptografar em: HOMO_MED HOMO_ODO 
+[10/08/2016 17:39:52] Selecionado P/ Criptografar em: 
+[10/08/2016 17:39:52] Arquivo "APLICA.SQL" criado com sucesso.
+[10/08/2016 17:39:58] Executado o aplica no sqlplus.
+[10/08/2016 17:40:46] Log de aplicão no banco do CA 52552 aberto.
+[10/08/2016 17:44:19] Log de aplicão no banco do CA 52552 aberto.
+[10/08/2016 17:44:43] Sistema finalizado.
+
+[10/08/2016 17:44:56] Sistema Iniciado.
+[10/08/2016 17:44:59] Sistema finalizado.
+
+[10/08/2016 18:19:39] Sistema Iniciado.
+[10/08/2016 18:19:53] Aberto driver com Chrome.
+[10/08/2016 18:20:32] Controle instanciado: 52557
+[10/08/2016 18:27:51] Sistema finalizado.
+

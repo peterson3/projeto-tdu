@@ -1,0 +1,44 @@
+[03/08/2016 09:40:59] Sistema Iniciado.
+[03/08/2016 09:42:35] Aberto driver com Chrome.
+[03/08/2016 09:43:06] Controle instanciado: 52503
+[03/08/2016 10:02:00] Resultado do Login na WEB Maritima    (10.1.1.159): Sucesso Ao logar.
+[03/08/2016 10:02:00] Sistema procurará os arquivos na(s) pasta(s): jtopdown topsaude web 
+[03/08/2016 10:02:00] Quantidade de Arquivos: 2 (arquivos que não estão na raíz).
+[03/08/2016 10:02:00] Arquivo ENCONTRADO em \\10.1.1.159\web\atd\asp\ATD1021A.ASP
+[03/08/2016 10:02:00] Arquivo ENCONTRADO em \\10.1.1.159\web\atd\asp\ATD1021B.ASP
+[03/08/2016 10:02:00] Busca Aprofundada necessária não realizada
+[03/08/2016 10:02:00] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 714 milisegundo(s).
+[03/08/2016 11:28:35] Sistema finalizado.
+
+[03/08/2016 13:46:29] Sistema Iniciado.
+[03/08/2016 13:46:58] Aberto driver com Chrome.
+[03/08/2016 13:47:12] Controle instanciado: 52503
+[03/08/2016 13:49:40] Arquivo do pacote do CA 52503 extraído.
+[03/08/2016 13:50:00] Log de versões do CA 52503 aberto.
+[03/08/2016 13:50:15] Banco Selecionado Para aplicar: GIST
+[03/08/2016 13:50:18] Atribuído objeto do tipo Package - TS.AUT_REL_GUIA_TISS_3_02_00_ddl.sql em ts/GIST
+[03/08/2016 13:50:20] Sistema alterando o aplica para ordem certa de aplicação
+[03/08/2016 13:50:22] Selecionado P/ Não Criptografar em: GIST 
+[03/08/2016 13:50:22] Selecionado P/ Criptografar em: 
+[03/08/2016 13:50:22] Arquivo "APLICA.SQL" criado com sucesso.
+[03/08/2016 13:50:34] Executado o aplica no sqlplus.
+[03/08/2016 14:05:11] Resultado do Login na WEB Maritima    (10.1.1.159): Sucesso Ao logar.
+[03/08/2016 14:05:11] Sistema procurará os arquivos na(s) pasta(s): jtopdown topsaude web 
+[03/08/2016 14:05:12] Quantidade de Arquivos: 2 (arquivos que não estão na raíz).
+[03/08/2016 14:05:12] Arquivo ENCONTRADO em \\10.1.1.159\web\atd\asp\ATD1021A.ASP
+[03/08/2016 14:05:12] Arquivo ENCONTRADO em \\10.1.1.159\web\atd\asp\ATD1021B.ASP
+[03/08/2016 14:05:12] Busca Aprofundada necessária não realizada
+[03/08/2016 14:05:12] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 372 milisegundo(s).
+[03/08/2016 14:05:14] K:\Pacotes\52501-52550\52503-DIEGO\web\atd\asp\ATD1021A.ASP copiado para \\10.1.1.159\web\atd\asp\ATD1021A.ASP
+[03/08/2016 14:05:15] K:\Pacotes\52501-52550\52503-DIEGO\web\atd\asp\ATD1021B.ASP copiado para \\10.1.1.159\web\atd\asp\ATD1021B.ASP
+[03/08/2016 15:07:54] Banco Selecionado Para aplicar: MAR_VAZIO
+[03/08/2016 15:07:54] Banco Selecionado Para aplicar: GIST
+[03/08/2016 15:07:57] Atribuído objeto do tipo Package - TS.AUT_REL_GUIA_TISS_3_02_00_ddl.sql em mar_teste/MAR_VAZIO
+[03/08/2016 15:07:57] Atribuído objeto do tipo Package - TS.AUT_REL_GUIA_TISS_3_02_00_ddl.sql em ts/GIST
+[03/08/2016 15:07:58] Sistema alterando o aplica para ordem certa de aplicação
+[03/08/2016 15:08:00] Selecionado P/ Não Criptografar em: MAR_VAZIO 
+[03/08/2016 15:08:00] Selecionado P/ Criptografar em: GIST 
+[03/08/2016 15:08:00] Arquivo "APLICA.SQL" criado com sucesso.
+[03/08/2016 15:08:08] Executado o aplica no sqlplus.
+[03/08/2016 16:20:53] Sistema finalizado.
+

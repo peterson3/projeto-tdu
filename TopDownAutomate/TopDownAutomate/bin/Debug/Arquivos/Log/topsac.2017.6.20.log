@@ -1,0 +1,78 @@
+[20/06/2017 18:12:23] Sistema Iniciado.
+[20/06/2017 18:13:03] Aberto driver com Chrome.
+[20/06/2017 18:15:11] Controle instanciado: 55958
+[20/06/2017 18:15:31] Arquivo do pacote do CA 55958 extraído.
+[20/06/2017 18:15:59] Log de versões do CA 55958 aberto.
+[20/06/2017 18:16:42] Banco Selecionado Para aplicar: SEG_DES8
+[20/06/2017 18:16:45] Atribuído objeto do tipo Package - TS.RB_INTEGRACAO_JURIDICA_ddl.sql em ts/SEG_DES8
+[20/06/2017 18:16:47] Sistema alterando o aplica para ordem certa de aplicação
+[20/06/2017 18:17:02] Selecionado P/ Não Criptografar em: SEG_DES8 
+[20/06/2017 18:17:02] Selecionado P/ Criptografar em: 
+[20/06/2017 18:17:02] Arquivo "APLICA.SQL" criado com sucesso.
+[20/06/2017 18:17:21] Executado o aplica no sqlplus.
+[20/06/2017 18:17:44] Executado o aplica no sqlplus.
+[20/06/2017 18:17:48] Log de aplicão no banco do CA 55958 aberto.
+[20/06/2017 18:20:21] Banco Selecionado Para aplicar: SEG_DES8
+[20/06/2017 18:20:21] Banco Selecionado Para aplicar: SEG_VAZIO
+[20/06/2017 18:20:25] Atribuído objeto do tipo Package - TS.RB_INTEGRACAO_JURIDICA_ddl.sql em ts/SEG_DES8
+[20/06/2017 18:20:25] Atribuído objeto do tipo Package - TS.RB_INTEGRACAO_JURIDICA_ddl.sql em seg_teste/SEG_VAZIO
+[20/06/2017 18:20:26] Sistema alterando o aplica para ordem certa de aplicação
+[20/06/2017 18:20:28] Selecionado P/ Não Criptografar em: SEG_VAZIO 
+[20/06/2017 18:20:28] Selecionado P/ Criptografar em: SEG_DES8 
+[20/06/2017 18:20:28] Arquivo "APLICA.SQL" criado com sucesso.
+[20/06/2017 18:20:33] Executado o aplica no sqlplus.
+[20/06/2017 18:53:32] Sistema finalizado.
+
+[20/06/2017 18:54:20] Sistema Iniciado.
+[20/06/2017 18:54:32] Aberto driver com Chrome.
+[20/06/2017 19:09:29] Sistema finalizado.
+
+[20/06/2017 19:09:30] Sistema Iniciado.
+[20/06/2017 19:09:39] Aberto driver com Chrome.
+[20/06/2017 19:09:54] Controle instanciado: 55959
+[20/06/2017 19:10:08] Arquivo do pacote do CA 55959 extraído.
+[20/06/2017 19:10:11] Log de versões do CA 55959 aberto.
+[20/06/2017 19:10:35] Banco Selecionado Para aplicar: HOMO_ODO
+[20/06/2017 19:10:46] Atribuído objeto do tipo Procedure - TS.MC_CARGA_ARQUIVO_190_DDL.SQL em ts_teste/HOMO_ODO
+[20/06/2017 19:10:48] Sistema alterando o aplica para ordem certa de aplicação
+[20/06/2017 19:10:49] Selecionado P/ Não Criptografar em: HOMO_ODO 
+[20/06/2017 19:10:49] Selecionado P/ Criptografar em: 
+[20/06/2017 19:10:49] Arquivo "APLICA.SQL" criado com sucesso.
+[20/06/2017 19:10:58] Executado o aplica no sqlplus.
+[20/06/2017 19:16:00] Log de aplicão no banco do CA 55959 aberto.
+[20/06/2017 19:18:04] Banco Selecionado Para aplicar: INST_ODO
+[20/06/2017 19:18:04] Banco Selecionado Para aplicar: INST_MED
+[20/06/2017 19:18:04] Banco Selecionado Para aplicar: DEMO_MED
+[20/06/2017 19:18:04] Banco Selecionado Para aplicar: DEMO_ODO
+[20/06/2017 19:18:04] Banco Selecionado Para aplicar: HOMO_MED
+[20/06/2017 19:18:04] Banco Selecionado Para aplicar: HOMO_ODO
+[20/06/2017 19:18:04] Banco Selecionado Para aplicar: METLIFE
+[20/06/2017 19:18:04] Banco Selecionado Para aplicar: METLIFE_VAZIO
+[20/06/2017 19:18:04] Banco Selecionado Para aplicar: nuvem_01
+[20/06/2017 19:18:29] Atribuído objeto do tipo Procedure - TS.MC_CARGA_ARQUIVO_190_DDL.SQL em ts/INST_ODO
+[20/06/2017 19:18:29] Atribuído objeto do tipo Procedure - TS.MC_CARGA_ARQUIVO_190_DDL.SQL em ts/INST_MED
+[20/06/2017 19:18:29] Atribuído objeto do tipo Procedure - TS.MC_CARGA_ARQUIVO_190_DDL.SQL em ts/DEMO_MED
+[20/06/2017 19:18:29] Atribuído objeto do tipo Procedure - TS.MC_CARGA_ARQUIVO_190_DDL.SQL em ts/DEMO_ODO
+[20/06/2017 19:18:29] Atribuído objeto do tipo Procedure - TS.MC_CARGA_ARQUIVO_190_DDL.SQL em ts_teste/HOMO_MED
+[20/06/2017 19:18:29] Atribuído objeto do tipo Procedure - TS.MC_CARGA_ARQUIVO_190_DDL.SQL em ts_teste/HOMO_ODO
+[20/06/2017 19:18:29] Atribuído objeto do tipo Procedure - TS.MC_CARGA_ARQUIVO_190_DDL.SQL em ts/METLIFE
+[20/06/2017 19:18:29] Atribuído objeto do tipo Procedure - TS.MC_CARGA_ARQUIVO_190_DDL.SQL em ml_teste/METLIFE_VAZIO
+[20/06/2017 19:18:29] Atribuído objeto do tipo Procedure - TS.MC_CARGA_ARQUIVO_190_DDL.SQL em ts/nuvem_01
+[20/06/2017 19:18:30] Sistema alterando o aplica para ordem certa de aplicação
+[20/06/2017 19:18:37] Selecionado P/ Não Criptografar em: INST_ODO INST_MED DEMO_MED DEMO_ODO HOMO_MED HOMO_ODO METLIFE_VAZIO nuvem_01 
+[20/06/2017 19:18:37] Selecionado P/ Criptografar em: METLIFE 
+[20/06/2017 19:18:37] Arquivo "APLICA.SQL" criado com sucesso.
+[20/06/2017 19:18:44] Executado o aplica no sqlplus.
+[20/06/2017 19:37:18] Banco Selecionado Para aplicar: METLIFE_VAZIO
+[20/06/2017 19:37:18] Banco Selecionado Para aplicar: ODO_VAZIO
+[20/06/2017 19:37:23] Atribuído objeto do tipo Procedure - TS.MC_CARGA_ARQUIVO_190_DDL.SQL em ml_teste/METLIFE_VAZIO
+[20/06/2017 19:37:23] Atribuído objeto do tipo Procedure - TS.MC_CARGA_ARQUIVO_190_DDL.SQL em odo_teste/ODO_VAZIO
+[20/06/2017 19:37:26] Atribuído objeto do tipo Procedure - TS.MC_CARGA_ARQUIVO_190_DDL.SQL em ml_teste/METLIFE_VAZIO
+[20/06/2017 19:37:26] Atribuído objeto do tipo Procedure - TS.MC_CARGA_ARQUIVO_190_DDL.SQL em odo_teste/ODO_VAZIO
+[20/06/2017 19:37:27] Sistema alterando o aplica para ordem certa de aplicação
+[20/06/2017 19:37:29] Selecionado P/ Não Criptografar em: METLIFE_VAZIO ODO_VAZIO 
+[20/06/2017 19:37:29] Selecionado P/ Criptografar em: 
+[20/06/2017 19:37:29] Arquivo "APLICA.SQL" criado com sucesso.
+[20/06/2017 19:37:35] Executado o aplica no sqlplus.
+[20/06/2017 19:40:50] Sistema finalizado.
+

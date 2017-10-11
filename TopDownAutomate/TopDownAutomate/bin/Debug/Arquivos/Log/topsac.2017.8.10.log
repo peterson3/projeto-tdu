@@ -1,0 +1,30 @@
+[10/08/2017 12:55:16] Sistema Iniciado.
+[10/08/2017 13:04:16] Aberto driver com Chrome.
+[10/08/2017 13:04:28] Controle instanciado: 56651
+[10/08/2017 13:05:19] Banco Selecionado Para aplicar: METLIFE
+[10/08/2017 13:05:23] Atribuído objeto do tipo Procedure - TS.FAT_FATURA_CORPORATIVO_ddl.sql em ts/METLIFE
+[10/08/2017 13:05:23] Atribuído objeto do tipo Procedure - TS.CMS_PREVIA_COMISSAO_ddl.sql em ts/METLIFE
+[10/08/2017 13:05:23] Atribuído objeto do tipo Procedure - ts.CMS_CANCELA_PREVIA_ddl.sql em ts/METLIFE
+[10/08/2017 13:05:25] Sistema alterando o aplica para ordem certa de aplicação
+[10/08/2017 13:05:28] Selecionado P/ Não Criptografar em: 
+[10/08/2017 13:05:28] Selecionado P/ Criptografar em: METLIFE 
+[10/08/2017 13:05:28] Arquivo "APLICA.SQL" criado com sucesso.
+[10/08/2017 13:05:45] Executado o aplica no sqlplus.
+[10/08/2017 18:43:51] Sistema finalizado.
+
+[10/08/2017 18:43:55] Sistema Iniciado.
+[10/08/2017 18:44:12] Aberto driver com Chrome.
+[10/08/2017 18:44:28] Controle instanciado: 56686
+[10/08/2017 18:44:54] Arquivo do pacote do CA 56686 extraído.
+[10/08/2017 18:45:03] Resultado do Login na WEB Instalacao V11    (10.10.100.134): Sucesso Ao logar.
+[10/08/2017 18:45:03] Sistema procurará os arquivos na(s) pasta(s): Jtopdown TOPSAUDE 
+[10/08/2017 18:45:03] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[10/08/2017 18:45:03] Arquivo ENCONTRADO em \\10.10.100.134\TOPSAUDE\web\ans\asp\ans1025b.asp
+[10/08/2017 18:45:03] Busca Aprofundada necessária não realizada
+[10/08/2017 18:45:03] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 16 milisegundo(s).
+[10/08/2017 18:45:05] K:\Pacotes\56651-56700\56686-ARTHUR\web\ans\asp\ans1025b.asp copiado para \\10.10.100.134\TOPSAUDE\web\ans\asp\ans1025b.asp
+[10/08/2017 18:48:40] Sistema finalizado.
+
+[10/08/2017 19:11:41] Sistema Iniciado.
+[10/08/2017 19:11:45] Sistema finalizado.
+

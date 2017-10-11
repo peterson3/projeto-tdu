@@ -1,0 +1,177 @@
+[19/08/2016 11:17:29] Sistema Iniciado.
+[19/08/2016 11:17:47] Aberto driver com Chrome.
+[19/08/2016 11:21:03] Controle instanciado: 52620
+[19/08/2016 11:21:29] Arquivo do pacote do CA 52620 extraído.
+[19/08/2016 11:21:40] Resultado do Login na WEB HOMOLOG V11    (10.10.100.147): Sucesso Ao logar.
+[19/08/2016 11:21:40] Sistema procurará os arquivos na(s) pasta(s): jtopdown TopSaude 
+[19/08/2016 11:21:40] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[19/08/2016 11:21:40] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\cli\asp\CLI0050.asp
+[19/08/2016 11:21:40] Busca Aprofundada necessária não realizada
+[19/08/2016 11:21:40] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 32 milisegundo(s).
+[19/08/2016 11:22:10] K:\Pacotes\52601-52650\52620-PEDRO\web\cli\asp\CLI0050.asp copiado para \\10.10.100.147\TopSaude\web\cli\asp\CLI0050.asp
+[19/08/2016 11:30:05] Resultado do Login na WEB HOMOLOG V11    (10.10.100.147): Sucesso Ao logar.
+[19/08/2016 11:30:05] Sistema procurará os arquivos na(s) pasta(s): jtopdown TopSaude 
+[19/08/2016 11:30:05] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[19/08/2016 11:30:05] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\cli\asp\CLI0050.asp
+[19/08/2016 11:30:05] Busca Aprofundada necessária não realizada
+[19/08/2016 11:30:05] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 16 milisegundo(s).
+[19/08/2016 11:30:07] K:\Pacotes\52601-52650\52620-PEDRO\web\cli\asp\CLI0050.asp copiado para \\10.10.100.147\TopSaude\web\cli\asp\CLI0050.asp
+[19/08/2016 12:00:48] Resultado do Login na WEB Metlife(dev)    (10.90.150.82): Sucesso Ao logar.
+[19/08/2016 12:00:51] Sistema procurará os arquivos na(s) pasta(s): JTopDown ReportsDental TopSaude 
+[19/08/2016 12:00:52] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[19/08/2016 12:00:54] Arquivo ENCONTRADO em \\10.90.150.82\TopSaude\web\cli\asp\CLI0050.asp
+[19/08/2016 12:00:54] Busca Aprofundada necessária não realizada
+[19/08/2016 12:00:54] Tempo que levou para achar todos os arquivos: 0 minuto(s), 2 segundo(s) e 725 milisegundo(s).
+[19/08/2016 12:00:59] K:\Pacotes\52601-52650\52620-PEDRO\web\cli\asp\CLI0050.asp copiado para \\10.90.150.82\TopSaude\web\cli\asp\CLI0050.asp
+[19/08/2016 12:27:28] Sistema Iniciado.
+[19/08/2016 12:27:42] Aberto driver com Chrome.
+[19/08/2016 12:28:01] Controle instanciado: 52611
+[19/08/2016 12:28:41] Arquivo do pacote do CA 52611 extraído.
+[19/08/2016 12:28:54] Log de versões do CA 52611 aberto.
+[19/08/2016 12:28:59] Banco Selecionado Para aplicar: METLIFE
+[19/08/2016 12:29:03] Atribuído objeto do tipo Procedure - TS.ASS_VALIDA_TRANSF_EMPRESA_ddl.sql em ts/METLIFE
+[19/08/2016 12:29:05] Sistema alterando o aplica para ordem certa de aplicação
+[19/08/2016 12:29:07] Selecionado P/ Não Criptografar em: METLIFE 
+[19/08/2016 12:29:07] Selecionado P/ Criptografar em: 
+[19/08/2016 12:29:07] Arquivo "APLICA.SQL" criado com sucesso.
+[19/08/2016 12:32:42] Executado o aplica no sqlplus.
+[19/08/2016 14:50:20] Banco Selecionado Para aplicar: INST_ODO
+[19/08/2016 14:50:20] Banco Selecionado Para aplicar: DEMO_ODO
+[19/08/2016 14:50:20] Banco Selecionado Para aplicar: HOMO_ODO
+[19/08/2016 14:50:20] Banco Selecionado Para aplicar: METLIFE
+[19/08/2016 14:50:20] Banco Selecionado Para aplicar: METLIFE_VAZIO
+[19/08/2016 14:50:30] Atribuído objeto do tipo Procedure - TS.ASS_VALIDA_TRANSF_EMPRESA_ddl.sql em ts/INST_ODO
+[19/08/2016 14:50:30] Atribuído objeto do tipo Procedure - TS.ASS_VALIDA_TRANSF_EMPRESA_ddl.sql em ts/DEMO_ODO
+[19/08/2016 14:50:30] Atribuído objeto do tipo Procedure - TS.ASS_VALIDA_TRANSF_EMPRESA_ddl.sql em ts_teste/HOMO_ODO
+[19/08/2016 14:50:30] Atribuído objeto do tipo Procedure - TS.ASS_VALIDA_TRANSF_EMPRESA_ddl.sql em ts/METLIFE
+[19/08/2016 14:50:30] Atribuído objeto do tipo Procedure - TS.ASS_VALIDA_TRANSF_EMPRESA_ddl.sql em ts_teste/METLIFE_VAZIO
+[19/08/2016 14:50:32] Sistema alterando o aplica para ordem certa de aplicação
+[19/08/2016 14:50:34] Selecionado P/ Não Criptografar em: INST_ODO DEMO_ODO HOMO_ODO METLIFE METLIFE_VAZIO 
+[19/08/2016 14:50:34] Selecionado P/ Criptografar em: 
+[19/08/2016 14:50:34] Arquivo "APLICA.SQL" criado com sucesso.
+[19/08/2016 14:50:46] Executado o aplica no sqlplus.
+[19/08/2016 14:59:41] Banco Selecionado Para aplicar: INST_MED
+[19/08/2016 14:59:41] Banco Selecionado Para aplicar: DEMO_MED
+[19/08/2016 14:59:41] Banco Selecionado Para aplicar: HOMO_MED
+[19/08/2016 14:59:45] Atribuído objeto do tipo Procedure - TS.ASS_VALIDA_TRANSF_EMPRESA_ddl.sql em ts/INST_MED
+[19/08/2016 14:59:45] Atribuído objeto do tipo Procedure - TS.ASS_VALIDA_TRANSF_EMPRESA_ddl.sql em ts/DEMO_MED
+[19/08/2016 14:59:45] Atribuído objeto do tipo Procedure - TS.ASS_VALIDA_TRANSF_EMPRESA_ddl.sql em ts_teste/HOMO_MED
+[19/08/2016 14:59:46] Sistema alterando o aplica para ordem certa de aplicação
+[19/08/2016 14:59:49] Selecionado P/ Não Criptografar em: INST_MED DEMO_MED HOMO_MED 
+[19/08/2016 14:59:49] Selecionado P/ Criptografar em: 
+[19/08/2016 14:59:49] Arquivo "APLICA.SQL" criado com sucesso.
+[19/08/2016 14:59:56] Executado o aplica no sqlplus.
+[19/08/2016 15:09:07] Sistema finalizado.
+
+[19/08/2016 15:17:08] Sistema Iniciado.
+[19/08/2016 15:17:19] Aberto driver com Chrome.
+[19/08/2016 15:17:35] Controle instanciado: 52560
+[19/08/2016 15:18:11] Arquivo do pacote do CA 52560 extraído.
+[19/08/2016 15:18:39] Banco Selecionado Para aplicar: HOMO_MED
+[19/08/2016 15:18:50] Atribuído objeto do tipo Script - ts_script_insert_negociacao.sql em ts_teste/HOMO_MED
+[19/08/2016 15:18:50] Atribuído objeto do tipo Package - TS.FAT_REL_DEMONSTRATIVO_COBRANCA_ddl.sql em ts_teste/HOMO_MED
+[19/08/2016 15:18:50] Atribuído objeto do tipo Procedure - TS.REC_TIPO_NEGOCIACAO_COB_ddl.sql em ts_teste/HOMO_MED
+[19/08/2016 15:18:50] Atribuído objeto do tipo Procedure - TS.REC_NEGOCIACAO_COBRANCA_ddl.sql em ts_teste/HOMO_MED
+[19/08/2016 15:18:50] Atribuído objeto do tipo Table - TS.TIPO_NEGOCIACAO_COB_ddl.sql em ts_teste/HOMO_MED
+[19/08/2016 15:18:50] Atribuído objeto do tipo Table - TS.PERFIL_NEG_CLIENTE_ddl.sql em ts_teste/HOMO_MED
+[19/08/2016 15:18:50] Atribuído objeto do tipo Table - TS.PERFIL_NEGOCIACAO_ddl.sql em ts_teste/HOMO_MED
+[19/08/2016 15:18:50] Atribuído objeto do tipo Table - TS.PERFIL_CLI_NEGOCIACAO_ddl.sql em ts_teste/HOMO_MED
+[19/08/2016 15:18:50] Atribuído objeto do tipo Table - TS.PARCELAS_NEGOCIACAO_ddl.sql em ts_teste/HOMO_MED
+[19/08/2016 15:18:50] Atribuído objeto do tipo Table - TS.NEGOCIACAO_COBRANCA_ddl.sql em ts_teste/HOMO_MED
+[19/08/2016 15:18:50] Atribuído objeto do tipo Table - ts.cobranca_ddl.sql em ts_teste/HOMO_MED
+[19/08/2016 15:18:51] Sistema alterando o aplica para ordem certa de aplicação
+[19/08/2016 15:18:53] Selecionado P/ Não Criptografar em: HOMO_MED 
+[19/08/2016 15:18:53] Selecionado P/ Criptografar em: 
+[19/08/2016 15:18:53] Arquivo "APLICA.SQL" criado com sucesso.
+[19/08/2016 15:19:14] Executado o aplica no sqlplus.
+[19/08/2016 15:32:52] Sistema finalizado.
+
+[19/08/2016 15:32:52] Sistema finalizado.
+
+[19/08/2016 15:54:35] Sistema Iniciado.
+[19/08/2016 15:55:01] Aberto driver com Chrome.
+[19/08/2016 15:55:35] Controle instanciado: 52560
+[19/08/2016 15:56:32] Arquivo do pacote do CA 52560 extraído.
+[19/08/2016 15:56:46] Banco Selecionado Para aplicar: HOMO_MED
+[19/08/2016 15:56:50] Atribuído objeto do tipo Script - ts_script_insert_negociacao.sql em ts_teste/HOMO_MED
+[19/08/2016 15:56:50] Atribuído objeto do tipo Package - TS.FAT_REL_DEMONSTRATIVO_COBRANCA_ddl.sql em ts_teste/HOMO_MED
+[19/08/2016 15:56:50] Atribuído objeto do tipo Procedure - TS.REC_TIPO_NEGOCIACAO_COB_ddl.sql em ts_teste/HOMO_MED
+[19/08/2016 15:56:50] Atribuído objeto do tipo Procedure - TS.REC_NEGOCIACAO_COBRANCA_ddl.sql em ts_teste/HOMO_MED
+[19/08/2016 15:56:50] Atribuído objeto do tipo Table - TS.TIPO_NEGOCIACAO_COB_ddl.sql em ts_teste/HOMO_MED
+[19/08/2016 15:56:50] Atribuído objeto do tipo Table - TS.PERFIL_NEG_CLIENTE_ddl.sql em ts_teste/HOMO_MED
+[19/08/2016 15:56:50] Atribuído objeto do tipo Table - TS.PERFIL_NEGOCIACAO_ddl.sql em ts_teste/HOMO_MED
+[19/08/2016 15:56:50] Atribuído objeto do tipo Table - TS.PERFIL_CLI_NEGOCIACAO_ddl.sql em ts_teste/HOMO_MED
+[19/08/2016 15:56:50] Atribuído objeto do tipo Table - TS.PARCELAS_NEGOCIACAO_ddl.sql em ts_teste/HOMO_MED
+[19/08/2016 15:56:50] Atribuído objeto do tipo Table - TS.NEGOCIACAO_COBRANCA_ddl.sql em ts_teste/HOMO_MED
+[19/08/2016 15:56:50] Atribuído objeto do tipo Table - ts.cobranca_ddl.sql em ts_teste/HOMO_MED
+[19/08/2016 15:56:52] Sistema alterando o aplica para ordem certa de aplicação
+[19/08/2016 15:56:54] Selecionado P/ Não Criptografar em: HOMO_MED 
+[19/08/2016 15:56:54] Selecionado P/ Criptografar em: 
+[19/08/2016 15:56:54] Arquivo "APLICA.SQL" criado com sucesso.
+[19/08/2016 15:57:05] Executado o aplica no sqlplus.
+[19/08/2016 15:57:32] Log de aplicão no banco do CA 52560 aberto.
+[19/08/2016 16:09:19] Sistema finalizado.
+
+[19/08/2016 16:09:34] Sistema Iniciado.
+[19/08/2016 16:10:06] Aberto driver com Chrome.
+[19/08/2016 16:10:25] Controle instanciado: 52620
+[19/08/2016 16:13:47] Resultado do Login na WEB Metlife(dev)    (10.90.150.82): Sucesso Ao logar.
+[19/08/2016 16:14:16] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[19/08/2016 16:15:28] Realizando busca aprofundada para objetos não encontrados...
+[19/08/2016 16:15:28] Tempo que levou para achar todos os arquivos: 1 minuto(s), 12 segundo(s) e 432 milisegundo(s).
+[19/08/2016 16:15:42] Resultado do Login na WEB Metlife(dev)    (10.90.150.82): Sucesso Ao logar.
+[19/08/2016 16:15:43] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[19/08/2016 16:15:44] Realizando busca aprofundada para objetos não encontrados...
+[19/08/2016 16:15:44] Tempo que levou para achar todos os arquivos: 0 minuto(s), 1 segundo(s) e 312 milisegundo(s).
+[19/08/2016 16:16:26] Resultado do Login na WEB HOMOLOG V11    (10.10.100.147): Sucesso Ao logar.
+[19/08/2016 16:16:26] Sistema procurará os arquivos na(s) pasta(s): jtopdown TopSaude 
+[19/08/2016 16:16:26] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[19/08/2016 16:16:26] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\cli\asp\CLI0050.asp
+[19/08/2016 16:16:26] Busca Aprofundada necessária não realizada
+[19/08/2016 16:16:26] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 15 milisegundo(s).
+[19/08/2016 16:16:29] K:\Pacotes\52601-52650\52620-PEDRO\web\cli\asp\CLI0050.asp copiado para \\10.10.100.147\TopSaude\web\cli\asp\CLI0050.asp
+[19/08/2016 16:22:26] Resultado do Login na WEB Metlife(dev)    (10.90.150.82): Sucesso Ao logar.
+[19/08/2016 16:23:06] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[19/08/2016 16:24:08] Tempo que levou para achar todos os arquivos: 1 minuto(s), 2 segundo(s) e 526 milisegundo(s).
+[19/08/2016 16:24:44] Resultado do Login na WEB Metlife(dev)    (10.90.150.82): Sucesso Ao logar.
+[19/08/2016 16:24:47] Sistema procurará os arquivos na(s) pasta(s): JTopDown ReportsDental TopSaude 
+[19/08/2016 16:24:48] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[19/08/2016 16:24:50] Arquivo ENCONTRADO em \\10.90.150.82\TopSaude\web\cli\asp\CLI0050.asp
+[19/08/2016 16:24:50] Busca Aprofundada necessária não realizada
+[19/08/2016 16:24:50] Tempo que levou para achar todos os arquivos: 0 minuto(s), 2 segundo(s) e 50 milisegundo(s).
+[19/08/2016 16:24:52] K:\Pacotes\52601-52650\52620-PEDRO\web\cli\asp\CLI0050.asp copiado para \\10.90.150.82\TopSaude\web\cli\asp\CLI0050.asp
+[19/08/2016 16:36:57] Resultado do Login na WEB Metlife(dev)    (10.90.150.82): Sucesso Ao logar.
+[19/08/2016 16:36:59] Sistema procurará os arquivos na(s) pasta(s): JTopDown ReportsDental TopSaude 
+[19/08/2016 16:36:59] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[19/08/2016 16:37:00] Arquivo ENCONTRADO em \\10.90.150.82\TopSaude\web\cli\asp\CLI0050.asp
+[19/08/2016 16:37:00] Busca Aprofundada necessária não realizada
+[19/08/2016 16:37:00] Tempo que levou para achar todos os arquivos: 0 minuto(s), 1 segundo(s) e 392 milisegundo(s).
+[19/08/2016 16:38:06] Resultado do Login na WEB HOMOLOG V11    (10.10.100.147): Sucesso Ao logar.
+[19/08/2016 16:38:06] Sistema procurará os arquivos na(s) pasta(s): jtopdown TopSaude 
+[19/08/2016 16:38:06] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[19/08/2016 16:38:06] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\cli\asp\CLI0050.asp
+[19/08/2016 16:38:06] Busca Aprofundada necessária não realizada
+[19/08/2016 16:38:06] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 16 milisegundo(s).
+[19/08/2016 17:03:12] Resultado do Login na WEB Instalacao V11    (10.10.100.134): Sucesso Ao logar.
+[19/08/2016 17:03:12] Sistema procurará os arquivos na(s) pasta(s): Jtopdown TOPSAUDE 
+[19/08/2016 17:03:12] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[19/08/2016 17:03:12] Arquivo ENCONTRADO em \\10.10.100.134\TOPSAUDE\web\cli\asp\CLI0050.asp
+[19/08/2016 17:03:12] Busca Aprofundada necessária não realizada
+[19/08/2016 17:03:12] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 16 milisegundo(s).
+[19/08/2016 17:03:14] K:\Pacotes\52601-52650\52620-PEDRO\web\cli\asp\CLI0050.asp copiado para \\10.10.100.134\TOPSAUDE\web\cli\asp\CLI0050.asp
+[19/08/2016 17:03:20] Resultado do Login na WEB DEMO_ODO    (223.223.2.194): Sucesso Ao logar.
+[19/08/2016 17:03:20] Sistema procurará os arquivos na(s) pasta(s): jtopdown TopSaude 
+[19/08/2016 17:03:20] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[19/08/2016 17:03:20] Arquivo ENCONTRADO em \\223.223.2.194\TopSaude\web\cli\asp\CLI0050.asp
+[19/08/2016 17:03:20] Busca Aprofundada necessária não realizada
+[19/08/2016 17:03:20] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 19 milisegundo(s).
+[19/08/2016 17:03:21] K:\Pacotes\52601-52650\52620-PEDRO\web\cli\asp\CLI0050.asp copiado para \\223.223.2.194\TopSaude\web\cli\asp\CLI0050.asp
+[19/08/2016 17:03:31] Resultado do Login na WEB Demo_Med    (223.223.2.206): Sucesso Ao logar.
+[19/08/2016 17:03:31] Sistema procurará os arquivos na(s) pasta(s): jtopdown TopSaude 
+[19/08/2016 17:03:31] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[19/08/2016 17:03:31] Arquivo ENCONTRADO em \\223.223.2.206\TopSaude\web\cli\asp\CLI0050.asp
+[19/08/2016 17:03:31] Busca Aprofundada necessária não realizada
+[19/08/2016 17:03:31] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 131 milisegundo(s).
+[19/08/2016 17:03:34] K:\Pacotes\52601-52650\52620-PEDRO\web\cli\asp\CLI0050.asp copiado para \\223.223.2.206\TopSaude\web\cli\asp\CLI0050.asp
+[19/08/2016 17:14:38] Sistema finalizado.
+

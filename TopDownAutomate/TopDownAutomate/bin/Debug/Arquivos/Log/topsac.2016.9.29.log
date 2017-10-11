@@ -1,0 +1,24 @@
+[29/09/2016 14:02:54] Sistema Iniciado.
+[29/09/2016 14:06:25] Aberto driver com Chrome.
+[29/09/2016 14:07:06] Controle instanciado: 52996
+[29/09/2016 14:08:14] Arquivo do pacote do CA 52996 extraído.
+[29/09/2016 14:08:20] Banco Selecionado Para aplicar: GIST
+[29/09/2016 14:08:20] Banco Selecionado Para aplicar: SEG_DES8
+[29/09/2016 14:08:20] Banco Selecionado Para aplicar: SEG_VAZIO
+[29/09/2016 14:08:33] Banco Selecionado Para aplicar: SEG_DES8
+[29/09/2016 14:08:35] Atribuído objeto do tipo Script - update_ans_criticas_sib_9_23.sql em ts/SEG_DES8
+[29/09/2016 14:08:35] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.ANS_FLEXIBILIZACAO_SIB_ddl.sql em ts/SEG_DES8
+[29/09/2016 14:08:35] Atribuído objeto do tipo Procedure - TS.ANS_RETORNO_SIB_ERR_ddl.sql em ts/SEG_DES8
+[29/09/2016 14:08:35] Atribuído objeto do tipo Procedure - TS.ANS_GERA_INF_BENEF_IN35_NEW_ddl.sql em ts/SEG_DES8
+[29/09/2016 14:08:35] Atribuído objeto do tipo Procedure - TS.ANS_CANCELA_SIB_ddl.sql em ts/SEG_DES8
+[29/09/2016 14:08:35] Atribuído objeto do tipo Trigger - TS.TR_ENTIDADE_SISTEMA_02_ddl.sql em ts/SEG_DES8
+[29/09/2016 14:08:35] Atribuído objeto do tipo Trigger - ts.tr_enderecos_03_ddl.sql em ts/SEG_DES8
+[29/09/2016 14:08:35] Atribuído objeto do tipo Trigger - TS.TR_ASSOCIADO_07_ddl.sql em ts/SEG_DES8
+[29/09/2016 14:08:35] Atribuído objeto do tipo Table - TS.ANS_FLEXIBILIZACAO_SIB_ddl.sql em ts/SEG_DES8
+[29/09/2016 14:08:37] Sistema alterando o aplica para ordem certa de aplicação
+[29/09/2016 14:08:38] Selecionado P/ Não Criptografar em: SEG_DES8 
+[29/09/2016 14:08:38] Selecionado P/ Criptografar em: 
+[29/09/2016 14:08:38] Arquivo "APLICA.SQL" criado com sucesso.
+[29/09/2016 14:08:51] Executado o aplica no sqlplus.
+[29/09/2016 17:22:21] Sistema finalizado.
+

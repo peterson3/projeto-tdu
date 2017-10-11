@@ -1,0 +1,68 @@
+[27/06/2017 17:49:47] Sistema Iniciado.
+[27/06/2017 17:52:09] Aberto driver com Chrome.
+[27/06/2017 17:53:03] Controle instanciado: 56085
+[27/06/2017 17:53:21] Arquivo do pacote do CA 56085 extraído.
+[27/06/2017 17:53:39] Resultado do Login na WEB Unimed Odo    (172.25.10.44): Sucesso Ao logar.
+[27/06/2017 17:53:39] Sistema procurará os arquivos na(s) pasta(s): jtopdown logs odo_portal toprel TopSaude transfodontoans 
+[27/06/2017 17:53:39] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[27/06/2017 17:53:42] Realizando busca aprofundada para objetos não encontrados...
+[27/06/2017 17:56:11] Tempo que levou para achar todos os arquivos: 2 minuto(s), 31 segundo(s) e 299 milisegundo(s).
+[27/06/2017 18:21:28] Resultado do Login na WEB HOMOLOG V11    (10.10.100.147): Sucesso Ao logar.
+[27/06/2017 18:21:28] Sistema procurará os arquivos na(s) pasta(s): jtopdown TopSaude 
+[27/06/2017 18:21:28] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[27/06/2017 18:21:29] Realizando busca aprofundada para objetos não encontrados...
+[27/06/2017 18:21:49] Tempo que levou para achar todos os arquivos: 0 minuto(s), 20 segundo(s) e 999 milisegundo(s).
+[27/06/2017 18:25:10] K:\Pacotes\56051-56100\56085-PATRICIA\TopSaudeNet\TD.TopSaude.Service\TD.TopSaude.Service.Odo\build\ServicosUnimedSeguros\bin\ServicosUnimedSeguros.dll copiado para \\10.10.100.147\TopSaude\web\TopSaudeNET\TD.TopSaude.Service\TD.TopSaude.Service.Odo\build\ServicosUnimedSeguros\bin\ServicosUnimedSeguros.dll
+[27/06/2017 18:25:20] Resultado do Login na WEB Instalacao V11    (10.10.100.134): Sucesso Ao logar.
+[27/06/2017 18:25:20] Sistema procurará os arquivos na(s) pasta(s): Jtopdown TOPSAUDE 
+[27/06/2017 18:25:20] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[27/06/2017 18:25:21] Realizando busca aprofundada para objetos não encontrados...
+[27/06/2017 18:25:32] Tempo que levou para achar todos os arquivos: 0 minuto(s), 12 segundo(s) e 81 milisegundo(s).
+[27/06/2017 18:29:25] K:\Pacotes\56051-56100\56085-PATRICIA\TopSaudeNet\TD.TopSaude.Service\TD.TopSaude.Service.Odo\build\ServicosUnimedSeguros\bin\ServicosUnimedSeguros.dll copiado para \\10.10.100.134\TOPSAUDE\WEB\topsaudenet\TD.TopSaude.Service\TD.TopSaude.Service.Odo\build\ServicosUnimedSeguros\bin\ServicosUnimedSeguros.dll
+[27/06/2017 18:29:32] Resultado do Login na WEB Demo_Med    (223.223.2.206): Sucesso Ao logar.
+[27/06/2017 18:29:32] Sistema procurará os arquivos na(s) pasta(s): jtopdown TopSaude 
+[27/06/2017 18:29:32] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[27/06/2017 18:29:34] Realizando busca aprofundada para objetos não encontrados...
+[27/06/2017 18:30:12] Tempo que levou para achar todos os arquivos: 0 minuto(s), 39 segundo(s) e 952 milisegundo(s).
+[27/06/2017 18:32:31] Resultado do Login na WEB DEMO_ODO    (223.223.2.194): Sucesso Ao logar.
+[27/06/2017 18:32:31] Sistema procurará os arquivos na(s) pasta(s): jtopdown TopSaude 
+[27/06/2017 18:32:32] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[27/06/2017 18:32:33] Realizando busca aprofundada para objetos não encontrados...
+[27/06/2017 18:33:04] Tempo que levou para achar todos os arquivos: 0 minuto(s), 32 segundo(s) e 449 milisegundo(s).
+[27/06/2017 18:34:34] K:\Pacotes\56051-56100\56085-PATRICIA\TopSaudeNet\TD.TopSaude.Service\TD.TopSaude.Service.Odo\build\ServicosUnimedSeguros\bin\ServicosUnimedSeguros.dll copiado para \\223.223.2.194\TopSaude\web\TopSaudeNET\TD.TopSaude.Service\TD.TopSaude.Service.Odo\build\ServicosUnimedSeguros\bin\ServicosUnimedSeguros.dll
+[27/06/2017 18:37:41] Sistema finalizado.
+
+[27/06/2017 19:12:41] Sistema Iniciado.
+[27/06/2017 19:13:18] Aberto driver com Chrome.
+[27/06/2017 19:13:30] Controle instanciado: 56097
+[27/06/2017 19:13:43] Arquivo do pacote do CA 56097 extraído.
+[27/06/2017 19:13:56] Banco Selecionado Para aplicar: GIST
+[27/06/2017 19:13:59] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.CON_RCS_PESQUISA_CONTRATO_DDL.SQL em ts/GIST
+[27/06/2017 19:13:59] Atribuído objeto do tipo Package - ts.con_rcs_pesquisa_contrato_ddl.sql em ts/GIST
+[27/06/2017 19:14:00] Sistema alterando o aplica para ordem certa de aplicação
+[27/06/2017 19:14:01] Selecionado P/ Não Criptografar em: GIST 
+[27/06/2017 19:14:01] Selecionado P/ Criptografar em: 
+[27/06/2017 19:14:01] Arquivo "APLICA.SQL" criado com sucesso.
+[27/06/2017 19:14:08] Banco Selecionado Para aplicar: GIST
+[27/06/2017 19:14:12] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.CON_RCS_PESQUISA_CONTRATO_DDL.SQL em ts/GIST
+[27/06/2017 19:14:12] Atribuído objeto do tipo Package - ts.con_rcs_pesquisa_contrato_ddl.sql em ts/GIST
+[27/06/2017 19:14:13] Sistema alterando o aplica para ordem certa de aplicação
+[27/06/2017 19:14:15] Selecionado P/ Não Criptografar em: 
+[27/06/2017 19:14:15] Selecionado P/ Criptografar em: GIST 
+[27/06/2017 19:14:15] Arquivo "APLICA.SQL" criado com sucesso.
+[27/06/2017 19:14:22] Executado o aplica no sqlplus.
+[27/06/2017 19:15:58] Banco Selecionado Para aplicar: MAR_VAZIO
+[27/06/2017 19:16:00] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.CON_RCS_PESQUISA_CONTRATO_DDL.SQL em mar_teste/MAR_VAZIO
+[27/06/2017 19:16:00] Atribuído objeto do tipo Package - ts.con_rcs_pesquisa_contrato_ddl.sql em mar_teste/MAR_VAZIO
+[27/06/2017 19:16:01] Sistema alterando o aplica para ordem certa de aplicação
+[27/06/2017 19:16:04] Selecionado P/ Não Criptografar em: MAR_VAZIO 
+[27/06/2017 19:16:04] Selecionado P/ Criptografar em: 
+[27/06/2017 19:16:04] Arquivo "APLICA.SQL" criado com sucesso.
+[27/06/2017 19:16:10] Executado o aplica no sqlplus.
+[27/06/2017 19:49:35] Sistema finalizado.
+
+[27/06/2017 20:22:23] Sistema Iniciado.
+[27/06/2017 20:22:38] Aberto driver com Chrome.
+[27/06/2017 20:34:52] Sistema Iniciado.
+[27/06/2017 20:34:53] Sistema finalizado.
+

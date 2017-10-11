@@ -1,0 +1,464 @@
+[31/08/2017 17:09:03] Sistema Iniciado.
+[31/08/2017 17:09:39] Aberto driver com Chrome.
+[31/08/2017 17:10:07] Controle instanciado: 56962
+[31/08/2017 17:10:39] Arquivo do pacote do CA 56962 extraído.
+[31/08/2017 17:10:58] Banco Selecionado Para aplicar: HOMO_MED
+[31/08/2017 17:11:00] Atribuído objeto do tipo Package - TS.FAT_DEMONSTRATIVO_ANALITICO_DDL.sql em ts_teste/HOMO_MED
+[31/08/2017 17:11:02] Sistema alterando o aplica para ordem certa de aplicação
+[31/08/2017 17:11:03] Selecionado P/ Não Criptografar em: HOMO_MED 
+[31/08/2017 17:11:03] Selecionado P/ Criptografar em: 
+[31/08/2017 17:11:03] Arquivo "APLICA.SQL" criado com sucesso.
+[31/08/2017 17:11:11] Executado o aplica no sqlplus.
+[31/08/2017 18:19:56] Banco Selecionado Para aplicar: INST_ODO
+[31/08/2017 18:19:56] Banco Selecionado Para aplicar: INST_MED
+[31/08/2017 18:19:56] Banco Selecionado Para aplicar: DEMO_MED
+[31/08/2017 18:19:56] Banco Selecionado Para aplicar: DEMO_ODO
+[31/08/2017 18:19:56] Banco Selecionado Para aplicar: HOMO_MED
+[31/08/2017 18:19:56] Banco Selecionado Para aplicar: HOMO_ODO
+[31/08/2017 18:19:56] Banco Selecionado Para aplicar: SEPACO-TESTE
+[31/08/2017 18:19:56] Banco Selecionado Para aplicar: SEP_VAZIO
+[31/08/2017 18:20:06] Atribuído objeto do tipo Package - TS.FAT_DEMONSTRATIVO_ANALITICO_DDL.sql em ts/INST_ODO
+[31/08/2017 18:20:06] Atribuído objeto do tipo Package - TS.FAT_DEMONSTRATIVO_ANALITICO_DDL.sql em ts/INST_MED
+[31/08/2017 18:20:06] Atribuído objeto do tipo Package - TS.FAT_DEMONSTRATIVO_ANALITICO_DDL.sql em ts/DEMO_MED
+[31/08/2017 18:20:06] Atribuído objeto do tipo Package - TS.FAT_DEMONSTRATIVO_ANALITICO_DDL.sql em ts/DEMO_ODO
+[31/08/2017 18:20:06] Atribuído objeto do tipo Package - TS.FAT_DEMONSTRATIVO_ANALITICO_DDL.sql em ts_teste/HOMO_MED
+[31/08/2017 18:20:06] Atribuído objeto do tipo Package - TS.FAT_DEMONSTRATIVO_ANALITICO_DDL.sql em ts_teste/HOMO_ODO
+[31/08/2017 18:20:06] Atribuído objeto do tipo Package - TS.FAT_DEMONSTRATIVO_ANALITICO_DDL.sql em ts/SEPACO-TESTE
+[31/08/2017 18:20:06] Atribuído objeto do tipo Package - TS.FAT_DEMONSTRATIVO_ANALITICO_DDL.sql em ts_teste/SEP_VAZIO
+[31/08/2017 18:20:08] Sistema alterando o aplica para ordem certa de aplicação
+[31/08/2017 18:20:11] Selecionado P/ Não Criptografar em: INST_ODO INST_MED DEMO_MED DEMO_ODO HOMO_MED HOMO_ODO SEP_VAZIO 
+[31/08/2017 18:20:11] Selecionado P/ Criptografar em: SEPACO-TESTE 
+[31/08/2017 18:20:11] Arquivo "APLICA.SQL" criado com sucesso.
+[31/08/2017 18:20:16] Executado o aplica no sqlplus.
+[31/08/2017 19:41:38] Sistema finalizado.
+
+[31/08/2017 19:49:00] Sistema Iniciado.
+[31/08/2017 19:49:27] Aberto driver com Chrome.
+[31/08/2017 19:49:50] Controle instanciado: 56976
+[31/08/2017 19:50:10] Banco Selecionado Para aplicar: SEG_DES8
+[31/08/2017 19:50:20] Banco Selecionado Para aplicar: SEG_DES8
+[31/08/2017 19:50:22] Sistema finalizado.
+
+[31/08/2017 19:50:26] Sistema Iniciado.
+[31/08/2017 19:50:36] Aberto driver com Chrome.
+[31/08/2017 19:50:45] Controle instanciado: 56976
+[31/08/2017 19:51:03] Arquivo do pacote do CA 56976 extraído.
+[31/08/2017 19:51:17] Banco Selecionado Para aplicar: SEG_DES8
+[31/08/2017 19:51:25] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_RECSIN_RECEBIDO_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:51:25] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_RECSIN_PENDENTE_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:51:25] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_RECSIN_EMITIDO_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:51:25] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_RECSIN_CANCELADOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:51:25] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_REC_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:51:25] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_PENDENTE_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:51:25] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_PAGOS_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:51:25] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_EMITIDOS_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:51:25] Atribuído objeto do tipo Procedure - ts.ansra_txt_eventos_ec_pgto_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:51:25] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_AV_ANT_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:51:25] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COPART_RECEBIDA_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:51:25] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COPART_PENDENTE_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:51:25] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COPART_EMITIDO_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:51:25] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COPART_CANCELADOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:51:25] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_RESTITUIDOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:51:25] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_RECEBIDOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:51:25] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_PENDENTES_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:51:25] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_EMITIDOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:51:25] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_CANCELADOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:51:25] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_RECEBER_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:51:25] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_PENDENTE_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:51:25] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_PAGA_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:51:25] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_ESTCOMPL_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:51:25] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_EMI_CON_DIF_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:51:25] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_EMITIDA_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:51:25] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_CANC_DIF_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:51:25] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_CANCELADA_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:51:27] Sistema alterando o aplica para ordem certa de aplicação
+[31/08/2017 19:51:30] Selecionado P/ Não Criptografar em: SEG_DES8 
+[31/08/2017 19:51:30] Selecionado P/ Criptografar em: 
+[31/08/2017 19:51:30] Arquivo "APLICA.SQL" criado com sucesso.
+[31/08/2017 19:51:36] Executado o aplica no sqlplus.
+[31/08/2017 19:53:34] Banco Selecionado Para aplicar: SEG_DES8
+[31/08/2017 19:53:34] Banco Selecionado Para aplicar: SEG_VAZIO
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_RECSIN_RECEBIDO_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_RECSIN_RECEBIDO_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_RECSIN_PENDENTE_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_RECSIN_PENDENTE_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_RECSIN_EMITIDO_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_RECSIN_EMITIDO_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_RECSIN_CANCELADOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_RECSIN_CANCELADOS_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_REC_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_REC_152_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_PENDENTE_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_PENDENTE_152_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_PAGOS_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_PAGOS_152_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_EMITIDOS_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_EMITIDOS_152_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - ts.ansra_txt_eventos_ec_pgto_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - ts.ansra_txt_eventos_ec_pgto_152_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_AV_ANT_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_AV_ANT_152_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COPART_RECEBIDA_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COPART_RECEBIDA_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COPART_PENDENTE_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COPART_PENDENTE_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COPART_EMITIDO_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COPART_EMITIDO_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COPART_CANCELADOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COPART_CANCELADOS_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_RESTITUIDOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_RESTITUIDOS_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_RECEBIDOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_RECEBIDOS_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_PENDENTES_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_PENDENTES_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_EMITIDOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_EMITIDOS_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_CANCELADOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_CANCELADOS_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_RECEBER_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_RECEBER_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_PENDENTE_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_PENDENTE_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_PAGA_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_PAGA_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_ESTCOMPL_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_ESTCOMPL_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_EMI_CON_DIF_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_EMI_CON_DIF_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_EMITIDA_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_EMITIDA_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_CANC_DIF_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_CANC_DIF_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_CANCELADA_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:53:40] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_CANCELADA_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 19:53:41] Sistema alterando o aplica para ordem certa de aplicação
+[31/08/2017 19:53:43] Selecionado P/ Não Criptografar em: SEG_VAZIO 
+[31/08/2017 19:53:43] Selecionado P/ Criptografar em: SEG_DES8 
+[31/08/2017 19:53:43] Arquivo "APLICA.SQL" criado com sucesso.
+[31/08/2017 19:53:48] Executado o aplica no sqlplus.
+[31/08/2017 19:55:30] Banco Selecionado Para aplicar: SEG_DES8
+[31/08/2017 19:55:34] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_RECSIN_RECEBIDO_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:55:34] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_RECSIN_PENDENTE_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:55:34] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_RECSIN_EMITIDO_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:55:34] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_RECSIN_CANCELADOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:55:34] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_REC_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:55:34] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_PENDENTE_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:55:34] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_PAGOS_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:55:34] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_EMITIDOS_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:55:34] Atribuído objeto do tipo Procedure - ts.ansra_txt_eventos_ec_pgto_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:55:34] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_AV_ANT_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:55:34] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COPART_RECEBIDA_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:55:34] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COPART_PENDENTE_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:55:34] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COPART_EMITIDO_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:55:34] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COPART_CANCELADOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:55:34] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_RESTITUIDOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:55:34] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_RECEBIDOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:55:34] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_PENDENTES_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:55:34] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_EMITIDOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:55:34] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_CANCELADOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:55:34] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_RECEBER_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:55:34] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_PENDENTE_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:55:34] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_PAGA_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:55:34] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_ESTCOMPL_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:55:34] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_EMI_CON_DIF_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:55:34] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_EMITIDA_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:55:34] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_CANC_DIF_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:55:34] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_CANCELADA_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:55:36] Sistema alterando o aplica para ordem certa de aplicação
+[31/08/2017 19:55:38] Selecionado P/ Não Criptografar em: SEG_DES8 
+[31/08/2017 19:55:38] Selecionado P/ Criptografar em: 
+[31/08/2017 19:55:38] Arquivo "APLICA.SQL" criado com sucesso.
+[31/08/2017 19:55:43] Executado o aplica no sqlplus.
+[31/08/2017 19:55:59] Banco Selecionado Para aplicar: SEG_DES8
+[31/08/2017 19:56:04] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_RECSIN_RECEBIDO_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:56:04] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_RECSIN_PENDENTE_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:56:04] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_RECSIN_EMITIDO_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:56:04] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_RECSIN_CANCELADOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:56:04] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_REC_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:56:04] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_PENDENTE_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:56:04] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_PAGOS_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:56:04] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_EMITIDOS_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:56:04] Atribuído objeto do tipo Procedure - ts.ansra_txt_eventos_ec_pgto_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:56:04] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_AV_ANT_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:56:04] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COPART_RECEBIDA_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:56:04] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COPART_PENDENTE_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:56:04] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COPART_EMITIDO_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:56:04] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COPART_CANCELADOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:56:04] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_RESTITUIDOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:56:04] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_RECEBIDOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:56:04] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_PENDENTES_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:56:04] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_EMITIDOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:56:04] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_CANCELADOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:56:04] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_RECEBER_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:56:04] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_PENDENTE_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:56:04] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_PAGA_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:56:04] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_ESTCOMPL_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:56:04] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_EMI_CON_DIF_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:56:04] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_EMITIDA_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:56:04] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_CANC_DIF_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:56:04] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_CANCELADA_ddl.sql em ts/SEG_DES8
+[31/08/2017 19:56:05] Sistema alterando o aplica para ordem certa de aplicação
+[31/08/2017 19:56:07] Selecionado P/ Não Criptografar em: 
+[31/08/2017 19:56:07] Selecionado P/ Criptografar em: SEG_DES8 
+[31/08/2017 19:56:07] Arquivo "APLICA.SQL" criado com sucesso.
+[31/08/2017 19:56:12] Executado o aplica no sqlplus.
+[31/08/2017 20:21:19] Sistema finalizado.
+
+[31/08/2017 20:21:52] Sistema Iniciado.
+[31/08/2017 20:22:06] Aberto driver com Chrome.
+[31/08/2017 20:22:17] Controle instanciado: 56976
+[31/08/2017 20:22:43] Arquivo do pacote do CA 56976 extraído.
+[31/08/2017 20:22:54] Banco Selecionado Para aplicar: SEG_DES8
+[31/08/2017 20:22:58] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_RECSIN_RECEBIDO_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:22:58] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_RECSIN_PENDENTE_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:22:58] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_RECSIN_EMITIDO_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:22:58] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_RECSIN_CANCELADOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:22:58] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_REC_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:22:58] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_PENDENTE_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:22:58] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_PAGOS_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:22:58] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_EMITIDOS_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:22:58] Atribuído objeto do tipo Procedure - ts.ansra_txt_eventos_ec_pgto_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:22:58] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_AV_ANT_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:22:58] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COPART_RECEBIDA_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:22:58] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COPART_PENDENTE_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:22:58] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COPART_EMITIDO_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:22:58] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COPART_CANCELADOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:22:58] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_RESTITUIDOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:22:58] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_RECEBIDOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:22:58] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_PENDENTES_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:22:58] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_EMITIDOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:22:58] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_CANCELADOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:22:58] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_RECEBER_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:22:58] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_PENDENTE_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:22:58] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_PAGA_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:22:58] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_ESTCOMPL_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:22:58] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_EMI_CON_DIF_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:22:58] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_EMITIDA_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:22:58] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_CANC_DIF_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:22:58] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_CANCELADA_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:22:59] Sistema alterando o aplica para ordem certa de aplicação
+[31/08/2017 20:23:00] Selecionado P/ Não Criptografar em: 
+[31/08/2017 20:23:00] Selecionado P/ Criptografar em: SEG_DES8 
+[31/08/2017 20:23:00] Arquivo "APLICA.SQL" criado com sucesso.
+[31/08/2017 20:23:07] Executado o aplica no sqlplus.
+[31/08/2017 20:54:39] Banco Selecionado Para aplicar: SEG_DES8
+[31/08/2017 20:54:39] Banco Selecionado Para aplicar: SEG_VAZIO
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_RECSIN_RECEBIDO_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_RECSIN_RECEBIDO_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_RECSIN_PENDENTE_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_RECSIN_PENDENTE_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_RECSIN_EMITIDO_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_RECSIN_EMITIDO_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_RECSIN_CANCELADOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_RECSIN_CANCELADOS_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_REC_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_REC_152_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_PENDENTE_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_PENDENTE_152_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_PAGOS_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_PAGOS_152_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_EMITIDOS_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_EMITIDOS_152_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - ts.ansra_txt_eventos_ec_pgto_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - ts.ansra_txt_eventos_ec_pgto_152_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_AV_ANT_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_AV_ANT_152_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COPART_RECEBIDA_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COPART_RECEBIDA_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COPART_PENDENTE_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COPART_PENDENTE_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COPART_EMITIDO_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COPART_EMITIDO_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COPART_CANCELADOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COPART_CANCELADOS_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_RESTITUIDOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_RESTITUIDOS_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_RECEBIDOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_RECEBIDOS_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_PENDENTES_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_PENDENTES_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_EMITIDOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_EMITIDOS_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_CANCELADOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_CANCELADOS_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_RECEBER_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_RECEBER_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_PENDENTE_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_PENDENTE_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_PAGA_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_PAGA_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_ESTCOMPL_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_ESTCOMPL_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_EMI_CON_DIF_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_EMI_CON_DIF_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_EMITIDA_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_EMITIDA_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_CANC_DIF_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_CANC_DIF_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_CANCELADA_ddl.sql em ts/SEG_DES8
+[31/08/2017 20:54:45] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_CANCELADA_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 20:54:46] Sistema alterando o aplica para ordem certa de aplicação
+[31/08/2017 20:54:47] Selecionado P/ Não Criptografar em: SEG_DES8 SEG_VAZIO 
+[31/08/2017 20:54:47] Selecionado P/ Criptografar em: 
+[31/08/2017 20:54:47] Arquivo "APLICA.SQL" criado com sucesso.
+[31/08/2017 20:54:55] Executado o aplica no sqlplus.
+[31/08/2017 21:08:15] Arquivo do pacote do CA 56976 extraído.
+[31/08/2017 21:08:25] Banco Selecionado Para aplicar: SEG_DES8
+[31/08/2017 21:08:25] Banco Selecionado Para aplicar: SEG_VAZIO
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_RECSIN_RECEBIDO_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_RECSIN_RECEBIDO_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_RECSIN_PENDENTE_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_RECSIN_PENDENTE_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_RECSIN_EMITIDO_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_RECSIN_EMITIDO_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_RECSIN_CANCELADOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_RECSIN_CANCELADOS_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_REC_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_REC_152_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_PENDENTE_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_PENDENTE_152_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_PAGOS_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_PAGOS_152_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_EMITIDOS_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_EMITIDOS_152_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - ts.ansra_txt_eventos_ec_pgto_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - ts.ansra_txt_eventos_ec_pgto_152_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_AV_ANT_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_AV_ANT_152_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COPART_RECEBIDA_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COPART_RECEBIDA_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COPART_PENDENTE_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COPART_PENDENTE_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COPART_EMITIDO_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COPART_EMITIDO_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COPART_CANCELADOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COPART_CANCELADOS_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_RESTITUIDOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_RESTITUIDOS_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_RECEBIDOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_RECEBIDOS_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_PENDENTES_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_PENDENTES_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_EMITIDOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_EMITIDOS_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_CANCELADOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_CANCELADOS_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_RECEBER_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_RECEBER_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_PENDENTE_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_PENDENTE_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_PAGA_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_PAGA_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_ESTCOMPL_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_ESTCOMPL_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_EMI_CON_DIF_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_EMI_CON_DIF_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_EMITIDA_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_EMITIDA_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_CANC_DIF_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_CANC_DIF_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_CANCELADA_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:08:29] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_CANCELADA_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:08:30] Sistema alterando o aplica para ordem certa de aplicação
+[31/08/2017 21:08:32] Selecionado P/ Não Criptografar em: SEG_DES8 SEG_VAZIO 
+[31/08/2017 21:08:32] Selecionado P/ Criptografar em: 
+[31/08/2017 21:08:32] Arquivo "APLICA.SQL" criado com sucesso.
+[31/08/2017 21:08:41] Executado o aplica no sqlplus.
+[31/08/2017 21:10:03] Banco Selecionado Para aplicar: SEG_DES8
+[31/08/2017 21:10:07] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_RECSIN_RECEBIDO_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:10:07] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_RECSIN_PENDENTE_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:10:07] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_RECSIN_EMITIDO_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:10:07] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_RECSIN_CANCELADOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:10:07] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_REC_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:10:07] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_PENDENTE_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:10:07] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_PAGOS_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:10:07] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_EMITIDOS_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:10:07] Atribuído objeto do tipo Procedure - ts.ansra_txt_eventos_ec_pgto_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:10:07] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_AV_ANT_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:10:07] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COPART_RECEBIDA_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:10:07] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COPART_PENDENTE_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:10:07] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COPART_EMITIDO_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:10:07] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COPART_CANCELADOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:10:07] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_RESTITUIDOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:10:07] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_RECEBIDOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:10:07] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_PENDENTES_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:10:07] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_EMITIDOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:10:07] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_CANCELADOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:10:07] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_RECEBER_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:10:07] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_PENDENTE_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:10:07] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_PAGA_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:10:07] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_ESTCOMPL_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:10:07] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_EMI_CON_DIF_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:10:07] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_EMITIDA_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:10:07] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_CANC_DIF_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:10:07] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_CANCELADA_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:10:09] Sistema alterando o aplica para ordem certa de aplicação
+[31/08/2017 21:10:11] Selecionado P/ Não Criptografar em: 
+[31/08/2017 21:10:11] Selecionado P/ Criptografar em: SEG_DES8 
+[31/08/2017 21:10:11] Arquivo "APLICA.SQL" criado com sucesso.
+[31/08/2017 21:10:18] Executado o aplica no sqlplus.
+[31/08/2017 21:12:03] Arquivo do pacote do CA 56976 extraído.
+[31/08/2017 21:12:12] Banco Selecionado Para aplicar: SEG_DES8
+[31/08/2017 21:12:12] Banco Selecionado Para aplicar: SEG_VAZIO
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_RECSIN_RECEBIDO_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_RECSIN_RECEBIDO_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_RECSIN_PENDENTE_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_RECSIN_PENDENTE_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_RECSIN_EMITIDO_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_RECSIN_EMITIDO_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_RECSIN_CANCELADOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_RECSIN_CANCELADOS_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_REC_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_REC_152_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_PENDENTE_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_PENDENTE_152_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_PAGOS_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_PAGOS_152_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_EMITIDOS_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_EMITIDOS_152_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - ts.ansra_txt_eventos_ec_pgto_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - ts.ansra_txt_eventos_ec_pgto_152_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_AV_ANT_152_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_EVENTOS_AV_ANT_152_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COPART_RECEBIDA_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COPART_RECEBIDA_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COPART_PENDENTE_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COPART_PENDENTE_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COPART_EMITIDO_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COPART_EMITIDO_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COPART_CANCELADOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COPART_CANCELADOS_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_RESTITUIDOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_RESTITUIDOS_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_RECEBIDOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_RECEBIDOS_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_PENDENTES_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_PENDENTES_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_EMITIDOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_EMITIDOS_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_CANCELADOS_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_CON_CANCELADOS_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_RECEBER_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_RECEBER_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_PENDENTE_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_PENDENTE_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_PAGA_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_PAGA_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_ESTCOMPL_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_ESTCOMPL_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_EMI_CON_DIF_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_EMI_CON_DIF_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_EMITIDA_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_EMITIDA_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_CANC_DIF_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_CANC_DIF_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_CANCELADA_ddl.sql em ts/SEG_DES8
+[31/08/2017 21:12:16] Atribuído objeto do tipo Procedure - TS.ANSRA_TXT_COMISSAO_CANCELADA_ddl.sql em seg_teste/SEG_VAZIO
+[31/08/2017 21:12:17] Sistema alterando o aplica para ordem certa de aplicação
+[31/08/2017 21:12:19] Selecionado P/ Não Criptografar em: SEG_VAZIO 
+[31/08/2017 21:12:19] Selecionado P/ Criptografar em: SEG_DES8 
+[31/08/2017 21:12:19] Arquivo "APLICA.SQL" criado com sucesso.
+[31/08/2017 21:12:25] Executado o aplica no sqlplus.
+[31/08/2017 21:15:36] Sistema finalizado.
+

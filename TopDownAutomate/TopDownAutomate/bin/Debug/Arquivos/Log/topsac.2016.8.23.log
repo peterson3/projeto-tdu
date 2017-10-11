@@ -1,0 +1,164 @@
+[23/08/2016 11:18:34] Sistema Iniciado.
+[23/08/2016 11:19:32] Aberto driver com Chrome.
+[23/08/2016 11:20:39] Controle instanciado: 52648
+[23/08/2016 11:22:23] Arquivo do pacote do CA 52648 extraído.
+[23/08/2016 11:23:37] Resultado do Login na WEB HOMOLOG V11    (10.10.100.147): Sucesso Ao logar.
+[23/08/2016 11:23:37] Sistema procurará os arquivos na(s) pasta(s): jtopdown TopSaude 
+[23/08/2016 11:23:38] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[23/08/2016 11:23:38] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\ass\asp\ass0050a.asp
+[23/08/2016 11:23:38] Busca Aprofundada necessária não realizada
+[23/08/2016 11:23:38] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 194 milisegundo(s).
+[23/08/2016 11:23:46] K:\Pacotes\52601-52650\52648-CAMILA\web\ass\asp\ass0050a.asp copiado para \\10.10.100.147\TopSaude\web\ass\asp\ass0050a.asp
+[23/08/2016 12:07:25] Resultado do Login na WEB Unimed Odo    (172.25.10.44): Sucesso Ao logar.
+[23/08/2016 12:07:26] Sistema procurará os arquivos na(s) pasta(s): jtopdown logs odo_portal toprel TopSaude transfodontoans 
+[23/08/2016 12:07:26] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[23/08/2016 12:07:26] Arquivo ENCONTRADO em \\172.25.10.44\TopSaude\web\ass\asp\ass0050a.asp
+[23/08/2016 12:07:26] Busca Aprofundada necessária não realizada
+[23/08/2016 12:07:26] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 438 milisegundo(s).
+[23/08/2016 12:08:03] K:\Pacotes\52601-52650\52648-CAMILA\web\ass\asp\ass0050a.asp copiado para \\172.25.10.44\TopSaude\web\ass\asp\ass0050a.asp
+[23/08/2016 12:10:44] Resultado do Login na WEB Unimed Odo    (172.25.10.44): Sucesso Ao logar.
+[23/08/2016 12:10:45] Sistema procurará os arquivos na(s) pasta(s): jtopdown logs odo_portal toprel TopSaude transfodontoans 
+[23/08/2016 12:10:45] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[23/08/2016 12:10:45] Arquivo ENCONTRADO em \\172.25.10.44\TopSaude\web\ass\asp\ass0050a.asp
+[23/08/2016 12:10:45] Busca Aprofundada necessária não realizada
+[23/08/2016 12:10:45] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 585 milisegundo(s).
+[23/08/2016 12:10:47] K:\Pacotes\52601-52650\52648-CAMILA\web\ass\asp\ass0050a.asp copiado para \\172.25.10.44\TopSaude\web\ass\asp\ass0050a.asp
+[23/08/2016 15:37:02] Resultado do Login na WEB HOMOLOG V11    (10.10.100.147): Sucesso Ao logar.
+[23/08/2016 15:37:02] Sistema procurará os arquivos na(s) pasta(s): jtopdown TopSaude 
+[23/08/2016 15:37:02] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[23/08/2016 15:37:02] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\ass\asp\ass0050a.asp
+[23/08/2016 15:37:02] Busca Aprofundada necessária não realizada
+[23/08/2016 15:37:02] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 14 milisegundo(s).
+[23/08/2016 15:37:03] K:\Pacotes\52601-52650\52648-CAMILA\web\ass\asp\ass0050a.asp copiado para \\10.10.100.147\TopSaude\web\ass\asp\ass0050a.asp
+[23/08/2016 15:37:09] Resultado do Login na WEB Instalacao V11    (10.10.100.134): Sucesso Ao logar.
+[23/08/2016 15:37:09] Sistema procurará os arquivos na(s) pasta(s): Jtopdown TOPSAUDE 
+[23/08/2016 15:37:09] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[23/08/2016 15:37:09] Arquivo ENCONTRADO em \\10.10.100.134\TOPSAUDE\web\ass\asp\ass0050a.asp
+[23/08/2016 15:37:09] Busca Aprofundada necessária não realizada
+[23/08/2016 15:37:09] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 12 milisegundo(s).
+[23/08/2016 15:37:10] K:\Pacotes\52601-52650\52648-CAMILA\web\ass\asp\ass0050a.asp copiado para \\10.10.100.134\TOPSAUDE\web\ass\asp\ass0050a.asp
+[23/08/2016 15:37:22] Resultado do Login na WEB Demo_Med    (223.223.2.206): Sucesso Ao logar.
+[23/08/2016 15:37:22] Sistema procurará os arquivos na(s) pasta(s): jtopdown TopSaude 
+[23/08/2016 15:37:22] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[23/08/2016 15:37:22] Arquivo ENCONTRADO em \\223.223.2.206\TopSaude\web\ass\asp\ass0050a.asp
+[23/08/2016 15:37:22] Busca Aprofundada necessária não realizada
+[23/08/2016 15:37:22] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 21 milisegundo(s).
+[23/08/2016 15:37:23] K:\Pacotes\52601-52650\52648-CAMILA\web\ass\asp\ass0050a.asp copiado para \\223.223.2.206\TopSaude\web\ass\asp\ass0050a.asp
+[23/08/2016 15:37:29] Resultado do Login na WEB DEMO_ODO    (223.223.2.194): Sucesso Ao logar.
+[23/08/2016 15:37:29] Sistema procurará os arquivos na(s) pasta(s): jtopdown TopSaude 
+[23/08/2016 15:37:29] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[23/08/2016 15:37:29] Arquivo ENCONTRADO em \\223.223.2.194\TopSaude\web\ass\asp\ass0050a.asp
+[23/08/2016 15:37:29] Busca Aprofundada necessária não realizada
+[23/08/2016 15:37:29] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 19 milisegundo(s).
+[23/08/2016 15:37:29] K:\Pacotes\52601-52650\52648-CAMILA\web\ass\asp\ass0050a.asp copiado para \\223.223.2.194\TopSaude\web\ass\asp\ass0050a.asp
+[23/08/2016 15:37:38] Resultado do Login na WEB Unimed Odo    (172.25.10.44): Sucesso Ao logar.
+[23/08/2016 15:37:39] Sistema procurará os arquivos na(s) pasta(s): jtopdown logs odo_portal toprel TopSaude transfodontoans 
+[23/08/2016 15:37:39] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[23/08/2016 15:37:40] Arquivo ENCONTRADO em \\172.25.10.44\TopSaude\web\ass\asp\ass0050a.asp
+[23/08/2016 15:37:40] Busca Aprofundada necessária não realizada
+[23/08/2016 15:37:40] Tempo que levou para achar todos os arquivos: 0 minuto(s), 1 segundo(s) e 802 milisegundo(s).
+[23/08/2016 15:37:43] K:\Pacotes\52601-52650\52648-CAMILA\web\ass\asp\ass0050a.asp copiado para \\172.25.10.44\TopSaude\web\ass\asp\ass0050a.asp
+[23/08/2016 15:44:53] Sistema finalizado.
+
+[23/08/2016 15:45:17] Sistema Iniciado.
+[23/08/2016 15:45:34] Aberto driver com Chrome.
+[23/08/2016 15:48:43] Controle instanciado: 52560
+[23/08/2016 15:50:10] Arquivo do pacote do CA 52560 extraído.
+[23/08/2016 15:50:21] Banco Selecionado Para aplicar: HOMO_MED
+[23/08/2016 15:50:24] Atribuído objeto do tipo Script - ts_script_insert_negociacao.sql em ts_teste/HOMO_MED
+[23/08/2016 15:50:24] Atribuído objeto do tipo Package - TS.FAT_REL_DEMONSTRATIVO_COBRANCA_ddl.sql em ts_teste/HOMO_MED
+[23/08/2016 15:50:24] Atribuído objeto do tipo Procedure - TS.REC_TIPO_NEGOCIACAO_COB_ddl.sql em ts_teste/HOMO_MED
+[23/08/2016 15:50:24] Atribuído objeto do tipo Procedure - TS.REC_NEGOCIACAO_COBRANCA_ddl.sql em ts_teste/HOMO_MED
+[23/08/2016 15:50:24] Atribuído objeto do tipo Table - TS.TIPO_NEGOCIACAO_COB_ddl.sql em ts_teste/HOMO_MED
+[23/08/2016 15:50:24] Atribuído objeto do tipo Table - TS.PERFIL_NEG_CLIENTE_ddl.sql em ts_teste/HOMO_MED
+[23/08/2016 15:50:24] Atribuído objeto do tipo Table - TS.PERFIL_NEGOCIACAO_ddl.sql em ts_teste/HOMO_MED
+[23/08/2016 15:50:24] Atribuído objeto do tipo Table - TS.PERFIL_CLI_NEGOCIACAO_ddl.sql em ts_teste/HOMO_MED
+[23/08/2016 15:50:24] Atribuído objeto do tipo Table - TS.PARCELAS_NEGOCIACAO_ddl.sql em ts_teste/HOMO_MED
+[23/08/2016 15:50:24] Atribuído objeto do tipo Table - TS.NEGOCIACAO_COBRANCA_ddl.sql em ts_teste/HOMO_MED
+[23/08/2016 15:50:24] Atribuído objeto do tipo Table - ts.cobranca_ddl.sql em ts_teste/HOMO_MED
+[23/08/2016 15:50:27] Sistema alterando o aplica para ordem certa de aplicação
+[23/08/2016 15:50:28] Selecionado P/ Não Criptografar em: HOMO_MED 
+[23/08/2016 15:50:28] Selecionado P/ Criptografar em: 
+[23/08/2016 15:50:28] Arquivo "APLICA.SQL" criado com sucesso.
+[23/08/2016 15:50:35] Executado o aplica no sqlplus.
+[23/08/2016 16:03:22] Resultado do Login na WEB HOMOLOG V11    (10.10.100.147): Sucesso Ao logar.
+[23/08/2016 16:03:22] Sistema procurará os arquivos na(s) pasta(s): jtopdown TopSaude 
+[23/08/2016 16:03:22] Quantidade de Arquivos: 12 (arquivos que não estão na raíz).
+[23/08/2016 16:03:22] Pasta ENCONTRADA em \\10.10.100.147\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\rec\
+[23/08/2016 16:03:22] Pasta ENCONTRADA em \\10.10.100.147\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\rec\
+[23/08/2016 16:03:22] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\rec\asp\rec0022a.asp
+[23/08/2016 16:03:22] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\rec\asp\rec0022b.asp
+[23/08/2016 16:03:22] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\rec\asp\rec0023a.asp
+[23/08/2016 16:03:22] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\rec\asp\rec0023b.asp
+[23/08/2016 16:03:22] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\rec\asp\rec0023c.asp
+[23/08/2016 16:03:22] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\rec\asp\rec0023d.asp
+[23/08/2016 16:03:22] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\rec\asp\rec0023e.asp
+[23/08/2016 16:03:22] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\rec\asp\rec0023f.asp
+[23/08/2016 16:03:22] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\rec\asp\rec1009a.asp
+[23/08/2016 16:03:22] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\rec\asp\rec1009b.asp
+[23/08/2016 16:03:22] Busca Aprofundada necessária não realizada
+[23/08/2016 16:03:22] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 87 milisegundo(s).
+[23/08/2016 16:03:54] K:\Pacotes\52551-52600\52560-EDSON\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\rec\TsRec1009Boleto.jasper copiado para \\10.10.100.147\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\rec\
+[23/08/2016 16:03:54] K:\Pacotes\52551-52600\52560-EDSON\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\rec\TsRec1009JRCobranca.jasper copiado para \\10.10.100.147\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\rec\
+[23/08/2016 16:03:54] Alterando atributo de arquivo de somente leitura.
+[23/08/2016 16:03:55] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0022a.asp copiado para \\10.10.100.147\TopSaude\web\rec\asp\rec0022a.asp
+[23/08/2016 16:03:55] Alterando atributo de arquivo de somente leitura.
+[23/08/2016 16:03:55] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0022b.asp copiado para \\10.10.100.147\TopSaude\web\rec\asp\rec0022b.asp
+[23/08/2016 16:03:55] Alterando atributo de arquivo de somente leitura.
+[23/08/2016 16:03:55] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023a.asp copiado para \\10.10.100.147\TopSaude\web\rec\asp\rec0023a.asp
+[23/08/2016 16:03:55] Alterando atributo de arquivo de somente leitura.
+[23/08/2016 16:03:55] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023b.asp copiado para \\10.10.100.147\TopSaude\web\rec\asp\rec0023b.asp
+[23/08/2016 16:03:55] Alterando atributo de arquivo de somente leitura.
+[23/08/2016 16:03:55] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023c.asp copiado para \\10.10.100.147\TopSaude\web\rec\asp\rec0023c.asp
+[23/08/2016 16:03:55] Alterando atributo de arquivo de somente leitura.
+[23/08/2016 16:03:55] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023d.asp copiado para \\10.10.100.147\TopSaude\web\rec\asp\rec0023d.asp
+[23/08/2016 16:03:55] Alterando atributo de arquivo de somente leitura.
+[23/08/2016 16:03:55] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023e.asp copiado para \\10.10.100.147\TopSaude\web\rec\asp\rec0023e.asp
+[23/08/2016 16:03:55] Alterando atributo de arquivo de somente leitura.
+[23/08/2016 16:03:55] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023f.asp copiado para \\10.10.100.147\TopSaude\web\rec\asp\rec0023f.asp
+[23/08/2016 16:03:55] Alterando atributo de arquivo de somente leitura.
+[23/08/2016 16:03:55] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec1009a.asp copiado para \\10.10.100.147\TopSaude\web\rec\asp\rec1009a.asp
+[23/08/2016 16:03:55] Alterando atributo de arquivo de somente leitura.
+[23/08/2016 16:03:55] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec1009b.asp copiado para \\10.10.100.147\TopSaude\web\rec\asp\rec1009b.asp
+[23/08/2016 16:04:01] K:\Pacotes\52551-52600\52560-EDSON\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\rec\TsRec1009Boleto.jasper copiado para \\10.10.100.147\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\rec\
+[23/08/2016 16:04:01] K:\Pacotes\52551-52600\52560-EDSON\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\rec\TsRec1009JRCobranca.jasper copiado para \\10.10.100.147\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\rec\
+[23/08/2016 16:04:02] Tentativa 2: K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0022a.asp copiado para \\10.10.100.147\TopSaude\web\rec\asp\rec0022a.asp
+[23/08/2016 16:04:02] Tentativa 2: K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0022b.asp copiado para \\10.10.100.147\TopSaude\web\rec\asp\rec0022b.asp
+[23/08/2016 16:04:02] Tentativa 2: K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023a.asp copiado para \\10.10.100.147\TopSaude\web\rec\asp\rec0023a.asp
+[23/08/2016 16:04:02] Tentativa 2: A operação solicitada não pode ser executada em um arquivo com uma seção mapeada pelo usuário aberta.
+
+[23/08/2016 16:04:02] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023b.asp falha ao copiar para \\10.10.100.147\TopSaude\web\rec\asp\rec0023b.asp
+[23/08/2016 16:04:05] Tentativa 2: K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023c.asp copiado para \\10.10.100.147\TopSaude\web\rec\asp\rec0023c.asp
+[23/08/2016 16:04:05] Tentativa 2: K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023d.asp copiado para \\10.10.100.147\TopSaude\web\rec\asp\rec0023d.asp
+[23/08/2016 16:04:06] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023e.asp copiado para \\10.10.100.147\TopSaude\web\rec\asp\rec0023e.asp
+[23/08/2016 16:04:06] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023f.asp copiado para \\10.10.100.147\TopSaude\web\rec\asp\rec0023f.asp
+[23/08/2016 16:04:06] Tentativa 2: K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec1009a.asp copiado para \\10.10.100.147\TopSaude\web\rec\asp\rec1009a.asp
+[23/08/2016 16:04:06] Tentativa 2: K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec1009b.asp copiado para \\10.10.100.147\TopSaude\web\rec\asp\rec1009b.asp
+[23/08/2016 16:04:09] K:\Pacotes\52551-52600\52560-EDSON\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\rec\TsRec1009Boleto.jasper copiado para \\10.10.100.147\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\rec\
+[23/08/2016 16:04:09] K:\Pacotes\52551-52600\52560-EDSON\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\rec\TsRec1009JRCobranca.jasper copiado para \\10.10.100.147\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\rec\
+[23/08/2016 16:04:10] Tentativa 2: A operação solicitada não pode ser executada em um arquivo com uma seção mapeada pelo usuário aberta.
+
+[23/08/2016 16:04:10] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0022a.asp falha ao copiar para \\10.10.100.147\TopSaude\web\rec\asp\rec0022a.asp
+[23/08/2016 16:04:13] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0022b.asp copiado para \\10.10.100.147\TopSaude\web\rec\asp\rec0022b.asp
+[23/08/2016 16:04:13] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023a.asp copiado para \\10.10.100.147\TopSaude\web\rec\asp\rec0023a.asp
+[23/08/2016 16:04:13] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023b.asp copiado para \\10.10.100.147\TopSaude\web\rec\asp\rec0023b.asp
+[23/08/2016 16:04:13] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023c.asp copiado para \\10.10.100.147\TopSaude\web\rec\asp\rec0023c.asp
+[23/08/2016 16:04:13] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023d.asp copiado para \\10.10.100.147\TopSaude\web\rec\asp\rec0023d.asp
+[23/08/2016 16:04:13] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023e.asp copiado para \\10.10.100.147\TopSaude\web\rec\asp\rec0023e.asp
+[23/08/2016 16:04:13] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023f.asp copiado para \\10.10.100.147\TopSaude\web\rec\asp\rec0023f.asp
+[23/08/2016 16:04:13] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec1009a.asp copiado para \\10.10.100.147\TopSaude\web\rec\asp\rec1009a.asp
+[23/08/2016 16:04:13] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec1009b.asp copiado para \\10.10.100.147\TopSaude\web\rec\asp\rec1009b.asp
+[23/08/2016 16:05:53] K:\Pacotes\52551-52600\52560-EDSON\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\rec\TsRec1009Boleto.jasper copiado para \\10.10.100.147\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\rec\
+[23/08/2016 16:05:53] K:\Pacotes\52551-52600\52560-EDSON\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\rec\TsRec1009JRCobranca.jasper copiado para \\10.10.100.147\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\rec\
+[23/08/2016 16:05:53] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0022a.asp copiado para \\10.10.100.147\TopSaude\web\rec\asp\rec0022a.asp
+[23/08/2016 16:05:53] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0022b.asp copiado para \\10.10.100.147\TopSaude\web\rec\asp\rec0022b.asp
+[23/08/2016 16:05:53] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023a.asp copiado para \\10.10.100.147\TopSaude\web\rec\asp\rec0023a.asp
+[23/08/2016 16:05:53] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023b.asp copiado para \\10.10.100.147\TopSaude\web\rec\asp\rec0023b.asp
+[23/08/2016 16:05:53] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023c.asp copiado para \\10.10.100.147\TopSaude\web\rec\asp\rec0023c.asp
+[23/08/2016 16:05:53] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023d.asp copiado para \\10.10.100.147\TopSaude\web\rec\asp\rec0023d.asp
+[23/08/2016 16:05:53] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023e.asp copiado para \\10.10.100.147\TopSaude\web\rec\asp\rec0023e.asp
+[23/08/2016 16:05:53] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023f.asp copiado para \\10.10.100.147\TopSaude\web\rec\asp\rec0023f.asp
+[23/08/2016 16:05:53] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec1009a.asp copiado para \\10.10.100.147\TopSaude\web\rec\asp\rec1009a.asp
+[23/08/2016 16:05:53] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec1009b.asp copiado para \\10.10.100.147\TopSaude\web\rec\asp\rec1009b.asp
+[23/08/2016 17:17:56] Sistema finalizado.
+

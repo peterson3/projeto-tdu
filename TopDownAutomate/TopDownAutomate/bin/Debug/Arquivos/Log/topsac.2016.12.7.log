@@ -1,0 +1,25 @@
+[07/12/2016 06:58:51] Sistema Iniciado.
+[07/12/2016 06:59:24] Aberto driver com Chrome.
+[07/12/2016 06:59:40] Controle instanciado: 53925
+[07/12/2016 07:06:02] Arquivo do pacote do CA 53925 extraído.
+[07/12/2016 07:06:27] Banco Selecionado Para aplicar: SEG_DES8
+[07/12/2016 07:06:31] Atribuído objeto do tipo Script - CA_53925_TS_SEC.FUNCAO_insert.sql em ts/SEG_DES8
+[07/12/2016 07:06:31] Atribuído objeto do tipo Script - CA_53925_TS_SEC.AUTORIZACAO_PERFIL_insert.sql em ts/SEG_DES8
+[07/12/2016 07:06:33] Sistema alterando o aplica para ordem certa de aplicação
+[07/12/2016 07:06:34] Selecionado P/ Não Criptografar em: SEG_DES8 
+[07/12/2016 07:06:34] Selecionado P/ Criptografar em: 
+[07/12/2016 07:06:35] Arquivo "APLICA.SQL" criado com sucesso.
+[07/12/2016 07:06:44] Executado o aplica no sqlplus.
+[07/12/2016 09:06:49] Banco Selecionado Para aplicar: SEG_DES8
+[07/12/2016 09:06:49] Banco Selecionado Para aplicar: SEG_VAZIO
+[07/12/2016 09:06:54] Atribuído objeto do tipo Script - CA_53925_TS_SEC.FUNCAO_insert.sql em ts/SEG_DES8
+[07/12/2016 09:06:54] Atribuído objeto do tipo Script - CA_53925_TS_SEC.FUNCAO_insert.sql em seg_teste/SEG_VAZIO
+[07/12/2016 09:06:54] Atribuído objeto do tipo Script - CA_53925_TS_SEC.AUTORIZACAO_PERFIL_insert.sql em ts/SEG_DES8
+[07/12/2016 09:06:54] Atribuído objeto do tipo Script - CA_53925_TS_SEC.AUTORIZACAO_PERFIL_insert.sql em seg_teste/SEG_VAZIO
+[07/12/2016 09:06:55] Sistema alterando o aplica para ordem certa de aplicação
+[07/12/2016 09:06:58] Selecionado P/ Não Criptografar em: SEG_VAZIO 
+[07/12/2016 09:06:58] Selecionado P/ Criptografar em: SEG_DES8 
+[07/12/2016 09:06:58] Arquivo "APLICA.SQL" criado com sucesso.
+[07/12/2016 09:07:33] Executado o aplica no sqlplus.
+[07/12/2016 09:12:31] Sistema finalizado.
+

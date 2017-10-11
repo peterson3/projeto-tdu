@@ -1,0 +1,50 @@
+[11/07/2017 19:05:49] Sistema Iniciado.
+[11/07/2017 19:06:02] Aberto driver com Chrome.
+[11/07/2017 19:06:48] Controle instanciado: 56286
+[11/07/2017 19:07:43] Arquivo do pacote do CA 56286 extraído.
+[11/07/2017 19:07:46] Log de versões do CA 56286 aberto.
+[11/07/2017 19:07:56] Banco Selecionado Para aplicar: HOMO_ODO
+[11/07/2017 19:08:04] Atribuído objeto do tipo Package - TS_ODO.ODO_CTD_AJUSTE_REMESSA_ddl.sql em ts_teste/HOMO_ODO
+[11/07/2017 19:08:06] Sistema alterando o aplica para ordem certa de aplicação
+[11/07/2017 19:08:07] Selecionado P/ Não Criptografar em: HOMO_ODO 
+[11/07/2017 19:08:07] Selecionado P/ Criptografar em: 
+[11/07/2017 19:08:07] Arquivo "APLICA.SQL" criado com sucesso.
+[11/07/2017 19:08:14] Executado o aplica no sqlplus.
+[11/07/2017 19:19:00] Banco Selecionado Para aplicar: INST_ODO
+[11/07/2017 19:19:00] Banco Selecionado Para aplicar: DEMO_ODO
+[11/07/2017 19:19:00] Banco Selecionado Para aplicar: HOMO_ODO
+[11/07/2017 19:19:00] Banco Selecionado Para aplicar: METLIFE
+[11/07/2017 19:19:00] Banco Selecionado Para aplicar: METLIFE_VAZIO
+[11/07/2017 19:19:00] Banco Selecionado Para aplicar: ODO_VAZIO
+[11/07/2017 19:19:00] Banco Selecionado Para aplicar: nuvem_01
+[11/07/2017 19:19:21] Banco Selecionado Para aplicar: INST_ODO
+[11/07/2017 19:19:21] Banco Selecionado Para aplicar: DEMO_ODO
+[11/07/2017 19:19:21] Banco Selecionado Para aplicar: HOMO_ODO
+[11/07/2017 19:19:21] Banco Selecionado Para aplicar: METLIFE
+[11/07/2017 19:19:21] Banco Selecionado Para aplicar: METLIFE_VAZIO
+[11/07/2017 19:19:21] Banco Selecionado Para aplicar: nuvem_01
+[11/07/2017 19:19:35] Atribuído objeto do tipo Package - TS_ODO.ODO_CTD_AJUSTE_REMESSA_ddl.sql em ts_odo/INST_ODO
+[11/07/2017 19:19:35] Atribuído objeto do tipo Package - TS_ODO.ODO_CTD_AJUSTE_REMESSA_ddl.sql em ts_odo/DEMO_ODO
+[11/07/2017 19:19:35] Atribuído objeto do tipo Package - TS_ODO.ODO_CTD_AJUSTE_REMESSA_ddl.sql em ts_teste/HOMO_ODO
+[11/07/2017 19:19:35] Atribuído objeto do tipo Package - TS_ODO.ODO_CTD_AJUSTE_REMESSA_ddl.sql em ts_odo/METLIFE
+[11/07/2017 19:19:35] Atribuído objeto do tipo Package - TS_ODO.ODO_CTD_AJUSTE_REMESSA_ddl.sql em ml_teste/METLIFE_VAZIO
+[11/07/2017 19:19:35] Atribuído objeto do tipo Package - TS_ODO.ODO_CTD_AJUSTE_REMESSA_ddl.sql em ts/nuvem_01
+[11/07/2017 19:19:36] Sistema alterando o aplica para ordem certa de aplicação
+[11/07/2017 19:19:46] Selecionado P/ Não Criptografar em: INST_ODO DEMO_ODO HOMO_ODO METLIFE_VAZIO nuvem_01 
+[11/07/2017 19:19:46] Selecionado P/ Criptografar em: METLIFE 
+[11/07/2017 19:19:46] Arquivo "APLICA.SQL" criado com sucesso.
+[11/07/2017 19:19:53] Executado o aplica no sqlplus.
+[11/07/2017 19:46:56] Banco Selecionado Para aplicar: INST_ODO
+[11/07/2017 19:46:56] Banco Selecionado Para aplicar: nuvem_01
+[11/07/2017 19:46:59] Atribuído objeto do tipo Package - TS_ODO.ODO_CTD_AJUSTE_REMESSA_ddl.sql em ts_odo/INST_ODO
+[11/07/2017 19:46:59] Atribuído objeto do tipo Package - TS_ODO.ODO_CTD_AJUSTE_REMESSA_ddl.sql em ts/nuvem_01
+[11/07/2017 19:47:00] Sistema alterando o aplica para ordem certa de aplicação
+[11/07/2017 19:47:02] Selecionado P/ Não Criptografar em: INST_ODO nuvem_01 
+[11/07/2017 19:47:02] Selecionado P/ Criptografar em: 
+[11/07/2017 19:47:02] Arquivo "APLICA.SQL" criado com sucesso.
+[11/07/2017 19:47:10] Executado o aplica no sqlplus.
+[11/07/2017 20:22:24] Sistema finalizado.
+
+[11/07/2017 20:58:49] Sistema Iniciado.
+[11/07/2017 20:59:33] Sistema finalizado.
+

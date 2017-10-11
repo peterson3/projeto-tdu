@@ -1,0 +1,22 @@
+[16/08/2017 19:54:10] Sistema Iniciado.
+[16/08/2017 19:54:27] Aberto driver com Chrome.
+[16/08/2017 19:55:57] Controle instanciado: 56770
+[16/08/2017 19:56:20] Arquivo do pacote do CA 56770 extraído.
+[16/08/2017 19:56:30] Banco Selecionado Para aplicar: SEG_DES8
+[16/08/2017 19:56:33] Atribuído objeto do tipo Script - 01_UTL_FILE_RSUS_ddl.sql em ts/SEG_DES8
+[16/08/2017 19:56:33] Atribuído objeto do tipo Package - TS_RSUS.OFICIO_PKG_ddl.sql em ts/SEG_DES8
+[16/08/2017 19:56:35] Sistema alterando o aplica para ordem certa de aplicação
+[16/08/2017 19:56:38] Selecionado P/ Não Criptografar em: SEG_DES8 
+[16/08/2017 19:56:38] Selecionado P/ Criptografar em: 
+[16/08/2017 19:56:38] Arquivo "APLICA.SQL" criado com sucesso.
+[16/08/2017 19:57:04] Executado o aplica no sqlplus.
+[16/08/2017 19:57:18] Log de aplicão no banco do CA 56770 aberto.
+[16/08/2017 20:00:50] Resultado do Login na WEB SEGUROS UNIMED    (10.10.100.135): Sucesso Ao logar.
+[16/08/2017 20:00:50] Sistema procurará os arquivos na(s) pasta(s): jtopdown TopSaude 
+[16/08/2017 20:00:51] Quantidade de Arquivos: 2 (arquivos que não estão na raíz).
+[16/08/2017 20:00:53] Arquivo ENCONTRADO em \\10.10.100.135\TopSaude\web\gen\asp\GEN0083a.asp
+[16/08/2017 20:00:56] Realizando busca aprofundada para objetos não encontrados...
+[16/08/2017 20:01:01] Tempo que levou para achar todos os arquivos: 0 minuto(s), 10 segundo(s) e 225 milisegundo(s).
+[16/08/2017 20:04:53] K:\Pacotes\56751-56800\56770-WALTER\web\gen\asp\GEN0083a.asp copiado para \\10.10.100.135\TopSaude\web\gen\asp\GEN0083a.asp
+[16/08/2017 20:58:29] Sistema finalizado.
+

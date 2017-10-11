@@ -1,0 +1,87 @@
+[17/07/2017 19:51:09] Sistema Iniciado.
+[17/07/2017 19:52:52] Aberto driver com Chrome.
+[17/07/2017 19:53:27] Controle instanciado: 56378
+[17/07/2017 19:53:44] Arquivo do pacote do CA 56378 extraído.
+[17/07/2017 19:54:01] Banco Selecionado Para aplicar: HOMO_ODO
+[17/07/2017 19:54:04] Atribuído objeto do tipo Procedure - ts_odo.odo_agr_sinistro_rev_ge_ddl.sql em ts_teste/HOMO_ODO
+[17/07/2017 19:54:05] Sistema alterando o aplica para ordem certa de aplicação
+[17/07/2017 19:54:06] Selecionado P/ Não Criptografar em: HOMO_ODO 
+[17/07/2017 19:54:06] Selecionado P/ Criptografar em: 
+[17/07/2017 19:54:06] Arquivo "APLICA.SQL" criado com sucesso.
+[17/07/2017 19:54:15] Executado o aplica no sqlplus.
+[17/07/2017 20:00:25] Banco Selecionado Para aplicar: INST_ODO
+[17/07/2017 20:00:25] Banco Selecionado Para aplicar: DEMO_ODO
+[17/07/2017 20:00:25] Banco Selecionado Para aplicar: SEG_DES5
+[17/07/2017 20:00:25] Banco Selecionado Para aplicar: ODO_VAZIO
+[17/07/2017 20:00:25] Banco Selecionado Para aplicar: nuvem_01
+[17/07/2017 20:00:35] Atribuído objeto do tipo Procedure - ts_odo.odo_agr_sinistro_rev_ge_ddl.sql em ts_odo/INST_ODO
+[17/07/2017 20:00:35] Atribuído objeto do tipo Procedure - ts_odo.odo_agr_sinistro_rev_ge_ddl.sql em ts/DEMO_ODO
+[17/07/2017 20:00:35] Atribuído objeto do tipo Procedure - ts_odo.odo_agr_sinistro_rev_ge_ddl.sql em ts/SEG_DES5
+[17/07/2017 20:00:35] Atribuído objeto do tipo Procedure - ts_odo.odo_agr_sinistro_rev_ge_ddl.sql em odo_teste/ODO_VAZIO
+[17/07/2017 20:00:35] Atribuído objeto do tipo Procedure - ts_odo.odo_agr_sinistro_rev_ge_ddl.sql em ts/nuvem_01
+[17/07/2017 20:00:41] Atribuído objeto do tipo Procedure - ts_odo.odo_agr_sinistro_rev_ge_ddl.sql em ts_odo/INST_ODO
+[17/07/2017 20:00:41] Atribuído objeto do tipo Procedure - ts_odo.odo_agr_sinistro_rev_ge_ddl.sql em ts_odo/DEMO_ODO
+[17/07/2017 20:00:41] Atribuído objeto do tipo Procedure - ts_odo.odo_agr_sinistro_rev_ge_ddl.sql em ts/SEG_DES5
+[17/07/2017 20:00:41] Atribuído objeto do tipo Procedure - ts_odo.odo_agr_sinistro_rev_ge_ddl.sql em odo_teste/ODO_VAZIO
+[17/07/2017 20:00:41] Atribuído objeto do tipo Procedure - ts_odo.odo_agr_sinistro_rev_ge_ddl.sql em ts/nuvem_01
+[17/07/2017 20:00:43] Sistema alterando o aplica para ordem certa de aplicação
+[17/07/2017 20:00:46] Selecionado P/ Não Criptografar em: INST_ODO DEMO_ODO ODO_VAZIO nuvem_01 
+[17/07/2017 20:00:46] Selecionado P/ Criptografar em: SEG_DES5 
+[17/07/2017 20:00:46] Arquivo "APLICA.SQL" criado com sucesso.
+[17/07/2017 20:00:54] Executado o aplica no sqlplus.
+[17/07/2017 20:03:36] Log de versões do CA 56378 aberto.
+[17/07/2017 20:03:43] Banco Selecionado Para aplicar: INST_ODO
+[17/07/2017 20:03:43] Banco Selecionado Para aplicar: nuvem_01
+[17/07/2017 20:03:46] Atribuído objeto do tipo Procedure - ts_odo.odo_agr_sinistro_rev_ge_ddl.sql em ts_odo/INST_ODO
+[17/07/2017 20:03:46] Atribuído objeto do tipo Procedure - ts_odo.odo_agr_sinistro_rev_ge_ddl.sql em ts/nuvem_01
+[17/07/2017 20:03:47] Sistema alterando o aplica para ordem certa de aplicação
+[17/07/2017 20:03:48] Selecionado P/ Não Criptografar em: INST_ODO nuvem_01 
+[17/07/2017 20:03:48] Selecionado P/ Criptografar em: 
+[17/07/2017 20:03:49] Arquivo "APLICA.SQL" criado com sucesso.
+[17/07/2017 20:04:36] Executado o aplica no sqlplus.
+[17/07/2017 20:05:24] Banco Selecionado Para aplicar: INST_ODO
+[17/07/2017 20:05:26] Atribuído objeto do tipo Procedure - ts_odo.odo_agr_sinistro_rev_ge_ddl.sql em ts_odo/INST_ODO
+[17/07/2017 20:05:28] Sistema alterando o aplica para ordem certa de aplicação
+[17/07/2017 20:05:29] Selecionado P/ Não Criptografar em: INST_ODO 
+[17/07/2017 20:05:29] Selecionado P/ Criptografar em: 
+[17/07/2017 20:05:29] Arquivo "APLICA.SQL" criado com sucesso.
+[17/07/2017 20:05:49] Executado o aplica no sqlplus.
+[17/07/2017 20:06:14] Executado o aplica no sqlplus.
+[17/07/2017 20:10:56] Sistema finalizado.
+
+[17/07/2017 20:11:10] Sistema Iniciado.
+[17/07/2017 20:11:20] Aberto driver com Chrome.
+[17/07/2017 20:11:42] Controle instanciado: 56358
+[17/07/2017 20:11:52] Arquivo do pacote do CA 56358 extraído.
+[17/07/2017 20:12:05] Banco Selecionado Para aplicar: HOMO_MED
+[17/07/2017 20:12:07] Atribuído objeto do tipo Procedure - TS.MC_PROCESSA_LOTE_ddl.sql em ts_teste/HOMO_MED
+[17/07/2017 20:12:08] Sistema alterando o aplica para ordem certa de aplicação
+[17/07/2017 20:12:10] Selecionado P/ Não Criptografar em: HOMO_MED 
+[17/07/2017 20:12:10] Selecionado P/ Criptografar em: 
+[17/07/2017 20:12:10] Arquivo "APLICA.SQL" criado com sucesso.
+[17/07/2017 20:12:21] Executado o aplica no sqlplus.
+[17/07/2017 20:13:15] Banco Selecionado Para aplicar: INST_ODO
+[17/07/2017 20:13:15] Banco Selecionado Para aplicar: INST_MED
+[17/07/2017 20:13:15] Banco Selecionado Para aplicar: DEMO_MED
+[17/07/2017 20:13:15] Banco Selecionado Para aplicar: DEMO_ODO
+[17/07/2017 20:13:15] Banco Selecionado Para aplicar: HOMO_MED
+[17/07/2017 20:13:15] Banco Selecionado Para aplicar: HOMO_ODO
+[17/07/2017 20:13:15] Banco Selecionado Para aplicar: METLIFE
+[17/07/2017 20:13:15] Banco Selecionado Para aplicar: METLIFE_VAZIO
+[17/07/2017 20:13:15] Banco Selecionado Para aplicar: nuvem_01
+[17/07/2017 20:13:29] Atribuído objeto do tipo Procedure - TS.MC_PROCESSA_LOTE_ddl.sql em ts/INST_ODO
+[17/07/2017 20:13:29] Atribuído objeto do tipo Procedure - TS.MC_PROCESSA_LOTE_ddl.sql em ts/INST_MED
+[17/07/2017 20:13:29] Atribuído objeto do tipo Procedure - TS.MC_PROCESSA_LOTE_ddl.sql em ts/DEMO_MED
+[17/07/2017 20:13:29] Atribuído objeto do tipo Procedure - TS.MC_PROCESSA_LOTE_ddl.sql em ts/DEMO_ODO
+[17/07/2017 20:13:29] Atribuído objeto do tipo Procedure - TS.MC_PROCESSA_LOTE_ddl.sql em ts_teste/HOMO_MED
+[17/07/2017 20:13:29] Atribuído objeto do tipo Procedure - TS.MC_PROCESSA_LOTE_ddl.sql em ts_teste/HOMO_ODO
+[17/07/2017 20:13:29] Atribuído objeto do tipo Procedure - TS.MC_PROCESSA_LOTE_ddl.sql em ts/METLIFE
+[17/07/2017 20:13:29] Atribuído objeto do tipo Procedure - TS.MC_PROCESSA_LOTE_ddl.sql em ml_teste/METLIFE_VAZIO
+[17/07/2017 20:13:29] Atribuído objeto do tipo Procedure - TS.MC_PROCESSA_LOTE_ddl.sql em ts/nuvem_01
+[17/07/2017 20:13:32] Sistema alterando o aplica para ordem certa de aplicação
+[17/07/2017 20:13:36] Selecionado P/ Não Criptografar em: INST_ODO INST_MED DEMO_MED DEMO_ODO HOMO_MED HOMO_ODO METLIFE_VAZIO nuvem_01 
+[17/07/2017 20:13:36] Selecionado P/ Criptografar em: METLIFE 
+[17/07/2017 20:13:36] Arquivo "APLICA.SQL" criado com sucesso.
+[17/07/2017 20:13:58] Executado o aplica no sqlplus.
+[17/07/2017 20:49:43] Sistema finalizado.
+

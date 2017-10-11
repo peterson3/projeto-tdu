@@ -1,0 +1,55 @@
+[08/11/2016 14:56:18] Sistema Iniciado.
+[08/11/2016 14:56:28] Sistema Iniciado.
+[08/11/2016 14:56:36] Sistema finalizado.
+
+[08/11/2016 14:57:20] Aberto driver com Chrome.
+[08/11/2016 14:57:52] Controle instanciado: 53619
+[08/11/2016 15:00:03] Arquivo do pacote do CA 53619 extraído.
+[08/11/2016 15:04:02] Salvo novas configurações de usuário
+[08/11/2016 15:06:29] Banco Selecionado Para aplicar: GIST
+[08/11/2016 15:06:32] Atribuído objeto do tipo Script - TS_SEC.USUARIO_UPD_001_dml.sql em ts/GIST
+[08/11/2016 15:06:33] Sistema alterando o aplica para ordem certa de aplicação
+[08/11/2016 15:06:36] Selecionado P/ Não Criptografar em: GIST 
+[08/11/2016 15:06:36] Selecionado P/ Criptografar em: 
+[08/11/2016 15:06:36] Arquivo "APLICA.SQL" criado com sucesso.
+[08/11/2016 15:06:41] Executado o aplica no sqlplus.
+[08/11/2016 16:40:48] Banco Selecionado Para aplicar: MAR_VAZIO
+[08/11/2016 16:40:48] Banco Selecionado Para aplicar: GIST
+[08/11/2016 16:40:51] Atribuído objeto do tipo Script - TS_SEC.USUARIO_UPD_001_dml.sql em mar_teste/MAR_VAZIO
+[08/11/2016 16:40:51] Atribuído objeto do tipo Script - TS_SEC.USUARIO_UPD_001_dml.sql em ts/GIST
+[08/11/2016 16:40:52] Sistema alterando o aplica para ordem certa de aplicação
+[08/11/2016 16:40:54] Selecionado P/ Não Criptografar em: MAR_VAZIO 
+[08/11/2016 16:40:54] Selecionado P/ Criptografar em: GIST 
+[08/11/2016 16:40:54] Arquivo "APLICA.SQL" criado com sucesso.
+[08/11/2016 16:41:01] Executado o aplica no sqlplus.
+[08/11/2016 16:47:23] Sistema finalizado.
+
+[08/11/2016 16:47:25] Sistema Iniciado.
+[08/11/2016 16:47:34] Aberto driver com Chrome.
+[08/11/2016 16:47:50] Controle instanciado: 53609
+[08/11/2016 16:51:57] Arquivo do pacote do CA 53609 extraído.
+[08/11/2016 16:52:02] Log de versões do CA 53609 aberto.
+[08/11/2016 16:52:07] Banco Selecionado Para aplicar: TA_HOMOLOG
+[08/11/2016 16:52:10] Atribuído objeto do tipo Procedure - TS.FAT_CALCULA_ASSOCIADO_ddl.sql em ta_homolog/TA_HOMOLOG
+[08/11/2016 16:52:11] Sistema alterando o aplica para ordem certa de aplicação
+[08/11/2016 16:52:12] Selecionado P/ Não Criptografar em: TA_HOMOLOG 
+[08/11/2016 16:52:12] Selecionado P/ Criptografar em: 
+[08/11/2016 16:52:12] Arquivo "APLICA.SQL" criado com sucesso.
+[08/11/2016 16:52:18] Executado o aplica no sqlplus.
+[08/11/2016 17:55:14] Sistema finalizado.
+
+[08/11/2016 17:55:16] Sistema Iniciado.
+[08/11/2016 17:55:27] Aberto driver com Chrome.
+[08/11/2016 17:56:01] Controle instanciado: 53609
+[08/11/2016 17:56:36] Arquivo do pacote do CA 53609 extraído.
+[08/11/2016 17:56:41] Erro de de execução no sqlplus.
+[08/11/2016 17:56:45] Banco Selecionado Para aplicar: TA_HOMOLOG
+[08/11/2016 17:56:49] Atribuído objeto do tipo Procedure - TS.FAT_CALCULA_ASSOCIADO_ddl.sql em ta_homolog/TA_HOMOLOG
+[08/11/2016 17:56:49] Atribuído objeto do tipo Procedure - TS.CMS_GERA_ITEM_COMISSAO_ddl.sql em ta_homolog/TA_HOMOLOG
+[08/11/2016 17:56:50] Sistema alterando o aplica para ordem certa de aplicação
+[08/11/2016 17:56:52] Selecionado P/ Não Criptografar em: TA_HOMOLOG 
+[08/11/2016 17:56:52] Selecionado P/ Criptografar em: 
+[08/11/2016 17:56:52] Arquivo "APLICA.SQL" criado com sucesso.
+[08/11/2016 17:57:04] Executado o aplica no sqlplus.
+[08/11/2016 18:33:35] Sistema finalizado.
+

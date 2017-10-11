@@ -1,0 +1,195 @@
+[18/05/2017 14:45:59] Sistema finalizado.
+
+[18/05/2017 16:47:22] Sistema Iniciado.
+[18/05/2017 16:47:37] Aberto driver com Chrome.
+[18/05/2017 16:48:34] Controle instanciado: 55477
+[18/05/2017 16:50:46] Arquivo do pacote do CA 55477 extraído.
+[18/05/2017 16:51:46] Banco Selecionado Para aplicar: HOMO_ODO
+[18/05/2017 16:51:52] Atribuído objeto do tipo Script - TS_TS_JOB_INSERT_1_dml.sql em ts_teste/HOMO_ODO
+[18/05/2017 16:51:52] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.MC_OCORRENCIA_MOTIVO_DEV_WEB.sql em ts_teste/HOMO_ODO
+[18/05/2017 16:51:52] Atribuído objeto do tipo Package - TS.ASS_RCS_MC_INCLUSAO_TITULAR_ddl.sql em ts_teste/HOMO_ODO
+[18/05/2017 16:51:52] Atribuído objeto do tipo Package - TS.ASS_RCS_INCLUSAO_BENEFICIARIO_ddl.sql em ts_teste/HOMO_ODO
+[18/05/2017 16:51:52] Atribuído objeto do tipo Package - TS.ANS_COMPROVANTES_EXCLUSAO_ddl.sql em ts_teste/HOMO_ODO
+[18/05/2017 16:51:52] Atribuído objeto do tipo Procedure - TS.MC_ANALISE_LOTE_ddl.sql em ts_teste/HOMO_ODO
+[18/05/2017 16:51:52] Atribuído objeto do tipo Function - TS.ASS_RETORNA_TITULARES_ddl.sql em ts_teste/HOMO_ODO
+[18/05/2017 16:51:52] Atribuído objeto do tipo View - TS.ASSOCIADO_DDL.SQL em ts_teste/HOMO_ODO
+[18/05/2017 16:51:52] Atribuído objeto do tipo Trigger - ts.ass_trg_iou_associado_trg.sql em ts_teste/HOMO_ODO
+[18/05/2017 16:51:52] Atribuído objeto do tipo Trigger - ts.ass_trg_ioi_associado_trg.sql em ts_teste/HOMO_ODO
+[18/05/2017 16:51:52] Atribuído objeto do tipo Table - TS.TIPO_CARTA_ddl.sql em ts_teste/HOMO_ODO
+[18/05/2017 16:51:52] Atribuído objeto do tipo Table - TS.MC_OCORRENCIA_ASSOCIADO_WEB_ddl.sql em ts_teste/HOMO_ODO
+[18/05/2017 16:51:52] Atribuído objeto do tipo Table - TS.MC_ASSOCIADO_WEB_ddl.sql em ts_teste/HOMO_ODO
+[18/05/2017 16:51:52] Atribuído objeto do tipo Table - TS.GRUPO_CARTA_VARIAVEL_ddl.sql em ts_teste/HOMO_ODO
+[18/05/2017 16:51:52] Atribuído objeto do tipo Table - TS.CONTROLE_CARTA_ddl.sql em ts_teste/HOMO_ODO
+[18/05/2017 16:51:52] Atribuído objeto do tipo Table - TS.CONTRATO_EMPRESA_ddl.sql em ts_teste/HOMO_ODO
+[18/05/2017 16:51:52] Atribuído objeto do tipo Table - TS.BENEFICIARIO_MOVIMENTO_DDL.SQL em ts_teste/HOMO_ODO
+[18/05/2017 16:51:52] Atribuído objeto do tipo Table - TS.BENEFICIARIO_FATURAMENTO_DDL.SQL em ts_teste/HOMO_ODO
+[18/05/2017 16:51:52] Atribuído objeto do tipo Table - TS.ANS_MOTIVO_EXCLUSAO_SIB_ddl.sql em ts_teste/HOMO_ODO
+[18/05/2017 16:51:52] Atribuído objeto do tipo Sequence - TS.MC_SEQ_OCORRENCIA_MOTIVO_WEB_ddl.sql em ts_teste/HOMO_ODO
+[18/05/2017 16:51:54] Sistema alterando o aplica para ordem certa de aplicação
+[18/05/2017 16:51:55] Selecionado P/ Não Criptografar em: HOMO_ODO 
+[18/05/2017 16:51:55] Selecionado P/ Criptografar em: 
+[18/05/2017 16:51:55] Arquivo "APLICA.SQL" criado com sucesso.
+[18/05/2017 16:52:03] Executado o aplica no sqlplus.
+[18/05/2017 16:57:24] Log de versões do CA 55477 aberto.
+[18/05/2017 17:02:22] Resultado do Login na WEB HOMOLOG V11    (10.10.100.147): Sucesso Ao logar.
+[18/05/2017 17:02:22] Sistema procurará os arquivos na(s) pasta(s): jtopdown TopSaude 
+[18/05/2017 17:02:22] Quantidade de Arquivos: 13 (arquivos que não estão na raíz).
+[18/05/2017 17:02:22] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\ass\asp\ass0016a.asp
+[18/05/2017 17:02:22] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\ass\asp\ass0016b.asp
+[18/05/2017 17:02:22] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\ass\asp\ass0044c.asp
+[18/05/2017 17:02:22] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\ass\asp\ass0065a.asp
+[18/05/2017 17:02:22] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\ass\asp\ass0065b.asp
+[18/05/2017 17:02:22] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\ass\asp\ASS0312a.asp
+[18/05/2017 17:02:22] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\ass\asp\ASS0312b.asp
+[18/05/2017 17:02:22] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\ass\asp\ASS0312c.asp
+[18/05/2017 17:02:22] Pasta ENCONTRADA em \\10.10.100.147\TopSaude\web\ass\asp\
+[18/05/2017 17:02:22] Pasta ENCONTRADA em \\10.10.100.147\TopSaude\web\ass\asp\
+[18/05/2017 17:02:22] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\odo_portal\asp\portal_acessoPortal.asp
+[18/05/2017 17:02:22] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\odo_portal\asp\portal_odo_ass0016a.asp
+[18/05/2017 17:02:23] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\odo_portal\asp\portal_odo_ass0016b.asp
+[18/05/2017 17:02:23] Busca Aprofundada necessária não realizada
+[18/05/2017 17:02:23] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 97 milisegundo(s).
+[18/05/2017 17:02:27] K:\Pacotes\55451-55500\55477-LUIS\web\ass\asp\ass0016a.asp copiado para \\10.10.100.147\TopSaude\web\ass\asp\ass0016a.asp
+[18/05/2017 17:02:27] K:\Pacotes\55451-55500\55477-LUIS\web\ass\asp\ass0016b.asp copiado para \\10.10.100.147\TopSaude\web\ass\asp\ass0016b.asp
+[18/05/2017 17:02:27] K:\Pacotes\55451-55500\55477-LUIS\web\ass\asp\ass0044c.asp copiado para \\10.10.100.147\TopSaude\web\ass\asp\ass0044c.asp
+[18/05/2017 17:02:27] K:\Pacotes\55451-55500\55477-LUIS\web\ass\asp\ass0065a.asp copiado para \\10.10.100.147\TopSaude\web\ass\asp\ass0065a.asp
+[18/05/2017 17:02:27] K:\Pacotes\55451-55500\55477-LUIS\web\ass\asp\ass0065b.asp copiado para \\10.10.100.147\TopSaude\web\ass\asp\ass0065b.asp
+[18/05/2017 17:02:27] Alterando atributo de arquivo de somente leitura.
+[18/05/2017 17:02:27] K:\Pacotes\55451-55500\55477-LUIS\web\ass\asp\ASS0312a.asp copiado para \\10.10.100.147\TopSaude\web\ass\asp\ASS0312a.asp
+[18/05/2017 17:02:27] Alterando atributo de arquivo de somente leitura.
+[18/05/2017 17:02:27] K:\Pacotes\55451-55500\55477-LUIS\web\ass\asp\ASS0312b.asp copiado para \\10.10.100.147\TopSaude\web\ass\asp\ASS0312b.asp
+[18/05/2017 17:02:27] Alterando atributo de arquivo de somente leitura.
+[18/05/2017 17:02:27] K:\Pacotes\55451-55500\55477-LUIS\web\ass\asp\ASS0312c.asp copiado para \\10.10.100.147\TopSaude\web\ass\asp\ASS0312c.asp
+[18/05/2017 17:02:27] K:\Pacotes\55451-55500\55477-LUIS\web\ass\asp\ass1106a.asp copiado para \\10.10.100.147\TopSaude\web\ass\asp\
+[18/05/2017 17:02:27] K:\Pacotes\55451-55500\55477-LUIS\web\ass\asp\ass1106b.asp copiado para \\10.10.100.147\TopSaude\web\ass\asp\
+[18/05/2017 17:02:27] K:\Pacotes\55451-55500\55477-LUIS\web\odo_portal\asp\portal_acessoPortal.asp copiado para \\10.10.100.147\TopSaude\web\odo_portal\asp\portal_acessoPortal.asp
+[18/05/2017 17:02:28] K:\Pacotes\55451-55500\55477-LUIS\web\odo_portal\asp\portal_odo_ass0016a.asp copiado para \\10.10.100.147\TopSaude\web\odo_portal\asp\portal_odo_ass0016a.asp
+[18/05/2017 17:02:28] Alterando atributo de arquivo de somente leitura.
+[18/05/2017 17:02:28] K:\Pacotes\55451-55500\55477-LUIS\web\odo_portal\asp\portal_odo_ass0016b.asp copiado para \\10.10.100.147\TopSaude\web\odo_portal\asp\portal_odo_ass0016b.asp
+[18/05/2017 17:02:30] K:\Pacotes\55451-55500\55477-LUIS\web\ass\asp\ass0016a.asp copiado para \\10.10.100.147\TopSaude\web\ass\asp\ass0016a.asp
+[18/05/2017 17:02:30] K:\Pacotes\55451-55500\55477-LUIS\web\ass\asp\ass0016b.asp copiado para \\10.10.100.147\TopSaude\web\ass\asp\ass0016b.asp
+[18/05/2017 17:02:30] K:\Pacotes\55451-55500\55477-LUIS\web\ass\asp\ass0044c.asp copiado para \\10.10.100.147\TopSaude\web\ass\asp\ass0044c.asp
+[18/05/2017 17:02:30] Tentativa 2: K:\Pacotes\55451-55500\55477-LUIS\web\ass\asp\ass0065a.asp copiado para \\10.10.100.147\TopSaude\web\ass\asp\ass0065a.asp
+[18/05/2017 17:02:30] K:\Pacotes\55451-55500\55477-LUIS\web\ass\asp\ass0065b.asp copiado para \\10.10.100.147\TopSaude\web\ass\asp\ass0065b.asp
+[18/05/2017 17:02:30] Tentativa 2: A operação solicitada não pode ser executada em um arquivo com uma seção mapeada pelo usuário aberta.
+
+[18/05/2017 17:02:30] K:\Pacotes\55451-55500\55477-LUIS\web\ass\asp\ASS0312a.asp falha ao copiar para \\10.10.100.147\TopSaude\web\ass\asp\ASS0312a.asp
+[18/05/2017 17:02:31] Tentativa 2: K:\Pacotes\55451-55500\55477-LUIS\web\ass\asp\ASS0312b.asp copiado para \\10.10.100.147\TopSaude\web\ass\asp\ASS0312b.asp
+[18/05/2017 17:02:31] K:\Pacotes\55451-55500\55477-LUIS\web\ass\asp\ASS0312c.asp copiado para \\10.10.100.147\TopSaude\web\ass\asp\ASS0312c.asp
+[18/05/2017 17:02:31] K:\Pacotes\55451-55500\55477-LUIS\web\ass\asp\ass1106a.asp copiado para \\10.10.100.147\TopSaude\web\ass\asp\
+[18/05/2017 17:02:31] K:\Pacotes\55451-55500\55477-LUIS\web\ass\asp\ass1106b.asp copiado para \\10.10.100.147\TopSaude\web\ass\asp\
+[18/05/2017 17:02:31] K:\Pacotes\55451-55500\55477-LUIS\web\odo_portal\asp\portal_acessoPortal.asp copiado para \\10.10.100.147\TopSaude\web\odo_portal\asp\portal_acessoPortal.asp
+[18/05/2017 17:02:31] K:\Pacotes\55451-55500\55477-LUIS\web\odo_portal\asp\portal_odo_ass0016a.asp copiado para \\10.10.100.147\TopSaude\web\odo_portal\asp\portal_odo_ass0016a.asp
+[18/05/2017 17:02:31] K:\Pacotes\55451-55500\55477-LUIS\web\odo_portal\asp\portal_odo_ass0016b.asp copiado para \\10.10.100.147\TopSaude\web\odo_portal\asp\portal_odo_ass0016b.asp
+[18/05/2017 17:02:33] K:\Pacotes\55451-55500\55477-LUIS\web\ass\asp\ass0016a.asp copiado para \\10.10.100.147\TopSaude\web\ass\asp\ass0016a.asp
+[18/05/2017 17:02:33] K:\Pacotes\55451-55500\55477-LUIS\web\ass\asp\ass0016b.asp copiado para \\10.10.100.147\TopSaude\web\ass\asp\ass0016b.asp
+[18/05/2017 17:02:33] K:\Pacotes\55451-55500\55477-LUIS\web\ass\asp\ass0044c.asp copiado para \\10.10.100.147\TopSaude\web\ass\asp\ass0044c.asp
+[18/05/2017 17:02:33] K:\Pacotes\55451-55500\55477-LUIS\web\ass\asp\ass0065a.asp copiado para \\10.10.100.147\TopSaude\web\ass\asp\ass0065a.asp
+[18/05/2017 17:02:33] K:\Pacotes\55451-55500\55477-LUIS\web\ass\asp\ass0065b.asp copiado para \\10.10.100.147\TopSaude\web\ass\asp\ass0065b.asp
+[18/05/2017 17:02:33] K:\Pacotes\55451-55500\55477-LUIS\web\ass\asp\ASS0312a.asp copiado para \\10.10.100.147\TopSaude\web\ass\asp\ASS0312a.asp
+[18/05/2017 17:02:33] Tentativa 2: K:\Pacotes\55451-55500\55477-LUIS\web\ass\asp\ASS0312b.asp copiado para \\10.10.100.147\TopSaude\web\ass\asp\ASS0312b.asp
+[18/05/2017 17:02:33] Tentativa 2: K:\Pacotes\55451-55500\55477-LUIS\web\ass\asp\ASS0312c.asp copiado para \\10.10.100.147\TopSaude\web\ass\asp\ASS0312c.asp
+[18/05/2017 17:02:33] K:\Pacotes\55451-55500\55477-LUIS\web\ass\asp\ass1106a.asp copiado para \\10.10.100.147\TopSaude\web\ass\asp\
+[18/05/2017 17:02:33] K:\Pacotes\55451-55500\55477-LUIS\web\ass\asp\ass1106b.asp copiado para \\10.10.100.147\TopSaude\web\ass\asp\
+[18/05/2017 17:02:33] K:\Pacotes\55451-55500\55477-LUIS\web\odo_portal\asp\portal_acessoPortal.asp copiado para \\10.10.100.147\TopSaude\web\odo_portal\asp\portal_acessoPortal.asp
+[18/05/2017 17:02:33] K:\Pacotes\55451-55500\55477-LUIS\web\odo_portal\asp\portal_odo_ass0016a.asp copiado para \\10.10.100.147\TopSaude\web\odo_portal\asp\portal_odo_ass0016a.asp
+[18/05/2017 17:02:33] Tentativa 2: K:\Pacotes\55451-55500\55477-LUIS\web\odo_portal\asp\portal_odo_ass0016b.asp copiado para \\10.10.100.147\TopSaude\web\odo_portal\asp\portal_odo_ass0016b.asp
+[18/05/2017 17:02:39] Resultado do Login na WEB HOMOLOG V11    (10.10.100.147): Sucesso Ao logar.
+[18/05/2017 17:02:39] Sistema procurará os arquivos na(s) pasta(s): jtopdown TopSaude 
+[18/05/2017 17:02:39] Quantidade de Arquivos: 13 (arquivos que não estão na raíz).
+[18/05/2017 17:02:39] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\ass\asp\ass0016a.asp
+[18/05/2017 17:02:39] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\ass\asp\ass0016b.asp
+[18/05/2017 17:02:39] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\ass\asp\ass0044c.asp
+[18/05/2017 17:02:39] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\ass\asp\ass0065a.asp
+[18/05/2017 17:02:39] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\ass\asp\ass0065b.asp
+[18/05/2017 17:02:39] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\ass\asp\ASS0312a.asp
+[18/05/2017 17:02:39] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\ass\asp\ASS0312b.asp
+[18/05/2017 17:02:39] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\ass\asp\ASS0312c.asp
+[18/05/2017 17:02:39] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\ass\asp\ass1106a.asp
+[18/05/2017 17:02:39] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\ass\asp\ass1106b.asp
+[18/05/2017 17:02:39] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\odo_portal\asp\portal_acessoPortal.asp
+[18/05/2017 17:02:39] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\odo_portal\asp\portal_odo_ass0016a.asp
+[18/05/2017 17:02:39] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\odo_portal\asp\portal_odo_ass0016b.asp
+[18/05/2017 17:02:39] Busca Aprofundada necessária não realizada
+[18/05/2017 17:02:39] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 98 milisegundo(s).
+[18/05/2017 17:02:40] Tentativa 2: A operação solicitada não pode ser executada em um arquivo com uma seção mapeada pelo usuário aberta.
+
+[18/05/2017 17:02:40] K:\Pacotes\55451-55500\55477-LUIS\web\ass\asp\ass0016a.asp falha ao copiar para \\10.10.100.147\TopSaude\web\ass\asp\ass0016a.asp
+[18/05/2017 17:02:43] K:\Pacotes\55451-55500\55477-LUIS\web\ass\asp\ass0016b.asp copiado para \\10.10.100.147\TopSaude\web\ass\asp\ass0016b.asp
+[18/05/2017 17:02:43] Tentativa 2: A operação solicitada não pode ser executada em um arquivo com uma seção mapeada pelo usuário aberta.
+
+[18/05/2017 17:02:43] K:\Pacotes\55451-55500\55477-LUIS\web\ass\asp\ass0044c.asp falha ao copiar para \\10.10.100.147\TopSaude\web\ass\asp\ass0044c.asp
+[18/05/2017 17:02:44] K:\Pacotes\55451-55500\55477-LUIS\web\ass\asp\ass0065a.asp copiado para \\10.10.100.147\TopSaude\web\ass\asp\ass0065a.asp
+[18/05/2017 17:02:44] Tentativa 2: K:\Pacotes\55451-55500\55477-LUIS\web\ass\asp\ass0065b.asp copiado para \\10.10.100.147\TopSaude\web\ass\asp\ass0065b.asp
+[18/05/2017 17:02:44] Tentativa 2: A operação solicitada não pode ser executada em um arquivo com uma seção mapeada pelo usuário aberta.
+
+[18/05/2017 17:02:44] K:\Pacotes\55451-55500\55477-LUIS\web\ass\asp\ASS0312a.asp falha ao copiar para \\10.10.100.147\TopSaude\web\ass\asp\ASS0312a.asp
+[18/05/2017 17:02:45] Tentativa 2: K:\Pacotes\55451-55500\55477-LUIS\web\ass\asp\ASS0312b.asp copiado para \\10.10.100.147\TopSaude\web\ass\asp\ASS0312b.asp
+[18/05/2017 17:02:45] Tentativa 2: K:\Pacotes\55451-55500\55477-LUIS\web\ass\asp\ASS0312c.asp copiado para \\10.10.100.147\TopSaude\web\ass\asp\ASS0312c.asp
+[18/05/2017 17:02:45] Tentativa 2: K:\Pacotes\55451-55500\55477-LUIS\web\ass\asp\ass1106a.asp copiado para \\10.10.100.147\TopSaude\web\ass\asp\ass1106a.asp
+[18/05/2017 17:02:45] Tentativa 2: K:\Pacotes\55451-55500\55477-LUIS\web\ass\asp\ass1106b.asp copiado para \\10.10.100.147\TopSaude\web\ass\asp\ass1106b.asp
+[18/05/2017 17:02:45] K:\Pacotes\55451-55500\55477-LUIS\web\odo_portal\asp\portal_acessoPortal.asp copiado para \\10.10.100.147\TopSaude\web\odo_portal\asp\portal_acessoPortal.asp
+[18/05/2017 17:02:45] Tentativa 2: A operação solicitada não pode ser executada em um arquivo com uma seção mapeada pelo usuário aberta.
+
+[18/05/2017 17:02:45] K:\Pacotes\55451-55500\55477-LUIS\web\odo_portal\asp\portal_odo_ass0016a.asp falha ao copiar para \\10.10.100.147\TopSaude\web\odo_portal\asp\portal_odo_ass0016a.asp
+[18/05/2017 17:02:46] K:\Pacotes\55451-55500\55477-LUIS\web\odo_portal\asp\portal_odo_ass0016b.asp copiado para \\10.10.100.147\TopSaude\web\odo_portal\asp\portal_odo_ass0016b.asp
+[18/05/2017 17:02:49] K:\Pacotes\55451-55500\55477-LUIS\web\ass\asp\ass0016a.asp copiado para \\10.10.100.147\TopSaude\web\ass\asp\ass0016a.asp
+[18/05/2017 17:02:49] Tentativa 2: A operação solicitada não pode ser executada em um arquivo com uma seção mapeada pelo usuário aberta.
+
+[18/05/2017 17:02:49] K:\Pacotes\55451-55500\55477-LUIS\web\ass\asp\ass0016b.asp falha ao copiar para \\10.10.100.147\TopSaude\web\ass\asp\ass0016b.asp
+[18/05/2017 17:02:50] K:\Pacotes\55451-55500\55477-LUIS\web\ass\asp\ass0044c.asp copiado para \\10.10.100.147\TopSaude\web\ass\asp\ass0044c.asp
+[18/05/2017 17:02:50] Tentativa 2: A operação solicitada não pode ser executada em um arquivo com uma seção mapeada pelo usuário aberta.
+
+[18/05/2017 17:02:50] K:\Pacotes\55451-55500\55477-LUIS\web\ass\asp\ass0065a.asp falha ao copiar para \\10.10.100.147\TopSaude\web\ass\asp\ass0065a.asp
+[18/05/2017 17:02:53] Tentativa 2: A operação solicitada não pode ser executada em um arquivo com uma seção mapeada pelo usuário aberta.
+
+[18/05/2017 17:02:53] K:\Pacotes\55451-55500\55477-LUIS\web\ass\asp\ass0065b.asp falha ao copiar para \\10.10.100.147\TopSaude\web\ass\asp\ass0065b.asp
+[18/05/2017 17:02:54] K:\Pacotes\55451-55500\55477-LUIS\web\ass\asp\ASS0312a.asp copiado para \\10.10.100.147\TopSaude\web\ass\asp\ASS0312a.asp
+[18/05/2017 17:02:54] Tentativa 2: K:\Pacotes\55451-55500\55477-LUIS\web\ass\asp\ASS0312b.asp copiado para \\10.10.100.147\TopSaude\web\ass\asp\ASS0312b.asp
+[18/05/2017 17:02:54] Tentativa 2: K:\Pacotes\55451-55500\55477-LUIS\web\ass\asp\ASS0312c.asp copiado para \\10.10.100.147\TopSaude\web\ass\asp\ASS0312c.asp
+[18/05/2017 17:02:54] Tentativa 2: K:\Pacotes\55451-55500\55477-LUIS\web\ass\asp\ass1106a.asp copiado para \\10.10.100.147\TopSaude\web\ass\asp\ass1106a.asp
+[18/05/2017 17:02:54] Tentativa 2: K:\Pacotes\55451-55500\55477-LUIS\web\ass\asp\ass1106b.asp copiado para \\10.10.100.147\TopSaude\web\ass\asp\ass1106b.asp
+[18/05/2017 17:02:54] K:\Pacotes\55451-55500\55477-LUIS\web\odo_portal\asp\portal_acessoPortal.asp copiado para \\10.10.100.147\TopSaude\web\odo_portal\asp\portal_acessoPortal.asp
+[18/05/2017 17:02:54] K:\Pacotes\55451-55500\55477-LUIS\web\odo_portal\asp\portal_odo_ass0016a.asp copiado para \\10.10.100.147\TopSaude\web\odo_portal\asp\portal_odo_ass0016a.asp
+[18/05/2017 17:02:54] Tentativa 2: K:\Pacotes\55451-55500\55477-LUIS\web\odo_portal\asp\portal_odo_ass0016b.asp copiado para \\10.10.100.147\TopSaude\web\odo_portal\asp\portal_odo_ass0016b.asp
+[18/05/2017 17:19:21] Log de versões do CA 55477 aberto.
+[18/05/2017 17:20:01] Erro de de execução no sqlplus.
+[18/05/2017 17:20:08] Erro de de execução no sqlplus.
+[18/05/2017 17:20:50] Executado o aplica no sqlplus.
+[18/05/2017 17:55:08] Arquivo do pacote do CA 55477 extraído.
+[18/05/2017 17:55:15] Banco Selecionado Para aplicar: HOMO_ODO
+[18/05/2017 17:55:21] Atribuído objeto do tipo Script - TS_TS_JOB_INSERT_1_dml.sql em ts_teste/HOMO_ODO
+[18/05/2017 17:55:21] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.MC_OCORRENCIA_MOTIVO_DEV_WEB.sql em ts_teste/HOMO_ODO
+[18/05/2017 17:55:21] Atribuído objeto do tipo Package - TS.MC_ANALISE_LOTE_ddl.sql em ts_teste/HOMO_ODO
+[18/05/2017 17:55:21] Atribuído objeto do tipo Package - TS.ASS_RCS_MOV_BENEFICIARIO_ddl.sql em ts_teste/HOMO_ODO
+[18/05/2017 17:55:21] Atribuído objeto do tipo Package - TS.ASS_RCS_MC_INCLUSAO_TITULAR_ddl.sql em ts_teste/HOMO_ODO
+[18/05/2017 17:55:21] Atribuído objeto do tipo Package - TS.ASS_RCS_INCLUSAO_BENEFICIARIO_ddl.sql em ts_teste/HOMO_ODO
+[18/05/2017 17:55:21] Atribuído objeto do tipo Package - TS.ANS_COMPROVANTES_EXCLUSAO_ddl.sql em ts_teste/HOMO_ODO
+[18/05/2017 17:55:21] Atribuído objeto do tipo Procedure - TS.MC_GRAVA_ASSOCIADO_WEB_ddl.sql em ts_teste/HOMO_ODO
+[18/05/2017 17:55:21] Atribuído objeto do tipo Procedure - TS.MC_CARGA_ARQUIVO_180_DDL.SQL em ts_teste/HOMO_ODO
+[18/05/2017 17:55:21] Atribuído objeto do tipo Procedure - TS.CON_CANCELA_CONTRATO_ddl.sql em ts_teste/HOMO_ODO
+[18/05/2017 17:55:21] Atribuído objeto do tipo Procedure - TS.ASS_VALIDA_EXCLUSAO_ddl.sql em ts_teste/HOMO_ODO
+[18/05/2017 17:55:21] Atribuído objeto do tipo Procedure - TS.ASS_GERA_RN412_dml.sql em ts_teste/HOMO_ODO
+[18/05/2017 17:55:21] Atribuído objeto do tipo Procedure - TS.ASS_EXECUTA_EXCLUSAO_ddl.sql em ts_teste/HOMO_ODO
+[18/05/2017 17:55:21] Atribuído objeto do tipo Procedure - TS.ASS_EXECUTA_ENDERECO_ddl.sql em ts_teste/HOMO_ODO
+[18/05/2017 17:55:21] Atribuído objeto do tipo Function - TS.ASS_RETORNA_TITULARES_ddl.sql em ts_teste/HOMO_ODO
+[18/05/2017 17:55:21] Atribuído objeto do tipo View - TS.ASSOCIADO_DDL.SQL em ts_teste/HOMO_ODO
+[18/05/2017 17:55:21] Atribuído objeto do tipo Trigger - ts.ass_trg_iou_associado_trg.sql em ts_teste/HOMO_ODO
+[18/05/2017 17:55:21] Atribuído objeto do tipo Trigger - ts.ass_trg_ioi_associado_trg.sql em ts_teste/HOMO_ODO
+[18/05/2017 17:55:21] Atribuído objeto do tipo Table - TS.TIPO_CARTA_ddl.sql em ts_teste/HOMO_ODO
+[18/05/2017 17:55:21] Atribuído objeto do tipo Table - TS.MC_MOTIVO_OCORRENCIA_DEV_WEB_ddl.sql em ts_teste/HOMO_ODO
+[18/05/2017 17:55:21] Atribuído objeto do tipo Table - TS.MC_ASSOCIADO_WEB_ddl.sql em ts_teste/HOMO_ODO
+[18/05/2017 17:55:21] Atribuído objeto do tipo Table - TS.GRUPO_CARTA_VARIAVEL_ddl.sql em ts_teste/HOMO_ODO
+[18/05/2017 17:55:21] Atribuído objeto do tipo Table - TS.CONTROLE_CARTA_ddl.sql em ts_teste/HOMO_ODO
+[18/05/2017 17:55:21] Atribuído objeto do tipo Table - TS.CONTRATO_EMPRESA_ddl.sql em ts_teste/HOMO_ODO
+[18/05/2017 17:55:21] Atribuído objeto do tipo Table - TS.BENEFICIARIO_MOVIMENTO_DDL.SQL em ts_teste/HOMO_ODO
+[18/05/2017 17:55:21] Atribuído objeto do tipo Table - TS.BENEFICIARIO_FATURAMENTO_DDL.SQL em ts_teste/HOMO_ODO
+[18/05/2017 17:55:21] Atribuído objeto do tipo Table - TS.ANS_MOTIVO_EXCLUSAO_SIB_ddl.sql em ts_teste/HOMO_ODO
+[18/05/2017 17:55:21] Atribuído objeto do tipo Sequence - TS.MC_SEQ_OCORRENCIA_MOTIVO_WEB_ddl.sql em ts_teste/HOMO_ODO
+[18/05/2017 17:55:22] Sistema alterando o aplica para ordem certa de aplicação
+[18/05/2017 17:55:23] Selecionado P/ Não Criptografar em: HOMO_ODO 
+[18/05/2017 17:55:23] Selecionado P/ Criptografar em: 
+[18/05/2017 17:55:23] Arquivo "APLICA.SQL" criado com sucesso.
+[18/05/2017 17:55:30] Executado o aplica no sqlplus.
+[18/05/2017 18:21:21] Sistema finalizado.
+

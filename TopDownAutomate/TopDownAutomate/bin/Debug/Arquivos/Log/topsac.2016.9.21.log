@@ -1,0 +1,73 @@
+[21/09/2016 10:53:13] Sistema Iniciado.
+[21/09/2016 10:54:36] Aberto driver com Chrome.
+[21/09/2016 10:55:19] Controle instanciado: 52940
+[21/09/2016 11:00:36] Arquivo do pacote do CA 52940 extraído.
+[21/09/2016 11:02:09] Log de versões do CA 52940 aberto.
+[21/09/2016 11:02:52] Banco Selecionado Para aplicar: SEG_DES5
+[21/09/2016 11:03:47] Banco Selecionado Para aplicar: SEG_DES5
+[21/09/2016 11:03:51] Atribuído objeto do tipo Script - TS_SEC.FUNCAO_INS_002_dml.sql em ts/SEG_DES5
+[21/09/2016 11:03:51] Atribuído objeto do tipo Script - TS_SEC.FUNCAO_DEL_001_dml.sql em ts/SEG_DES5
+[21/09/2016 11:03:51] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.CON_DEBITO_EM_CONTA_DDL.SQL em ts/SEG_DES5
+[21/09/2016 11:03:51] Atribuído objeto do tipo Package - TS.CON_DEBITO_EM_CONTA_DDL.SQL em ts/SEG_DES5
+[21/09/2016 11:03:51] Atribuído objeto do tipo Table - ts.parametro_convenio_dcc_ddl.sql em ts/SEG_DES5
+[21/09/2016 11:03:52] Sistema alterando o aplica para ordem certa de aplicação
+[21/09/2016 11:03:53] Selecionado P/ Não Criptografar em: SEG_DES5 
+[21/09/2016 11:03:53] Selecionado P/ Criptografar em: 
+[21/09/2016 11:03:53] Arquivo "APLICA.SQL" criado com sucesso.
+[21/09/2016 11:04:02] Executado o aplica no sqlplus.
+[21/09/2016 11:04:30] Log de aplicão no banco do CA 52940 aberto.
+[21/09/2016 11:05:15] Resultado do Login na WEB Unimed Odo    (172.25.10.44): Sucesso Ao logar.
+[21/09/2016 11:05:15] Sistema procurará os arquivos na(s) pasta(s): jtopdown logs odo_portal toprel TopSaude transfodontoans 
+[21/09/2016 11:05:16] Quantidade de Arquivos: 2 (arquivos que não estão na raíz).
+[21/09/2016 11:05:16] Arquivo ENCONTRADO em \\172.25.10.44\TopSaude\web\atb\asp\ATB0060A.ASP
+[21/09/2016 11:05:16] Arquivo ENCONTRADO em \\172.25.10.44\TopSaude\web\atb\asp\ATB0060B.ASP
+[21/09/2016 11:05:16] Busca Aprofundada necessária não realizada
+[21/09/2016 11:05:16] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 598 milisegundo(s).
+[21/09/2016 11:05:18] K:\Pacotes\52901-52950\52940-JOAO\web\atb\asp\ATB0060A.ASP copiado para \\172.25.10.44\TopSaude\web\atb\asp\ATB0060A.ASP
+[21/09/2016 11:05:18] K:\Pacotes\52901-52950\52940-JOAO\web\atb\asp\ATB0060B.ASP copiado para \\172.25.10.44\TopSaude\web\atb\asp\ATB0060B.ASP
+[21/09/2016 11:12:38] Log de aplicão no banco do CA 52940 aberto.
+[21/09/2016 11:13:05] Resultado do Login na WEB Unimed Odo    (172.25.10.44): Sucesso Ao logar.
+[21/09/2016 11:13:05] Sistema procurará os arquivos na(s) pasta(s): jtopdown logs odo_portal toprel TopSaude transfodontoans 
+[21/09/2016 11:13:05] Quantidade de Arquivos: 2 (arquivos que não estão na raíz).
+[21/09/2016 11:13:06] Arquivo ENCONTRADO em \\172.25.10.44\TopSaude\web\atb\asp\ATB0060A.ASP
+[21/09/2016 11:13:06] Arquivo ENCONTRADO em \\172.25.10.44\TopSaude\web\atb\asp\ATB0060B.ASP
+[21/09/2016 11:13:06] Busca Aprofundada necessária não realizada
+[21/09/2016 11:13:06] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 600 milisegundo(s).
+[21/09/2016 11:13:20] Sistema finalizado.
+
+[21/09/2016 11:22:10] Sistema Iniciado.
+[21/09/2016 11:24:25] Sistema finalizado.
+
+[21/09/2016 13:46:48] Sistema Iniciado.
+[21/09/2016 14:09:43] Sistema finalizado.
+
+[21/09/2016 14:09:45] Sistema Iniciado.
+[21/09/2016 14:10:02] Aberto driver com Chrome.
+[21/09/2016 14:10:25] Controle instanciado: 52871
+[21/09/2016 14:28:31] Arquivo do pacote do CA 52871 extraído.
+[21/09/2016 14:28:44] Log de versões do CA 52871 aberto.
+[21/09/2016 14:30:59] Banco Selecionado Para aplicar: GIST
+[21/09/2016 14:31:10] Atribuído objeto do tipo Job - TS.MAR_ITF_JOB_RETORNO_RECEBIMENTO_ddl.sql em ts/GIST
+[21/09/2016 14:31:10] Atribuído objeto do tipo Job - TS.MAR_GERA_XML_PDF_BOLETOS_ddl.sql em ts/GIST
+[21/09/2016 14:31:10] Atribuído objeto do tipo Script - ts_sec.modulo_ts.sec.funcao_insert.sql em ts/GIST
+[21/09/2016 14:31:10] Atribuído objeto do tipo Script - ts.tipo_relatorio_insert_dml.sql em ts/GIST
+[21/09/2016 14:31:10] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.MAR_EMITE_FATURA_ddl.sql em ts/GIST
+[21/09/2016 14:31:10] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.FAT_ATUALIZA_IMP_ddl.sql em ts/GIST
+[21/09/2016 14:31:10] Atribuído objeto do tipo Package - ts.mar_itf_integracao_fat_ret_sap_ddl.spc em ts/GIST
+[21/09/2016 14:31:10] Atribuído objeto do tipo Package - ts.mar_itf_integracao_fat_cr_sap_ddl.sql em ts/GIST
+[21/09/2016 14:31:10] Atribuído objeto do tipo Package - TS.MAR_BOLETOS_SEM_RETORNO_SAP_ddl.sql em ts/GIST
+[21/09/2016 14:31:10] Atribuído objeto do tipo Procedure - TS.SUR_GERA_COBRANCA_ddl.sql em ts/GIST
+[21/09/2016 14:31:10] Atribuído objeto do tipo Procedure - TS.MAR_EMITE_FATURA_ddl.sql em ts/GIST
+[21/09/2016 14:31:10] Atribuído objeto do tipo Procedure - TS.FAT_GERA_XML_COBRANCA_110_DDL.SQL em ts/GIST
+[21/09/2016 14:31:10] Atribuído objeto do tipo Function - TS.FAT_ATUALIZA_IMP_ddl.sql em ts/GIST
+[21/09/2016 14:31:10] Atribuído objeto do tipo Index - ts.IDX_COBRANCA_TXT_01_ddl.sql em ts/GIST
+[21/09/2016 14:31:10] Atribuído objeto do tipo Table - TS.REMESSA_IMPRESSAO_DDL.SQL em ts/GIST
+[21/09/2016 14:31:10] Atribuído objeto do tipo Table - TS.MAR_ITF_COBRANCAAPOLICE_ddl.sql em ts/GIST
+[21/09/2016 14:31:10] Atribuído objeto do tipo Table - ts.cobranca_ddl.sql em ts/GIST
+[21/09/2016 14:31:11] Sistema alterando o aplica para ordem certa de aplicação
+[21/09/2016 14:31:12] Selecionado P/ Não Criptografar em: GIST 
+[21/09/2016 14:31:12] Selecionado P/ Criptografar em: 
+[21/09/2016 14:31:13] Arquivo "APLICA.SQL" criado com sucesso.
+[21/09/2016 14:31:20] Executado o aplica no sqlplus.
+[21/09/2016 15:44:36] Sistema finalizado.
+

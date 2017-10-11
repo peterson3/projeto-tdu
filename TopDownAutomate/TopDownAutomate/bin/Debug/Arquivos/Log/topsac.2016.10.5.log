@@ -1,0 +1,23 @@
+[05/10/2016 16:33:39] Sistema Iniciado.
+[05/10/2016 16:34:50] Aberto driver com Chrome.
+[05/10/2016 16:35:14] Controle instanciado: 53250
+[05/10/2016 16:35:18] Banco Selecionado Para aplicar: TSVWHM
+[05/10/2016 16:35:22] Atribuído objeto do tipo Script - update_ans_criticas_sib_9_23.sql em ts/TSVWHM
+[05/10/2016 16:35:22] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.ANS_FLEXIBILIZACAO_SIB_ddl.sql em ts/TSVWHM
+[05/10/2016 16:35:22] Atribuído objeto do tipo Procedure - TS.ANS_RETORNO_SIB_ERR_ddl.sql em ts/TSVWHM
+[05/10/2016 16:35:22] Atribuído objeto do tipo Procedure - TS.ANS_GERA_INF_BENEF_IN35_NEW_ddl.sql em ts/TSVWHM
+[05/10/2016 16:35:22] Atribuído objeto do tipo Procedure - TS.ANS_CANCELA_SIB_ddl.sql em ts/TSVWHM
+[05/10/2016 16:35:22] Atribuído objeto do tipo Trigger - TS.TR_ENTIDADE_SISTEMA_02_ddl.sql em ts/TSVWHM
+[05/10/2016 16:35:22] Atribuído objeto do tipo Trigger - ts.tr_enderecos_03_ddl.sql em ts/TSVWHM
+[05/10/2016 16:35:22] Atribuído objeto do tipo Trigger - TS.TR_ASSOCIADO_07_ddl.sql em ts/TSVWHM
+[05/10/2016 16:35:22] Atribuído objeto do tipo Table - TS.ANS_FLEXIBILIZACAO_SIB_ddl.sql em ts/TSVWHM
+[05/10/2016 16:35:23] Sistema alterando o aplica para ordem certa de aplicação
+[05/10/2016 16:35:24] Selecionado P/ Não Criptografar em: TSVWHM 
+[05/10/2016 16:35:24] Selecionado P/ Criptografar em: 
+[05/10/2016 16:35:24] Arquivo "APLICA.SQL" criado com sucesso.
+[05/10/2016 16:35:31] Executado o aplica no sqlplus.
+[05/10/2016 16:36:39] Log de aplicão no banco do CA 53250 aberto.
+[05/10/2016 16:38:16] Executado o aplica no sqlplus.
+[05/10/2016 16:38:43] Log de aplicão no banco do CA 53250 aberto.
+[05/10/2016 16:40:02] Sistema finalizado.
+

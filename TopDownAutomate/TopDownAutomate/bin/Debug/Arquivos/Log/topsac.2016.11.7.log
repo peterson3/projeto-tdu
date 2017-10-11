@@ -1,0 +1,45 @@
+[07/11/2016 13:47:20] Sistema Iniciado.
+[07/11/2016 13:52:50] Aberto driver com Chrome.
+[07/11/2016 13:54:29] Controle instanciado: 53559
+[07/11/2016 13:56:34] Arquivo do pacote do CA 53559 extraído.
+[07/11/2016 14:01:25] Log de versões do CA 53559 aberto.
+[07/11/2016 14:02:02] Banco Selecionado Para aplicar: SEPACO-TESTE
+[07/11/2016 14:02:05] Atribuído objeto do tipo Package - TS.CTM_UTL_PROCESSOS_ddl.sql em ts/SEPACO-TESTE
+[07/11/2016 14:02:05] Atribuído objeto do tipo Procedure - ts.cm_complementa_xml_ddl.sql em ts/SEPACO-TESTE
+[07/11/2016 14:02:06] Sistema alterando o aplica para ordem certa de aplicação
+[07/11/2016 14:02:07] Selecionado P/ Não Criptografar em: SEPACO-TESTE 
+[07/11/2016 14:02:07] Selecionado P/ Criptografar em: 
+[07/11/2016 14:02:07] Arquivo "APLICA.SQL" criado com sucesso.
+[07/11/2016 14:02:18] Banco Selecionado Para aplicar: HOMO_MED
+[07/11/2016 14:02:18] Banco Selecionado Para aplicar: SEPACO-TESTE
+[07/11/2016 14:02:21] Atribuído objeto do tipo Package - TS.CTM_UTL_PROCESSOS_ddl.sql em ts_teste/HOMO_MED
+[07/11/2016 14:02:21] Atribuído objeto do tipo Package - TS.CTM_UTL_PROCESSOS_ddl.sql em ts/SEPACO-TESTE
+[07/11/2016 14:02:21] Atribuído objeto do tipo Procedure - ts.cm_complementa_xml_ddl.sql em ts_teste/HOMO_MED
+[07/11/2016 14:02:21] Atribuído objeto do tipo Procedure - ts.cm_complementa_xml_ddl.sql em ts/SEPACO-TESTE
+[07/11/2016 14:02:23] Sistema alterando o aplica para ordem certa de aplicação
+[07/11/2016 14:02:25] Selecionado P/ Não Criptografar em: HOMO_MED SEPACO-TESTE 
+[07/11/2016 14:02:25] Selecionado P/ Criptografar em: 
+[07/11/2016 14:02:25] Arquivo "APLICA.SQL" criado com sucesso.
+[07/11/2016 14:02:30] Executado o aplica no sqlplus.
+[07/11/2016 15:50:56] Banco Selecionado Para aplicar: INST_MED
+[07/11/2016 15:50:56] Banco Selecionado Para aplicar: DEMO_MED
+[07/11/2016 15:50:56] Banco Selecionado Para aplicar: HOMO_MED
+[07/11/2016 15:50:56] Banco Selecionado Para aplicar: SEPACO-TESTE
+[07/11/2016 15:50:56] Banco Selecionado Para aplicar: SEP_VAZIO
+[07/11/2016 15:51:06] Atribuído objeto do tipo Package - TS.CTM_UTL_PROCESSOS_ddl.sql em ts/INST_MED
+[07/11/2016 15:51:06] Atribuído objeto do tipo Package - TS.CTM_UTL_PROCESSOS_ddl.sql em ts/DEMO_MED
+[07/11/2016 15:51:06] Atribuído objeto do tipo Package - TS.CTM_UTL_PROCESSOS_ddl.sql em ts_teste/HOMO_MED
+[07/11/2016 15:51:06] Atribuído objeto do tipo Package - TS.CTM_UTL_PROCESSOS_ddl.sql em ts/SEPACO-TESTE
+[07/11/2016 15:51:06] Atribuído objeto do tipo Package - TS.CTM_UTL_PROCESSOS_ddl.sql em ts_teste/SEP_VAZIO
+[07/11/2016 15:51:06] Atribuído objeto do tipo Procedure - ts.cm_complementa_xml_ddl.sql em ts/INST_MED
+[07/11/2016 15:51:06] Atribuído objeto do tipo Procedure - ts.cm_complementa_xml_ddl.sql em ts/DEMO_MED
+[07/11/2016 15:51:06] Atribuído objeto do tipo Procedure - ts.cm_complementa_xml_ddl.sql em ts_teste/HOMO_MED
+[07/11/2016 15:51:06] Atribuído objeto do tipo Procedure - ts.cm_complementa_xml_ddl.sql em ts/SEPACO-TESTE
+[07/11/2016 15:51:06] Atribuído objeto do tipo Procedure - ts.cm_complementa_xml_ddl.sql em ts_teste/SEP_VAZIO
+[07/11/2016 15:51:07] Sistema alterando o aplica para ordem certa de aplicação
+[07/11/2016 15:51:17] Selecionado P/ Não Criptografar em: INST_MED DEMO_MED HOMO_MED SEP_VAZIO 
+[07/11/2016 15:51:17] Selecionado P/ Criptografar em: SEPACO-TESTE 
+[07/11/2016 15:51:17] Arquivo "APLICA.SQL" criado com sucesso.
+[07/11/2016 15:51:23] Executado o aplica no sqlplus.
+[07/11/2016 16:39:15] Sistema finalizado.
+

@@ -1,0 +1,67 @@
+[30/09/2016 12:05:56] Sistema Iniciado.
+[30/09/2016 15:42:29] Sistema finalizado.
+
+[30/09/2016 16:06:40] Sistema Iniciado.
+[30/09/2016 16:07:02] Aberto driver com Chrome.
+[30/09/2016 16:08:15] Controle instanciado: 52996
+[30/09/2016 16:09:55] Banco Selecionado Para aplicar: SEG_DES8
+[30/09/2016 16:09:55] Banco Selecionado Para aplicar: SEG_VAZIO
+[30/09/2016 16:09:59] Atribuído objeto do tipo Script - update_ans_criticas_sib_9_23.sql em ts/SEG_DES8
+[30/09/2016 16:09:59] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.ANS_FLEXIBILIZACAO_SIB_ddl.sql em ts/SEG_DES8
+[30/09/2016 16:09:59] Atribuído objeto do tipo Procedure - TS.ANS_RETORNO_SIB_ERR_ddl.sql em ts/SEG_DES8
+[30/09/2016 16:09:59] Atribuído objeto do tipo Procedure - TS.ANS_GERA_INF_BENEF_IN35_NEW_ddl.sql em ts/SEG_DES8
+[30/09/2016 16:09:59] Atribuído objeto do tipo Procedure - TS.ANS_CANCELA_SIB_ddl.sql em ts/SEG_DES8
+[30/09/2016 16:09:59] Atribuído objeto do tipo Trigger - TS.TR_ENTIDADE_SISTEMA_02_ddl.sql em ts/SEG_DES8
+[30/09/2016 16:09:59] Atribuído objeto do tipo Trigger - ts.tr_enderecos_03_ddl.sql em ts/SEG_DES8
+[30/09/2016 16:09:59] Atribuído objeto do tipo Trigger - TS.TR_ASSOCIADO_07_ddl.sql em ts/SEG_DES8
+[30/09/2016 16:09:59] Atribuído objeto do tipo Table - TS.ANS_FLEXIBILIZACAO_SIB_ddl.sql em ts/SEG_DES8
+[30/09/2016 16:10:01] Sistema alterando o aplica para ordem certa de aplicação
+[30/09/2016 16:10:06] Atribuído objeto do tipo Script - update_ans_criticas_sib_9_23.sql em ts/SEG_DES8
+[30/09/2016 16:10:06] Atribuído objeto do tipo Script - update_ans_criticas_sib_9_23.sql em seg_teste/SEG_VAZIO
+[30/09/2016 16:10:06] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.ANS_FLEXIBILIZACAO_SIB_ddl.sql em ts/SEG_DES8
+[30/09/2016 16:10:06] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.ANS_FLEXIBILIZACAO_SIB_ddl.sql em seg_teste/SEG_VAZIO
+[30/09/2016 16:10:06] Atribuído objeto do tipo Procedure - TS.ANS_RETORNO_SIB_ERR_ddl.sql em ts/SEG_DES8
+[30/09/2016 16:10:06] Atribuído objeto do tipo Procedure - TS.ANS_RETORNO_SIB_ERR_ddl.sql em seg_teste/SEG_VAZIO
+[30/09/2016 16:10:06] Atribuído objeto do tipo Procedure - TS.ANS_GERA_INF_BENEF_IN35_NEW_ddl.sql em ts/SEG_DES8
+[30/09/2016 16:10:06] Atribuído objeto do tipo Procedure - TS.ANS_GERA_INF_BENEF_IN35_NEW_ddl.sql em seg_teste/SEG_VAZIO
+[30/09/2016 16:10:06] Atribuído objeto do tipo Procedure - TS.ANS_CANCELA_SIB_ddl.sql em ts/SEG_DES8
+[30/09/2016 16:10:06] Atribuído objeto do tipo Procedure - TS.ANS_CANCELA_SIB_ddl.sql em seg_teste/SEG_VAZIO
+[30/09/2016 16:10:06] Atribuído objeto do tipo Trigger - TS.TR_ENTIDADE_SISTEMA_02_ddl.sql em ts/SEG_DES8
+[30/09/2016 16:10:06] Atribuído objeto do tipo Trigger - TS.TR_ENTIDADE_SISTEMA_02_ddl.sql em seg_teste/SEG_VAZIO
+[30/09/2016 16:10:06] Atribuído objeto do tipo Trigger - ts.tr_enderecos_03_ddl.sql em ts/SEG_DES8
+[30/09/2016 16:10:06] Atribuído objeto do tipo Trigger - ts.tr_enderecos_03_ddl.sql em seg_teste/SEG_VAZIO
+[30/09/2016 16:10:06] Atribuído objeto do tipo Trigger - TS.TR_ASSOCIADO_07_ddl.sql em ts/SEG_DES8
+[30/09/2016 16:10:06] Atribuído objeto do tipo Trigger - TS.TR_ASSOCIADO_07_ddl.sql em seg_teste/SEG_VAZIO
+[30/09/2016 16:10:06] Atribuído objeto do tipo Table - TS.ANS_FLEXIBILIZACAO_SIB_ddl.sql em ts/SEG_DES8
+[30/09/2016 16:10:06] Atribuído objeto do tipo Table - TS.ANS_FLEXIBILIZACAO_SIB_ddl.sql em seg_teste/SEG_VAZIO
+[30/09/2016 16:10:08] Sistema alterando o aplica para ordem certa de aplicação
+[30/09/2016 16:10:10] Selecionado P/ Não Criptografar em: SEG_DES8 SEG_VAZIO 
+[30/09/2016 16:10:10] Selecionado P/ Criptografar em: 
+[30/09/2016 16:10:10] Arquivo "APLICA.SQL" criado com sucesso.
+[30/09/2016 16:10:19] Banco Selecionado Para aplicar: SEG_DES8
+[30/09/2016 16:10:19] Banco Selecionado Para aplicar: SEG_VAZIO
+[30/09/2016 16:10:22] Atribuído objeto do tipo Script - update_ans_criticas_sib_9_23.sql em ts/SEG_DES8
+[30/09/2016 16:10:22] Atribuído objeto do tipo Script - update_ans_criticas_sib_9_23.sql em seg_teste/SEG_VAZIO
+[30/09/2016 16:10:22] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.ANS_FLEXIBILIZACAO_SIB_ddl.sql em ts/SEG_DES8
+[30/09/2016 16:10:22] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.ANS_FLEXIBILIZACAO_SIB_ddl.sql em seg_teste/SEG_VAZIO
+[30/09/2016 16:10:22] Atribuído objeto do tipo Procedure - TS.ANS_RETORNO_SIB_ERR_ddl.sql em ts/SEG_DES8
+[30/09/2016 16:10:22] Atribuído objeto do tipo Procedure - TS.ANS_RETORNO_SIB_ERR_ddl.sql em seg_teste/SEG_VAZIO
+[30/09/2016 16:10:22] Atribuído objeto do tipo Procedure - TS.ANS_GERA_INF_BENEF_IN35_NEW_ddl.sql em ts/SEG_DES8
+[30/09/2016 16:10:22] Atribuído objeto do tipo Procedure - TS.ANS_GERA_INF_BENEF_IN35_NEW_ddl.sql em seg_teste/SEG_VAZIO
+[30/09/2016 16:10:22] Atribuído objeto do tipo Procedure - TS.ANS_CANCELA_SIB_ddl.sql em ts/SEG_DES8
+[30/09/2016 16:10:22] Atribuído objeto do tipo Procedure - TS.ANS_CANCELA_SIB_ddl.sql em seg_teste/SEG_VAZIO
+[30/09/2016 16:10:22] Atribuído objeto do tipo Trigger - TS.TR_ENTIDADE_SISTEMA_02_ddl.sql em ts/SEG_DES8
+[30/09/2016 16:10:22] Atribuído objeto do tipo Trigger - TS.TR_ENTIDADE_SISTEMA_02_ddl.sql em seg_teste/SEG_VAZIO
+[30/09/2016 16:10:22] Atribuído objeto do tipo Trigger - ts.tr_enderecos_03_ddl.sql em ts/SEG_DES8
+[30/09/2016 16:10:22] Atribuído objeto do tipo Trigger - ts.tr_enderecos_03_ddl.sql em seg_teste/SEG_VAZIO
+[30/09/2016 16:10:22] Atribuído objeto do tipo Trigger - TS.TR_ASSOCIADO_07_ddl.sql em ts/SEG_DES8
+[30/09/2016 16:10:22] Atribuído objeto do tipo Trigger - TS.TR_ASSOCIADO_07_ddl.sql em seg_teste/SEG_VAZIO
+[30/09/2016 16:10:22] Atribuído objeto do tipo Table - TS.ANS_FLEXIBILIZACAO_SIB_ddl.sql em ts/SEG_DES8
+[30/09/2016 16:10:22] Atribuído objeto do tipo Table - TS.ANS_FLEXIBILIZACAO_SIB_ddl.sql em seg_teste/SEG_VAZIO
+[30/09/2016 16:10:34] Sistema alterando o aplica para ordem certa de aplicação
+[30/09/2016 16:10:36] Selecionado P/ Não Criptografar em: SEG_VAZIO 
+[30/09/2016 16:10:36] Selecionado P/ Criptografar em: SEG_DES8 
+[30/09/2016 16:10:36] Arquivo "APLICA.SQL" criado com sucesso.
+[30/09/2016 16:10:52] Executado o aplica no sqlplus.
+[30/09/2016 16:36:49] Sistema finalizado.
+

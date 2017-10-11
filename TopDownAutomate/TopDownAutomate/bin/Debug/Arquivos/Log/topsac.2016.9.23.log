@@ -1,0 +1,60 @@
+[23/09/2016 11:21:21] Sistema Iniciado.
+[23/09/2016 11:38:21] Aberto driver com Chrome.
+[23/09/2016 11:38:40] Controle instanciado: 52871
+[23/09/2016 11:56:49] Log de versões do CA 52871 aberto.
+[23/09/2016 11:57:00] Arquivo do pacote do CA 52871 extraído.
+[23/09/2016 11:57:06] Log de aplicão no banco do CA 52871 aberto.
+[23/09/2016 11:57:14] Log de versões do CA 52871 aberto.
+[23/09/2016 14:39:18] Controle instanciado: 53074
+[23/09/2016 14:47:20] Arquivo do pacote do CA 53074 extraído.
+[23/09/2016 14:47:27] Log de versões do CA 53074 aberto.
+[23/09/2016 14:47:39] Banco Selecionado Para aplicar: HOMO_MED
+[23/09/2016 14:47:42] Atribuído objeto do tipo Package - TS.CTM_REL_ACMPVLRS_SIT_SINTETICO_ddl.sql em ts_teste/HOMO_MED
+[23/09/2016 14:47:44] Sistema alterando o aplica para ordem certa de aplicação
+[23/09/2016 14:47:45] Selecionado P/ Não Criptografar em: HOMO_MED 
+[23/09/2016 14:47:45] Selecionado P/ Criptografar em: 
+[23/09/2016 14:47:45] Arquivo "APLICA.SQL" criado com sucesso.
+[23/09/2016 14:47:53] Executado o aplica no sqlplus.
+[23/09/2016 15:05:58] Banco Selecionado Para aplicar: SEPACO-TESTE
+[23/09/2016 15:06:01] Atribuído objeto do tipo Package - TS.CTM_REL_ACMPVLRS_SIT_SINTETICO_ddl.sql em ts/SEPACO-TESTE
+[23/09/2016 15:06:02] Sistema alterando o aplica para ordem certa de aplicação
+[23/09/2016 15:06:03] Selecionado P/ Não Criptografar em: SEPACO-TESTE 
+[23/09/2016 15:06:03] Selecionado P/ Criptografar em: 
+[23/09/2016 15:06:03] Arquivo "APLICA.SQL" criado com sucesso.
+[23/09/2016 15:06:10] Executado o aplica no sqlplus.
+[23/09/2016 15:29:27] Banco Selecionado Para aplicar: INST_MED
+[23/09/2016 15:29:27] Banco Selecionado Para aplicar: DEMO_MED
+[23/09/2016 15:29:27] Banco Selecionado Para aplicar: HOMO_MED
+[23/09/2016 15:29:27] Banco Selecionado Para aplicar: SEPACO-TESTE
+[23/09/2016 15:29:27] Banco Selecionado Para aplicar: SEP-VAZIO
+[23/09/2016 15:29:32] Atribuído objeto do tipo Package - TS.CTM_REL_ACMPVLRS_SIT_SINTETICO_ddl.sql em ts/INST_MED
+[23/09/2016 15:29:32] Atribuído objeto do tipo Package - TS.CTM_REL_ACMPVLRS_SIT_SINTETICO_ddl.sql em ts/DEMO_MED
+[23/09/2016 15:29:32] Atribuído objeto do tipo Package - TS.CTM_REL_ACMPVLRS_SIT_SINTETICO_ddl.sql em ts_teste/HOMO_MED
+[23/09/2016 15:29:32] Atribuído objeto do tipo Package - TS.CTM_REL_ACMPVLRS_SIT_SINTETICO_ddl.sql em ts/SEPACO-TESTE
+[23/09/2016 15:29:32] Atribuído objeto do tipo Package - TS.CTM_REL_ACMPVLRS_SIT_SINTETICO_ddl.sql em ts/SEP-VAZIO
+[23/09/2016 15:29:34] Sistema alterando o aplica para ordem certa de aplicação
+[23/09/2016 15:29:38] Selecionado P/ Não Criptografar em: INST_MED DEMO_MED HOMO_MED SEP-VAZIO 
+[23/09/2016 15:29:38] Selecionado P/ Criptografar em: SEPACO-TESTE 
+[23/09/2016 15:29:38] Arquivo "APLICA.SQL" criado com sucesso.
+[23/09/2016 15:29:44] Executado o aplica no sqlplus.
+[23/09/2016 15:55:23] Banco Selecionado Para aplicar: SEP-VAZIO
+[23/09/2016 15:55:26] Atribuído objeto do tipo Package - TS.CTM_REL_ACMPVLRS_SIT_SINTETICO_ddl.sql em ts/SEP-VAZIO
+[23/09/2016 15:55:28] Sistema alterando o aplica para ordem certa de aplicação
+[23/09/2016 15:55:29] Selecionado P/ Não Criptografar em: SEP-VAZIO 
+[23/09/2016 15:55:29] Selecionado P/ Criptografar em: 
+[23/09/2016 15:55:29] Arquivo "APLICA.SQL" criado com sucesso.
+[23/09/2016 15:55:34] Executado o aplica no sqlplus.
+[23/09/2016 15:55:38] Log de aplicão no banco do CA 53074 aberto.
+[23/09/2016 16:02:01] Banco Selecionado Para aplicar: SEP_VAZIO
+[23/09/2016 16:02:03] Atribuído objeto do tipo Package - TS.CTM_REL_ACMPVLRS_SIT_SINTETICO_ddl.sql em ts_teste/SEP_VAZIO
+[23/09/2016 16:02:05] Sistema alterando o aplica para ordem certa de aplicação
+[23/09/2016 16:02:06] Selecionado P/ Não Criptografar em: SEP_VAZIO 
+[23/09/2016 16:02:06] Selecionado P/ Criptografar em: 
+[23/09/2016 16:02:06] Arquivo "APLICA.SQL" criado com sucesso.
+[23/09/2016 16:02:14] Executado o aplica no sqlplus.
+[23/09/2016 16:02:23] Log de aplicão no banco do CA 53074 aberto.
+[23/09/2016 16:02:29] Sistema finalizado.
+
+[23/09/2016 16:46:04] Sistema Iniciado.
+[23/09/2016 16:46:10] Sistema finalizado.
+

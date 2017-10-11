@@ -1,0 +1,66 @@
+[28/07/2017 18:27:23] Sistema Iniciado.
+[28/07/2017 19:31:24] Aberto driver com Chrome.
+[28/07/2017 19:35:35] Controle instanciado: 56513
+[28/07/2017 19:36:53] Arquivo do pacote do CA 56513 extraído.
+[28/07/2017 19:37:14] Banco Selecionado Para aplicar: SEG_DES8
+[28/07/2017 19:37:18] Atribuído objeto do tipo Script - insert_nova_versao_ptu_9_dml.sql em ts/SEG_DES8
+[28/07/2017 19:37:18] Atribuído objeto do tipo Procedure - TS.ASS_GERA_PTU_A1300_30_ddl.sql em ts/SEG_DES8
+[28/07/2017 19:37:18] Atribuído objeto do tipo Table - TS.UN_PTU_R1311_ddl.sql em ts/SEG_DES8
+[28/07/2017 19:37:18] Atribuído objeto do tipo Table - TS.UN_PTU_R1308_ddl.sql em ts/SEG_DES8
+[28/07/2017 19:37:18] Atribuído objeto do tipo Table - TS.UN_PTU_R1306_ddl.sql em ts/SEG_DES8
+[28/07/2017 19:37:18] Atribuído objeto do tipo Table - TS.UN_PTU_R1303_ddl.sql em ts/SEG_DES8
+[28/07/2017 19:37:18] Atribuído objeto do tipo Table - TS.UN_PTU1300_ddl.sql em ts/SEG_DES8
+[28/07/2017 19:37:19] Sistema alterando o aplica para ordem certa de aplicação
+[28/07/2017 19:37:27] Selecionado P/ Não Criptografar em: SEG_DES8 
+[28/07/2017 19:37:27] Selecionado P/ Criptografar em: 
+[28/07/2017 19:37:27] Arquivo "APLICA.SQL" criado com sucesso.
+[28/07/2017 19:37:35] Executado o aplica no sqlplus.
+[28/07/2017 19:43:42] Banco Selecionado Para aplicar: SEG_DES8
+[28/07/2017 19:43:45] Atribuído objeto do tipo Script - insert_nova_versao_ptu_9_dml.sql em ts/SEG_DES8
+[28/07/2017 19:43:45] Atribuído objeto do tipo Procedure - TS.ASS_GERA_PTU_A1300_30_ddl.sql em ts/SEG_DES8
+[28/07/2017 19:43:45] Atribuído objeto do tipo Table - TS.UN_PTU_R1311_ddl.sql em ts/SEG_DES8
+[28/07/2017 19:43:45] Atribuído objeto do tipo Table - TS.UN_PTU_R1308_ddl.sql em ts/SEG_DES8
+[28/07/2017 19:43:45] Atribuído objeto do tipo Table - TS.UN_PTU_R1306_ddl.sql em ts/SEG_DES8
+[28/07/2017 19:43:45] Atribuído objeto do tipo Table - TS.UN_PTU_R1303_ddl.sql em ts/SEG_DES8
+[28/07/2017 19:43:45] Atribuído objeto do tipo Table - TS.UN_PTU1300_ddl.sql em ts/SEG_DES8
+[28/07/2017 19:43:46] Sistema alterando o aplica para ordem certa de aplicação
+[28/07/2017 19:43:47] Selecionado P/ Não Criptografar em: SEG_DES8 
+[28/07/2017 19:43:47] Selecionado P/ Criptografar em: 
+[28/07/2017 19:43:47] Arquivo "APLICA.SQL" criado com sucesso.
+[28/07/2017 19:43:58] Executado o aplica no sqlplus.
+[28/07/2017 19:50:47] Banco Selecionado Para aplicar: SEG_DES8
+[28/07/2017 19:50:50] Atribuído objeto do tipo Script - insert_nova_versao_ptu_9_dml.sql em ts/SEG_DES8
+[28/07/2017 19:50:50] Atribuído objeto do tipo Procedure - TS.ASS_GERA_PTU_A1300_30_ddl.sql em ts/SEG_DES8
+[28/07/2017 19:50:50] Atribuído objeto do tipo Table - TS.UN_PTU_R1311_ddl.sql em ts/SEG_DES8
+[28/07/2017 19:50:50] Atribuído objeto do tipo Table - TS.UN_PTU_R1308_ddl.sql em ts/SEG_DES8
+[28/07/2017 19:50:50] Atribuído objeto do tipo Table - TS.UN_PTU_R1306_ddl.sql em ts/SEG_DES8
+[28/07/2017 19:50:50] Atribuído objeto do tipo Table - TS.UN_PTU_R1303_ddl.sql em ts/SEG_DES8
+[28/07/2017 19:50:50] Atribuído objeto do tipo Table - TS.UN_PTU1300_ddl.sql em ts/SEG_DES8
+[28/07/2017 19:50:52] Sistema alterando o aplica para ordem certa de aplicação
+[28/07/2017 19:50:53] Selecionado P/ Não Criptografar em: SEG_DES8 
+[28/07/2017 19:50:53] Selecionado P/ Criptografar em: 
+[28/07/2017 19:50:53] Arquivo "APLICA.SQL" criado com sucesso.
+[28/07/2017 19:50:59] Executado o aplica no sqlplus.
+[28/07/2017 19:52:03] Banco Selecionado Para aplicar: SEG_DES8
+[28/07/2017 19:52:03] Banco Selecionado Para aplicar: SEG_VAZIO
+[28/07/2017 19:52:07] Atribuído objeto do tipo Script - insert_nova_versao_ptu_9_dml.sql em ts/SEG_DES8
+[28/07/2017 19:52:07] Atribuído objeto do tipo Script - insert_nova_versao_ptu_9_dml.sql em seg_teste/SEG_VAZIO
+[28/07/2017 19:52:07] Atribuído objeto do tipo Procedure - TS.ASS_GERA_PTU_A1300_30_ddl.sql em ts/SEG_DES8
+[28/07/2017 19:52:07] Atribuído objeto do tipo Procedure - TS.ASS_GERA_PTU_A1300_30_ddl.sql em seg_teste/SEG_VAZIO
+[28/07/2017 19:52:07] Atribuído objeto do tipo Table - TS.UN_PTU_R1311_ddl.sql em ts/SEG_DES8
+[28/07/2017 19:52:07] Atribuído objeto do tipo Table - TS.UN_PTU_R1311_ddl.sql em seg_teste/SEG_VAZIO
+[28/07/2017 19:52:07] Atribuído objeto do tipo Table - TS.UN_PTU_R1308_ddl.sql em ts/SEG_DES8
+[28/07/2017 19:52:07] Atribuído objeto do tipo Table - TS.UN_PTU_R1308_ddl.sql em seg_teste/SEG_VAZIO
+[28/07/2017 19:52:07] Atribuído objeto do tipo Table - TS.UN_PTU_R1306_ddl.sql em ts/SEG_DES8
+[28/07/2017 19:52:07] Atribuído objeto do tipo Table - TS.UN_PTU_R1306_ddl.sql em seg_teste/SEG_VAZIO
+[28/07/2017 19:52:07] Atribuído objeto do tipo Table - TS.UN_PTU_R1303_ddl.sql em ts/SEG_DES8
+[28/07/2017 19:52:07] Atribuído objeto do tipo Table - TS.UN_PTU_R1303_ddl.sql em seg_teste/SEG_VAZIO
+[28/07/2017 19:52:07] Atribuído objeto do tipo Table - TS.UN_PTU1300_ddl.sql em ts/SEG_DES8
+[28/07/2017 19:52:07] Atribuído objeto do tipo Table - TS.UN_PTU1300_ddl.sql em seg_teste/SEG_VAZIO
+[28/07/2017 19:52:08] Sistema alterando o aplica para ordem certa de aplicação
+[28/07/2017 19:52:10] Selecionado P/ Não Criptografar em: SEG_VAZIO 
+[28/07/2017 19:52:10] Selecionado P/ Criptografar em: SEG_DES8 
+[28/07/2017 19:52:10] Arquivo "APLICA.SQL" criado com sucesso.
+[28/07/2017 19:52:16] Executado o aplica no sqlplus.
+[28/07/2017 20:04:36] Sistema finalizado.
+

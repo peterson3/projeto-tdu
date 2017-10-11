@@ -1,0 +1,42 @@
+[27/09/2016 15:03:20] Sistema Iniciado.
+[27/09/2016 15:03:52] Aberto driver com Chrome.
+[27/09/2016 15:04:08] Controle instanciado: 53139
+[27/09/2016 15:26:23] Arquivo do pacote do CA 53139 extraído.
+[27/09/2016 15:26:35] Arquivo do pacote do CA 53139 extraído.
+[27/09/2016 15:26:46] Log de versões do CA 53139 aberto.
+[27/09/2016 15:26:57] Resultado do Login na WEB HOMOLOG V11    (10.10.100.147): Sucesso Ao logar.
+[27/09/2016 15:26:57] Sistema procurará os arquivos na(s) pasta(s): jtopdown TopSaude 
+[27/09/2016 15:26:57] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[27/09/2016 15:26:57] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\gen\asp\GEN0014c.asp
+[27/09/2016 15:26:57] Busca Aprofundada necessária não realizada
+[27/09/2016 15:26:57] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 25 milisegundo(s).
+[27/09/2016 15:26:59] K:\Pacotes\53101-53150\53139-FELIPE\web\gen\asp\GEN0014c.asp copiado para \\10.10.100.147\TopSaude\web\gen\asp\GEN0014c.asp
+[27/09/2016 15:28:19] Resultado do Login na WEB Instalacao V11    (10.10.100.134): Sucesso Ao logar.
+[27/09/2016 15:28:19] Sistema procurará os arquivos na(s) pasta(s): Jtopdown TOPSAUDE 
+[27/09/2016 15:28:19] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[27/09/2016 15:28:19] Arquivo ENCONTRADO em \\10.10.100.134\TOPSAUDE\web\gen\asp\GEN0014c.asp
+[27/09/2016 15:28:19] Busca Aprofundada necessária não realizada
+[27/09/2016 15:28:19] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 35 milisegundo(s).
+[27/09/2016 15:28:20] K:\Pacotes\53101-53150\53139-FELIPE\web\gen\asp\GEN0014c.asp copiado para \\10.10.100.134\TOPSAUDE\web\gen\asp\GEN0014c.asp
+[27/09/2016 15:28:26] Resultado do Login na WEB Demo_Med    (223.223.2.206): Sucesso Ao logar.
+[27/09/2016 15:28:26] Sistema procurará os arquivos na(s) pasta(s): jtopdown TopSaude 
+[27/09/2016 15:28:26] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[27/09/2016 15:28:26] Arquivo ENCONTRADO em \\223.223.2.206\TopSaude\web\gen\asp\GEN0014c.asp
+[27/09/2016 15:28:26] Busca Aprofundada necessária não realizada
+[27/09/2016 15:28:26] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 18 milisegundo(s).
+[27/09/2016 15:28:27] K:\Pacotes\53101-53150\53139-FELIPE\web\gen\asp\GEN0014c.asp copiado para \\223.223.2.206\TopSaude\web\gen\asp\GEN0014c.asp
+[27/09/2016 15:47:20] Sistema finalizado.
+
+[27/09/2016 15:47:34] Sistema Iniciado.
+[27/09/2016 15:47:47] Aberto driver com Chrome.
+[27/09/2016 15:47:57] Controle instanciado: 53143
+[27/09/2016 15:48:21] Arquivo do pacote do CA 53143 extraído.
+[27/09/2016 15:48:28] Resultado do Login na WEB Maritima    (10.1.1.159): Sucesso Ao logar.
+[27/09/2016 15:48:29] Sistema procurará os arquivos na(s) pasta(s): jtopdown topsaude web 
+[27/09/2016 15:48:39] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[27/09/2016 15:48:39] Arquivo ENCONTRADO em \\10.1.1.159\web\fat\asp\FAT1044a.asp
+[27/09/2016 15:48:39] Busca Aprofundada necessária não realizada
+[27/09/2016 15:48:39] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 182 milisegundo(s).
+[27/09/2016 15:48:41] K:\Pacotes\53101-53150\53143-JOAO\web\fat\asp\FAT1044a.asp copiado para \\10.1.1.159\web\fat\asp\FAT1044a.asp
+[27/09/2016 19:04:16] Sistema finalizado.
+

@@ -1,0 +1,82 @@
+[02/08/2016 13:32:58] Sistema Iniciado.
+[02/08/2016 13:33:08] Aberto driver com Chrome.
+[02/08/2016 13:33:29] Controle instanciado: 52496
+[02/08/2016 13:36:48] Sistema Iniciado.
+[02/08/2016 13:36:58] Aberto driver com Chrome.
+[02/08/2016 13:37:10] Controle instanciado: 52496
+[02/08/2016 14:52:24] Log de aplicão no banco do CA 52496 aberto.
+[02/08/2016 14:59:04] Sistema Iniciado.
+[02/08/2016 14:59:13] Aberto driver com Chrome.
+[02/08/2016 15:00:01] Controle instanciado: 52503
+[02/08/2016 15:00:14] Arquivo do pacote do CA 52503 extraído.
+[02/08/2016 15:02:15] Banco Selecionado Para aplicar: GIST
+[02/08/2016 15:02:39] Banco Selecionado Para aplicar: GIST
+[02/08/2016 15:02:41] Atribuído objeto do tipo Package - TS.AUT_REL_GUIA_TISS_3_02_00_ddl.sql em ts/GIST
+[02/08/2016 15:02:43] Sistema alterando o aplica para ordem certa de aplicação
+[02/08/2016 15:02:45] Selecionado P/ Não Criptografar em: GIST 
+[02/08/2016 15:02:45] Selecionado P/ Criptografar em: 
+[02/08/2016 15:33:25] Selecionado P/ Não Criptografar em: GIST 
+[02/08/2016 15:33:25] Selecionado P/ Criptografar em: 
+[02/08/2016 15:33:49] Selecionado P/ Não Criptografar em: GIST 
+[02/08/2016 15:33:49] Selecionado P/ Criptografar em: 
+[02/08/2016 15:48:21] Sistema finalizado.
+
+[02/08/2016 15:48:25] Selecionado P/ Não Criptografar em: GIST 
+[02/08/2016 15:48:25] Selecionado P/ Criptografar em: 
+[02/08/2016 15:49:54] Selecionado P/ Não Criptografar em: GIST 
+[02/08/2016 15:49:54] Selecionado P/ Criptografar em: 
+[02/08/2016 15:50:06] Sistema finalizado.
+
+[02/08/2016 15:52:00] Sistema Iniciado.
+[02/08/2016 15:52:08] Aberto driver com Chrome.
+[02/08/2016 15:52:21] Controle instanciado: 52503
+[02/08/2016 15:52:29] Banco Selecionado Para aplicar: GIST
+[02/08/2016 15:52:31] Atribuído objeto do tipo Package - TS.AUT_REL_GUIA_TISS_3_02_00_ddl.sql em ts/GIST
+[02/08/2016 15:52:32] Sistema alterando o aplica para ordem certa de aplicação
+[02/08/2016 15:52:33] Selecionado P/ Não Criptografar em: GIST 
+[02/08/2016 15:52:33] Selecionado P/ Criptografar em: 
+[02/08/2016 15:52:56] Sistema Iniciado.
+[02/08/2016 15:53:03] Aberto driver com Chrome.
+[02/08/2016 15:53:15] Controle instanciado: 52503
+[02/08/2016 15:53:54] Banco Selecionado Para aplicar: GIST
+[02/08/2016 15:53:57] Atribuído objeto do tipo Package - TS.AUT_REL_GUIA_TISS_3_02_00_ddl.sql em ts/GIST
+[02/08/2016 15:53:58] Sistema alterando o aplica para ordem certa de aplicação
+[02/08/2016 15:54:00] Selecionado P/ Não Criptografar em: GIST 
+[02/08/2016 15:54:00] Selecionado P/ Criptografar em: 
+[02/08/2016 15:54:00] Arquivo "APLICA.SQL" criado com sucesso.
+[02/08/2016 15:54:04] Executado o aplica no sqlplus.
+[02/08/2016 15:56:12] Sistema Iniciado.
+[02/08/2016 15:58:09] Aberto driver com Chrome.
+[02/08/2016 15:58:22] Controle instanciado: 52503
+[02/08/2016 16:00:17] Sistema Iniciado.
+[02/08/2016 16:00:25] Aberto driver com Chrome.
+[02/08/2016 16:00:39] Controle instanciado: 52503
+[02/08/2016 16:02:03] Resultado do Login na WEB Maritima    (10.1.1.159): Sucesso Ao logar.
+[02/08/2016 16:02:04] Quantidade de Arquivos: 2 (arquivos que não estão na raíz).
+[02/08/2016 16:02:11] Realizando busca aprofundada para objetos não encontrados...
+[02/08/2016 16:02:11] Tempo que levou para achar todos os arquivos: 0 minuto(s), 6 segundo(s) e 735 milisegundo(s).
+[02/08/2016 16:02:23] Resultado do Login na WEB Maritima    (10.1.1.159): Sucesso Ao logar.
+[02/08/2016 16:02:24] Sistema procurará os arquivos na(s) pasta(s): jtopdown topsaude web 
+[02/08/2016 16:02:24] Quantidade de Arquivos: 2 (arquivos que não estão na raíz).
+[02/08/2016 16:02:24] Arquivo ENCONTRADO em \\10.1.1.159\web\atd\asp\ATD1021A.ASP
+[02/08/2016 16:02:24] Arquivo ENCONTRADO em \\10.1.1.159\web\atd\asp\ATD1021B.ASP
+[02/08/2016 16:02:24] Busca Aprofundada necessária não realizada
+[02/08/2016 16:02:24] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 271 milisegundo(s).
+[02/08/2016 16:02:31] K:\Pacotes\52501-52550\52503-DIEGO\web\atd\asp\ATD1021A.ASP copiado para \\10.1.1.159\web\atd\asp\ATD1021A.ASP
+[02/08/2016 16:02:31] K:\Pacotes\52501-52550\52503-DIEGO\web\atd\asp\ATD1021B.ASP copiado para \\10.1.1.159\web\atd\asp\ATD1021B.ASP
+[02/08/2016 16:02:40] Resultado do Login na WEB Maritima    (10.1.1.159): Sucesso Ao logar.
+[02/08/2016 16:02:40] Sistema procurará os arquivos na(s) pasta(s): jtopdown topsaude web 
+[02/08/2016 16:02:40] Quantidade de Arquivos: 2 (arquivos que não estão na raíz).
+[02/08/2016 16:02:40] Arquivo ENCONTRADO em \\10.1.1.159\web\atd\asp\ATD1021A.ASP
+[02/08/2016 16:02:40] Arquivo ENCONTRADO em \\10.1.1.159\web\atd\asp\ATD1021B.ASP
+[02/08/2016 16:02:40] Busca Aprofundada necessária não realizada
+[02/08/2016 16:02:40] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 224 milisegundo(s).
+[02/08/2016 16:02:41] K:\Pacotes\52501-52550\52503-DIEGO\web\atd\asp\ATD1021A.ASP copiado para \\10.1.1.159\web\atd\asp\ATD1021A.ASP
+[02/08/2016 16:02:42] K:\Pacotes\52501-52550\52503-DIEGO\web\atd\asp\ATD1021B.ASP copiado para \\10.1.1.159\web\atd\asp\ATD1021B.ASP
+[02/08/2016 16:19:05] Sistema finalizado.
+
+[02/08/2016 16:26:45] Sistema Iniciado.
+[02/08/2016 16:26:53] Aberto driver com Chrome.
+[02/08/2016 16:27:07] Controle instanciado: 52503
+[02/08/2016 16:35:41] Sistema finalizado.
+

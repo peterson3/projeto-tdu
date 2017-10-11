@@ -1,0 +1,22 @@
+[05/09/2016 11:30:24] Sistema Iniciado.
+[05/09/2016 11:30:50] Aberto driver com Chrome.
+[05/09/2016 11:30:56] Sistema finalizado.
+
+[05/09/2016 14:57:04] Sistema Iniciado.
+[05/09/2016 14:57:20] Aberto driver com Chrome.
+[05/09/2016 15:06:26] Controle instanciado: 52848
+[05/09/2016 15:06:41] Arquivo do pacote do CA 52848 extraído.
+[05/09/2016 15:06:52] Log de versões do CA 52848 aberto.
+[05/09/2016 15:07:00] Banco Selecionado Para aplicar: GIST
+[05/09/2016 15:07:05] Atribuído objeto do tipo Package - TS.RB_PREVIA_REEMBOLSO_ddl.sql em ts/GIST
+[05/09/2016 15:07:05] Atribuído objeto do tipo Function - TS.TS_LIMPA_CARACTERES_RESERVADOS_ddl.sql em ts/GIST
+[05/09/2016 15:07:07] Sistema alterando o aplica para ordem certa de aplicação
+[05/09/2016 15:07:08] Selecionado P/ Não Criptografar em: GIST 
+[05/09/2016 15:07:08] Selecionado P/ Criptografar em: 
+[05/09/2016 15:07:08] Arquivo "APLICA.SQL" criado com sucesso.
+[05/09/2016 15:07:16] Executado o aplica no sqlplus.
+[05/09/2016 15:14:42] Erro de de execução no sqlplus.
+[05/09/2016 15:14:43] Log de aplicão no banco do CA 52848 aberto.
+[05/09/2016 15:15:09] Executado o aplica no sqlplus.
+[05/09/2016 17:31:57] Sistema finalizado.
+

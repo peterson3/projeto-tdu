@@ -1,0 +1,56 @@
+[04/09/2017 15:58:26] Sistema Iniciado.
+[04/09/2017 15:59:01] Aberto driver com Chrome.
+[04/09/2017 15:59:20] Controle instanciado: 56980
+[04/09/2017 15:59:35] Arquivo do pacote do CA 56980 extraído.
+[04/09/2017 15:59:44] Erro de de execução no sqlplus.
+[04/09/2017 15:59:46] Erro de de execução no sqlplus.
+[04/09/2017 15:59:56] Banco Selecionado Para aplicar: HOMO_MED
+[04/09/2017 15:59:58] Atribuído objeto do tipo Package - TS.FAT_DEMONSTRATIVO_ANALITICO_DDL.sql em ts_teste/HOMO_MED
+[04/09/2017 15:59:59] Sistema alterando o aplica para ordem certa de aplicação
+[04/09/2017 16:00:01] Selecionado P/ Não Criptografar em: HOMO_MED 
+[04/09/2017 16:00:01] Selecionado P/ Criptografar em: 
+[04/09/2017 16:00:01] Arquivo "APLICA.SQL" criado com sucesso.
+[04/09/2017 16:00:07] Executado o aplica no sqlplus.
+[04/09/2017 16:02:07] Executado o aplica no sqlplus.
+[04/09/2017 16:14:51] Banco Selecionado Para aplicar: INST_ODO
+[04/09/2017 16:14:51] Banco Selecionado Para aplicar: INST_MED
+[04/09/2017 16:14:51] Banco Selecionado Para aplicar: DEMO_MED
+[04/09/2017 16:14:51] Banco Selecionado Para aplicar: DEMO_ODO
+[04/09/2017 16:14:51] Banco Selecionado Para aplicar: HOMO_MED
+[04/09/2017 16:14:51] Banco Selecionado Para aplicar: HOMO_ODO
+[04/09/2017 16:14:51] Banco Selecionado Para aplicar: SEPACO-TESTE
+[04/09/2017 16:14:51] Banco Selecionado Para aplicar: SEP_VAZIO
+[04/09/2017 16:15:00] Atribuído objeto do tipo Package - TS.FAT_DEMONSTRATIVO_ANALITICO_DDL.sql em ts/INST_ODO
+[04/09/2017 16:15:00] Atribuído objeto do tipo Package - TS.FAT_DEMONSTRATIVO_ANALITICO_DDL.sql em ts/INST_MED
+[04/09/2017 16:15:00] Atribuído objeto do tipo Package - TS.FAT_DEMONSTRATIVO_ANALITICO_DDL.sql em ts/DEMO_MED
+[04/09/2017 16:15:00] Atribuído objeto do tipo Package - TS.FAT_DEMONSTRATIVO_ANALITICO_DDL.sql em ts/DEMO_ODO
+[04/09/2017 16:15:00] Atribuído objeto do tipo Package - TS.FAT_DEMONSTRATIVO_ANALITICO_DDL.sql em ts_teste/HOMO_MED
+[04/09/2017 16:15:00] Atribuído objeto do tipo Package - TS.FAT_DEMONSTRATIVO_ANALITICO_DDL.sql em ts_teste/HOMO_ODO
+[04/09/2017 16:15:00] Atribuído objeto do tipo Package - TS.FAT_DEMONSTRATIVO_ANALITICO_DDL.sql em ts/SEPACO-TESTE
+[04/09/2017 16:15:00] Atribuído objeto do tipo Package - TS.FAT_DEMONSTRATIVO_ANALITICO_DDL.sql em ts_teste/SEP_VAZIO
+[04/09/2017 16:15:02] Sistema alterando o aplica para ordem certa de aplicação
+[04/09/2017 16:15:08] Selecionado P/ Não Criptografar em: INST_ODO INST_MED DEMO_MED DEMO_ODO HOMO_MED HOMO_ODO SEP_VAZIO 
+[04/09/2017 16:15:08] Selecionado P/ Criptografar em: SEPACO-TESTE 
+[04/09/2017 16:15:08] Arquivo "APLICA.SQL" criado com sucesso.
+[04/09/2017 16:15:15] Executado o aplica no sqlplus.
+[04/09/2017 16:36:11] Banco Selecionado Para aplicar: METLIFE
+[04/09/2017 16:36:11] Banco Selecionado Para aplicar: METLIFE_VAZIO
+[04/09/2017 16:36:11] Banco Selecionado Para aplicar: ODO_VAZIO
+[04/09/2017 16:36:11] Banco Selecionado Para aplicar: nuvem_01
+[04/09/2017 16:36:16] Atribuído objeto do tipo Package - TS.FAT_DEMONSTRATIVO_ANALITICO_DDL.sql em ts/METLIFE
+[04/09/2017 16:36:16] Atribuído objeto do tipo Package - TS.FAT_DEMONSTRATIVO_ANALITICO_DDL.sql em ml_teste/METLIFE_VAZIO
+[04/09/2017 16:36:16] Atribuído objeto do tipo Package - TS.FAT_DEMONSTRATIVO_ANALITICO_DDL.sql em odo_teste/ODO_VAZIO
+[04/09/2017 16:36:16] Atribuído objeto do tipo Package - TS.FAT_DEMONSTRATIVO_ANALITICO_DDL.sql em ts/nuvem_01
+[04/09/2017 16:36:18] Sistema alterando o aplica para ordem certa de aplicação
+[04/09/2017 16:36:26] Selecionado P/ Não Criptografar em: METLIFE_VAZIO ODO_VAZIO nuvem_01 
+[04/09/2017 16:36:26] Selecionado P/ Criptografar em: METLIFE 
+[04/09/2017 16:36:26] Arquivo "APLICA.SQL" criado com sucesso.
+[04/09/2017 16:36:33] Executado o aplica no sqlplus.
+[04/09/2017 16:47:34] Sistema finalizado.
+
+[04/09/2017 16:48:11] Sistema Iniciado.
+[04/09/2017 16:48:16] Sistema finalizado.
+
+[04/09/2017 17:42:25] Sistema Iniciado.
+[04/09/2017 17:58:33] Sistema finalizado.
+

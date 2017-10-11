@@ -1,0 +1,106 @@
+[29/08/2016 09:06:10] Sistema Iniciado.
+[29/08/2016 09:08:00] Aberto driver com Chrome.
+[29/08/2016 09:23:22] Controle instanciado: 52734
+[29/08/2016 09:28:47] Arquivo do pacote do CA 52734 extraído.
+[29/08/2016 09:33:28] Banco Selecionado Para aplicar: METLIFE
+[29/08/2016 09:33:34] Atribuído objeto do tipo Procedure - TS_METLIFE.ITF_MONDIAL_ddl.sql em ts_metlife/METLIFE
+[29/08/2016 09:33:36] Sistema alterando o aplica para ordem certa de aplicação
+[29/08/2016 09:33:36] Selecionado P/ Não Criptografar em: METLIFE 
+[29/08/2016 09:33:36] Selecionado P/ Criptografar em: 
+[29/08/2016 09:33:37] Arquivo "APLICA.SQL" criado com sucesso.
+[29/08/2016 09:33:43] Executado o aplica no sqlplus.
+[29/08/2016 09:34:18] Log de aplicão no banco do CA 52734 aberto.
+[29/08/2016 09:37:42] Banco Selecionado Para aplicar: HOMO_ODO
+[29/08/2016 09:40:48] Sistema alterando o aplica para ordem certa de aplicação
+[29/08/2016 09:40:53] Sistema alterando o aplica para ordem certa de aplicação
+[29/08/2016 09:41:05] Executado o aplica no sqlplus.
+[29/08/2016 09:48:28] Executado o aplica no sqlplus.
+[29/08/2016 09:48:39] Executado o aplica no sqlplus.
+[29/08/2016 09:48:54] Log de aplicão no banco do CA 52734 aberto.
+[29/08/2016 09:49:53] Banco Selecionado Para aplicar: METLIFE
+[29/08/2016 09:50:05] Atribuído objeto do tipo Procedure - TS_METLIFE.ITF_MONDIAL_ddl.sql em ts/METLIFE
+[29/08/2016 09:50:06] Sistema alterando o aplica para ordem certa de aplicação
+[29/08/2016 09:50:08] Selecionado P/ Não Criptografar em: METLIFE 
+[29/08/2016 09:50:08] Selecionado P/ Criptografar em: 
+[29/08/2016 09:50:08] Arquivo "APLICA.SQL" criado com sucesso.
+[29/08/2016 09:54:23] Banco Selecionado Para aplicar: METLIFE
+[29/08/2016 09:54:25] Atribuído objeto do tipo Procedure - TS_METLIFE.ITF_MONDIAL_ddl.sql em ts/METLIFE
+[29/08/2016 09:54:27] Sistema alterando o aplica para ordem certa de aplicação
+[29/08/2016 09:54:28] Selecionado P/ Não Criptografar em: METLIFE 
+[29/08/2016 09:54:28] Selecionado P/ Criptografar em: 
+[29/08/2016 09:54:28] Arquivo "APLICA.SQL" criado com sucesso.
+[29/08/2016 09:54:42] Executado o aplica no sqlplus.
+[29/08/2016 09:58:16] Log de aplicão no banco do CA 52734 aberto.
+[29/08/2016 11:17:30] Banco Selecionado Para aplicar: DEMO_ODO
+[29/08/2016 11:17:30] Banco Selecionado Para aplicar: HOMO_ODO
+[29/08/2016 11:17:30] Banco Selecionado Para aplicar: METLIFE
+[29/08/2016 11:17:30] Banco Selecionado Para aplicar: METLIFE_VAZIO
+[29/08/2016 11:17:41] Atribuído objeto do tipo Procedure - TS_METLIFE.ITF_MONDIAL_ddl.sql em ts_metlife/DEMO_ODO
+[29/08/2016 11:17:41] Atribuído objeto do tipo Procedure - TS_METLIFE.ITF_MONDIAL_ddl.sql em ts_metlife/HOMO_ODO
+[29/08/2016 11:17:41] Atribuído objeto do tipo Procedure - TS_METLIFE.ITF_MONDIAL_ddl.sql em ts_metlife/METLIFE
+[29/08/2016 11:17:41] Atribuído objeto do tipo Procedure - TS_METLIFE.ITF_MONDIAL_ddl.sql em ts_teste/METLIFE_VAZIO
+[29/08/2016 11:17:42] Sistema alterando o aplica para ordem certa de aplicação
+[29/08/2016 11:17:45] Selecionado P/ Não Criptografar em: DEMO_ODO HOMO_ODO METLIFE_VAZIO 
+[29/08/2016 11:17:45] Selecionado P/ Criptografar em: METLIFE 
+[29/08/2016 11:17:45] Arquivo "APLICA.SQL" criado com sucesso.
+[29/08/2016 11:17:50] Executado o aplica no sqlplus.
+[29/08/2016 11:41:06] Sistema finalizado.
+
+[29/08/2016 11:41:11] Sistema Iniciado.
+[29/08/2016 11:41:33] Aberto driver com Chrome.
+[29/08/2016 11:42:43] Controle instanciado: 52688
+[29/08/2016 11:48:13] Banco Selecionado Para aplicar: GIST
+[29/08/2016 11:48:35] Arquivo do pacote do CA 52688 extraído.
+[29/08/2016 11:48:39] Banco Selecionado Para aplicar: GIST
+[29/08/2016 11:48:41] Atribuído objeto do tipo Script - SAC_60068_query_produtividade_maritima.sql em ts/GIST
+[29/08/2016 11:48:43] Sistema alterando o aplica para ordem certa de aplicação
+[29/08/2016 11:48:44] Selecionado P/ Não Criptografar em: GIST 
+[29/08/2016 11:48:44] Selecionado P/ Criptografar em: 
+[29/08/2016 11:48:44] Arquivo "APLICA.SQL" criado com sucesso.
+[29/08/2016 11:48:56] Executado o aplica no sqlplus.
+[29/08/2016 11:49:30] Executado o aplica no sqlplus.
+[29/08/2016 11:49:35] Log de aplicão no banco do CA 52688 aberto.
+[29/08/2016 14:51:04] Sistema finalizado.
+
+[29/08/2016 14:51:14] Sistema Iniciado.
+[29/08/2016 14:53:37] Sistema finalizado.
+
+[29/08/2016 14:53:38] Sistema Iniciado.
+[29/08/2016 14:53:56] Aberto driver com Chrome.
+[29/08/2016 14:54:43] Controle instanciado: 52560
+[29/08/2016 15:00:16] Resultado do Login na WEB HOMOLOG V11    (10.10.100.147): Sucesso Ao logar.
+[29/08/2016 15:00:16] Sistema procurará os arquivos na(s) pasta(s): jtopdown TopSaude 
+[29/08/2016 15:00:16] Quantidade de Arquivos: 12 (arquivos que não estão na raíz).
+[29/08/2016 15:00:16] Arquivo ENCONTRADO em \\10.10.100.147\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\rec\TsRec1009Boleto.jasper
+[29/08/2016 15:00:16] Arquivo ENCONTRADO em \\10.10.100.147\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\rec\TsRec1009JRCobranca.jasper
+[29/08/2016 15:00:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\rec\asp\rec0022a.asp
+[29/08/2016 15:00:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\rec\asp\rec0022b.asp
+[29/08/2016 15:00:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\rec\asp\rec0023a.asp
+[29/08/2016 15:00:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\rec\asp\rec0023b.asp
+[29/08/2016 15:00:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\rec\asp\rec0023c.asp
+[29/08/2016 15:00:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\rec\asp\rec0023d.asp
+[29/08/2016 15:00:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\rec\asp\rec0023e.asp
+[29/08/2016 15:00:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\rec\asp\rec0023f.asp
+[29/08/2016 15:00:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\rec\asp\rec1009a.asp
+[29/08/2016 15:00:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\rec\asp\rec1009b.asp
+[29/08/2016 15:00:16] Busca Aprofundada necessária não realizada
+[29/08/2016 15:00:16] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 103 milisegundo(s).
+[29/08/2016 15:00:21] K:\Pacotes\52551-52600\52560-EDSON\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\rec\TsRec1009Boleto.jasper copiado para \\10.10.100.147\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\rec\TsRec1009Boleto.jasper
+[29/08/2016 15:00:21] K:\Pacotes\52551-52600\52560-EDSON\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\rec\TsRec1009JRCobranca.jasper copiado para \\10.10.100.147\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\rec\TsRec1009JRCobranca.jasper
+[29/08/2016 15:00:21] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0022a.asp copiado para \\10.10.100.147\TopSaude\web\rec\asp\rec0022a.asp
+[29/08/2016 15:00:21] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0022b.asp copiado para \\10.10.100.147\TopSaude\web\rec\asp\rec0022b.asp
+[29/08/2016 15:00:22] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023a.asp copiado para \\10.10.100.147\TopSaude\web\rec\asp\rec0023a.asp
+[29/08/2016 15:00:22] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023b.asp copiado para \\10.10.100.147\TopSaude\web\rec\asp\rec0023b.asp
+[29/08/2016 15:00:22] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023c.asp copiado para \\10.10.100.147\TopSaude\web\rec\asp\rec0023c.asp
+[29/08/2016 15:00:22] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023d.asp copiado para \\10.10.100.147\TopSaude\web\rec\asp\rec0023d.asp
+[29/08/2016 15:00:22] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023e.asp copiado para \\10.10.100.147\TopSaude\web\rec\asp\rec0023e.asp
+[29/08/2016 15:00:22] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023f.asp copiado para \\10.10.100.147\TopSaude\web\rec\asp\rec0023f.asp
+[29/08/2016 15:00:22] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec1009a.asp copiado para \\10.10.100.147\TopSaude\web\rec\asp\rec1009a.asp
+[29/08/2016 15:00:22] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec1009b.asp copiado para \\10.10.100.147\TopSaude\web\rec\asp\rec1009b.asp
+[29/08/2016 15:07:49] Sistema finalizado.
+
+[29/08/2016 15:30:11] Sistema Iniciado.
+[29/08/2016 15:30:22] Aberto driver com Chrome.
+[29/08/2016 15:30:37] Controle instanciado: 52560
+[29/08/2016 16:21:50] Sistema finalizado.
+

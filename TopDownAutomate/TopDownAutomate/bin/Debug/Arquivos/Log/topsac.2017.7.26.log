@@ -1,0 +1,29 @@
+[26/07/2017 18:55:56] Sistema Iniciado.
+[26/07/2017 19:15:38] Aberto driver com Chrome.
+[26/07/2017 19:21:10] Controle instanciado: 56481
+[26/07/2017 19:21:40] Arquivo do pacote do CA 56481 extraído.
+[26/07/2017 19:21:46] Banco Selecionado Para aplicar: QUALI_BR
+[26/07/2017 19:21:50] Atribuído objeto do tipo Script - SAC_66471_SCRIPT_AJUSTA_NEGOCIACAO.SQL em ts_teste/QUALI_BR
+[26/07/2017 19:21:50] Atribuído objeto do tipo Procedure - TS.PRS_NEGOCIACAO_NOVA_VIGENCIA_ddl.sql em ts_teste/QUALI_BR
+[26/07/2017 19:21:51] Sistema alterando o aplica para ordem certa de aplicação
+[26/07/2017 19:21:52] Selecionado P/ Não Criptografar em: QUALI_BR 
+[26/07/2017 19:21:52] Selecionado P/ Criptografar em: 
+[26/07/2017 19:21:52] Arquivo "APLICA.SQL" criado com sucesso.
+[26/07/2017 19:22:00] Executado o aplica no sqlplus.
+[26/07/2017 19:23:55] Banco Selecionado Para aplicar: TSBRTD
+[26/07/2017 19:23:58] Atribuído objeto do tipo Script - SAC_66471_SCRIPT_AJUSTA_NEGOCIACAO.SQL em ts/TSBRTD
+[26/07/2017 19:23:58] Atribuído objeto do tipo Procedure - TS.PRS_NEGOCIACAO_NOVA_VIGENCIA_ddl.sql em ts/TSBRTD
+[26/07/2017 19:23:59] Sistema alterando o aplica para ordem certa de aplicação
+[26/07/2017 19:24:00] Selecionado P/ Não Criptografar em: TSBRTD 
+[26/07/2017 19:24:00] Selecionado P/ Criptografar em: 
+[26/07/2017 19:24:00] Arquivo "APLICA.SQL" criado com sucesso.
+[26/07/2017 19:24:06] Executado o aplica no sqlplus.
+[26/07/2017 19:33:54] Controle instanciado: 56484
+[26/07/2017 19:38:11] Arquivo do pacote do CA 56484 extraído.
+[26/07/2017 19:38:23] Log de versões do CA 56484 aberto.
+[26/07/2017 19:39:00] Resultado do Login na WEB Maritima    (10.1.1.159): Sucesso Ao logar.
+[26/07/2017 19:39:01] Quantidade de Arquivos: 2 (arquivos que não estão na raíz).
+[26/07/2017 19:39:03] Realizando busca aprofundada para objetos não encontrados...
+[26/07/2017 19:39:03] Tempo que levou para achar todos os arquivos: 0 minuto(s), 1 segundo(s) e 767 milisegundo(s).
+[26/07/2017 19:42:05] Sistema finalizado.
+

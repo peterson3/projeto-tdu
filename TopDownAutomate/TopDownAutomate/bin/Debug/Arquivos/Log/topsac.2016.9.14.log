@@ -1,0 +1,26 @@
+[14/09/2016 11:12:59] Sistema Iniciado.
+[14/09/2016 11:16:12] Aberto driver com Chrome.
+[14/09/2016 11:25:30] Controle instanciado: 52931
+[14/09/2016 11:55:02] Arquivo do pacote do CA 52931 extraído.
+[14/09/2016 11:55:46] Log de versões do CA 52931 aberto.
+[14/09/2016 11:55:53] Banco Selecionado Para aplicar: QUALI_BR
+[14/09/2016 11:55:53] Banco Selecionado Para aplicar: TSBRTD
+[14/09/2016 11:55:56] Atribuído objeto do tipo Package - TS.ASS_FCH_BENEFICIARIO_INI_ddl.sql em ts_teste/QUALI_BR
+[14/09/2016 11:55:56] Atribuído objeto do tipo Package - TS.ASS_FCH_BENEFICIARIO_INI_ddl.sql em ts/TSBRTD
+[14/09/2016 11:55:58] Sistema alterando o aplica para ordem certa de aplicação
+[14/09/2016 11:56:00] Selecionado P/ Não Criptografar em: QUALI_BR TSBRTD 
+[14/09/2016 11:56:00] Selecionado P/ Criptografar em: 
+[14/09/2016 11:56:00] Arquivo "APLICA.SQL" criado com sucesso.
+[14/09/2016 11:56:06] Executado o aplica no sqlplus.
+[14/09/2016 14:00:23] Log de aplicão no banco do CA 52931 aberto.
+[14/09/2016 14:46:57] Banco Selecionado Para aplicar: QUALI_BR
+[14/09/2016 14:46:57] Banco Selecionado Para aplicar: TSBRTD
+[14/09/2016 14:47:00] Atribuído objeto do tipo Package - TS.ASS_FCH_BENEFICIARIO_INI_ddl.sql em ts_teste/QUALI_BR
+[14/09/2016 14:47:00] Atribuído objeto do tipo Package - TS.ASS_FCH_BENEFICIARIO_INI_ddl.sql em ts/TSBRTD
+[14/09/2016 14:47:01] Sistema alterando o aplica para ordem certa de aplicação
+[14/09/2016 14:47:03] Selecionado P/ Não Criptografar em: QUALI_BR 
+[14/09/2016 14:47:03] Selecionado P/ Criptografar em: TSBRTD 
+[14/09/2016 14:47:03] Arquivo "APLICA.SQL" criado com sucesso.
+[14/09/2016 14:47:10] Executado o aplica no sqlplus.
+[14/09/2016 17:29:01] Sistema finalizado.
+

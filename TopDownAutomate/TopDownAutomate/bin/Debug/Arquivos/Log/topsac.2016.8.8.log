@@ -1,0 +1,45 @@
+[08/08/2016 10:43:16] Sistema Iniciado.
+[08/08/2016 10:45:39] Aberto driver com Chrome.
+[08/08/2016 10:46:07] Controle instanciado: 52509
+[08/08/2016 10:46:40] Arquivo do pacote do CA 52509 extraído.
+[08/08/2016 10:46:54] Arquivo do pacote do CA 52509 extraído.
+[08/08/2016 10:52:48] Arquivo do pacote do CA 52509 extraído.
+[08/08/2016 10:53:06] Log de versões do CA 52509 aberto.
+[08/08/2016 11:11:06] Banco Selecionado Para aplicar: ipalerj_td
+[08/08/2016 11:11:10] Atribuído objeto do tipo Script - CA52509_TS_SEC.FUNCAO_UPDATE.sql em ts/ipalerj_td
+[08/08/2016 11:11:10] Atribuído objeto do tipo Script - CA52509_TS_SEC.CONTROLE_SISTEMA_INSERT.sql em ts/ipalerj_td
+[08/08/2016 11:11:11] Sistema alterando o aplica para ordem certa de aplicação
+[08/08/2016 11:11:27] Selecionado P/ Não Criptografar em: ipalerj_td 
+[08/08/2016 11:11:27] Selecionado P/ Criptografar em: 
+[08/08/2016 11:11:29] Arquivo "APLICA.SQL" criado com sucesso.
+[08/08/2016 11:11:37] Executado o aplica no sqlplus.
+[08/08/2016 11:13:15] Log de aplicão no banco do CA 52509 aberto.
+[08/08/2016 11:23:01] Resultado do Login na WEB IPALERJ    (10.10.100.138): Sucesso Ao logar.
+[08/08/2016 11:23:01] Sistema procurará os arquivos na(s) pasta(s): Admin2 app jtopdown PROJETOS 
+[08/08/2016 11:23:02] Quantidade de Arquivos: 3 (arquivos que não estão na raíz).
+[08/08/2016 11:24:05] Realizando busca aprofundada para objetos não encontrados...
+[08/08/2016 11:24:13] Tempo que levou para achar todos os arquivos: 1 minuto(s), 11 segundo(s) e 679 milisegundo(s).
+[08/08/2016 11:27:00] Alterando atributo de arquivo de somente leitura.
+[08/08/2016 11:27:00] K:\Pacotes\52501-52550\52509-AMANDA\web\gen\asp\gen0200a.asp copiado para \\10.10.100.138\PROJETOS\topsaude\WEB\gen\asp\gen0200a.asp
+[08/08/2016 11:27:02] Alterando atributo de arquivo de somente leitura.
+[08/08/2016 11:27:02] K:\Pacotes\52501-52550\52509-AMANDA\web\gen\asp\gen0200b.asp copiado para \\10.10.100.138\PROJETOS\topsaude\WEB\gen\asp\gen0200b.asp
+[08/08/2016 15:32:58] Sistema finalizado.
+
+[08/08/2016 15:33:22] Sistema Iniciado.
+[08/08/2016 15:57:41] Sistema finalizado.
+
+[08/08/2016 15:57:46] Sistema Iniciado.
+[08/08/2016 15:58:02] Salvo novas configurações de usuário
+[08/08/2016 15:58:35] Salvo novas configurações de usuário
+[08/08/2016 16:08:28] Salvo novas configurações de usuário
+[08/08/2016 16:08:35] Sistema finalizado.
+
+[08/08/2016 16:26:53] Sistema Iniciado.
+[08/08/2016 16:27:39] Sistema finalizado.
+
+[08/08/2016 16:46:28] Sistema Iniciado.
+[08/08/2016 16:46:46] Sistema finalizado.
+
+[08/08/2016 16:46:59] Sistema Iniciado.
+[08/08/2016 17:27:13] Sistema finalizado.
+

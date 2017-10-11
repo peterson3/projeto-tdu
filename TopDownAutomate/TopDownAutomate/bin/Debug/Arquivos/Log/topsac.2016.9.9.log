@@ -1,0 +1,54 @@
+[09/09/2016 14:09:57] Sistema Iniciado.
+[09/09/2016 14:10:22] Aberto driver com Chrome.
+[09/09/2016 14:10:54] Controle instanciado: 52919
+[09/09/2016 14:11:47] Arquivo do pacote do CA 52919 extraído.
+[09/09/2016 14:17:19] Log de versões do CA 52919 aberto.
+[09/09/2016 14:17:23] Log de versões do CA 52919 aberto.
+[09/09/2016 14:17:43] Resultado do Login na WEB HOMOLOG V11    (10.10.100.147): Sucesso Ao logar.
+[09/09/2016 14:17:43] Sistema procurará os arquivos na(s) pasta(s): jtopdown TopSaude 
+[09/09/2016 14:17:43] Quantidade de Arquivos: 3 (arquivos que não estão na raíz).
+[09/09/2016 14:17:43] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\atb\asp\atb0034a.asp
+[09/09/2016 14:17:43] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\atb\asp\atb0053a.asp
+[09/09/2016 14:17:44] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\cal\asp\cal0087ajax.asp
+[09/09/2016 14:17:44] Busca Aprofundada necessária não realizada
+[09/09/2016 14:17:44] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 89 milisegundo(s).
+[09/09/2016 14:17:47] K:\Pacotes\52901-52950\52919-PEDRO\web\atb\asp\atb0034a.asp copiado para \\10.10.100.147\TopSaude\web\atb\asp\atb0034a.asp
+[09/09/2016 14:17:47] Alterando atributo de arquivo de somente leitura.
+[09/09/2016 14:17:47] K:\Pacotes\52901-52950\52919-PEDRO\web\atb\asp\atb0053a.asp copiado para \\10.10.100.147\TopSaude\web\atb\asp\atb0053a.asp
+[09/09/2016 14:17:48] K:\Pacotes\52901-52950\52919-PEDRO\web\cal\asp\cal0087ajax.asp copiado para \\10.10.100.147\TopSaude\web\cal\asp\cal0087ajax.asp
+[09/09/2016 14:38:58] Resultado do Login na WEB Instalacao V11    (10.10.100.134): Sucesso Ao logar.
+[09/09/2016 14:38:58] Sistema procurará os arquivos na(s) pasta(s): Jtopdown TOPSAUDE 
+[09/09/2016 14:38:58] Quantidade de Arquivos: 3 (arquivos que não estão na raíz).
+[09/09/2016 14:38:58] Arquivo ENCONTRADO em \\10.10.100.134\TOPSAUDE\web\atb\asp\atb0034a.asp
+[09/09/2016 14:38:58] Arquivo ENCONTRADO em \\10.10.100.134\TOPSAUDE\web\atb\asp\atb0053a.asp
+[09/09/2016 14:38:58] Arquivo ENCONTRADO em \\10.10.100.134\TOPSAUDE\web\cal\asp\cal0087ajax.asp
+[09/09/2016 14:38:58] Busca Aprofundada necessária não realizada
+[09/09/2016 14:38:58] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 22 milisegundo(s).
+[09/09/2016 14:38:59] K:\Pacotes\52901-52950\52919-PEDRO\web\atb\asp\atb0034a.asp copiado para \\10.10.100.134\TOPSAUDE\web\atb\asp\atb0034a.asp
+[09/09/2016 14:38:59] K:\Pacotes\52901-52950\52919-PEDRO\web\atb\asp\atb0053a.asp copiado para \\10.10.100.134\TOPSAUDE\web\atb\asp\atb0053a.asp
+[09/09/2016 14:38:59] K:\Pacotes\52901-52950\52919-PEDRO\web\cal\asp\cal0087ajax.asp copiado para \\10.10.100.134\TOPSAUDE\web\cal\asp\cal0087ajax.asp
+[09/09/2016 14:39:16] Resultado do Login na WEB Demo_Med    (223.223.2.206): Sucesso Ao logar.
+[09/09/2016 14:39:16] Sistema procurará os arquivos na(s) pasta(s): jtopdown TopSaude 
+[09/09/2016 14:39:16] Quantidade de Arquivos: 3 (arquivos que não estão na raíz).
+[09/09/2016 14:39:16] Arquivo ENCONTRADO em \\223.223.2.206\TopSaude\web\atb\asp\atb0034a.asp
+[09/09/2016 14:39:16] Arquivo ENCONTRADO em \\223.223.2.206\TopSaude\web\atb\asp\atb0053a.asp
+[09/09/2016 14:39:16] Arquivo ENCONTRADO em \\223.223.2.206\TopSaude\web\cal\asp\cal0087ajax.asp
+[09/09/2016 14:39:16] Busca Aprofundada necessária não realizada
+[09/09/2016 14:39:16] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 36 milisegundo(s).
+[09/09/2016 14:39:17] K:\Pacotes\52901-52950\52919-PEDRO\web\atb\asp\atb0034a.asp copiado para \\223.223.2.206\TopSaude\web\atb\asp\atb0034a.asp
+[09/09/2016 14:39:17] Alterando atributo de arquivo de somente leitura.
+[09/09/2016 14:39:17] K:\Pacotes\52901-52950\52919-PEDRO\web\atb\asp\atb0053a.asp copiado para \\223.223.2.206\TopSaude\web\atb\asp\atb0053a.asp
+[09/09/2016 14:39:17] K:\Pacotes\52901-52950\52919-PEDRO\web\cal\asp\cal0087ajax.asp copiado para \\223.223.2.206\TopSaude\web\cal\asp\cal0087ajax.asp
+[09/09/2016 14:39:32] Resultado do Login na WEB DEMO_ODO    (223.223.2.194): Sucesso Ao logar.
+[09/09/2016 14:39:32] Sistema procurará os arquivos na(s) pasta(s): jtopdown TopSaude 
+[09/09/2016 14:39:32] Quantidade de Arquivos: 3 (arquivos que não estão na raíz).
+[09/09/2016 14:39:32] Arquivo ENCONTRADO em \\223.223.2.194\TopSaude\web\atb\asp\atb0034a.asp
+[09/09/2016 14:39:32] Arquivo ENCONTRADO em \\223.223.2.194\TopSaude\web\atb\asp\atb0053a.asp
+[09/09/2016 14:39:32] Arquivo ENCONTRADO em \\223.223.2.194\TopSaude\web\cal\asp\cal0087ajax.asp
+[09/09/2016 14:39:32] Busca Aprofundada necessária não realizada
+[09/09/2016 14:39:32] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 37 milisegundo(s).
+[09/09/2016 14:39:42] K:\Pacotes\52901-52950\52919-PEDRO\web\atb\asp\atb0034a.asp copiado para \\223.223.2.194\TopSaude\web\atb\asp\atb0034a.asp
+[09/09/2016 14:39:42] K:\Pacotes\52901-52950\52919-PEDRO\web\atb\asp\atb0053a.asp copiado para \\223.223.2.194\TopSaude\web\atb\asp\atb0053a.asp
+[09/09/2016 14:39:42] K:\Pacotes\52901-52950\52919-PEDRO\web\cal\asp\cal0087ajax.asp copiado para \\223.223.2.194\TopSaude\web\cal\asp\cal0087ajax.asp
+[09/09/2016 16:24:54] Sistema finalizado.
+

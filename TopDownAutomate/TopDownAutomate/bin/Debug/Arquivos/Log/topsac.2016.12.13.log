@@ -1,0 +1,120 @@
+[13/12/2016 12:40:53] Sistema Iniciado.
+[13/12/2016 12:42:24] Aberto driver com Chrome.
+[13/12/2016 12:43:34] Controle instanciado: 53966
+[13/12/2016 12:44:28] Arquivo do pacote do CA 53966 extraído.
+[13/12/2016 12:44:37] Log de versões do CA 53966 aberto.
+[13/12/2016 14:18:02] Banco Selecionado Para aplicar: HOMO_MED
+[13/12/2016 14:18:02] Banco Selecionado Para aplicar: SEG_DES8
+[13/12/2016 14:18:02] Banco Selecionado Para aplicar: SEG_VAZIO
+[13/12/2016 14:18:10] Sistema alterando o aplica para ordem certa de aplicação
+[13/12/2016 14:18:17] Banco Selecionado Para aplicar: SEG_DES8
+[13/12/2016 14:18:27] Atribuído objeto do tipo Script - ts_sec.funcao_INSERT_DDL.SQL em ts/SEG_DES8
+[13/12/2016 14:18:27] Atribuído objeto do tipo Script - TS.TS_JOB_INSERT_DDL.SQL em ts/SEG_DES8
+[13/12/2016 14:18:27] Atribuído objeto do tipo Script - 9_update_tipo_reajuste_rpc.sql em ts/SEG_DES8
+[13/12/2016 14:18:27] Atribuído objeto do tipo Script - 8_script_limpa_dup_ans_rpc_automatico.sql em ts/SEG_DES8
+[13/12/2016 14:18:27] Atribuído objeto do tipo Script - 7_script_atualiza_contrato_plano_rpc.sql em ts/SEG_DES8
+[13/12/2016 14:18:27] Atribuído objeto do tipo Script - 6_script_ts_job_rpc_canc.sql em ts/SEG_DES8
+[13/12/2016 14:18:27] Atribuído objeto do tipo Script - 5_script_tipo_motivo_justificativa_rpc.sql em ts/SEG_DES8
+[13/12/2016 14:18:27] Atribuído objeto do tipo Script - 4_script_tipo_justificativa_rpc.sql em ts/SEG_DES8
+[13/12/2016 14:18:27] Atribuído objeto do tipo Script - 3_insert_ans_tipo_justificativa_rpc.sql em ts/SEG_DES8
+[13/12/2016 14:18:27] Atribuído objeto do tipo Script - 2_insert_funcoes_rpc.sql em ts/SEG_DES8
+[13/12/2016 14:18:27] Atribuído objeto do tipo Script - 1_insert_tipo_ocorrencia_contrato_rpc.sql em ts/SEG_DES8
+[13/12/2016 14:18:27] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.CON_RETIFICAR_GRUPO_CONTRATO_DDL.SQL em ts/SEG_DES8
+[13/12/2016 14:18:27] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.CON_CALCULA_NOVA_VIGENCIA_DDL.SQL em ts/SEG_DES8
+[13/12/2016 14:18:27] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.ANS_RPC_CANCELAMENTO_ddl.sql em ts/SEG_DES8
+[13/12/2016 14:18:27] Atribuído objeto do tipo Sinonimo - ts_sistema.ans_rcs_consultas_rpc_ddl.sql em ts/SEG_DES8
+[13/12/2016 14:18:27] Atribuído objeto do tipo Sinonimo - ts_sistema.ans_atu_contrato_plano_ret_ddl.sql em ts/SEG_DES8
+[13/12/2016 14:18:27] Atribuído objeto do tipo Sinonimo - ts_sistema.ans_atu_contrato_plano_canc_ddl.sql em ts/SEG_DES8
+[13/12/2016 14:18:27] Atribuído objeto do tipo Package - TS.CON_RETIFICAR_GRUPO_CONTRATO_DDL.SQL em ts/SEG_DES8
+[13/12/2016 14:18:27] Atribuído objeto do tipo Package - ts.ass_cons_reajuste_ddl.sql em ts/SEG_DES8
+[13/12/2016 14:18:27] Atribuído objeto do tipo Package - TS.ANS_RPC_CANCELAMENTO_ddl.sql em ts/SEG_DES8
+[13/12/2016 14:18:27] Atribuído objeto do tipo Package - ts.ans_rcs_consultas_rpc_ddl.sql em ts/SEG_DES8
+[13/12/2016 14:18:27] Atribuído objeto do tipo Procedure - TS.CON_CALCULA_NOVA_VIGENCIA_ddl.sql em ts/SEG_DES8
+[13/12/2016 14:18:27] Atribuído objeto do tipo Procedure - TS.ANS_RPC_GERA_ARQUIVO_ddl.sql em ts/SEG_DES8
+[13/12/2016 14:18:27] Atribuído objeto do tipo Procedure - TS.ANS_RPC_APROVACAO_ddl.sql em ts/SEG_DES8
+[13/12/2016 14:18:27] Atribuído objeto do tipo Procedure - ts.ans_atu_contrato_plano_ret_ddl.sql em ts/SEG_DES8
+[13/12/2016 14:18:27] Atribuído objeto do tipo Procedure - ts.ans_atu_contrato_plano_canc_ddl.sql em ts/SEG_DES8
+[13/12/2016 14:18:27] Atribuído objeto do tipo Index - TS.CONTRATO_PLANO_IDX004_DDL.SQL em ts/SEG_DES8
+[13/12/2016 14:18:27] Atribuído objeto do tipo Index - TS.CONTRATO_PLANO_IDX003_DDL.SQL em ts/SEG_DES8
+[13/12/2016 14:18:27] Atribuído objeto do tipo Index - TS.CONTRATO_COBRANCA_IDX010_DDL.SQL em ts/SEG_DES8
+[13/12/2016 14:18:27] Atribuído objeto do tipo Table - TS.TIPO_MOTIVO_JUSTIFICATIVA_RPC_ddl.sql em ts/SEG_DES8
+[13/12/2016 14:18:27] Atribuído objeto do tipo Table - TS.TIPO_JUSTIFICATIVA_RPC_ddl.sql em ts/SEG_DES8
+[13/12/2016 14:18:27] Atribuído objeto do tipo Table - ts.contrato_cobranca_ddl.sql em ts/SEG_DES8
+[13/12/2016 14:18:27] Atribuído objeto do tipo Table - TS.ANS_TIPO_JUSTIFICATIVA_RPC_ddl.sql em ts/SEG_DES8
+[13/12/2016 14:18:27] Atribuído objeto do tipo Table - TS.ANS_RPC_AUTOMATICO_ddl.sql em ts/SEG_DES8
+[13/12/2016 14:18:29] Sistema alterando o aplica para ordem certa de aplicação
+[13/12/2016 14:18:30] Selecionado P/ Não Criptografar em: SEG_DES8 
+[13/12/2016 14:18:30] Selecionado P/ Criptografar em: 
+[13/12/2016 14:18:30] Arquivo "APLICA.SQL" criado com sucesso.
+[13/12/2016 14:18:40] Executado o aplica no sqlplus.
+[13/12/2016 14:56:49] Resultado do Login na WEB SEGUROS UNIMED    (10.10.100.135): Sucesso Ao logar.
+[13/12/2016 14:56:49] Sistema procurará os arquivos na(s) pasta(s): jtopdown TopSaude 
+[13/12/2016 14:56:49] Quantidade de Arquivos: 22 (arquivos que não estão na raíz).
+[13/12/2016 14:56:49] Pasta ENCONTRADA em \\10.10.100.135\TopSaude\web\ans\asp\
+[13/12/2016 14:56:49] Pasta ENCONTRADA em \\10.10.100.135\TopSaude\web\ans\asp\
+[13/12/2016 14:56:49] Pasta ENCONTRADA em \\10.10.100.135\TopSaude\web\ans\asp\
+[13/12/2016 14:56:49] Arquivo ENCONTRADO em \\10.10.100.135\TopSaude\web\ans\asp\ans0024a.asp
+[13/12/2016 14:56:49] Arquivo ENCONTRADO em \\10.10.100.135\TopSaude\web\ans\asp\ans0024b.asp
+[13/12/2016 14:56:49] Pasta ENCONTRADA em \\10.10.100.135\TopSaude\web\ans\asp\
+[13/12/2016 14:56:49] Pasta ENCONTRADA em \\10.10.100.135\TopSaude\web\ans\asp\
+[13/12/2016 14:56:49] Pasta ENCONTRADA em \\10.10.100.135\TopSaude\web\ans\asp\
+[13/12/2016 14:56:49] Pasta ENCONTRADA em \\10.10.100.135\TopSaude\web\ans\asp\
+[13/12/2016 14:56:49] Pasta ENCONTRADA em \\10.10.100.135\TopSaude\web\ans\asp\
+[13/12/2016 14:56:49] Pasta ENCONTRADA em \\10.10.100.135\TopSaude\web\ans\asp\
+[13/12/2016 14:56:49] Pasta ENCONTRADA em \\10.10.100.135\TopSaude\web\ans\asp\
+[13/12/2016 14:56:49] Pasta ENCONTRADA em \\10.10.100.135\TopSaude\web\ans\asp\
+[13/12/2016 14:56:49] Pasta ENCONTRADA em \\10.10.100.135\TopSaude\web\ans\asp\
+[13/12/2016 14:56:49] Pasta ENCONTRADA em \\10.10.100.135\TopSaude\web\ans\asp\
+[13/12/2016 14:56:49] Arquivo ENCONTRADO em \\10.10.100.135\TopSaude\web\ass\asp\ass0098a.asp
+[13/12/2016 14:56:49] Arquivo ENCONTRADO em \\10.10.100.135\TopSaude\web\ass\asp\ass0098b.asp
+[13/12/2016 14:56:49] Arquivo ENCONTRADO em \\10.10.100.135\TopSaude\web\ass\asp\ass0205a.asp
+[13/12/2016 14:56:49] Arquivo ENCONTRADO em \\10.10.100.135\TopSaude\web\ass\asp\ass0205b.asp
+[13/12/2016 14:56:49] Pasta ENCONTRADA em \\10.10.100.135\TopSaude\web\ass\asp\
+[13/12/2016 14:56:49] Pasta ENCONTRADA em \\10.10.100.135\TopSaude\web\ass\asp\
+[13/12/2016 14:56:49] Pasta ENCONTRADA em \\10.10.100.135\TopSaude\web\ass\asp\
+[13/12/2016 14:56:49] Busca Aprofundada necessária não realizada
+[13/12/2016 14:56:49] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 86 milisegundo(s).
+[13/12/2016 17:37:59] Arquivo do pacote do CA 53966 extraído.
+[13/12/2016 17:38:03] Banco Selecionado Para aplicar: SEG_DES8
+[13/12/2016 17:38:11] Atribuído objeto do tipo Script - ts_sec.funcao_INSERT_DDL.SQL em ts/SEG_DES8
+[13/12/2016 17:38:11] Atribuído objeto do tipo Script - TS.TS_JOB_INSERT_DDL.SQL em ts/SEG_DES8
+[13/12/2016 17:38:11] Atribuído objeto do tipo Script - 9_update_tipo_reajuste_rpc.sql em ts/SEG_DES8
+[13/12/2016 17:38:11] Atribuído objeto do tipo Script - 8_script_limpa_dup_ans_rpc_automatico.sql em ts/SEG_DES8
+[13/12/2016 17:38:11] Atribuído objeto do tipo Script - 7_script_atualiza_contrato_plano_rpc.sql em ts/SEG_DES8
+[13/12/2016 17:38:11] Atribuído objeto do tipo Script - 6_script_ts_job_rpc_canc.sql em ts/SEG_DES8
+[13/12/2016 17:38:11] Atribuído objeto do tipo Script - 5_script_tipo_motivo_justificativa_rpc.sql em ts/SEG_DES8
+[13/12/2016 17:38:11] Atribuído objeto do tipo Script - 4_script_tipo_justificativa_rpc.sql em ts/SEG_DES8
+[13/12/2016 17:38:11] Atribuído objeto do tipo Script - 3_insert_ans_tipo_justificativa_rpc.sql em ts/SEG_DES8
+[13/12/2016 17:38:11] Atribuído objeto do tipo Script - 2_insert_funcoes_rpc.sql em ts/SEG_DES8
+[13/12/2016 17:38:11] Atribuído objeto do tipo Script - 1_insert_tipo_ocorrencia_contrato_rpc.sql em ts/SEG_DES8
+[13/12/2016 17:38:11] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.CON_RETIFICAR_GRUPO_CONTRATO_DDL.SQL em ts/SEG_DES8
+[13/12/2016 17:38:11] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.CON_CALCULA_NOVA_VIGENCIA_DDL.SQL em ts/SEG_DES8
+[13/12/2016 17:38:11] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.ANS_RPC_CANCELAMENTO_ddl.sql em ts/SEG_DES8
+[13/12/2016 17:38:11] Atribuído objeto do tipo Sinonimo - ts_sistema.ans_rcs_consultas_rpc_ddl.sql em ts/SEG_DES8
+[13/12/2016 17:38:11] Atribuído objeto do tipo Sinonimo - ts_sistema.ans_atu_contrato_plano_ret_ddl.sql em ts/SEG_DES8
+[13/12/2016 17:38:11] Atribuído objeto do tipo Sinonimo - ts_sistema.ans_atu_contrato_plano_canc_ddl.sql em ts/SEG_DES8
+[13/12/2016 17:38:11] Atribuído objeto do tipo Package - TS.CON_RETIFICAR_GRUPO_CONTRATO_DDL.SQL em ts/SEG_DES8
+[13/12/2016 17:38:11] Atribuído objeto do tipo Package - ts.ass_cons_reajuste_ddl.sql em ts/SEG_DES8
+[13/12/2016 17:38:11] Atribuído objeto do tipo Package - TS.ANS_RPC_CANCELAMENTO_ddl.sql em ts/SEG_DES8
+[13/12/2016 17:38:11] Atribuído objeto do tipo Package - ts.ans_rcs_consultas_rpc_ddl.sql em ts/SEG_DES8
+[13/12/2016 17:38:11] Atribuído objeto do tipo Procedure - TS.CON_CALCULA_NOVA_VIGENCIA_ddl.sql em ts/SEG_DES8
+[13/12/2016 17:38:11] Atribuído objeto do tipo Procedure - TS.ANS_RPC_GERA_ARQUIVO_ddl.sql em ts/SEG_DES8
+[13/12/2016 17:38:11] Atribuído objeto do tipo Procedure - TS.ANS_RPC_APROVACAO_ddl.sql em ts/SEG_DES8
+[13/12/2016 17:38:11] Atribuído objeto do tipo Procedure - ts.ans_atu_contrato_plano_ret_ddl.sql em ts/SEG_DES8
+[13/12/2016 17:38:11] Atribuído objeto do tipo Procedure - ts.ans_atu_contrato_plano_canc_ddl.sql em ts/SEG_DES8
+[13/12/2016 17:38:11] Atribuído objeto do tipo Index - TS.CONTRATO_PLANO_IDX004_DDL.SQL em ts/SEG_DES8
+[13/12/2016 17:38:11] Atribuído objeto do tipo Index - TS.CONTRATO_PLANO_IDX003_DDL.SQL em ts/SEG_DES8
+[13/12/2016 17:38:11] Atribuído objeto do tipo Index - TS.CONTRATO_COBRANCA_IDX010_DDL.SQL em ts/SEG_DES8
+[13/12/2016 17:38:11] Atribuído objeto do tipo Table - TS.TIPO_MOTIVO_JUSTIFICATIVA_RPC_ddl.sql em ts/SEG_DES8
+[13/12/2016 17:38:11] Atribuído objeto do tipo Table - TS.TIPO_JUSTIFICATIVA_RPC_ddl.sql em ts/SEG_DES8
+[13/12/2016 17:38:11] Atribuído objeto do tipo Table - TS.CONTRATO_PLANO_ddl.sql em ts/SEG_DES8
+[13/12/2016 17:38:11] Atribuído objeto do tipo Table - ts.contrato_cobranca_ddl.sql em ts/SEG_DES8
+[13/12/2016 17:38:11] Atribuído objeto do tipo Table - TS.ANS_TIPO_JUSTIFICATIVA_RPC_ddl.sql em ts/SEG_DES8
+[13/12/2016 17:38:11] Atribuído objeto do tipo Table - TS.ANS_RPC_AUTOMATICO_ddl.sql em ts/SEG_DES8
+[13/12/2016 17:38:12] Sistema alterando o aplica para ordem certa de aplicação
+[13/12/2016 17:38:14] Selecionado P/ Não Criptografar em: SEG_DES8 
+[13/12/2016 17:38:14] Selecionado P/ Criptografar em: 
+[13/12/2016 17:38:14] Arquivo "APLICA.SQL" criado com sucesso.
+[13/12/2016 17:38:19] Executado o aplica no sqlplus.
+[13/12/2016 18:05:02] Sistema finalizado.
+

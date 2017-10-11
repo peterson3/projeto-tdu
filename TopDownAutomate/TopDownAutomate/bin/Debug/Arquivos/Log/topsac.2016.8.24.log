@@ -1,0 +1,39 @@
+[24/08/2016 11:39:47] Sistema Iniciado.
+[24/08/2016 11:40:19] Aberto driver com Chrome.
+[24/08/2016 11:41:01] Controle instanciado: 52657
+[24/08/2016 12:01:57] Arquivo do pacote do CA 52657 extraído.
+[24/08/2016 12:02:09] Banco Selecionado Para aplicar: SEPACO-TESTE
+[24/08/2016 12:02:12] Atribuído objeto do tipo Package - TS.CTM_EXE_CRITICA_ddl.spc em ts/SEPACO-TESTE
+[24/08/2016 12:02:14] Sistema alterando o aplica para ordem certa de aplicação
+[24/08/2016 12:02:15] Selecionado P/ Não Criptografar em: SEPACO-TESTE 
+[24/08/2016 12:02:15] Selecionado P/ Criptografar em: 
+[24/08/2016 12:02:15] Arquivo "APLICA.SQL" criado com sucesso.
+[24/08/2016 12:02:21] Executado o aplica no sqlplus.
+[24/08/2016 14:04:29] Sistema finalizado.
+
+[24/08/2016 15:34:04] Sistema Iniciado.
+[24/08/2016 15:39:57] Aberto driver com Chrome.
+[24/08/2016 15:40:18] Controle instanciado: 52657
+[24/08/2016 15:40:22] Executado o aplica no sqlplus.
+[24/08/2016 18:02:07] Banco Selecionado Para aplicar: INST_MED
+[24/08/2016 18:02:07] Banco Selecionado Para aplicar: DEMO_MED
+[24/08/2016 18:02:07] Banco Selecionado Para aplicar: HOMO_MED
+[24/08/2016 18:02:07] Banco Selecionado Para aplicar: SEPACO-TESTE
+[24/08/2016 18:02:07] Banco Selecionado Para aplicar: SEP-VAZIO
+[24/08/2016 18:02:12] Atribuído objeto do tipo Package - TS.CTM_EXE_CRITICA_ddl.spc em ts/SEPACO-TESTE
+[24/08/2016 18:02:13] Sistema alterando o aplica para ordem certa de aplicação
+[24/08/2016 18:02:21] Atribuído objeto do tipo Package - TS.CTM_EXE_CRITICA_ddl.spc em ts/INST_MED
+[24/08/2016 18:02:21] Atribuído objeto do tipo Package - TS.CTM_EXE_CRITICA_ddl.spc em ts/DEMO_MED
+[24/08/2016 18:02:21] Atribuído objeto do tipo Package - TS.CTM_EXE_CRITICA_ddl.spc em ts_teste/HOMO_MED
+[24/08/2016 18:02:21] Atribuído objeto do tipo Package - TS.CTM_EXE_CRITICA_ddl.spc em ts/SEPACO-TESTE
+[24/08/2016 18:02:21] Atribuído objeto do tipo Package - TS.CTM_EXE_CRITICA_ddl.spc em ts/SEP-VAZIO
+[24/08/2016 18:02:22] Sistema alterando o aplica para ordem certa de aplicação
+[24/08/2016 18:02:25] Selecionado P/ Não Criptografar em: INST_MED DEMO_MED HOMO_MED SEP-VAZIO 
+[24/08/2016 18:02:25] Selecionado P/ Criptografar em: SEPACO-TESTE 
+[24/08/2016 18:02:25] Arquivo "APLICA.SQL" criado com sucesso.
+[24/08/2016 18:02:35] Executado o aplica no sqlplus.
+[24/08/2016 18:14:26] Sistema finalizado.
+
+[24/08/2016 18:15:24] Sistema Iniciado.
+[24/08/2016 18:18:42] Sistema finalizado.
+

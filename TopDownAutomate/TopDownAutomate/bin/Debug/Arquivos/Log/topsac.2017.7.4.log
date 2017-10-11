@@ -1,0 +1,79 @@
+[04/07/2017 15:40:32] Sistema Iniciado.
+[04/07/2017 15:49:40] Sistema finalizado.
+
+[04/07/2017 18:17:38] Sistema Iniciado.
+[04/07/2017 18:18:40] Aberto driver com Chrome.
+[04/07/2017 18:20:22] Controle instanciado: 56181
+[04/07/2017 18:20:42] Banco Selecionado Para aplicar: GIST
+[04/07/2017 18:20:45] Atribuído objeto do tipo Script - TS_JOB_TMR_RETORNO_ARQ_ddl.sql em ts/GIST
+[04/07/2017 18:20:45] Atribuído objeto do tipo Script - TS_JOB_TMR_ENVIO_ARQ_ddl.sql em ts/GIST
+[04/07/2017 18:20:45] Atribuído objeto do tipo Package - TS.TS_INTEGRACAO_TISS_V3_03_02_ddl.sql em ts/GIST
+[04/07/2017 18:20:45] Atribuído objeto do tipo Package - TS.TS_INTEGRACAO_TISS_V3_03_01_ddl.sql em ts/GIST
+[04/07/2017 18:20:45] Atribuído objeto do tipo Package - ts.ts_integracao_tiss_v3_02_02_ddl.sql em ts/GIST
+[04/07/2017 18:20:45] Atribuído objeto do tipo Package - ts.ts_integracao_tiss_v3_02_01_ddl.sql em ts/GIST
+[04/07/2017 18:20:45] Atribuído objeto do tipo Package - ts.ts_integracao_tiss_v3_02_00_ddl.sql em ts/GIST
+[04/07/2017 18:20:45] Atribuído objeto do tipo Package - TS.ITF_TMR_SOMPO_ddl.sql em ts/GIST
+[04/07/2017 18:20:45] Atribuído objeto do tipo Procedure - ts.cm_complementa_xml_ddl.sql em ts/GIST
+[04/07/2017 18:20:45] Atribuído objeto do tipo Procedure - TS.CM_COMPLEMENTA_LOG_XML_ddl.sql em ts/GIST
+[04/07/2017 18:20:45] Atribuído objeto do tipo Index - TS.CTM_GRD_IDX014_ddl.sql em ts/GIST
+[04/07/2017 18:20:46] Sistema alterando o aplica para ordem certa de aplicação
+[04/07/2017 18:20:49] Selecionado P/ Não Criptografar em: 
+[04/07/2017 18:20:49] Selecionado P/ Criptografar em: GIST 
+[04/07/2017 18:20:49] Arquivo "APLICA.SQL" criado com sucesso.
+[04/07/2017 18:20:56] Executado o aplica no sqlplus.
+[04/07/2017 18:26:55] Arquivo do pacote do CA 56181 extraído.
+[04/07/2017 18:27:00] Banco Selecionado Para aplicar: GIST
+[04/07/2017 18:27:03] Atribuído objeto do tipo Script - TS_JOB_TMR_RETORNO_ARQ_ddl.sql em ts/GIST
+[04/07/2017 18:27:03] Atribuído objeto do tipo Script - TS_JOB_TMR_ENVIO_ARQ_ddl.sql em ts/GIST
+[04/07/2017 18:27:03] Atribuído objeto do tipo Package - TS.TS_INTEGRACAO_TISS_V3_03_02_ddl.sql em ts/GIST
+[04/07/2017 18:27:03] Atribuído objeto do tipo Package - TS.TS_INTEGRACAO_TISS_V3_03_01_ddl.sql em ts/GIST
+[04/07/2017 18:27:03] Atribuído objeto do tipo Package - ts.ts_integracao_tiss_v3_02_02_ddl.sql em ts/GIST
+[04/07/2017 18:27:03] Atribuído objeto do tipo Package - ts.ts_integracao_tiss_v3_02_01_ddl.sql em ts/GIST
+[04/07/2017 18:27:03] Atribuído objeto do tipo Package - ts.ts_integracao_tiss_v3_02_00_ddl.sql em ts/GIST
+[04/07/2017 18:27:03] Atribuído objeto do tipo Package - TS.ITF_TMR_SOMPO_ddl.sql em ts/GIST
+[04/07/2017 18:27:03] Atribuído objeto do tipo Procedure - ts.cm_complementa_xml_ddl.sql em ts/GIST
+[04/07/2017 18:27:03] Atribuído objeto do tipo Procedure - TS.CM_COMPLEMENTA_LOG_XML_ddl.sql em ts/GIST
+[04/07/2017 18:27:03] Atribuído objeto do tipo Index - TS.CTM_GRD_IDX014_ddl.sql em ts/GIST
+[04/07/2017 18:27:04] Sistema alterando o aplica para ordem certa de aplicação
+[04/07/2017 18:27:07] Selecionado P/ Não Criptografar em: 
+[04/07/2017 18:27:07] Selecionado P/ Criptografar em: GIST 
+[04/07/2017 18:27:07] Arquivo "APLICA.SQL" criado com sucesso.
+[04/07/2017 18:27:13] Executado o aplica no sqlplus.
+[04/07/2017 18:30:12] Resultado do Login na WEB Maritima    (10.1.1.159): Sucesso Ao logar.
+[04/07/2017 18:30:12] Sistema procurará os arquivos na(s) pasta(s): jtopdown topsaude web 
+[04/07/2017 18:30:12] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[04/07/2017 18:30:12] Arquivo ENCONTRADO em \\10.1.1.159\web\ctm\asp\ctm1042b.asp
+[04/07/2017 18:30:12] Busca Aprofundada necessária não realizada
+[04/07/2017 18:30:12] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 236 milisegundo(s).
+[04/07/2017 18:30:14] K:\Pacotes\56151-56200\56181-herbert\web\ctm\asp\ctm1042b.asp copiado para \\10.1.1.159\web\ctm\asp\ctm1042b.asp
+[04/07/2017 18:30:25] Banco Selecionado Para aplicar: MAR_VAZIO
+[04/07/2017 18:30:25] Banco Selecionado Para aplicar: GIST
+[04/07/2017 18:30:29] Atribuído objeto do tipo Script - TS_JOB_TMR_RETORNO_ARQ_ddl.sql em mar_teste/MAR_VAZIO
+[04/07/2017 18:30:29] Atribuído objeto do tipo Script - TS_JOB_TMR_RETORNO_ARQ_ddl.sql em ts/GIST
+[04/07/2017 18:30:29] Atribuído objeto do tipo Script - TS_JOB_TMR_ENVIO_ARQ_ddl.sql em mar_teste/MAR_VAZIO
+[04/07/2017 18:30:29] Atribuído objeto do tipo Script - TS_JOB_TMR_ENVIO_ARQ_ddl.sql em ts/GIST
+[04/07/2017 18:30:29] Atribuído objeto do tipo Package - TS.TS_INTEGRACAO_TISS_V3_03_02_ddl.sql em mar_teste/MAR_VAZIO
+[04/07/2017 18:30:29] Atribuído objeto do tipo Package - TS.TS_INTEGRACAO_TISS_V3_03_02_ddl.sql em ts/GIST
+[04/07/2017 18:30:29] Atribuído objeto do tipo Package - TS.TS_INTEGRACAO_TISS_V3_03_01_ddl.sql em mar_teste/MAR_VAZIO
+[04/07/2017 18:30:29] Atribuído objeto do tipo Package - TS.TS_INTEGRACAO_TISS_V3_03_01_ddl.sql em ts/GIST
+[04/07/2017 18:30:29] Atribuído objeto do tipo Package - ts.ts_integracao_tiss_v3_02_02_ddl.sql em mar_teste/MAR_VAZIO
+[04/07/2017 18:30:29] Atribuído objeto do tipo Package - ts.ts_integracao_tiss_v3_02_02_ddl.sql em ts/GIST
+[04/07/2017 18:30:29] Atribuído objeto do tipo Package - ts.ts_integracao_tiss_v3_02_01_ddl.sql em mar_teste/MAR_VAZIO
+[04/07/2017 18:30:29] Atribuído objeto do tipo Package - ts.ts_integracao_tiss_v3_02_01_ddl.sql em ts/GIST
+[04/07/2017 18:30:29] Atribuído objeto do tipo Package - ts.ts_integracao_tiss_v3_02_00_ddl.sql em mar_teste/MAR_VAZIO
+[04/07/2017 18:30:29] Atribuído objeto do tipo Package - ts.ts_integracao_tiss_v3_02_00_ddl.sql em ts/GIST
+[04/07/2017 18:30:29] Atribuído objeto do tipo Package - TS.ITF_TMR_SOMPO_ddl.sql em mar_teste/MAR_VAZIO
+[04/07/2017 18:30:29] Atribuído objeto do tipo Package - TS.ITF_TMR_SOMPO_ddl.sql em ts/GIST
+[04/07/2017 18:30:29] Atribuído objeto do tipo Procedure - ts.cm_complementa_xml_ddl.sql em mar_teste/MAR_VAZIO
+[04/07/2017 18:30:29] Atribuído objeto do tipo Procedure - ts.cm_complementa_xml_ddl.sql em ts/GIST
+[04/07/2017 18:30:29] Atribuído objeto do tipo Procedure - TS.CM_COMPLEMENTA_LOG_XML_ddl.sql em mar_teste/MAR_VAZIO
+[04/07/2017 18:30:29] Atribuído objeto do tipo Procedure - TS.CM_COMPLEMENTA_LOG_XML_ddl.sql em ts/GIST
+[04/07/2017 18:30:29] Atribuído objeto do tipo Index - TS.CTM_GRD_IDX014_ddl.sql em mar_teste/MAR_VAZIO
+[04/07/2017 18:30:29] Atribuído objeto do tipo Index - TS.CTM_GRD_IDX014_ddl.sql em ts/GIST
+[04/07/2017 18:30:30] Sistema alterando o aplica para ordem certa de aplicação
+[04/07/2017 18:30:32] Selecionado P/ Não Criptografar em: MAR_VAZIO 
+[04/07/2017 18:30:32] Selecionado P/ Criptografar em: GIST 
+[04/07/2017 18:30:32] Arquivo "APLICA.SQL" criado com sucesso.
+[04/07/2017 18:30:38] Executado o aplica no sqlplus.
+[04/07/2017 18:43:52] Sistema finalizado.
+

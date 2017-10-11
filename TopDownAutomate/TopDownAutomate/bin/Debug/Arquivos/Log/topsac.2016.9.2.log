@@ -1,0 +1,91 @@
+[02/09/2016 11:35:13] Sistema Iniciado.
+[02/09/2016 11:36:20] Aberto driver com Chrome.
+[02/09/2016 11:36:49] Controle instanciado: 52560
+[02/09/2016 11:38:01] Arquivo do pacote do CA 52560 extraído.
+[02/09/2016 11:38:14] Banco Selecionado Para aplicar: HOMO_MED
+[02/09/2016 11:38:22] Atribuído objeto do tipo Script - ts_script_insert_negociacao.sql em ts_teste/HOMO_MED
+[02/09/2016 11:38:22] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.REC_NEGOCIACAO_COBRANCA_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 11:38:22] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.PERFIL_NEG_CLIENTE_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 11:38:22] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.PERFIL_CLI_NEGOCIACAO_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 11:38:22] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.PARCELAS_NEGOCIACAO_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 11:38:22] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.NEGOCIACAO_COBRANCA_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 11:38:22] Atribuído objeto do tipo Package - TS.FAT_REL_DEMONSTRATIVO_COBRANCA_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 11:38:22] Atribuído objeto do tipo Procedure - TS.REC_TIPO_NEGOCIACAO_COB_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 11:38:22] Atribuído objeto do tipo Procedure - TS.REC_NEGOCIACAO_COBRANCA_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 11:38:22] Atribuído objeto do tipo Table - TS.TIPO_NEGOCIACAO_COB_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 11:38:22] Atribuído objeto do tipo Table - TS.PERFIL_NEG_CLIENTE_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 11:38:22] Atribuído objeto do tipo Table - TS.PERFIL_NEGOCIACAO_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 11:38:22] Atribuído objeto do tipo Table - TS.PERFIL_CLI_NEGOCIACAO_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 11:38:22] Atribuído objeto do tipo Table - TS.PARCELAS_NEGOCIACAO_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 11:38:22] Atribuído objeto do tipo Table - TS.NEGOCIACAO_COBRANCA_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 11:38:22] Atribuído objeto do tipo Table - ts.cobranca_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 11:38:24] Sistema alterando o aplica para ordem certa de aplicação
+[02/09/2016 11:38:25] Selecionado P/ Não Criptografar em: HOMO_MED 
+[02/09/2016 11:38:25] Selecionado P/ Criptografar em: 
+[02/09/2016 11:38:27] Arquivo "APLICA.SQL" criado com sucesso.
+[02/09/2016 11:38:35] Executado o aplica no sqlplus.
+[02/09/2016 11:59:12] Sistema finalizado.
+
+[02/09/2016 17:10:56] Sistema Iniciado.
+[02/09/2016 17:11:08] Aberto driver com Chrome.
+[02/09/2016 17:11:22] Controle instanciado: 52560
+[02/09/2016 17:11:33] Banco Selecionado Para aplicar: HOMO_MED
+[02/09/2016 17:15:00] Arquivo do pacote do CA 52560 extraído.
+[02/09/2016 17:15:13] Banco Selecionado Para aplicar: HOMO_MED
+[02/09/2016 17:15:20] Atribuído objeto do tipo Script - ts_script_insert_negociacao.sql em ts_teste/HOMO_MED
+[02/09/2016 17:15:20] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.TS_NEGOCIACAO_COBRANCA_SEQ_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 17:15:20] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.TS_CONTROLE_COBRANCA_SEQ_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 17:15:20] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.TS_CONTROLE_COBRANCA_REG_SEQ_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 17:15:20] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.REC_NEGOCIACAO_COBRANCA_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 17:15:20] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.PERFIL_NEG_CLIENTE_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 17:15:20] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.PERFIL_CLI_NEGOCIACAO_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 17:15:20] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.PARCELAS_NEGOCIACAO_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 17:15:20] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.NEGOCIACAO_COBRANCA_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 17:15:20] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.CONTROLE_COBRANCA_REG_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 17:15:20] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.CONTROLE_COBRANCA_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 17:15:20] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.COBRANCAS_NEGOCIACAO_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 17:15:20] Atribuído objeto do tipo Package - TS.FAT_REL_DEMONSTRATIVO_COBRANCA_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 17:15:20] Atribuído objeto do tipo Procedure - TS.REC_TIPO_NEGOCIACAO_COB_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 17:15:20] Atribuído objeto do tipo Procedure - TS.REC_NEGOCIACAO_COBRANCA_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 17:15:20] Atribuído objeto do tipo Table - TS.TIPO_NEGOCIACAO_COB_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 17:15:20] Atribuído objeto do tipo Table - TS.PERFIL_NEG_CLIENTE_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 17:15:20] Atribuído objeto do tipo Table - TS.PERFIL_NEGOCIACAO_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 17:15:20] Atribuído objeto do tipo Table - TS.PERFIL_CLI_NEGOCIACAO_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 17:15:20] Atribuído objeto do tipo Table - TS.PARCELAS_NEGOCIACAO_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 17:15:20] Atribuído objeto do tipo Table - TS.NEGOCIACAO_COBRANCA_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 17:15:20] Atribuído objeto do tipo Table - ts.cobranca_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 17:15:22] Sistema alterando o aplica para ordem certa de aplicação
+[02/09/2016 17:15:24] Selecionado P/ Não Criptografar em: HOMO_MED 
+[02/09/2016 17:15:24] Selecionado P/ Criptografar em: 
+[02/09/2016 17:15:24] Arquivo "APLICA.SQL" criado com sucesso.
+[02/09/2016 17:15:42] Executado o aplica no sqlplus.
+[02/09/2016 17:23:12] Banco Selecionado Para aplicar: HOMO_MED
+[02/09/2016 17:23:19] Atribuído objeto do tipo Script - ts_script_insert_negociacao.sql em ts_teste/HOMO_MED
+[02/09/2016 17:23:19] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.TS_NEGOCIACAO_COBRANCA_SEQ_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 17:23:19] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.TS_CONTROLE_COBRANCA_SEQ_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 17:23:19] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.TS_CONTROLE_COBRANCA_REG_SEQ_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 17:23:19] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.REC_NEGOCIACAO_COBRANCA_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 17:23:19] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.PERFIL_NEG_CLIENTE_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 17:23:19] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.PERFIL_CLI_NEGOCIACAO_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 17:23:19] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.PARCELAS_NEGOCIACAO_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 17:23:19] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.NEGOCIACAO_COBRANCA_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 17:23:19] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.CONTROLE_COBRANCA_REG_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 17:23:19] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.CONTROLE_COBRANCA_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 17:23:19] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.COBRANCAS_NEGOCIACAO_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 17:23:19] Atribuído objeto do tipo Package - TS.FAT_REL_DEMONSTRATIVO_COBRANCA_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 17:23:19] Atribuído objeto do tipo Procedure - TS.REC_TIPO_NEGOCIACAO_COB_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 17:23:19] Atribuído objeto do tipo Procedure - TS.REC_NEGOCIACAO_COBRANCA_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 17:23:19] Atribuído objeto do tipo Table - TS.TIPO_NEGOCIACAO_COB_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 17:23:19] Atribuído objeto do tipo Table - TS.PERFIL_NEG_CLIENTE_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 17:23:19] Atribuído objeto do tipo Table - TS.PERFIL_NEGOCIACAO_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 17:23:19] Atribuído objeto do tipo Table - TS.PERFIL_CLI_NEGOCIACAO_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 17:23:19] Atribuído objeto do tipo Table - TS.PARCELAS_NEGOCIACAO_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 17:23:19] Atribuído objeto do tipo Table - TS.NEGOCIACAO_COBRANCA_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 17:23:19] Atribuído objeto do tipo Table - ts.cobranca_ddl.sql em ts_teste/HOMO_MED
+[02/09/2016 17:23:20] Sistema alterando o aplica para ordem certa de aplicação
+[02/09/2016 17:23:22] Selecionado P/ Não Criptografar em: HOMO_MED 
+[02/09/2016 17:23:22] Selecionado P/ Criptografar em: 
+[02/09/2016 17:23:22] Arquivo "APLICA.SQL" criado com sucesso.
+[02/09/2016 17:23:37] Executado o aplica no sqlplus.
+[02/09/2016 17:40:44] Sistema finalizado.
+

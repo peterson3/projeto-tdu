@@ -1,0 +1,74 @@
+[26/08/2016 11:15:17] Sistema Iniciado.
+[26/08/2016 11:15:31] Aberto driver com Chrome.
+[26/08/2016 11:24:19] Controle instanciado: 52696
+[26/08/2016 11:24:58] Arquivo do pacote do CA 52696 extraído.
+[26/08/2016 11:25:06] Log de versões do CA 52696 aberto.
+[26/08/2016 11:25:59] Banco Selecionado Para aplicar: HOMO_MED
+[26/08/2016 11:26:03] Atribuído objeto do tipo Package - TS.AUT_FCH_PEDIDO_AUTORIZACAO_ddl.sql em ts_teste/HOMO_MED
+[26/08/2016 11:26:03] Atribuído objeto do tipo Package - TS.AUT_CWS_PEDIDO_AUTORIZACAO_ddl.sql em ts_teste/HOMO_MED
+[26/08/2016 11:26:05] Sistema alterando o aplica para ordem certa de aplicação
+[26/08/2016 11:26:07] Selecionado P/ Não Criptografar em: HOMO_MED 
+[26/08/2016 11:26:07] Selecionado P/ Criptografar em: 
+[26/08/2016 11:26:07] Arquivo "APLICA.SQL" criado com sucesso.
+[26/08/2016 11:27:59] Executado o aplica no sqlplus.
+[26/08/2016 11:28:36] Log de aplicão no banco do CA 52696 aberto.
+[26/08/2016 11:30:15] Sistema finalizado.
+
+[26/08/2016 11:35:11] Sistema Iniciado.
+[26/08/2016 11:35:22] Aberto driver com Chrome.
+[26/08/2016 11:35:40] Controle instanciado: 52696
+[26/08/2016 11:35:55] Arquivo do pacote do CA 52696 extraído.
+[26/08/2016 11:36:07] Executado o aplica no sqlplus.
+[26/08/2016 11:37:54] Executado o aplica no sqlplus.
+[26/08/2016 11:51:25] Controle instanciado: 52746
+[26/08/2016 11:51:37] Banco Selecionado Para aplicar: METLIFE
+[26/08/2016 11:51:37] Banco Selecionado Para aplicar: METLIFE_VAZIO
+[26/08/2016 11:51:54] Atribuído objeto do tipo Script - TS_METLIFE.ML_Upd_Job_1623.sql em ts/METLIFE
+[26/08/2016 11:51:54] Atribuído objeto do tipo Script - TS_METLIFE.ML_Upd_Job_1623.sql em ts_teste/METLIFE_VAZIO
+[26/08/2016 11:52:51] Banco Selecionado Para aplicar: METLIFE
+[26/08/2016 11:52:51] Banco Selecionado Para aplicar: METLIFE_VAZIO
+[26/08/2016 11:52:57] Atribuído objeto do tipo Script - TS_METLIFE.ML_Upd_Job_1623.sql em ts_metlife/METLIFE
+[26/08/2016 11:52:57] Atribuído objeto do tipo Script - TS_METLIFE.ML_Upd_Job_1623.sql em ts_teste/METLIFE_VAZIO
+[26/08/2016 11:53:02] Atribuído objeto do tipo Script - WRKL_AGR_ANS_RO.sql em ts/METLIFE
+[26/08/2016 11:53:05] Atribuído objeto do tipo Script - WRKL_AGR_ANS_RO.sql em ts/METLIFE
+[26/08/2016 11:53:05] Atribuído objeto do tipo Script - WRKL_AGR_ANS_RO.sql em ts_teste/METLIFE_VAZIO
+[26/08/2016 11:53:06] Sistema alterando o aplica para ordem certa de aplicação
+[26/08/2016 11:53:09] Selecionado P/ Não Criptografar em: METLIFE METLIFE_VAZIO 
+[26/08/2016 11:53:09] Selecionado P/ Criptografar em: 
+[26/08/2016 11:53:09] Arquivo "APLICA.SQL" criado com sucesso.
+[26/08/2016 12:06:23] Sistema finalizado.
+
+[26/08/2016 12:06:25] Sistema Iniciado.
+[26/08/2016 12:06:46] Aberto driver com Chrome.
+[26/08/2016 12:07:51] Controle instanciado: 52696
+[26/08/2016 14:39:05] Banco Selecionado Para aplicar: SEPACO-TESTE
+[26/08/2016 14:39:09] Atribuído objeto do tipo Package - TS.AUT_FCH_PEDIDO_AUTORIZACAO_ddl.sql em ts/SEPACO-TESTE
+[26/08/2016 14:39:09] Atribuído objeto do tipo Package - TS.AUT_CWS_PEDIDO_AUTORIZACAO_ddl.sql em ts/SEPACO-TESTE
+[26/08/2016 14:39:10] Sistema alterando o aplica para ordem certa de aplicação
+[26/08/2016 14:39:11] Selecionado P/ Não Criptografar em: SEPACO-TESTE 
+[26/08/2016 14:39:11] Selecionado P/ Criptografar em: 
+[26/08/2016 14:39:12] Arquivo "APLICA.SQL" criado com sucesso.
+[26/08/2016 14:39:18] Executado o aplica no sqlplus.
+[26/08/2016 15:28:40] Erro de de execução no sqlplus.
+[26/08/2016 15:28:57] Banco Selecionado Para aplicar: INST_MED
+[26/08/2016 15:28:57] Banco Selecionado Para aplicar: DEMO_MED
+[26/08/2016 15:28:57] Banco Selecionado Para aplicar: HOMO_MED
+[26/08/2016 15:28:57] Banco Selecionado Para aplicar: SEPACO-TESTE
+[26/08/2016 15:28:57] Banco Selecionado Para aplicar: SEP-VAZIO
+[26/08/2016 15:29:03] Atribuído objeto do tipo Package - TS.AUT_FCH_PEDIDO_AUTORIZACAO_ddl.sql em ts/INST_MED
+[26/08/2016 15:29:03] Atribuído objeto do tipo Package - TS.AUT_FCH_PEDIDO_AUTORIZACAO_ddl.sql em ts/DEMO_MED
+[26/08/2016 15:29:03] Atribuído objeto do tipo Package - TS.AUT_FCH_PEDIDO_AUTORIZACAO_ddl.sql em ts_teste/HOMO_MED
+[26/08/2016 15:29:03] Atribuído objeto do tipo Package - TS.AUT_FCH_PEDIDO_AUTORIZACAO_ddl.sql em ts/SEPACO-TESTE
+[26/08/2016 15:29:03] Atribuído objeto do tipo Package - TS.AUT_FCH_PEDIDO_AUTORIZACAO_ddl.sql em ts/SEP-VAZIO
+[26/08/2016 15:29:03] Atribuído objeto do tipo Package - TS.AUT_CWS_PEDIDO_AUTORIZACAO_ddl.sql em ts/INST_MED
+[26/08/2016 15:29:03] Atribuído objeto do tipo Package - TS.AUT_CWS_PEDIDO_AUTORIZACAO_ddl.sql em ts/DEMO_MED
+[26/08/2016 15:29:03] Atribuído objeto do tipo Package - TS.AUT_CWS_PEDIDO_AUTORIZACAO_ddl.sql em ts_teste/HOMO_MED
+[26/08/2016 15:29:03] Atribuído objeto do tipo Package - TS.AUT_CWS_PEDIDO_AUTORIZACAO_ddl.sql em ts/SEPACO-TESTE
+[26/08/2016 15:29:03] Atribuído objeto do tipo Package - TS.AUT_CWS_PEDIDO_AUTORIZACAO_ddl.sql em ts/SEP-VAZIO
+[26/08/2016 15:29:05] Sistema alterando o aplica para ordem certa de aplicação
+[26/08/2016 15:29:07] Selecionado P/ Não Criptografar em: INST_MED DEMO_MED HOMO_MED SEP-VAZIO 
+[26/08/2016 15:29:07] Selecionado P/ Criptografar em: SEPACO-TESTE 
+[26/08/2016 15:29:07] Arquivo "APLICA.SQL" criado com sucesso.
+[26/08/2016 15:29:12] Executado o aplica no sqlplus.
+[26/08/2016 16:10:37] Sistema finalizado.
+

@@ -1,0 +1,33 @@
+[09/08/2017 17:56:22] Sistema Iniciado.
+[09/08/2017 17:59:06] Aberto driver com Chrome.
+[09/08/2017 18:01:01] Controle instanciado: 56660
+[09/08/2017 18:03:09] Arquivo do pacote do CA 56660 extraído.
+[09/08/2017 18:03:32] Banco Selecionado Para aplicar: HOMO_MED
+[09/08/2017 18:03:44] Sistema alterando o aplica para ordem certa de aplicação
+[09/08/2017 18:03:50] Banco Selecionado Para aplicar: METLIFE
+[09/08/2017 18:03:53] Atribuído objeto do tipo Package - ts_metlife.ml_itf_debnet_ddl.sql em ts_metlife/METLIFE
+[09/08/2017 18:03:54] Sistema alterando o aplica para ordem certa de aplicação
+[09/08/2017 18:03:55] Selecionado P/ Não Criptografar em: METLIFE 
+[09/08/2017 18:03:55] Selecionado P/ Criptografar em: 
+[09/08/2017 18:03:55] Arquivo "APLICA.SQL" criado com sucesso.
+[09/08/2017 18:04:02] Executado o aplica no sqlplus.
+[09/08/2017 18:04:25] Banco Selecionado Para aplicar: METLIFE
+[09/08/2017 18:04:30] Atribuído objeto do tipo Package - ts_metlife.ml_itf_debnet_ddl.sql em ts/METLIFE
+[09/08/2017 18:04:31] Sistema alterando o aplica para ordem certa de aplicação
+[09/08/2017 18:04:33] Selecionado P/ Não Criptografar em: METLIFE 
+[09/08/2017 18:04:33] Selecionado P/ Criptografar em: 
+[09/08/2017 18:04:33] Arquivo "APLICA.SQL" criado com sucesso.
+[09/08/2017 18:04:39] Executado o aplica no sqlplus.
+[09/08/2017 18:07:03] Resultado do Login na WEB Metlife(dev)    (10.90.150.82): Sucesso Ao logar.
+[09/08/2017 18:07:05] Sistema procurará os arquivos na(s) pasta(s): JTopDown ReportsDental TopSaude 
+[09/08/2017 18:07:05] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[09/08/2017 18:07:10] Realizando busca aprofundada para objetos não encontrados...
+[09/08/2017 18:18:54] Banco Selecionado Para aplicar: METLIFE_VAZIO
+[09/08/2017 18:18:56] Atribuído objeto do tipo Package - ts_metlife.ml_itf_debnet_ddl.sql em ml_teste/METLIFE_VAZIO
+[09/08/2017 18:18:57] Sistema alterando o aplica para ordem certa de aplicação
+[09/08/2017 18:19:00] Selecionado P/ Não Criptografar em: METLIFE_VAZIO 
+[09/08/2017 18:19:00] Selecionado P/ Criptografar em: 
+[09/08/2017 18:19:00] Arquivo "APLICA.SQL" criado com sucesso.
+[09/08/2017 18:19:07] Executado o aplica no sqlplus.
+[09/08/2017 18:22:58] Sistema finalizado.
+

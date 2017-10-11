@@ -1,0 +1,78 @@
+[20/04/2017 20:19:23] Sistema Iniciado.
+[20/04/2017 20:19:47] Aberto driver com Chrome.
+[20/04/2017 20:20:05] Controle instanciado: 55256
+[20/04/2017 20:20:21] Arquivo do pacote do CA 55256 extraído.
+[20/04/2017 20:20:26] Log de versões do CA 55256 aberto.
+[20/04/2017 20:20:41] Banco Selecionado Para aplicar: SEG_DES5
+[20/04/2017 20:20:45] Atribuído objeto do tipo Script - sac_65169_bx_pendencia.sql em ts/SEG_DES5
+[20/04/2017 20:20:47] Sistema alterando o aplica para ordem certa de aplicação
+[20/04/2017 20:20:48] Selecionado P/ Não Criptografar em: SEG_DES5 
+[20/04/2017 20:20:48] Selecionado P/ Criptografar em: 
+[20/04/2017 20:20:49] Arquivo "APLICA.SQL" criado com sucesso.
+[20/04/2017 20:20:58] Executado o aplica no sqlplus.
+[20/04/2017 20:21:14] Log de aplicão no banco do CA 55256 aberto.
+[20/04/2017 20:23:33] Banco Selecionado Para aplicar: ODO_VAZIO
+[20/04/2017 20:23:35] Atribuído objeto do tipo Script - sac_65169_bx_pendencia.sql em odo_teste/ODO_VAZIO
+[20/04/2017 20:23:37] Sistema alterando o aplica para ordem certa de aplicação
+[20/04/2017 20:23:39] Selecionado P/ Não Criptografar em: ODO_VAZIO 
+[20/04/2017 20:23:39] Selecionado P/ Criptografar em: 
+[20/04/2017 20:23:39] Arquivo "APLICA.SQL" criado com sucesso.
+[20/04/2017 20:23:46] Executado o aplica no sqlplus.
+[20/04/2017 20:37:56] Sistema finalizado.
+
+[20/04/2017 20:38:21] Sistema Iniciado.
+[20/04/2017 20:41:44] Aberto driver com Chrome.
+[20/04/2017 20:42:23] Controle instanciado: 55253
+[20/04/2017 20:43:05] Arquivo do pacote do CA 55253 extraído.
+[20/04/2017 20:43:10] Log de versões do CA 55253 aberto.
+[20/04/2017 20:43:53] Banco Selecionado Para aplicar: QUALI_BR
+[20/04/2017 20:43:57] Atribuído objeto do tipo Package - TS_ODO.ODO_RCS_GLOBAL_ddl.sql em ts_teste/QUALI_BR
+[20/04/2017 20:43:57] Atribuído objeto do tipo Package - TS_ODO.ODO_CTD_ANALISE_REVISAO_pkg_ddl.sql em ts_teste/QUALI_BR
+[20/04/2017 20:43:59] Sistema alterando o aplica para ordem certa de aplicação
+[20/04/2017 20:44:00] Selecionado P/ Não Criptografar em: QUALI_BR 
+[20/04/2017 20:44:00] Selecionado P/ Criptografar em: 
+[20/04/2017 20:44:00] Arquivo "APLICA.SQL" criado com sucesso.
+[20/04/2017 20:44:09] Executado o aplica no sqlplus.
+[20/04/2017 20:46:02] Resultado do Login na WEB quali-br    (10.10.100.131): Sucesso Ao logar.
+[20/04/2017 20:46:02] Sistema procurará os arquivos na(s) pasta(s): jtopdown Suporte TOPSAUDE 
+[20/04/2017 20:46:02] Quantidade de Arquivos: 11 (arquivos que não estão na raíz).
+[20/04/2017 20:46:02] Arquivo ENCONTRADO em \\10.10.100.131\TOPSAUDE\web\odo_ctd\asp\odo_ctd0020a.asp
+[20/04/2017 20:46:02] Arquivo ENCONTRADO em \\10.10.100.131\TOPSAUDE\web\odo_ctd\asp\odo_ctd0020b.asp
+[20/04/2017 20:46:02] Arquivo ENCONTRADO em \\10.10.100.131\TOPSAUDE\web\odo_ctd\asp\odo_ctd0020c.asp
+[20/04/2017 20:46:04] Realizando busca aprofundada para objetos não encontrados...
+[20/04/2017 20:47:05] Tempo que levou para achar todos os arquivos: 1 minuto(s), 2 segundo(s) e 873 milisegundo(s).
+[20/04/2017 20:48:02] K:\Pacotes\55251-55300\55253-PATRICIA\web\odo_ctd\asp\odo_ctd0020a.asp copiado para \\10.10.100.131\TOPSAUDE\web\odo_ctd\asp\odo_ctd0020a.asp
+[20/04/2017 20:48:02] K:\Pacotes\55251-55300\55253-PATRICIA\web\odo_ctd\asp\odo_ctd0020b.asp copiado para \\10.10.100.131\TOPSAUDE\web\odo_ctd\asp\odo_ctd0020b.asp
+[20/04/2017 20:48:02] K:\Pacotes\55251-55300\55253-PATRICIA\web\odo_ctd\asp\odo_ctd0020c.asp copiado para \\10.10.100.131\TOPSAUDE\web\odo_ctd\asp\odo_ctd0020c.asp
+[20/04/2017 20:48:02] K:\Pacotes\55251-55300\55253-PATRICIA\TopSaudeNet\App_Code\global\CarregadorDeListas.cs copiado para \\10.10.100.131\TOPSAUDE\web\TopSaudeNET\App_Code\global\CarregadorDeListas.cs
+[20/04/2017 20:48:02] K:\Pacotes\55251-55300\55253-PATRICIA\TopSaudeNet\App_Code\global\Enums.cs copiado para \\10.10.100.131\TOPSAUDE\web\TopSaudeNET\App_Code\global\Enums.cs
+[20/04/2017 20:48:02] K:\Pacotes\55251-55300\55253-PATRICIA\TopSaudeNet\App_Code\odo_ctd\Remessa.cs copiado para \\10.10.100.131\TOPSAUDE\web\TopSaudeNET\App_Code\odo_ctd\Remessa.cs
+[20/04/2017 20:48:02] K:\Pacotes\55251-55300\55253-PATRICIA\TopSaudeNet\App_Code\odo_ctd\RevisaoConta.cs copiado para \\10.10.100.131\TOPSAUDE\web\TopSaudeNET\App_Code\odo_ctd\RevisaoConta.cs
+[20/04/2017 20:48:02] K:\Pacotes\55251-55300\55253-PATRICIA\TopSaudeNet\forms\gen_odo\listaReferenciaRevisao.ascx copiado para \\10.10.100.131\TOPSAUDE\web\TopSaudeNET\forms\gen_odo
+[20/04/2017 20:48:02] K:\Pacotes\55251-55300\55253-PATRICIA\TopSaudeNet\forms\gen_odo\listaReferenciaRevisao.ascx.cs copiado para \\10.10.100.131\TOPSAUDE\web\TopSaudeNET\forms\gen_odo
+[20/04/2017 20:48:02] K:\Pacotes\55251-55300\55253-PATRICIA\TopSaudeNet\forms\odo_ctd\ctd0016.aspx copiado para \\10.10.100.131\TOPSAUDE\web\TopSaudeNET\forms\odo_ctd\ctd0016.aspx
+[20/04/2017 20:48:02] K:\Pacotes\55251-55300\55253-PATRICIA\TopSaudeNet\forms\odo_ctd\ctd0016.aspx.cs copiado para \\10.10.100.131\TOPSAUDE\web\TopSaudeNET\forms\odo_ctd\ctd0016.aspx.cs
+[20/04/2017 20:48:02] K:\Pacotes\55251-55300\55253-PATRICIA\TopSaudeNet\forms\odo_ctd\ctd0016.aspx copiado para \\10.10.100.131\TOPSAUDE\web\TopSaudeNET\forms\odo_ctd\old
+[20/04/2017 20:48:02] K:\Pacotes\55251-55300\55253-PATRICIA\TopSaudeNet\forms\odo_ctd\ctd0016.aspx.cs copiado para \\10.10.100.131\TOPSAUDE\web\TopSaudeNET\forms\odo_ctd\old
+[20/04/2017 20:48:26] K:\Pacotes\55251-55300\55253-PATRICIA\web\odo_ctd\asp\odo_ctd0020a.asp copiado para \\10.10.100.131\TOPSAUDE\web\odo_ctd\asp\odo_ctd0020a.asp
+[20/04/2017 20:48:26] K:\Pacotes\55251-55300\55253-PATRICIA\web\odo_ctd\asp\odo_ctd0020b.asp copiado para \\10.10.100.131\TOPSAUDE\web\odo_ctd\asp\odo_ctd0020b.asp
+[20/04/2017 20:48:26] K:\Pacotes\55251-55300\55253-PATRICIA\web\odo_ctd\asp\odo_ctd0020c.asp copiado para \\10.10.100.131\TOPSAUDE\web\odo_ctd\asp\odo_ctd0020c.asp
+[20/04/2017 20:48:26] K:\Pacotes\55251-55300\55253-PATRICIA\TopSaudeNet\App_Code\global\CarregadorDeListas.cs copiado para \\10.10.100.131\TOPSAUDE\web\TopSaudeNET\App_Code\global\CarregadorDeListas.cs
+[20/04/2017 20:48:26] K:\Pacotes\55251-55300\55253-PATRICIA\TopSaudeNet\App_Code\global\Enums.cs copiado para \\10.10.100.131\TOPSAUDE\web\TopSaudeNET\App_Code\global\Enums.cs
+[20/04/2017 20:48:27] K:\Pacotes\55251-55300\55253-PATRICIA\TopSaudeNet\App_Code\odo_ctd\Remessa.cs copiado para \\10.10.100.131\TOPSAUDE\web\TopSaudeNET\App_Code\odo_ctd\Remessa.cs
+[20/04/2017 20:48:27] K:\Pacotes\55251-55300\55253-PATRICIA\TopSaudeNet\App_Code\odo_ctd\RevisaoConta.cs copiado para \\10.10.100.131\TOPSAUDE\web\TopSaudeNET\App_Code\odo_ctd\RevisaoConta.cs
+[20/04/2017 20:48:27] K:\Pacotes\55251-55300\55253-PATRICIA\TopSaudeNet\forms\gen_odo\listaReferenciaRevisao.ascx copiado para \\10.10.100.131\TOPSAUDE\web\TopSaudeNET\forms\gen_odo
+[20/04/2017 20:48:27] K:\Pacotes\55251-55300\55253-PATRICIA\TopSaudeNet\forms\gen_odo\listaReferenciaRevisao.ascx.cs copiado para \\10.10.100.131\TOPSAUDE\web\TopSaudeNET\forms\gen_odo
+[20/04/2017 20:48:27] K:\Pacotes\55251-55300\55253-PATRICIA\TopSaudeNet\forms\odo_ctd\ctd0016.aspx copiado para \\10.10.100.131\TOPSAUDE\web\TopSaudeNET\forms\odo_ctd\ctd0016.aspx
+[20/04/2017 20:48:27] K:\Pacotes\55251-55300\55253-PATRICIA\TopSaudeNet\forms\odo_ctd\ctd0016.aspx.cs copiado para \\10.10.100.131\TOPSAUDE\web\TopSaudeNET\forms\odo_ctd\ctd0016.aspx.cs
+[20/04/2017 20:48:27] K:\Pacotes\55251-55300\55253-PATRICIA\TopSaudeNet\forms\odo_ctd\ctd0016.aspx copiado para \\10.10.100.131\TOPSAUDE\web\TopSaudeNET\forms\odo_ctd\old
+[20/04/2017 20:48:27] K:\Pacotes\55251-55300\55253-PATRICIA\TopSaudeNet\forms\odo_ctd\ctd0016.aspx.cs copiado para \\10.10.100.131\TOPSAUDE\web\TopSaudeNET\forms\odo_ctd\old
+[20/04/2017 20:48:29] K:\Pacotes\55251-55300\55253-PATRICIA\TopSaudeNet\forms\gen_odo\listaReferenciaRevisao.ascx copiado para \\10.10.100.131\TOPSAUDE\web\TopSaudeNET\forms\gen_odo
+[20/04/2017 20:48:32] K:\Pacotes\55251-55300\55253-PATRICIA\TopSaudeNet\forms\gen_odo\listaReferenciaRevisao.ascx.cs copiado para \\10.10.100.131\TOPSAUDE\web\TopSaudeNET\forms\gen_odo
+[20/04/2017 20:48:34] K:\Pacotes\55251-55300\55253-PATRICIA\TopSaudeNet\forms\odo_ctd\ctd0016.aspx copiado para \\10.10.100.131\TOPSAUDE\web\TopSaudeNET\forms\odo_ctd\old
+[20/04/2017 20:48:36] K:\Pacotes\55251-55300\55253-PATRICIA\TopSaudeNet\forms\odo_ctd\ctd0016.aspx.cs copiado para \\10.10.100.131\TOPSAUDE\web\TopSaudeNET\forms\odo_ctd\old
+[20/04/2017 20:48:42] Sistema finalizado.
+
+[20/04/2017 20:48:49] Sistema Iniciado.
+[20/04/2017 20:50:18] Sistema finalizado.
+

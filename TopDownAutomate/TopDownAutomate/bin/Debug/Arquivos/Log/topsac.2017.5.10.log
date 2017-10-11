@@ -1,0 +1,56 @@
+[10/05/2017 13:56:02] Sistema Iniciado.
+[10/05/2017 13:56:33] Aberto driver com Chrome.
+[10/05/2017 13:56:49] Controle instanciado: 55428
+[10/05/2017 13:56:58] Banco Selecionado Para aplicar: FRANCA_TD
+[10/05/2017 13:57:03] Atribuído objeto do tipo Script - 002_CRIA_OPCOES_MENU_QUALIDADE_dml.sql em ts/FRANCA_TD
+[10/05/2017 13:57:03] Atribuído objeto do tipo Script - 001_CRIA_JOB_IMPORTACAO_QUALIDADE_dml.sql em ts/FRANCA_TD
+[10/05/2017 13:57:05] Sistema alterando o aplica para ordem certa de aplicação
+[10/05/2017 13:57:06] Selecionado P/ Não Criptografar em: FRANCA_TD 
+[10/05/2017 13:57:06] Selecionado P/ Criptografar em: 
+[10/05/2017 13:57:06] Arquivo "APLICA.SQL" criado com sucesso.
+[10/05/2017 13:57:14] Executado o aplica no sqlplus.
+[10/05/2017 14:09:19] Log de versões do CA 55428 aberto.
+[10/05/2017 14:09:21] Log de aplicão no banco do CA 55428 aberto.
+[10/05/2017 14:10:04] Erro de de execução no sqlplus.
+[10/05/2017 14:15:50] Sistema finalizado.
+
+[10/05/2017 16:45:37] Sistema Iniciado.
+[10/05/2017 16:45:56] Aberto driver com Chrome.
+[10/05/2017 16:46:29] Controle instanciado: 55428
+[10/05/2017 17:01:41] Arquivo do pacote do CA 55428 extraído.
+[10/05/2017 17:01:43] Erro de de execução no sqlplus.
+[10/05/2017 17:01:48] Banco Selecionado Para aplicar: FRANCA_TD
+[10/05/2017 17:01:54] Atribuído objeto do tipo Script - 002_CRIA_OPCOES_MENU_QUALIDADE_dml.sql em ts_mon/FRANCA_TD
+[10/05/2017 17:01:54] Atribuído objeto do tipo Script - 001_CRIA_JOB_IMPORTACAO_QUALIDADE_dml.sql em ts_mon/FRANCA_TD
+[10/05/2017 17:01:54] Atribuído objeto do tipo Script - 001_CRIA_OPCOES_MENU_QUALIDADE_FRANCA_dml.sql em ts_mon/FRANCA_TD
+[10/05/2017 17:01:54] Atribuído objeto do tipo Package - TS_MON.MON_TISS_EXE_MONITORA_ddl.sql em ts_mon/FRANCA_TD
+[10/05/2017 17:01:54] Atribuído objeto do tipo Index - TS_MON.MON_TISS_QUALI_LCTOS_ITENS_IDX001_ddl.SQL em ts_mon/FRANCA_TD
+[10/05/2017 17:01:54] Atribuído objeto do tipo Index - TS_MON.MON_TISS_QUALI_LCTOS_IDX001_ddl.SQL em ts_mon/FRANCA_TD
+[10/05/2017 17:01:54] Atribuído objeto do tipo Index - TS_MON.MON_TISS_QUALI_GUIAS_IDX001_ddl.SQL em ts_mon/FRANCA_TD
+[10/05/2017 17:01:54] Atribuído objeto do tipo Index - TS_MON.MON_TISS_QUALI_ARQ_IDX001_ddl.SQL em ts_mon/FRANCA_TD
+[10/05/2017 17:01:54] Atribuído objeto do tipo Index - TS_MON.MON_TISS_QUALI_ARQ_GUIAS_IDX001_ddl.SQL em ts_mon/FRANCA_TD
+[10/05/2017 17:01:54] Atribuído objeto do tipo Table - TS_MON.MON_TISS_QUALI_LCTOS_ITENS_ddl.sql em ts_mon/FRANCA_TD
+[10/05/2017 17:01:54] Atribuído objeto do tipo Table - TS_MON.MON_TISS_QUALI_LCTOS_ddl.sql em ts_mon/FRANCA_TD
+[10/05/2017 17:01:54] Atribuído objeto do tipo Table - TS_MON.MON_TISS_QUALI_GUIAS_ddl.sql em ts_mon/FRANCA_TD
+[10/05/2017 17:01:54] Atribuído objeto do tipo Table - TS_MON.MON_TISS_QUALI_ARQ_GUIAS_ddl.sql em ts_mon/FRANCA_TD
+[10/05/2017 17:01:54] Atribuído objeto do tipo Table - TS_MON.MON_TISS_QUALI_ARQ_ddl.sql em ts_mon/FRANCA_TD
+[10/05/2017 17:01:54] Atribuído objeto do tipo Table - TS_MON.MON_TISS_PAG_ddl.sql em ts_mon/FRANCA_TD
+[10/05/2017 17:01:54] Atribuído objeto do tipo Table - TS_MON.MON_TISS_NR_ddl.sql em ts_mon/FRANCA_TD
+[10/05/2017 17:01:54] Atribuído objeto do tipo Table - TS_MON.MON_TISS_CONTROLE_ddl.sql em ts_mon/FRANCA_TD
+[10/05/2017 17:01:54] Atribuído objeto do tipo Table - TS_MON.MON_TISS_CONTAS_ddl.sql em ts_mon/FRANCA_TD
+[10/05/2017 17:01:56] Sistema alterando o aplica para ordem certa de aplicação
+[10/05/2017 17:01:57] Selecionado P/ Não Criptografar em: FRANCA_TD 
+[10/05/2017 17:01:57] Selecionado P/ Criptografar em: 
+[10/05/2017 17:01:57] Arquivo "APLICA.SQL" criado com sucesso.
+[10/05/2017 17:02:05] Executado o aplica no sqlplus.
+[10/05/2017 17:02:38] Banco Selecionado Para aplicar: FRANCA_TD
+[10/05/2017 17:02:44] Atribuído objeto do tipo Script - 002_CRIA_OPCOES_MENU_QUALIDADE_dml.sql em ts/FRANCA_TD
+[10/05/2017 17:02:44] Atribuído objeto do tipo Script - 001_CRIA_JOB_IMPORTACAO_QUALIDADE_dml.sql em ts/FRANCA_TD
+[10/05/2017 17:02:44] Atribuído objeto do tipo Script - 001_CRIA_OPCOES_MENU_QUALIDADE_FRANCA_dml.sql em ts/FRANCA_TD
+[10/05/2017 17:02:47] Sistema alterando o aplica para ordem certa de aplicação
+[10/05/2017 17:02:48] Selecionado P/ Não Criptografar em: FRANCA_TD 
+[10/05/2017 17:02:48] Selecionado P/ Criptografar em: 
+[10/05/2017 17:02:49] Arquivo "APLICA.SQL" criado com sucesso.
+[10/05/2017 17:02:54] Executado o aplica no sqlplus.
+[10/05/2017 17:11:40] Sistema finalizado.
+

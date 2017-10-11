@@ -1,0 +1,68 @@
+[13/09/2016 14:21:47] Sistema Iniciado.
+[13/09/2016 14:22:32] Aberto driver com Chrome.
+[13/09/2016 14:22:55] Controle instanciado: 52913
+[13/09/2016 14:23:28] Arquivo do pacote do CA 52913 extraído.
+[13/09/2016 14:52:32] Banco Selecionado Para aplicar: SEG_DES8
+[13/09/2016 14:52:35] Atribuído objeto do tipo Package - ts.ger_ctrl_util_confidencial_ddl.spc em ts/SEG_DES8
+[13/09/2016 14:52:37] Sistema alterando o aplica para ordem certa de aplicação
+[13/09/2016 14:52:38] Selecionado P/ Não Criptografar em: SEG_DES8 
+[13/09/2016 14:52:38] Selecionado P/ Criptografar em: 
+[13/09/2016 14:52:38] Arquivo "APLICA.SQL" criado com sucesso.
+[13/09/2016 14:52:45] Executado o aplica no sqlplus.
+[13/09/2016 15:32:00] Sistema finalizado.
+
+[13/09/2016 15:44:32] Sistema Iniciado.
+[13/09/2016 15:44:49] Aberto driver com Chrome.
+[13/09/2016 16:13:45] Controle instanciado: 52913
+[13/09/2016 16:17:54] Sistema finalizado.
+
+[13/09/2016 16:39:01] Sistema Iniciado.
+[13/09/2016 17:56:27] Sistema finalizado.
+
+[13/09/2016 18:45:52] Sistema Iniciado.
+[13/09/2016 18:46:06] Aberto driver com Chrome.
+[13/09/2016 18:46:21] Controle instanciado: 52913
+[13/09/2016 18:51:19] Banco Selecionado Para aplicar: SEG_DES8
+[13/09/2016 18:51:19] Banco Selecionado Para aplicar: SEG_VAZIO
+[13/09/2016 18:51:22] Atribuído objeto do tipo Package - ts.ger_ctrl_util_confidencial_ddl.spc em ts/SEG_DES8
+[13/09/2016 18:51:22] Atribuído objeto do tipo Package - ts.ger_ctrl_util_confidencial_ddl.spc em seg_teste/SEG_VAZIO
+[13/09/2016 18:51:23] Sistema alterando o aplica para ordem certa de aplicação
+[13/09/2016 18:51:26] Selecionado P/ Não Criptografar em: SEG_VAZIO 
+[13/09/2016 18:51:26] Selecionado P/ Criptografar em: SEG_DES8 
+[13/09/2016 18:51:26] Arquivo "APLICA.SQL" criado com sucesso.
+[13/09/2016 18:51:34] Executado o aplica no sqlplus.
+[13/09/2016 18:56:02] Sistema Iniciado.
+[13/09/2016 18:56:21] Aberto driver com Chrome.
+[13/09/2016 18:56:48] Controle instanciado: 52962
+[13/09/2016 18:57:47] Arquivo do pacote do CA 52962 extraído.
+[13/09/2016 18:57:59] Banco Selecionado Para aplicar: MAR_VAZIO
+[13/09/2016 18:57:59] Banco Selecionado Para aplicar: GIST
+[13/09/2016 18:58:04] Atribuído objeto do tipo Procedure - TS.RLG_PARAMETRIZA_REL_GERENCIAL_ddl.sql em mar_teste/MAR_VAZIO
+[13/09/2016 18:58:04] Atribuído objeto do tipo Procedure - TS.RLG_PARAMETRIZA_REL_GERENCIAL_ddl.sql em ts/GIST
+[13/09/2016 18:58:04] Atribuído objeto do tipo Procedure - ts.gera_relatorio_ws_ddl.sql em mar_teste/MAR_VAZIO
+[13/09/2016 18:58:04] Atribuído objeto do tipo Procedure - ts.gera_relatorio_ws_ddl.sql em ts/GIST
+[13/09/2016 18:58:04] Atribuído objeto do tipo Table - ts.contrato_cobranca_ddl.sql em mar_teste/MAR_VAZIO
+[13/09/2016 18:58:04] Atribuído objeto do tipo Table - ts.contrato_cobranca_ddl.sql em ts/GIST
+[13/09/2016 18:58:08] Sistema alterando o aplica para ordem certa de aplicação
+[13/09/2016 18:58:11] Selecionado P/ Não Criptografar em: MAR_VAZIO 
+[13/09/2016 18:58:11] Selecionado P/ Criptografar em: GIST 
+[13/09/2016 18:58:11] Arquivo "APLICA.SQL" criado com sucesso.
+[13/09/2016 18:58:18] Executado o aplica no sqlplus.
+[13/09/2016 18:58:47] Resultado do Login na WEB Maritima    (10.1.1.159): Sucesso Ao logar.
+[13/09/2016 18:58:48] Sistema procurará os arquivos na(s) pasta(s): jtopdown topsaude web 
+[13/09/2016 18:58:48] Quantidade de Arquivos: 4 (arquivos que não estão na raíz).
+[13/09/2016 18:58:48] Arquivo ENCONTRADO em \\10.1.1.159\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\ass\TsAss2004JR.jasper
+[13/09/2016 18:58:48] Arquivo ENCONTRADO em \\10.1.1.159\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\ass\TsAss2005JR.jasper
+[13/09/2016 18:58:49] Arquivo ENCONTRADO em \\10.1.1.159\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\ass\TsAss2006JR.jasper
+[13/09/2016 18:58:49] Arquivo ENCONTRADO em \\10.1.1.159\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\ass\TsAss2007JR.jasper
+[13/09/2016 18:58:49] Busca Aprofundada necessária não realizada
+[13/09/2016 18:58:49] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 627 milisegundo(s).
+[13/09/2016 18:58:51] K:\Pacotes\52951-53000\52962-HUGO\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\ass\TsAss2004JR.jasper copiado para \\10.1.1.159\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\ass\TsAss2004JR.jasper
+[13/09/2016 18:58:51] K:\Pacotes\52951-53000\52962-HUGO\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\ass\TsAss2005JR.jasper copiado para \\10.1.1.159\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\ass\TsAss2005JR.jasper
+[13/09/2016 18:58:51] K:\Pacotes\52951-53000\52962-HUGO\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\ass\TsAss2006JR.jasper copiado para \\10.1.1.159\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\ass\TsAss2006JR.jasper
+[13/09/2016 18:58:52] K:\Pacotes\52951-53000\52962-HUGO\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\ass\TsAss2007JR.jasper copiado para \\10.1.1.159\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\ass\TsAss2007JR.jasper
+[13/09/2016 19:00:06] Log de aplicão no banco do CA 52962 aberto.
+[13/09/2016 19:04:39] Sistema finalizado.
+
+[13/09/2016 19:17:53] Sistema finalizado.
+

@@ -1,0 +1,18 @@
+[31/08/2016 10:55:54] Sistema Iniciado.
+[31/08/2016 10:56:52] Aberto driver com Chrome.
+[31/08/2016 10:59:27] Controle instanciado: 52560
+[31/08/2016 11:39:46] Sistema finalizado.
+
+[31/08/2016 11:39:57] Sistema Iniciado.
+[31/08/2016 11:40:08] Aberto driver com Chrome.
+[31/08/2016 11:43:55] Controle instanciado: 52703
+[31/08/2016 11:44:44] Arquivo do pacote do CA 52703 extraído.
+[31/08/2016 11:45:04] Banco Selecionado Para aplicar: ipalerj_td
+[31/08/2016 11:45:06] Atribuído objeto do tipo Script - SAC_59707_Parametros_Fecha_Parcial.sql em ts/ipalerj_td
+[31/08/2016 11:45:07] Sistema alterando o aplica para ordem certa de aplicação
+[31/08/2016 11:45:08] Selecionado P/ Não Criptografar em: ipalerj_td 
+[31/08/2016 11:45:08] Selecionado P/ Criptografar em: 
+[31/08/2016 11:45:09] Arquivo "APLICA.SQL" criado com sucesso.
+[31/08/2016 11:45:17] Executado o aplica no sqlplus.
+[31/08/2016 17:17:21] Sistema finalizado.
+

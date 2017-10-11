@@ -1,0 +1,16 @@
+[23/01/2017 11:43:42] Sistema Iniciado.
+[23/01/2017 11:46:56] Aberto driver com Chrome.
+[23/01/2017 11:47:20] Controle instanciado: 54408
+[23/01/2017 11:48:31] Resultado do Login na WEB Maritima    (10.1.1.159): Sucesso Ao logar.
+[23/01/2017 11:48:31] Sistema procurará os arquivos na(s) pasta(s): jtopdown topsaude web 
+[23/01/2017 11:48:31] Quantidade de Arquivos: 2 (arquivos que não estão na raíz).
+[23/01/2017 11:48:31] Arquivo ENCONTRADO em \\10.1.1.159\web\cal\asp\cal0008a.asp
+[23/01/2017 11:48:31] Arquivo ENCONTRADO em \\10.1.1.159\web\cal\com\TSCAL0008.dll
+[23/01/2017 11:48:31] Busca Aprofundada necessária não realizada
+[23/01/2017 11:48:31] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 312 milisegundo(s).
+[23/01/2017 11:48:35] K:\Pacotes\54401-54450\54408-ELISEU\web\cal\asp\cal0008a.asp copiado para \\10.1.1.159\web\cal\asp\cal0008a.asp
+[23/01/2017 11:48:35] K:\Pacotes\54401-54450\54408-ELISEU\web\cal\com\TSCAL0008.dll copiado para \\10.1.1.159\web\cal\com\TSCAL0008.dll
+[23/01/2017 11:48:37] K:\Pacotes\54401-54450\54408-ELISEU\web\cal\asp\cal0008a.asp copiado para \\10.1.1.159\web\cal\asp\cal0008a.asp
+[23/01/2017 11:48:37] K:\Pacotes\54401-54450\54408-ELISEU\web\cal\com\TSCAL0008.dll copiado para \\10.1.1.159\web\cal\com\TSCAL0008.dll
+[23/01/2017 11:54:20] Sistema finalizado.
+

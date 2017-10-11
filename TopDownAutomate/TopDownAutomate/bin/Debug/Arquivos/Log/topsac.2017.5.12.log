@@ -1,0 +1,319 @@
+[12/05/2017 11:34:46] Sistema Iniciado.
+[12/05/2017 11:36:58] Aberto driver com Chrome.
+[12/05/2017 11:38:16] Controle instanciado: 55439
+[12/05/2017 11:45:37] Arquivo do pacote do CA 55439 extraído.
+[12/05/2017 11:47:02] Log de versões do CA 55439 aberto.
+[12/05/2017 11:47:17] Banco Selecionado Para aplicar: INST_ODO
+[12/05/2017 11:47:17] Banco Selecionado Para aplicar: DEMO_ODO
+[12/05/2017 11:47:17] Banco Selecionado Para aplicar: HOMO_ODO
+[12/05/2017 11:47:17] Banco Selecionado Para aplicar: METLIFE
+[12/05/2017 11:47:17] Banco Selecionado Para aplicar: METLIFE_VAZIO
+[12/05/2017 11:47:27] Atribuído objeto do tipo Job - TS.JOB_CADASTRO_ENVIO_SMS.sql em ts/INST_ODO
+[12/05/2017 11:47:27] Atribuído objeto do tipo Job - TS.JOB_CADASTRO_ENVIO_SMS.sql em ts/DEMO_ODO
+[12/05/2017 11:47:27] Atribuído objeto do tipo Job - TS.JOB_CADASTRO_ENVIO_SMS.sql em ts_teste/HOMO_ODO
+[12/05/2017 11:47:27] Atribuído objeto do tipo Job - TS.JOB_CADASTRO_ENVIO_SMS.sql em ts/METLIFE
+[12/05/2017 11:47:27] Atribuído objeto do tipo Job - TS.JOB_CADASTRO_ENVIO_SMS.sql em ml_teste/METLIFE_VAZIO
+[12/05/2017 11:47:27] Atribuído objeto do tipo Script - 03_SAC64583_Parametro_Sistema_SMS.sql em ts/INST_ODO
+[12/05/2017 11:47:27] Atribuído objeto do tipo Script - 03_SAC64583_Parametro_Sistema_SMS.sql em ts/DEMO_ODO
+[12/05/2017 11:47:27] Atribuído objeto do tipo Script - 03_SAC64583_Parametro_Sistema_SMS.sql em ts_teste/HOMO_ODO
+[12/05/2017 11:47:27] Atribuído objeto do tipo Script - 03_SAC64583_Parametro_Sistema_SMS.sql em ts/METLIFE
+[12/05/2017 11:47:27] Atribuído objeto do tipo Script - 03_SAC64583_Parametro_Sistema_SMS.sql em ml_teste/METLIFE_VAZIO
+[12/05/2017 11:47:27] Atribuído objeto do tipo Script - 02_SAC64583_Insert_Tipo_Comunicacao_Detalhe.sql em ts/INST_ODO
+[12/05/2017 11:47:27] Atribuído objeto do tipo Script - 02_SAC64583_Insert_Tipo_Comunicacao_Detalhe.sql em ts/DEMO_ODO
+[12/05/2017 11:47:27] Atribuído objeto do tipo Script - 02_SAC64583_Insert_Tipo_Comunicacao_Detalhe.sql em ts_teste/HOMO_ODO
+[12/05/2017 11:47:27] Atribuído objeto do tipo Script - 02_SAC64583_Insert_Tipo_Comunicacao_Detalhe.sql em ts/METLIFE
+[12/05/2017 11:47:27] Atribuído objeto do tipo Script - 02_SAC64583_Insert_Tipo_Comunicacao_Detalhe.sql em ml_teste/METLIFE_VAZIO
+[12/05/2017 11:47:27] Atribuído objeto do tipo Script - 01_SAC64583_Insert_Tipo_Comunicacao.sql em ts/INST_ODO
+[12/05/2017 11:47:27] Atribuído objeto do tipo Script - 01_SAC64583_Insert_Tipo_Comunicacao.sql em ts/DEMO_ODO
+[12/05/2017 11:47:27] Atribuído objeto do tipo Script - 01_SAC64583_Insert_Tipo_Comunicacao.sql em ts_teste/HOMO_ODO
+[12/05/2017 11:47:27] Atribuído objeto do tipo Script - 01_SAC64583_Insert_Tipo_Comunicacao.sql em ts/METLIFE
+[12/05/2017 11:47:27] Atribuído objeto do tipo Script - 01_SAC64583_Insert_Tipo_Comunicacao.sql em ml_teste/METLIFE_VAZIO
+[12/05/2017 11:47:27] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.ASS_ENVIA_SMS_ASSOCIADO_ddl.sql em ts/INST_ODO
+[12/05/2017 11:47:27] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.ASS_ENVIA_SMS_ASSOCIADO_ddl.sql em ts/DEMO_ODO
+[12/05/2017 11:47:27] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.ASS_ENVIA_SMS_ASSOCIADO_ddl.sql em ts_teste/HOMO_ODO
+[12/05/2017 11:47:27] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.ASS_ENVIA_SMS_ASSOCIADO_ddl.sql em ts/METLIFE
+[12/05/2017 11:47:27] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.ASS_ENVIA_SMS_ASSOCIADO_ddl.sql em ml_teste/METLIFE_VAZIO
+[12/05/2017 11:47:27] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.ASS_ASSOCIADO_SMS_ddl.sql em ts/INST_ODO
+[12/05/2017 11:47:27] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.ASS_ASSOCIADO_SMS_ddl.sql em ts/DEMO_ODO
+[12/05/2017 11:47:27] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.ASS_ASSOCIADO_SMS_ddl.sql em ts_teste/HOMO_ODO
+[12/05/2017 11:47:27] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.ASS_ASSOCIADO_SMS_ddl.sql em ts/METLIFE
+[12/05/2017 11:47:27] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.ASS_ASSOCIADO_SMS_ddl.sql em ml_teste/METLIFE_VAZIO
+[12/05/2017 11:47:27] Atribuído objeto do tipo Package - ts.con_rcs_dados_contrato_ddl.sql em ts/INST_ODO
+[12/05/2017 11:47:27] Atribuído objeto do tipo Package - ts.con_rcs_dados_contrato_ddl.sql em ts/DEMO_ODO
+[12/05/2017 11:47:27] Atribuído objeto do tipo Package - ts.con_rcs_dados_contrato_ddl.sql em ts_teste/HOMO_ODO
+[12/05/2017 11:47:27] Atribuído objeto do tipo Package - ts.con_rcs_dados_contrato_ddl.sql em ts/METLIFE
+[12/05/2017 11:47:27] Atribuído objeto do tipo Package - ts.con_rcs_dados_contrato_ddl.sql em ml_teste/METLIFE_VAZIO
+[12/05/2017 11:47:27] Atribuído objeto do tipo Package - TS.CON_GRAVA_CONTRATO_PKG_ddl.sql em ts/INST_ODO
+[12/05/2017 11:47:27] Atribuído objeto do tipo Package - TS.CON_GRAVA_CONTRATO_PKG_ddl.sql em ts/DEMO_ODO
+[12/05/2017 11:47:27] Atribuído objeto do tipo Package - TS.CON_GRAVA_CONTRATO_PKG_ddl.sql em ts_teste/HOMO_ODO
+[12/05/2017 11:47:27] Atribuído objeto do tipo Package - TS.CON_GRAVA_CONTRATO_PKG_ddl.sql em ts/METLIFE
+[12/05/2017 11:47:27] Atribuído objeto do tipo Package - TS.CON_GRAVA_CONTRATO_PKG_ddl.sql em ml_teste/METLIFE_VAZIO
+[12/05/2017 11:47:27] Atribuído objeto do tipo Package - TS.ASS_ENVIA_SMS_ASSOCIADO.sql em ts/INST_ODO
+[12/05/2017 11:47:27] Atribuído objeto do tipo Package - TS.ASS_ENVIA_SMS_ASSOCIADO.sql em ts/DEMO_ODO
+[12/05/2017 11:47:27] Atribuído objeto do tipo Package - TS.ASS_ENVIA_SMS_ASSOCIADO.sql em ts_teste/HOMO_ODO
+[12/05/2017 11:47:27] Atribuído objeto do tipo Package - TS.ASS_ENVIA_SMS_ASSOCIADO.sql em ts/METLIFE
+[12/05/2017 11:47:27] Atribuído objeto do tipo Package - TS.ASS_ENVIA_SMS_ASSOCIADO.sql em ml_teste/METLIFE_VAZIO
+[12/05/2017 11:47:27] Atribuído objeto do tipo Trigger - TS.TR_ASSOCIADO_12.sql em ts/INST_ODO
+[12/05/2017 11:47:27] Atribuído objeto do tipo Trigger - TS.TR_ASSOCIADO_12.sql em ts/DEMO_ODO
+[12/05/2017 11:47:27] Atribuído objeto do tipo Trigger - TS.TR_ASSOCIADO_12.sql em ts_teste/HOMO_ODO
+[12/05/2017 11:47:27] Atribuído objeto do tipo Trigger - TS.TR_ASSOCIADO_12.sql em ts/METLIFE
+[12/05/2017 11:47:27] Atribuído objeto do tipo Trigger - TS.TR_ASSOCIADO_12.sql em ml_teste/METLIFE_VAZIO
+[12/05/2017 11:47:27] Atribuído objeto do tipo Table - TS.CONTRATO_EMPRESA_ddl.sql em ts/INST_ODO
+[12/05/2017 11:47:27] Atribuído objeto do tipo Table - TS.CONTRATO_EMPRESA_ddl.sql em ts/DEMO_ODO
+[12/05/2017 11:47:27] Atribuído objeto do tipo Table - TS.CONTRATO_EMPRESA_ddl.sql em ts_teste/HOMO_ODO
+[12/05/2017 11:47:27] Atribuído objeto do tipo Table - TS.CONTRATO_EMPRESA_ddl.sql em ts/METLIFE
+[12/05/2017 11:47:27] Atribuído objeto do tipo Table - TS.CONTRATO_EMPRESA_ddl.sql em ml_teste/METLIFE_VAZIO
+[12/05/2017 11:47:27] Atribuído objeto do tipo Table - TS.ASS_ASSOCIADO_SMS_ddl.sql em ts/INST_ODO
+[12/05/2017 11:47:27] Atribuído objeto do tipo Table - TS.ASS_ASSOCIADO_SMS_ddl.sql em ts/DEMO_ODO
+[12/05/2017 11:47:27] Atribuído objeto do tipo Table - TS.ASS_ASSOCIADO_SMS_ddl.sql em ts_teste/HOMO_ODO
+[12/05/2017 11:47:27] Atribuído objeto do tipo Table - TS.ASS_ASSOCIADO_SMS_ddl.sql em ts/METLIFE
+[12/05/2017 11:47:27] Atribuído objeto do tipo Table - TS.ASS_ASSOCIADO_SMS_ddl.sql em ml_teste/METLIFE_VAZIO
+[12/05/2017 11:47:27] Atribuído objeto do tipo Sequence - TS.TS_NUM_SEQ_ASSOCIADO_SMS_SEQ_DDL.sql em ts/INST_ODO
+[12/05/2017 11:47:27] Atribuído objeto do tipo Sequence - TS.TS_NUM_SEQ_ASSOCIADO_SMS_SEQ_DDL.sql em ts/DEMO_ODO
+[12/05/2017 11:47:27] Atribuído objeto do tipo Sequence - TS.TS_NUM_SEQ_ASSOCIADO_SMS_SEQ_DDL.sql em ts_teste/HOMO_ODO
+[12/05/2017 11:47:27] Atribuído objeto do tipo Sequence - TS.TS_NUM_SEQ_ASSOCIADO_SMS_SEQ_DDL.sql em ts/METLIFE
+[12/05/2017 11:47:27] Atribuído objeto do tipo Sequence - TS.TS_NUM_SEQ_ASSOCIADO_SMS_SEQ_DDL.sql em ml_teste/METLIFE_VAZIO
+[12/05/2017 11:47:29] Sistema alterando o aplica para ordem certa de aplicação
+[12/05/2017 11:47:32] Selecionado P/ Não Criptografar em: INST_ODO DEMO_ODO HOMO_ODO METLIFE_VAZIO 
+[12/05/2017 11:47:32] Selecionado P/ Criptografar em: METLIFE 
+[12/05/2017 11:47:32] Arquivo "APLICA.SQL" criado com sucesso.
+[12/05/2017 11:47:42] Executado o aplica no sqlplus.
+[12/05/2017 11:58:22] Log de versões do CA 55439 aberto.
+[12/05/2017 12:08:48] Arquivo do pacote do CA 55439 extraído.
+[12/05/2017 12:09:01] Banco Selecionado Para aplicar: INST_ODO
+[12/05/2017 12:09:01] Banco Selecionado Para aplicar: DEMO_ODO
+[12/05/2017 12:09:01] Banco Selecionado Para aplicar: HOMO_ODO
+[12/05/2017 12:09:01] Banco Selecionado Para aplicar: METLIFE
+[12/05/2017 12:09:01] Banco Selecionado Para aplicar: METLIFE_VAZIO
+[12/05/2017 12:09:11] Atribuído objeto do tipo Job - TS.JOB_CADASTRO_ENVIO_SMS.sql em ts/INST_ODO
+[12/05/2017 12:09:11] Atribuído objeto do tipo Job - TS.JOB_CADASTRO_ENVIO_SMS.sql em ts/DEMO_ODO
+[12/05/2017 12:09:11] Atribuído objeto do tipo Job - TS.JOB_CADASTRO_ENVIO_SMS.sql em ts_teste/HOMO_ODO
+[12/05/2017 12:09:11] Atribuído objeto do tipo Job - TS.JOB_CADASTRO_ENVIO_SMS.sql em ts/METLIFE
+[12/05/2017 12:09:11] Atribuído objeto do tipo Job - TS.JOB_CADASTRO_ENVIO_SMS.sql em ml_teste/METLIFE_VAZIO
+[12/05/2017 12:09:11] Atribuído objeto do tipo Script - 03_SAC64583_Parametro_Sistema_SMS.sql em ts/INST_ODO
+[12/05/2017 12:09:11] Atribuído objeto do tipo Script - 03_SAC64583_Parametro_Sistema_SMS.sql em ts/DEMO_ODO
+[12/05/2017 12:09:11] Atribuído objeto do tipo Script - 03_SAC64583_Parametro_Sistema_SMS.sql em ts_teste/HOMO_ODO
+[12/05/2017 12:09:11] Atribuído objeto do tipo Script - 03_SAC64583_Parametro_Sistema_SMS.sql em ts/METLIFE
+[12/05/2017 12:09:11] Atribuído objeto do tipo Script - 03_SAC64583_Parametro_Sistema_SMS.sql em ml_teste/METLIFE_VAZIO
+[12/05/2017 12:09:11] Atribuído objeto do tipo Script - 02_SAC64583_Insert_Tipo_Comunicacao_Detalhe.sql em ts/INST_ODO
+[12/05/2017 12:09:11] Atribuído objeto do tipo Script - 02_SAC64583_Insert_Tipo_Comunicacao_Detalhe.sql em ts/DEMO_ODO
+[12/05/2017 12:09:11] Atribuído objeto do tipo Script - 02_SAC64583_Insert_Tipo_Comunicacao_Detalhe.sql em ts_teste/HOMO_ODO
+[12/05/2017 12:09:11] Atribuído objeto do tipo Script - 02_SAC64583_Insert_Tipo_Comunicacao_Detalhe.sql em ts/METLIFE
+[12/05/2017 12:09:11] Atribuído objeto do tipo Script - 02_SAC64583_Insert_Tipo_Comunicacao_Detalhe.sql em ml_teste/METLIFE_VAZIO
+[12/05/2017 12:09:11] Atribuído objeto do tipo Script - 01_SAC64583_Insert_Tipo_Comunicacao.sql em ts/INST_ODO
+[12/05/2017 12:09:11] Atribuído objeto do tipo Script - 01_SAC64583_Insert_Tipo_Comunicacao.sql em ts/DEMO_ODO
+[12/05/2017 12:09:11] Atribuído objeto do tipo Script - 01_SAC64583_Insert_Tipo_Comunicacao.sql em ts_teste/HOMO_ODO
+[12/05/2017 12:09:11] Atribuído objeto do tipo Script - 01_SAC64583_Insert_Tipo_Comunicacao.sql em ts/METLIFE
+[12/05/2017 12:09:11] Atribuído objeto do tipo Script - 01_SAC64583_Insert_Tipo_Comunicacao.sql em ml_teste/METLIFE_VAZIO
+[12/05/2017 12:09:11] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.ASS_ENVIA_SMS_ASSOCIADO_ddl.sql em ts/INST_ODO
+[12/05/2017 12:09:11] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.ASS_ENVIA_SMS_ASSOCIADO_ddl.sql em ts/DEMO_ODO
+[12/05/2017 12:09:11] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.ASS_ENVIA_SMS_ASSOCIADO_ddl.sql em ts_teste/HOMO_ODO
+[12/05/2017 12:09:11] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.ASS_ENVIA_SMS_ASSOCIADO_ddl.sql em ts/METLIFE
+[12/05/2017 12:09:11] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.ASS_ENVIA_SMS_ASSOCIADO_ddl.sql em ml_teste/METLIFE_VAZIO
+[12/05/2017 12:09:11] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.ASS_ASSOCIADO_SMS_ddl.sql em ts/INST_ODO
+[12/05/2017 12:09:11] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.ASS_ASSOCIADO_SMS_ddl.sql em ts/DEMO_ODO
+[12/05/2017 12:09:11] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.ASS_ASSOCIADO_SMS_ddl.sql em ts_teste/HOMO_ODO
+[12/05/2017 12:09:11] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.ASS_ASSOCIADO_SMS_ddl.sql em ts/METLIFE
+[12/05/2017 12:09:11] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.ASS_ASSOCIADO_SMS_ddl.sql em ml_teste/METLIFE_VAZIO
+[12/05/2017 12:09:11] Atribuído objeto do tipo Package - ts.con_rcs_dados_contrato_ddl.sql em ts/INST_ODO
+[12/05/2017 12:09:11] Atribuído objeto do tipo Package - ts.con_rcs_dados_contrato_ddl.sql em ts/DEMO_ODO
+[12/05/2017 12:09:11] Atribuído objeto do tipo Package - ts.con_rcs_dados_contrato_ddl.sql em ts_teste/HOMO_ODO
+[12/05/2017 12:09:11] Atribuído objeto do tipo Package - ts.con_rcs_dados_contrato_ddl.sql em ts/METLIFE
+[12/05/2017 12:09:11] Atribuído objeto do tipo Package - ts.con_rcs_dados_contrato_ddl.sql em ml_teste/METLIFE_VAZIO
+[12/05/2017 12:09:11] Atribuído objeto do tipo Package - TS.CON_GRAVA_CONTRATO_PKG_ddl.sql em ts/INST_ODO
+[12/05/2017 12:09:11] Atribuído objeto do tipo Package - TS.CON_GRAVA_CONTRATO_PKG_ddl.sql em ts/DEMO_ODO
+[12/05/2017 12:09:11] Atribuído objeto do tipo Package - TS.CON_GRAVA_CONTRATO_PKG_ddl.sql em ts_teste/HOMO_ODO
+[12/05/2017 12:09:11] Atribuído objeto do tipo Package - TS.CON_GRAVA_CONTRATO_PKG_ddl.sql em ts/METLIFE
+[12/05/2017 12:09:11] Atribuído objeto do tipo Package - TS.CON_GRAVA_CONTRATO_PKG_ddl.sql em ml_teste/METLIFE_VAZIO
+[12/05/2017 12:09:11] Atribuído objeto do tipo Package - TS.ASS_ENVIA_SMS_ASSOCIADO.sql em ts/INST_ODO
+[12/05/2017 12:09:11] Atribuído objeto do tipo Package - TS.ASS_ENVIA_SMS_ASSOCIADO.sql em ts/DEMO_ODO
+[12/05/2017 12:09:11] Atribuído objeto do tipo Package - TS.ASS_ENVIA_SMS_ASSOCIADO.sql em ts_teste/HOMO_ODO
+[12/05/2017 12:09:11] Atribuído objeto do tipo Package - TS.ASS_ENVIA_SMS_ASSOCIADO.sql em ts/METLIFE
+[12/05/2017 12:09:11] Atribuído objeto do tipo Package - TS.ASS_ENVIA_SMS_ASSOCIADO.sql em ml_teste/METLIFE_VAZIO
+[12/05/2017 12:09:11] Atribuído objeto do tipo Trigger - TS.TR_ASSOCIADO_12.sql em ts/INST_ODO
+[12/05/2017 12:09:11] Atribuído objeto do tipo Trigger - TS.TR_ASSOCIADO_12.sql em ts/DEMO_ODO
+[12/05/2017 12:09:11] Atribuído objeto do tipo Trigger - TS.TR_ASSOCIADO_12.sql em ts_teste/HOMO_ODO
+[12/05/2017 12:09:11] Atribuído objeto do tipo Trigger - TS.TR_ASSOCIADO_12.sql em ts/METLIFE
+[12/05/2017 12:09:11] Atribuído objeto do tipo Trigger - TS.TR_ASSOCIADO_12.sql em ml_teste/METLIFE_VAZIO
+[12/05/2017 12:09:11] Atribuído objeto do tipo Table - TS.CONTRATO_EMPRESA_ddl.sql em ts/INST_ODO
+[12/05/2017 12:09:11] Atribuído objeto do tipo Table - TS.CONTRATO_EMPRESA_ddl.sql em ts/DEMO_ODO
+[12/05/2017 12:09:11] Atribuído objeto do tipo Table - TS.CONTRATO_EMPRESA_ddl.sql em ts_teste/HOMO_ODO
+[12/05/2017 12:09:11] Atribuído objeto do tipo Table - TS.CONTRATO_EMPRESA_ddl.sql em ts/METLIFE
+[12/05/2017 12:09:11] Atribuído objeto do tipo Table - TS.CONTRATO_EMPRESA_ddl.sql em ml_teste/METLIFE_VAZIO
+[12/05/2017 12:09:11] Atribuído objeto do tipo Table - TS.ASS_ASSOCIADO_SMS_ddl.sql em ts/INST_ODO
+[12/05/2017 12:09:11] Atribuído objeto do tipo Table - TS.ASS_ASSOCIADO_SMS_ddl.sql em ts/DEMO_ODO
+[12/05/2017 12:09:11] Atribuído objeto do tipo Table - TS.ASS_ASSOCIADO_SMS_ddl.sql em ts_teste/HOMO_ODO
+[12/05/2017 12:09:11] Atribuído objeto do tipo Table - TS.ASS_ASSOCIADO_SMS_ddl.sql em ts/METLIFE
+[12/05/2017 12:09:11] Atribuído objeto do tipo Table - TS.ASS_ASSOCIADO_SMS_ddl.sql em ml_teste/METLIFE_VAZIO
+[12/05/2017 12:09:11] Atribuído objeto do tipo Sequence - TS.TS_NUM_SEQ_ASSOCIADO_SMS_SEQ_DDL.sql em ts/INST_ODO
+[12/05/2017 12:09:11] Atribuído objeto do tipo Sequence - TS.TS_NUM_SEQ_ASSOCIADO_SMS_SEQ_DDL.sql em ts/DEMO_ODO
+[12/05/2017 12:09:11] Atribuído objeto do tipo Sequence - TS.TS_NUM_SEQ_ASSOCIADO_SMS_SEQ_DDL.sql em ts_teste/HOMO_ODO
+[12/05/2017 12:09:11] Atribuído objeto do tipo Sequence - TS.TS_NUM_SEQ_ASSOCIADO_SMS_SEQ_DDL.sql em ts/METLIFE
+[12/05/2017 12:09:11] Atribuído objeto do tipo Sequence - TS.TS_NUM_SEQ_ASSOCIADO_SMS_SEQ_DDL.sql em ml_teste/METLIFE_VAZIO
+[12/05/2017 12:09:13] Sistema alterando o aplica para ordem certa de aplicação
+[12/05/2017 12:09:16] Selecionado P/ Não Criptografar em: INST_ODO DEMO_ODO HOMO_ODO METLIFE_VAZIO 
+[12/05/2017 12:09:16] Selecionado P/ Criptografar em: METLIFE 
+[12/05/2017 12:09:16] Arquivo "APLICA.SQL" criado com sucesso.
+[12/05/2017 12:09:25] Executado o aplica no sqlplus.
+[12/05/2017 12:16:00] Resultado do Login na WEB Metlife(dev)    (10.90.150.82): Sucesso Ao logar.
+[12/05/2017 12:16:01] Sistema procurará os arquivos na(s) pasta(s): JTopDown ReportsDental TopSaude 
+[12/05/2017 12:16:01] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[12/05/2017 12:16:03] Arquivo ENCONTRADO em \\10.90.150.82\TopSaude\web\ass\asp\ass0045a.asp
+[12/05/2017 12:16:03] Busca Aprofundada necessária não realizada
+[12/05/2017 12:16:03] Tempo que levou para achar todos os arquivos: 0 minuto(s), 1 segundo(s) e 617 milisegundo(s).
+[12/05/2017 12:16:05] K:\Pacotes\55401-55450\55439-hugo\web\ass\asp\ass0045a.asp copiado para \\10.90.150.82\TopSaude\web\ass\asp\ass0045a.asp
+[12/05/2017 12:16:16] Resultado do Login na WEB HOMOLOG V11    (10.10.100.147): Sucesso Ao logar.
+[12/05/2017 12:16:16] Sistema procurará os arquivos na(s) pasta(s): jtopdown TopSaude 
+[12/05/2017 12:16:16] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[12/05/2017 12:16:16] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\ass\asp\ass0045a.asp
+[12/05/2017 12:16:16] Busca Aprofundada necessária não realizada
+[12/05/2017 12:16:16] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 29 milisegundo(s).
+[12/05/2017 12:16:17] K:\Pacotes\55401-55450\55439-hugo\web\ass\asp\ass0045a.asp copiado para \\10.10.100.147\TopSaude\web\ass\asp\ass0045a.asp
+[12/05/2017 12:16:22] Resultado do Login na WEB Instalacao V11    (10.10.100.134): Sucesso Ao logar.
+[12/05/2017 12:16:22] Sistema procurará os arquivos na(s) pasta(s): Jtopdown TOPSAUDE 
+[12/05/2017 12:16:22] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[12/05/2017 12:16:22] Arquivo ENCONTRADO em \\10.10.100.134\TOPSAUDE\web\ass\asp\ass0045a.asp
+[12/05/2017 12:16:22] Busca Aprofundada necessária não realizada
+[12/05/2017 12:16:22] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 13 milisegundo(s).
+[12/05/2017 12:16:23] K:\Pacotes\55401-55450\55439-hugo\web\ass\asp\ass0045a.asp copiado para \\10.10.100.134\TOPSAUDE\web\ass\asp\ass0045a.asp
+[12/05/2017 12:16:28] Resultado do Login na WEB DEMO_ODO    (223.223.2.194): Sucesso Ao logar.
+[12/05/2017 12:16:28] Sistema procurará os arquivos na(s) pasta(s): jtopdown TopSaude 
+[12/05/2017 12:16:28] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[12/05/2017 12:16:28] Arquivo ENCONTRADO em \\223.223.2.194\TopSaude\web\ass\asp\ass0045a.asp
+[12/05/2017 12:16:28] Busca Aprofundada necessária não realizada
+[12/05/2017 12:16:28] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 19 milisegundo(s).
+[12/05/2017 12:16:29] K:\Pacotes\55401-55450\55439-hugo\web\ass\asp\ass0045a.asp copiado para \\223.223.2.194\TopSaude\web\ass\asp\ass0045a.asp
+[12/05/2017 12:18:55] Banco Selecionado Para aplicar: nuvem_01
+[12/05/2017 12:18:59] Atribuído objeto do tipo Job - TS.JOB_CADASTRO_ENVIO_SMS.sql em ts/nuvem_01
+[12/05/2017 12:18:59] Atribuído objeto do tipo Script - 03_SAC64583_Parametro_Sistema_SMS.sql em ts/nuvem_01
+[12/05/2017 12:18:59] Atribuído objeto do tipo Script - 02_SAC64583_Insert_Tipo_Comunicacao_Detalhe.sql em ts/nuvem_01
+[12/05/2017 12:18:59] Atribuído objeto do tipo Script - 01_SAC64583_Insert_Tipo_Comunicacao.sql em ts/nuvem_01
+[12/05/2017 12:18:59] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.ASS_ENVIA_SMS_ASSOCIADO_ddl.sql em ts/nuvem_01
+[12/05/2017 12:18:59] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.ASS_ASSOCIADO_SMS_ddl.sql em ts/nuvem_01
+[12/05/2017 12:18:59] Atribuído objeto do tipo Package - ts.con_rcs_dados_contrato_ddl.sql em ts/nuvem_01
+[12/05/2017 12:18:59] Atribuído objeto do tipo Package - TS.CON_GRAVA_CONTRATO_PKG_ddl.sql em ts/nuvem_01
+[12/05/2017 12:18:59] Atribuído objeto do tipo Package - TS.ASS_ENVIA_SMS_ASSOCIADO.sql em ts/nuvem_01
+[12/05/2017 12:18:59] Atribuído objeto do tipo Trigger - TS.TR_ASSOCIADO_12.sql em ts/nuvem_01
+[12/05/2017 12:18:59] Atribuído objeto do tipo Table - TS.CONTRATO_EMPRESA_ddl.sql em ts/nuvem_01
+[12/05/2017 12:18:59] Atribuído objeto do tipo Table - TS.ASS_ASSOCIADO_SMS_ddl.sql em ts/nuvem_01
+[12/05/2017 12:18:59] Atribuído objeto do tipo Sequence - TS.TS_NUM_SEQ_ASSOCIADO_SMS_SEQ_DDL.sql em ts/nuvem_01
+[12/05/2017 12:19:00] Sistema alterando o aplica para ordem certa de aplicação
+[12/05/2017 12:19:02] Selecionado P/ Não Criptografar em: nuvem_01 
+[12/05/2017 12:19:02] Selecionado P/ Criptografar em: 
+[12/05/2017 12:19:02] Arquivo "APLICA.SQL" criado com sucesso.
+[12/05/2017 12:19:10] Executado o aplica no sqlplus.
+[12/05/2017 14:39:32] Sistema finalizado.
+
+[12/05/2017 20:26:33] Sistema Iniciado.
+[12/05/2017 20:27:00] Aberto driver com Chrome.
+[12/05/2017 20:29:41] Controle instanciado: 55483
+[12/05/2017 20:35:52] Arquivo do pacote do CA 55483 extraído.
+[12/05/2017 20:36:01] Banco Selecionado Para aplicar: SEG_DES8
+[12/05/2017 20:36:05] Atribuído objeto do tipo Script - TS.MC_TIPO_MENSAGEM_INS_001_dml.sql em ts/SEG_DES8
+[12/05/2017 20:36:05] Atribuído objeto do tipo Script - 65082_SCRIPT_CONTROLE_SISTEMA_CORREIOS_INSERT_DDL.SQL em ts/SEG_DES8
+[12/05/2017 20:36:05] Atribuído objeto do tipo Script - 64552_SCRIPT_CONTROLE_SISTEMA_INSERT_DDL.SQL em ts/SEG_DES8
+[12/05/2017 20:36:05] Atribuído objeto do tipo Script - 64552_SCRIPT_CONTROLE_SISTEMALOGO_RN412_INSERT_DDL.SQL em ts/SEG_DES8
+[12/05/2017 20:36:05] Atribuído objeto do tipo Package - TS.ASS_QRY_REL_RN412_SEGUROS_DDL.SQL em ts/SEG_DES8
+[12/05/2017 20:36:05] Atribuído objeto do tipo Procedure - TS.MC_GRAVA_ASSOCIADO_MOV_ddl.sql em ts/SEG_DES8
+[12/05/2017 20:36:05] Atribuído objeto do tipo Procedure - TS.MC_FECHA_LOTE_ddl.sql em ts/SEG_DES8
+[12/05/2017 20:36:05] Atribuído objeto do tipo Procedure - TS.MC_CARGA_ARQUIVO_SEGUROS_ddl.sql em ts/SEG_DES8
+[12/05/2017 20:36:05] Atribuído objeto do tipo Procedure - TS.ASS_VALIDA_EXCLUSAO_ddl.sql em ts/SEG_DES8
+[12/05/2017 20:36:05] Atribuído objeto do tipo Procedure - TS.ASS_RASTREABILIDADE_RN412_ddl.sql em ts/SEG_DES8
+[12/05/2017 20:36:05] Atribuído objeto do tipo Procedure - TS.ASS_GERA_RN412_dml.sql em ts/SEG_DES8
+[12/05/2017 20:36:05] Atribuído objeto do tipo Procedure - TS.ASS_EXECUTA_EXCLUSAO_ddl.sql em ts/SEG_DES8
+[12/05/2017 20:36:05] Atribuído objeto do tipo Function - TS.ASS_RETORNA_TITULARES_ddl.sql em ts/SEG_DES8
+[12/05/2017 20:36:05] Atribuído objeto do tipo Table - TS.MC_ASSOCIADO_MOV_ddl.sql em ts/SEG_DES8
+[12/05/2017 20:36:12] Sistema alterando o aplica para ordem certa de aplicação
+[12/05/2017 20:36:14] Selecionado P/ Não Criptografar em: SEG_DES8 
+[12/05/2017 20:36:14] Selecionado P/ Criptografar em: 
+[12/05/2017 20:36:15] Arquivo "APLICA.SQL" criado com sucesso.
+[12/05/2017 20:36:27] Banco Selecionado Para aplicar: SEG_DES8
+[12/05/2017 20:36:30] Atribuído objeto do tipo Script - TS.MC_TIPO_MENSAGEM_INS_001_dml.sql em ts/SEG_DES8
+[12/05/2017 20:36:30] Atribuído objeto do tipo Script - 65082_SCRIPT_CONTROLE_SISTEMA_CORREIOS_INSERT_DDL.SQL em ts/SEG_DES8
+[12/05/2017 20:36:30] Atribuído objeto do tipo Script - 64552_SCRIPT_CONTROLE_SISTEMA_INSERT_DDL.SQL em ts/SEG_DES8
+[12/05/2017 20:36:30] Atribuído objeto do tipo Script - 64552_SCRIPT_CONTROLE_SISTEMALOGO_RN412_INSERT_DDL.SQL em ts/SEG_DES8
+[12/05/2017 20:36:30] Atribuído objeto do tipo Package - TS.ASS_QRY_REL_RN412_SEGUROS_DDL.SQL em ts/SEG_DES8
+[12/05/2017 20:36:30] Atribuído objeto do tipo Procedure - TS.MC_GRAVA_ASSOCIADO_MOV_ddl.sql em ts/SEG_DES8
+[12/05/2017 20:36:30] Atribuído objeto do tipo Procedure - TS.MC_FECHA_LOTE_ddl.sql em ts/SEG_DES8
+[12/05/2017 20:36:30] Atribuído objeto do tipo Procedure - TS.MC_CARGA_ARQUIVO_SEGUROS_ddl.sql em ts/SEG_DES8
+[12/05/2017 20:36:30] Atribuído objeto do tipo Procedure - TS.ASS_VALIDA_EXCLUSAO_ddl.sql em ts/SEG_DES8
+[12/05/2017 20:36:30] Atribuído objeto do tipo Procedure - TS.ASS_RASTREABILIDADE_RN412_ddl.sql em ts/SEG_DES8
+[12/05/2017 20:36:30] Atribuído objeto do tipo Procedure - TS.ASS_GERA_RN412_dml.sql em ts/SEG_DES8
+[12/05/2017 20:36:30] Atribuído objeto do tipo Procedure - TS.ASS_EXECUTA_EXCLUSAO_ddl.sql em ts/SEG_DES8
+[12/05/2017 20:36:30] Atribuído objeto do tipo Function - TS.ASS_RETORNA_TITULARES_ddl.sql em ts/SEG_DES8
+[12/05/2017 20:36:30] Atribuído objeto do tipo Table - TS.MC_ASSOCIADO_MOV_ddl.sql em ts/SEG_DES8
+[12/05/2017 20:36:31] Sistema alterando o aplica para ordem certa de aplicação
+[12/05/2017 20:36:33] Selecionado P/ Não Criptografar em: 
+[12/05/2017 20:36:33] Selecionado P/ Criptografar em: SEG_DES8 
+[12/05/2017 20:36:33] Arquivo "APLICA.SQL" criado com sucesso.
+[12/05/2017 20:36:43] Executado o aplica no sqlplus.
+[12/05/2017 20:39:49] Log de aplicão no banco do CA 55483 aberto.
+[12/05/2017 20:40:25] Resultado do Login na WEB SEGUROS UNIMED    (10.10.100.135): Sucesso Ao logar.
+[12/05/2017 20:40:25] Sistema procurará os arquivos na(s) pasta(s): jtopdown TopSaude 
+[12/05/2017 20:40:25] Quantidade de Arquivos: 12 (arquivos que não estão na raíz).
+[12/05/2017 20:40:25] Arquivo ENCONTRADO em \\10.10.100.135\TopSaude\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\ass\TsAss2012JR.jasper
+[12/05/2017 20:40:25] Arquivo ENCONTRADO em \\10.10.100.135\TopSaude\web\ass\asp\ass0016a.asp
+[12/05/2017 20:40:25] Arquivo ENCONTRADO em \\10.10.100.135\TopSaude\web\ass\asp\ass0016b.asp
+[12/05/2017 20:40:25] Arquivo ENCONTRADO em \\10.10.100.135\TopSaude\web\ass\asp\ass0029a.asp
+[12/05/2017 20:40:25] Arquivo ENCONTRADO em \\10.10.100.135\TopSaude\web\ass\asp\ass0065a.asp
+[12/05/2017 20:40:25] Arquivo ENCONTRADO em \\10.10.100.135\TopSaude\web\ass\asp\ass0065b.asp
+[12/05/2017 20:40:25] Arquivo ENCONTRADO em \\10.10.100.135\TopSaude\web\ass\asp\ass1100a.asp
+[12/05/2017 20:40:25] Arquivo ENCONTRADO em \\10.10.100.135\TopSaude\web\ass\asp\ass1100b.asp
+[12/05/2017 20:40:25] Arquivo ENCONTRADO em \\10.10.100.135\TopSaude\web\ass\asp\ass1101b.asp
+[12/05/2017 20:40:25] Arquivo ENCONTRADO em \\10.10.100.135\TopSaude\web\portal\asp\portal_ass0016a.asp
+[12/05/2017 20:40:25] Arquivo ENCONTRADO em \\10.10.100.135\TopSaude\web\portal\asp\portal_ass0016b.asp
+[12/05/2017 20:40:25] Arquivo ENCONTRADO em \\10.10.100.135\TopSaude\web\portal\asp\portal_ass0044c.asp
+[12/05/2017 20:40:25] Busca Aprofundada necessária não realizada
+[12/05/2017 20:40:25] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 95 milisegundo(s).
+[12/05/2017 20:40:26] K:\Pacotes\55451-55500\55483-JOAO\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\ass\TsAss2012JR.jasper copiado para \\10.10.100.135\TopSaude\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\ass\TsAss2012JR.jasper
+[12/05/2017 20:40:27] K:\Pacotes\55451-55500\55483-JOAO\web\ass\asp\ass0016a.asp copiado para \\10.10.100.135\TopSaude\web\ass\asp\ass0016a.asp
+[12/05/2017 20:40:27] K:\Pacotes\55451-55500\55483-JOAO\web\ass\asp\ass0016b.asp copiado para \\10.10.100.135\TopSaude\web\ass\asp\ass0016b.asp
+[12/05/2017 20:40:27] K:\Pacotes\55451-55500\55483-JOAO\web\ass\asp\ass0029a.asp copiado para \\10.10.100.135\TopSaude\web\ass\asp\ass0029a.asp
+[12/05/2017 20:40:27] K:\Pacotes\55451-55500\55483-JOAO\web\ass\asp\ass0065a.asp copiado para \\10.10.100.135\TopSaude\web\ass\asp\ass0065a.asp
+[12/05/2017 20:40:27] K:\Pacotes\55451-55500\55483-JOAO\web\ass\asp\ass0065b.asp copiado para \\10.10.100.135\TopSaude\web\ass\asp\ass0065b.asp
+[12/05/2017 20:40:27] K:\Pacotes\55451-55500\55483-JOAO\web\ass\asp\ass1100a.asp copiado para \\10.10.100.135\TopSaude\web\ass\asp\ass1100a.asp
+[12/05/2017 20:40:27] K:\Pacotes\55451-55500\55483-JOAO\web\ass\asp\ass1100b.asp copiado para \\10.10.100.135\TopSaude\web\ass\asp\ass1100b.asp
+[12/05/2017 20:40:27] K:\Pacotes\55451-55500\55483-JOAO\web\ass\asp\ass1101b.asp copiado para \\10.10.100.135\TopSaude\web\ass\asp\ass1101b.asp
+[12/05/2017 20:40:27] K:\Pacotes\55451-55500\55483-JOAO\web\portal\asp\portal_ass0016a.asp copiado para \\10.10.100.135\TopSaude\web\portal\asp\portal_ass0016a.asp
+[12/05/2017 20:40:27] K:\Pacotes\55451-55500\55483-JOAO\web\portal\asp\portal_ass0016b.asp copiado para \\10.10.100.135\TopSaude\web\portal\asp\portal_ass0016b.asp
+[12/05/2017 20:40:27] K:\Pacotes\55451-55500\55483-JOAO\web\portal\asp\portal_ass0044c.asp copiado para \\10.10.100.135\TopSaude\web\portal\asp\portal_ass0044c.asp
+[12/05/2017 21:05:21] Arquivo do pacote do CA 55483 extraído.
+[12/05/2017 21:05:27] Banco Selecionado Para aplicar: SEG_DES8
+[12/05/2017 21:05:27] Banco Selecionado Para aplicar: SEG_VAZIO
+[12/05/2017 21:05:33] Atribuído objeto do tipo Script - TS.MC_TIPO_MENSAGEM_INS_001_dml.sql em ts/SEG_DES8
+[12/05/2017 21:05:33] Atribuído objeto do tipo Script - TS.MC_TIPO_MENSAGEM_INS_001_dml.sql em seg_teste/SEG_VAZIO
+[12/05/2017 21:05:33] Atribuído objeto do tipo Script - SAC64552_TS_CONTRATO_COBRANCA_UPDATE.sql em ts/SEG_DES8
+[12/05/2017 21:05:33] Atribuído objeto do tipo Script - SAC64552_TS_CONTRATO_COBRANCA_UPDATE.sql em seg_teste/SEG_VAZIO
+[12/05/2017 21:05:33] Atribuído objeto do tipo Script - 65082_SCRIPT_CONTROLE_SISTEMA_CORREIOS_INSERT_DDL.SQL em ts/SEG_DES8
+[12/05/2017 21:05:33] Atribuído objeto do tipo Script - 65082_SCRIPT_CONTROLE_SISTEMA_CORREIOS_INSERT_DDL.SQL em seg_teste/SEG_VAZIO
+[12/05/2017 21:05:33] Atribuído objeto do tipo Script - 64552_SCRIPT_CONTROLE_SISTEMA_INSERT_DDL.SQL em ts/SEG_DES8
+[12/05/2017 21:05:33] Atribuído objeto do tipo Script - 64552_SCRIPT_CONTROLE_SISTEMA_INSERT_DDL.SQL em seg_teste/SEG_VAZIO
+[12/05/2017 21:05:33] Atribuído objeto do tipo Script - 64552_SCRIPT_CONTROLE_SISTEMALOGO_RN412_INSERT_DDL.SQL em ts/SEG_DES8
+[12/05/2017 21:05:33] Atribuído objeto do tipo Script - 64552_SCRIPT_CONTROLE_SISTEMALOGO_RN412_INSERT_DDL.SQL em seg_teste/SEG_VAZIO
+[12/05/2017 21:05:33] Atribuído objeto do tipo Package - TS.ASS_QRY_REL_RN412_SEGUROS_DDL.SQL em ts/SEG_DES8
+[12/05/2017 21:05:33] Atribuído objeto do tipo Package - TS.ASS_QRY_REL_RN412_SEGUROS_DDL.SQL em seg_teste/SEG_VAZIO
+[12/05/2017 21:05:33] Atribuído objeto do tipo Procedure - TS.MC_GRAVA_ASSOCIADO_MOV_ddl.sql em ts/SEG_DES8
+[12/05/2017 21:05:33] Atribuído objeto do tipo Procedure - TS.MC_GRAVA_ASSOCIADO_MOV_ddl.sql em seg_teste/SEG_VAZIO
+[12/05/2017 21:05:33] Atribuído objeto do tipo Procedure - TS.MC_FECHA_LOTE_ddl.sql em ts/SEG_DES8
+[12/05/2017 21:05:33] Atribuído objeto do tipo Procedure - TS.MC_FECHA_LOTE_ddl.sql em seg_teste/SEG_VAZIO
+[12/05/2017 21:05:33] Atribuído objeto do tipo Procedure - TS.MC_CARGA_ARQUIVO_SEGUROS_ddl.sql em ts/SEG_DES8
+[12/05/2017 21:05:33] Atribuído objeto do tipo Procedure - TS.MC_CARGA_ARQUIVO_SEGUROS_ddl.sql em seg_teste/SEG_VAZIO
+[12/05/2017 21:05:33] Atribuído objeto do tipo Procedure - TS.ASS_VALIDA_EXCLUSAO_ddl.sql em ts/SEG_DES8
+[12/05/2017 21:05:33] Atribuído objeto do tipo Procedure - TS.ASS_VALIDA_EXCLUSAO_ddl.sql em seg_teste/SEG_VAZIO
+[12/05/2017 21:05:33] Atribuído objeto do tipo Procedure - TS.ASS_RASTREABILIDADE_RN412_ddl.sql em ts/SEG_DES8
+[12/05/2017 21:05:33] Atribuído objeto do tipo Procedure - TS.ASS_RASTREABILIDADE_RN412_ddl.sql em seg_teste/SEG_VAZIO
+[12/05/2017 21:05:33] Atribuído objeto do tipo Procedure - TS.ASS_GERA_RN412_dml.sql em ts/SEG_DES8
+[12/05/2017 21:05:33] Atribuído objeto do tipo Procedure - TS.ASS_GERA_RN412_dml.sql em seg_teste/SEG_VAZIO
+[12/05/2017 21:05:33] Atribuído objeto do tipo Procedure - TS.ASS_EXECUTA_EXCLUSAO_ddl.sql em ts/SEG_DES8
+[12/05/2017 21:05:33] Atribuído objeto do tipo Procedure - TS.ASS_EXECUTA_EXCLUSAO_ddl.sql em seg_teste/SEG_VAZIO
+[12/05/2017 21:05:33] Atribuído objeto do tipo Function - TS.ASS_RETORNA_TITULARES_ddl.sql em ts/SEG_DES8
+[12/05/2017 21:05:33] Atribuído objeto do tipo Function - TS.ASS_RETORNA_TITULARES_ddl.sql em seg_teste/SEG_VAZIO
+[12/05/2017 21:05:33] Atribuído objeto do tipo Table - TS.MC_ASSOCIADO_MOV_ddl.sql em ts/SEG_DES8
+[12/05/2017 21:05:33] Atribuído objeto do tipo Table - TS.MC_ASSOCIADO_MOV_ddl.sql em seg_teste/SEG_VAZIO
+[12/05/2017 21:05:34] Sistema alterando o aplica para ordem certa de aplicação
+[12/05/2017 21:05:39] Selecionado P/ Não Criptografar em: SEG_VAZIO 
+[12/05/2017 21:05:39] Selecionado P/ Criptografar em: SEG_DES8 
+[12/05/2017 21:05:39] Arquivo "APLICA.SQL" criado com sucesso.
+[12/05/2017 21:05:45] Executado o aplica no sqlplus.
+[12/05/2017 21:11:17] Sistema finalizado.
+

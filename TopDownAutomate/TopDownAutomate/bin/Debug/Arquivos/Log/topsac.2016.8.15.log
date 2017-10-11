@@ -1,0 +1,45 @@
+[15/08/2016 10:58:48] Sistema Iniciado.
+[15/08/2016 11:14:41] Aberto driver com Chrome.
+[15/08/2016 11:15:32] Controle instanciado: 52554
+[15/08/2016 11:32:33] Arquivo do pacote do CA 52554 extraído.
+[15/08/2016 11:32:45] Banco Selecionado Para aplicar: TA_HOMOLOG
+[15/08/2016 11:32:48] Atribuído objeto do tipo Package - ASS_EXPORTA_ASSIM_pkg_bdy.sql em ta_homolog/TA_HOMOLOG
+[15/08/2016 11:32:50] Sistema alterando o aplica para ordem certa de aplicação
+[15/08/2016 11:32:54] Selecionado P/ Não Criptografar em: TA_HOMOLOG 
+[15/08/2016 11:32:54] Selecionado P/ Criptografar em: 
+[15/08/2016 11:32:54] Arquivo "APLICA.SQL" criado com sucesso.
+[15/08/2016 11:33:06] Executado o aplica no sqlplus.
+[15/08/2016 11:38:02] Log de aplicão no banco do CA 52554 aberto.
+[15/08/2016 15:39:09] Sistema finalizado.
+
+[15/08/2016 15:39:14] Sistema Iniciado.
+[15/08/2016 15:40:30] Aberto driver com Chrome.
+[15/08/2016 15:41:10] Controle instanciado: 52627
+[15/08/2016 15:41:48] Arquivo do pacote do CA 52627 extraído.
+[15/08/2016 15:44:24] Resultado do Login na WEB TOPADM    (10.10.100.138): Sucesso Ao logar.
+[15/08/2016 15:44:24] Sistema procurará os arquivos na(s) pasta(s): Admin2 app jtopdown PROJETOS 
+[15/08/2016 15:44:24] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[15/08/2016 15:51:14] Realizando busca aprofundada para objetos não encontrados...
+[15/08/2016 15:51:22] Tempo que levou para achar todos os arquivos: 6 minuto(s), 58 segundo(s) e 640 milisegundo(s).
+[15/08/2016 15:51:43] Resultado do Login na WEB TOPADM    (10.10.100.138): Sucesso Ao logar.
+[15/08/2016 15:51:43] Sistema procurará os arquivos na(s) pasta(s): Admin2 app jtopdown PROJETOS 
+[15/08/2016 15:51:43] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[15/08/2016 15:52:06] Realizando busca aprofundada para objetos não encontrados...
+[15/08/2016 15:52:14] Tempo que levou para achar todos os arquivos: 0 minuto(s), 30 segundo(s) e 456 milisegundo(s).
+[15/08/2016 15:52:48] Sistema finalizado.
+
+[15/08/2016 15:52:49] Sistema Iniciado.
+[15/08/2016 15:52:59] Aberto driver com Chrome.
+[15/08/2016 15:55:01] Controle instanciado: 52554
+[15/08/2016 17:34:58] Sistema finalizado.
+
+[15/08/2016 17:34:59] Sistema Iniciado.
+[15/08/2016 17:35:15] Aberto driver com Chrome.
+[15/08/2016 17:35:31] Controle instanciado: 52554
+[15/08/2016 17:35:53] Arquivo do pacote do CA 52554 extraído.
+[15/08/2016 17:35:57] Executado o aplica no sqlplus.
+[15/08/2016 17:43:42] Sistema finalizado.
+
+[15/08/2016 17:44:35] Sistema Iniciado.
+[15/08/2016 17:44:43] Sistema finalizado.
+

@@ -1,0 +1,157 @@
+[12/04/2017 16:44:22] Sistema Iniciado.
+[12/04/2017 16:44:45] Aberto driver com Chrome.
+[12/04/2017 16:45:05] Controle instanciado: 55175
+[12/04/2017 16:45:19] Arquivo do pacote do CA 55175 extraído.
+[12/04/2017 16:45:23] Log de versões do CA 55175 aberto.
+[12/04/2017 16:45:33] Log de versões do CA 55175 aberto.
+[12/04/2017 16:49:50] Resultado do Login na WEB HOMOLOG V11    (10.10.100.147): Sucesso Ao logar.
+[12/04/2017 16:49:50] Sistema procurará os arquivos na(s) pasta(s): jtopdown TopSaude 
+[12/04/2017 16:49:51] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[12/04/2017 16:49:51] Arquivo ENCONTRADO em \\10.10.100.147\TopSaude\web\odo_gen\asp\ODO_GEN0070d.asp
+[12/04/2017 16:49:51] Busca Aprofundada necessária não realizada
+[12/04/2017 16:49:51] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 15 milisegundo(s).
+[12/04/2017 16:49:53] Alterando atributo de arquivo de somente leitura.
+[12/04/2017 16:49:53] K:\Pacotes\55151-55200\55175-FABIO\web\odo_gen\asp\ODO_GEN0070d.asp copiado para \\10.10.100.147\TopSaude\web\odo_gen\asp\ODO_GEN0070d.asp
+[12/04/2017 16:49:59] Resultado do Login na WEB DEMO_ODO    (223.223.2.194): Sucesso Ao logar.
+[12/04/2017 16:49:59] Sistema procurará os arquivos na(s) pasta(s): jtopdown TopSaude 
+[12/04/2017 16:49:59] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[12/04/2017 16:49:59] Arquivo ENCONTRADO em \\223.223.2.194\TopSaude\web\odo_gen\asp\ODO_GEN0070d.asp
+[12/04/2017 16:49:59] Busca Aprofundada necessária não realizada
+[12/04/2017 16:49:59] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 21 milisegundo(s).
+[12/04/2017 16:50:00] K:\Pacotes\55151-55200\55175-FABIO\web\odo_gen\asp\ODO_GEN0070d.asp copiado para \\223.223.2.194\TopSaude\web\odo_gen\asp\ODO_GEN0070d.asp
+[12/04/2017 16:50:06] Resultado do Login na WEB Instalacao V11    (10.10.100.134): Sucesso Ao logar.
+[12/04/2017 16:50:06] Sistema procurará os arquivos na(s) pasta(s): Jtopdown TOPSAUDE 
+[12/04/2017 16:50:06] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[12/04/2017 16:50:06] Arquivo ENCONTRADO em \\10.10.100.134\TOPSAUDE\web\odo_gen\asp\ODO_GEN0070d.asp
+[12/04/2017 16:50:06] Busca Aprofundada necessária não realizada
+[12/04/2017 16:50:06] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 73 milisegundo(s).
+[12/04/2017 16:50:07] K:\Pacotes\55151-55200\55175-FABIO\web\odo_gen\asp\ODO_GEN0070d.asp copiado para \\10.10.100.134\TOPSAUDE\web\odo_gen\asp\ODO_GEN0070d.asp
+[12/04/2017 16:50:16] Resultado do Login na WEB Metlife(dev)    (10.90.150.82): Sucesso Ao logar.
+[12/04/2017 16:50:19] Sistema procurará os arquivos na(s) pasta(s): JTopDown ReportsDental TopSaude 
+[12/04/2017 16:50:19] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[12/04/2017 16:50:22] Arquivo ENCONTRADO em \\10.90.150.82\TopSaude\web\odo_gen\asp\ODO_GEN0070d.asp
+[12/04/2017 16:50:22] Busca Aprofundada necessária não realizada
+[12/04/2017 16:50:22] Tempo que levou para achar todos os arquivos: 0 minuto(s), 2 segundo(s) e 897 milisegundo(s).
+[12/04/2017 16:50:29] K:\Pacotes\55151-55200\55175-FABIO\web\odo_gen\asp\ODO_GEN0070d.asp copiado para \\10.90.150.82\TopSaude\web\odo_gen\asp\ODO_GEN0070d.asp
+[12/04/2017 17:01:30] Resultado do Login na WEB Metlife(dev)    (10.90.150.82): Sucesso Ao logar.
+[12/04/2017 17:01:31] Sistema finalizado.
+
+[12/04/2017 19:25:00] Sistema Iniciado.
+[12/04/2017 19:25:29] Aberto driver com Chrome.
+[12/04/2017 19:25:46] Controle instanciado: 55146
+[12/04/2017 19:30:55] Banco Selecionado Para aplicar: GIST
+[12/04/2017 19:30:59] Atribuído objeto do tipo Script - TS_JOB_TMR_RETORNO_ARQ_ddl.sql em ts/GIST
+[12/04/2017 19:30:59] Atribuído objeto do tipo Script - CRIA_UTL_FILE_TMR_DDL.SQL em ts/GIST
+[12/04/2017 19:30:59] Atribuído objeto do tipo Package - TS.ITF_TMR_SOMPO_ddl.sql em ts/GIST
+[12/04/2017 19:30:59] Atribuído objeto do tipo Procedure - TS.PRS_PRESTADOR_SERVICO_ddl.sql em ts/GIST
+[12/04/2017 19:30:59] Atribuído objeto do tipo Procedure - ts.cm_complementa_xml_ddl.sql em ts/GIST
+[12/04/2017 19:31:01] Sistema alterando o aplica para ordem certa de aplicação
+[12/04/2017 19:31:29] Selecionado P/ Não Criptografar em: 
+[12/04/2017 19:31:29] Selecionado P/ Criptografar em: GIST 
+[12/04/2017 19:31:29] Arquivo "APLICA.SQL" criado com sucesso.
+[12/04/2017 19:32:14] Erro de de execução no sqlplus.
+[12/04/2017 19:32:23] Executado o aplica no sqlplus.
+[12/04/2017 19:35:44] Log de aplicão no banco do CA 55146 aberto.
+[12/04/2017 19:36:33] Executado o aplica no sqlplus.
+[12/04/2017 19:38:11] Log de aplicão no banco do CA 55146 aberto.
+[12/04/2017 19:38:42] Banco Selecionado Para aplicar: MAR_VAZIO
+[12/04/2017 19:38:46] Atribuído objeto do tipo Script - TS_JOB_TMR_RETORNO_ARQ_ddl.sql em mar_teste/MAR_VAZIO
+[12/04/2017 19:38:46] Atribuído objeto do tipo Script - CRIA_UTL_FILE_TMR_DDL.SQL em mar_teste/MAR_VAZIO
+[12/04/2017 19:38:46] Atribuído objeto do tipo Package - TS.ITF_TMR_SOMPO_ddl.sql em mar_teste/MAR_VAZIO
+[12/04/2017 19:38:46] Atribuído objeto do tipo Procedure - TS.PRS_PRESTADOR_SERVICO_ddl.sql em mar_teste/MAR_VAZIO
+[12/04/2017 19:38:46] Atribuído objeto do tipo Procedure - ts.cm_complementa_xml_ddl.sql em mar_teste/MAR_VAZIO
+[12/04/2017 19:38:48] Sistema alterando o aplica para ordem certa de aplicação
+[12/04/2017 19:38:50] Selecionado P/ Não Criptografar em: MAR_VAZIO 
+[12/04/2017 19:38:50] Selecionado P/ Criptografar em: 
+[12/04/2017 19:38:50] Arquivo "APLICA.SQL" criado com sucesso.
+[12/04/2017 19:38:55] Executado o aplica no sqlplus.
+[12/04/2017 19:39:03] Log de aplicão no banco do CA 55146 aberto.
+[12/04/2017 19:43:22] Executado o aplica no sqlplus.
+[12/04/2017 19:43:29] Log de aplicão no banco do CA 55146 aberto.
+[12/04/2017 19:52:27] Arquivo do pacote do CA 55146 extraído.
+[12/04/2017 19:52:47] Banco Selecionado Para aplicar: MAR_VAZIO
+[12/04/2017 19:52:47] Banco Selecionado Para aplicar: GIST
+[12/04/2017 19:52:53] Atribuído objeto do tipo Script - TS_JOB_TMR_RETORNO_ARQ_ddl.sql em mar_teste/MAR_VAZIO
+[12/04/2017 19:52:53] Atribuído objeto do tipo Script - TS_JOB_TMR_RETORNO_ARQ_ddl.sql em ts/GIST
+[12/04/2017 19:52:53] Atribuído objeto do tipo Script - CRIA_UTL_FILE_TMR_DDL.SQL em mar_teste/MAR_VAZIO
+[12/04/2017 19:52:53] Atribuído objeto do tipo Script - CRIA_UTL_FILE_TMR_DDL.SQL em ts/GIST
+[12/04/2017 19:52:53] Atribuído objeto do tipo Package - TS.ITF_TMR_SOMPO_ddl.sql em mar_teste/MAR_VAZIO
+[12/04/2017 19:52:53] Atribuído objeto do tipo Package - TS.ITF_TMR_SOMPO_ddl.sql em ts/GIST
+[12/04/2017 19:52:53] Atribuído objeto do tipo Procedure - TS.TS_NOVO_PRESTADOR_ddl.sql em mar_teste/MAR_VAZIO
+[12/04/2017 19:52:53] Atribuído objeto do tipo Procedure - TS.TS_NOVO_PRESTADOR_ddl.sql em ts/GIST
+[12/04/2017 19:52:53] Atribuído objeto do tipo Procedure - TS.PRS_PRESTADOR_SERVICO_ddl.sql em mar_teste/MAR_VAZIO
+[12/04/2017 19:52:53] Atribuído objeto do tipo Procedure - TS.PRS_PRESTADOR_SERVICO_ddl.sql em ts/GIST
+[12/04/2017 19:52:53] Atribuído objeto do tipo Procedure - ts.cm_complementa_xml_ddl.sql em mar_teste/MAR_VAZIO
+[12/04/2017 19:52:53] Atribuído objeto do tipo Procedure - ts.cm_complementa_xml_ddl.sql em ts/GIST
+[12/04/2017 19:52:53] Atribuído objeto do tipo Table - ts.prestador_servico_ddl.sql em mar_teste/MAR_VAZIO
+[12/04/2017 19:52:53] Atribuído objeto do tipo Table - ts.prestador_servico_ddl.sql em ts/GIST
+[12/04/2017 19:52:53] Atribuído objeto do tipo Table - TS.PRESTADOR_EMPRESA_CONECT_ddl.sql em mar_teste/MAR_VAZIO
+[12/04/2017 19:52:53] Atribuído objeto do tipo Table - TS.PRESTADOR_EMPRESA_CONECT_ddl.sql em ts/GIST
+[12/04/2017 19:52:53] Atribuído objeto do tipo Table - TS.EMPRESA_CONECTIVIDADE_ddl.sql em mar_teste/MAR_VAZIO
+[12/04/2017 19:52:53] Atribuído objeto do tipo Table - TS.EMPRESA_CONECTIVIDADE_ddl.sql em ts/GIST
+[12/04/2017 19:52:56] Sistema alterando o aplica para ordem certa de aplicação
+[12/04/2017 19:52:58] Selecionado P/ Não Criptografar em: MAR_VAZIO 
+[12/04/2017 19:52:58] Selecionado P/ Criptografar em: GIST 
+[12/04/2017 19:52:59] Arquivo "APLICA.SQL" criado com sucesso.
+[12/04/2017 19:53:05] Executado o aplica no sqlplus.
+[12/04/2017 19:56:59] Banco Selecionado Para aplicar: MAR_VAZIO
+[12/04/2017 19:57:03] Atribuído objeto do tipo Script - TS_JOB_TMR_RETORNO_ARQ_ddl.sql em mar_teste/MAR_VAZIO
+[12/04/2017 19:57:03] Atribuído objeto do tipo Script - CRIA_UTL_FILE_TMR_DDL.SQL em mar_teste/MAR_VAZIO
+[12/04/2017 19:57:03] Atribuído objeto do tipo Package - TS.ITF_TMR_SOMPO_ddl.sql em mar_teste/MAR_VAZIO
+[12/04/2017 19:57:03] Atribuído objeto do tipo Procedure - TS.TS_NOVO_PRESTADOR_ddl.sql em mar_teste/MAR_VAZIO
+[12/04/2017 19:57:03] Atribuído objeto do tipo Procedure - TS.PRS_PRESTADOR_SERVICO_ddl.sql em mar_teste/MAR_VAZIO
+[12/04/2017 19:57:03] Atribuído objeto do tipo Procedure - ts.cm_complementa_xml_ddl.sql em mar_teste/MAR_VAZIO
+[12/04/2017 19:57:03] Atribuído objeto do tipo Table - ts.prestador_servico_ddl.sql em mar_teste/MAR_VAZIO
+[12/04/2017 19:57:03] Atribuído objeto do tipo Table - TS.PRESTADOR_EMPRESA_CONECT_ddl.sql em mar_teste/MAR_VAZIO
+[12/04/2017 19:57:03] Atribuído objeto do tipo Table - TS.EMPRESA_CONECTIVIDADE_ddl.sql em mar_teste/MAR_VAZIO
+[12/04/2017 19:57:04] Sistema alterando o aplica para ordem certa de aplicação
+[12/04/2017 19:57:06] Selecionado P/ Não Criptografar em: MAR_VAZIO 
+[12/04/2017 19:57:06] Selecionado P/ Criptografar em: 
+[12/04/2017 19:57:06] Arquivo "APLICA.SQL" criado com sucesso.
+[12/04/2017 19:57:12] Executado o aplica no sqlplus.
+[12/04/2017 20:01:39] Sistema Iniciado.
+[12/04/2017 20:01:48] Aberto driver com Chrome.
+[12/04/2017 20:02:05] Controle instanciado: 55152
+[12/04/2017 20:02:22] Arquivo do pacote do CA 55152 extraído.
+[12/04/2017 20:02:26] Log de versões do CA 55152 aberto.
+[12/04/2017 20:04:07] Banco Selecionado Para aplicar: HOMO_ODO
+[12/04/2017 20:04:09] Atribuído objeto do tipo Procedure - TS.SUR_VERIFICA_INADIMPLENCIA_ddl.sql em ts_teste/HOMO_ODO
+[12/04/2017 20:04:10] Sistema alterando o aplica para ordem certa de aplicação
+[12/04/2017 20:04:12] Selecionado P/ Não Criptografar em: HOMO_ODO 
+[12/04/2017 20:04:12] Selecionado P/ Criptografar em: 
+[12/04/2017 20:04:12] Arquivo "APLICA.SQL" criado com sucesso.
+[12/04/2017 20:04:23] Executado o aplica no sqlplus.
+[12/04/2017 20:06:10] Log de versões do CA 55152 aberto.
+[12/04/2017 20:06:22] Banco Selecionado Para aplicar: INST_ODO
+[12/04/2017 20:06:22] Banco Selecionado Para aplicar: INST_MED
+[12/04/2017 20:06:22] Banco Selecionado Para aplicar: DEMO_MED
+[12/04/2017 20:06:22] Banco Selecionado Para aplicar: DEMO_ODO
+[12/04/2017 20:06:22] Banco Selecionado Para aplicar: HOMO_MED
+[12/04/2017 20:06:22] Banco Selecionado Para aplicar: HOMO_ODO
+[12/04/2017 20:06:22] Banco Selecionado Para aplicar: SEG_DES5
+[12/04/2017 20:06:32] Atribuído objeto do tipo Procedure - TS.SUR_VERIFICA_INADIMPLENCIA_ddl.sql em ts/INST_ODO
+[12/04/2017 20:06:32] Atribuído objeto do tipo Procedure - TS.SUR_VERIFICA_INADIMPLENCIA_ddl.sql em ts/INST_MED
+[12/04/2017 20:06:32] Atribuído objeto do tipo Procedure - TS.SUR_VERIFICA_INADIMPLENCIA_ddl.sql em ts/DEMO_MED
+[12/04/2017 20:06:32] Atribuído objeto do tipo Procedure - TS.SUR_VERIFICA_INADIMPLENCIA_ddl.sql em ts/DEMO_ODO
+[12/04/2017 20:06:32] Atribuído objeto do tipo Procedure - TS.SUR_VERIFICA_INADIMPLENCIA_ddl.sql em ts_teste/HOMO_MED
+[12/04/2017 20:06:32] Atribuído objeto do tipo Procedure - TS.SUR_VERIFICA_INADIMPLENCIA_ddl.sql em ts_teste/HOMO_ODO
+[12/04/2017 20:06:32] Atribuído objeto do tipo Procedure - TS.SUR_VERIFICA_INADIMPLENCIA_ddl.sql em ts/SEG_DES5
+[12/04/2017 20:06:34] Sistema alterando o aplica para ordem certa de aplicação
+[12/04/2017 20:06:37] Selecionado P/ Não Criptografar em: INST_ODO INST_MED DEMO_MED DEMO_ODO HOMO_MED HOMO_ODO 
+[12/04/2017 20:06:37] Selecionado P/ Criptografar em: SEG_DES5 
+[12/04/2017 20:06:50] Selecionado P/ Não Criptografar em: INST_ODO INST_MED DEMO_MED DEMO_ODO HOMO_MED HOMO_ODO 
+[12/04/2017 20:06:50] Selecionado P/ Criptografar em: SEG_DES5 
+[12/04/2017 20:06:50] Arquivo "APLICA.SQL" criado com sucesso.
+[12/04/2017 20:06:57] Executado o aplica no sqlplus.
+[12/04/2017 20:21:25] Sistema finalizado.
+
+[12/04/2017 20:21:35] Sistema finalizado.
+
+[12/04/2017 20:22:10] Sistema Iniciado.
+[12/04/2017 20:22:22] Aberto driver com Chrome.
+[12/04/2017 20:22:36] Controle instanciado: 55146
+[12/04/2017 20:24:22] Sistema finalizado.
+
+[12/04/2017 20:29:02] Sistema Iniciado.
+[12/04/2017 20:36:27] Sistema finalizado.
+

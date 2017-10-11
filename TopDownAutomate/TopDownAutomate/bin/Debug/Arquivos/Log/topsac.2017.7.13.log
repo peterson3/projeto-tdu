@@ -1,0 +1,94 @@
+[13/07/2017 18:55:23] Sistema Iniciado.
+[13/07/2017 18:55:51] Aberto driver com Chrome.
+[13/07/2017 20:00:20] Sistema finalizado.
+
+[13/07/2017 20:36:28] Sistema Iniciado.
+[13/07/2017 20:36:33] Sistema finalizado.
+
+[13/07/2017 20:44:11] Sistema Iniciado.
+[13/07/2017 20:44:33] Sistema finalizado.
+
+[13/07/2017 20:44:34] Sistema Iniciado.
+[13/07/2017 20:44:42] Aberto driver com Chrome.
+[13/07/2017 20:45:19] Controle instanciado: 56346
+[13/07/2017 20:46:26] Arquivo do pacote do CA 56346 extraído.
+[13/07/2017 20:46:42] Banco Selecionado Para aplicar: HOMO_MED
+[13/07/2017 20:46:45] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.TS_PPF_NUM_PROPOSTA_AUT_SEQ_ddl.sql em ts_teste/HOMO_MED
+[13/07/2017 20:46:45] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.TS_CMC_CALENDARIO_VENDAS_ddl.sql em ts_teste/HOMO_MED
+[13/07/2017 20:46:45] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.NC_TIPO_COBRANCA_ddl.sql em ts_teste/HOMO_MED
+[13/07/2017 20:46:45] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.NC_DESCONTO_PROGRESSIVO_ddl.sql em ts_teste/HOMO_MED
+[13/07/2017 20:46:45] Atribuído objeto do tipo Package - TS.CMC_GRAVA_PROPOSTA_PKG_ddl.sql em ts_teste/HOMO_MED
+[13/07/2017 20:46:45] Atribuído objeto do tipo Procedure - TS.MC_CARGA_ARQUIVO_180_DDL.SQL em ts_teste/HOMO_MED
+[13/07/2017 20:46:47] Sistema alterando o aplica para ordem certa de aplicação
+[13/07/2017 20:46:49] Selecionado P/ Não Criptografar em: HOMO_MED 
+[13/07/2017 20:46:49] Selecionado P/ Criptografar em: 
+[13/07/2017 20:46:49] Arquivo "APLICA.SQL" criado com sucesso.
+[13/07/2017 20:46:56] Executado o aplica no sqlplus.
+[13/07/2017 20:52:32] Banco Selecionado Para aplicar: INST_ODO
+[13/07/2017 20:52:32] Banco Selecionado Para aplicar: INST_MED
+[13/07/2017 20:52:32] Banco Selecionado Para aplicar: DEMO_MED
+[13/07/2017 20:52:32] Banco Selecionado Para aplicar: DEMO_ODO
+[13/07/2017 20:52:32] Banco Selecionado Para aplicar: HOMO_MED
+[13/07/2017 20:52:32] Banco Selecionado Para aplicar: HOMO_ODO
+[13/07/2017 20:52:32] Banco Selecionado Para aplicar: SEG_DES5
+[13/07/2017 20:52:32] Banco Selecionado Para aplicar: ODO_VAZIO
+[13/07/2017 20:52:32] Banco Selecionado Para aplicar: nuvem_01
+[13/07/2017 20:52:50] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.TS_PPF_NUM_PROPOSTA_AUT_SEQ_ddl.sql em ts/INST_ODO
+[13/07/2017 20:52:50] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.TS_PPF_NUM_PROPOSTA_AUT_SEQ_ddl.sql em ts/INST_MED
+[13/07/2017 20:52:50] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.TS_PPF_NUM_PROPOSTA_AUT_SEQ_ddl.sql em ts/DEMO_MED
+[13/07/2017 20:52:50] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.TS_PPF_NUM_PROPOSTA_AUT_SEQ_ddl.sql em ts/DEMO_ODO
+[13/07/2017 20:52:50] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.TS_PPF_NUM_PROPOSTA_AUT_SEQ_ddl.sql em ts_teste/HOMO_MED
+[13/07/2017 20:52:50] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.TS_PPF_NUM_PROPOSTA_AUT_SEQ_ddl.sql em ts_teste/HOMO_ODO
+[13/07/2017 20:52:50] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.TS_PPF_NUM_PROPOSTA_AUT_SEQ_ddl.sql em ts/SEG_DES5
+[13/07/2017 20:52:50] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.TS_PPF_NUM_PROPOSTA_AUT_SEQ_ddl.sql em odo_teste/ODO_VAZIO
+[13/07/2017 20:52:50] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.TS_PPF_NUM_PROPOSTA_AUT_SEQ_ddl.sql em ts/nuvem_01
+[13/07/2017 20:52:50] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.TS_CMC_CALENDARIO_VENDAS_ddl.sql em ts/INST_ODO
+[13/07/2017 20:52:50] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.TS_CMC_CALENDARIO_VENDAS_ddl.sql em ts/INST_MED
+[13/07/2017 20:52:50] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.TS_CMC_CALENDARIO_VENDAS_ddl.sql em ts/DEMO_MED
+[13/07/2017 20:52:50] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.TS_CMC_CALENDARIO_VENDAS_ddl.sql em ts/DEMO_ODO
+[13/07/2017 20:52:50] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.TS_CMC_CALENDARIO_VENDAS_ddl.sql em ts_teste/HOMO_MED
+[13/07/2017 20:52:50] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.TS_CMC_CALENDARIO_VENDAS_ddl.sql em ts_teste/HOMO_ODO
+[13/07/2017 20:52:50] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.TS_CMC_CALENDARIO_VENDAS_ddl.sql em ts/SEG_DES5
+[13/07/2017 20:52:50] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.TS_CMC_CALENDARIO_VENDAS_ddl.sql em odo_teste/ODO_VAZIO
+[13/07/2017 20:52:50] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.TS_CMC_CALENDARIO_VENDAS_ddl.sql em ts/nuvem_01
+[13/07/2017 20:52:50] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.NC_TIPO_COBRANCA_ddl.sql em ts/INST_ODO
+[13/07/2017 20:52:50] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.NC_TIPO_COBRANCA_ddl.sql em ts/INST_MED
+[13/07/2017 20:52:50] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.NC_TIPO_COBRANCA_ddl.sql em ts/DEMO_MED
+[13/07/2017 20:52:50] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.NC_TIPO_COBRANCA_ddl.sql em ts/DEMO_ODO
+[13/07/2017 20:52:50] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.NC_TIPO_COBRANCA_ddl.sql em ts_teste/HOMO_MED
+[13/07/2017 20:52:50] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.NC_TIPO_COBRANCA_ddl.sql em ts_teste/HOMO_ODO
+[13/07/2017 20:52:50] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.NC_TIPO_COBRANCA_ddl.sql em ts/SEG_DES5
+[13/07/2017 20:52:50] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.NC_TIPO_COBRANCA_ddl.sql em odo_teste/ODO_VAZIO
+[13/07/2017 20:52:50] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.NC_TIPO_COBRANCA_ddl.sql em ts/nuvem_01
+[13/07/2017 20:52:50] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.NC_DESCONTO_PROGRESSIVO_ddl.sql em ts/INST_ODO
+[13/07/2017 20:52:50] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.NC_DESCONTO_PROGRESSIVO_ddl.sql em ts/INST_MED
+[13/07/2017 20:52:50] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.NC_DESCONTO_PROGRESSIVO_ddl.sql em ts/DEMO_MED
+[13/07/2017 20:52:50] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.NC_DESCONTO_PROGRESSIVO_ddl.sql em ts/DEMO_ODO
+[13/07/2017 20:52:50] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.NC_DESCONTO_PROGRESSIVO_ddl.sql em ts_teste/HOMO_MED
+[13/07/2017 20:52:50] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.NC_DESCONTO_PROGRESSIVO_ddl.sql em ts_teste/HOMO_ODO
+[13/07/2017 20:52:50] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.NC_DESCONTO_PROGRESSIVO_ddl.sql em ts/SEG_DES5
+[13/07/2017 20:52:50] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.NC_DESCONTO_PROGRESSIVO_ddl.sql em odo_teste/ODO_VAZIO
+[13/07/2017 20:52:50] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.NC_DESCONTO_PROGRESSIVO_ddl.sql em ts/nuvem_01
+[13/07/2017 20:52:50] Atribuído objeto do tipo Package - TS.CMC_GRAVA_PROPOSTA_PKG_ddl.sql em ts/INST_ODO
+[13/07/2017 20:52:50] Atribuído objeto do tipo Package - TS.CMC_GRAVA_PROPOSTA_PKG_ddl.sql em ts/INST_MED
+[13/07/2017 20:52:50] Atribuído objeto do tipo Package - TS.CMC_GRAVA_PROPOSTA_PKG_ddl.sql em ts/DEMO_MED
+[13/07/2017 20:52:50] Atribuído objeto do tipo Package - TS.CMC_GRAVA_PROPOSTA_PKG_ddl.sql em ts/DEMO_ODO
+[13/07/2017 20:52:50] Atribuído objeto do tipo Package - TS.CMC_GRAVA_PROPOSTA_PKG_ddl.sql em ts_teste/HOMO_MED
+[13/07/2017 20:52:50] Atribuído objeto do tipo Package - TS.CMC_GRAVA_PROPOSTA_PKG_ddl.sql em ts_teste/HOMO_ODO
+[13/07/2017 20:52:50] Atribuído objeto do tipo Package - TS.CMC_GRAVA_PROPOSTA_PKG_ddl.sql em ts/SEG_DES5
+[13/07/2017 20:52:50] Atribuído objeto do tipo Package - TS.CMC_GRAVA_PROPOSTA_PKG_ddl.sql em odo_teste/ODO_VAZIO
+[13/07/2017 20:52:50] Atribuído objeto do tipo Package - TS.CMC_GRAVA_PROPOSTA_PKG_ddl.sql em ts/nuvem_01
+[13/07/2017 20:52:50] Atribuído objeto do tipo Procedure - TS.MC_CARGA_ARQUIVO_180_DDL.SQL em ts/INST_ODO
+[13/07/2017 20:52:50] Atribuído objeto do tipo Procedure - TS.MC_CARGA_ARQUIVO_180_DDL.SQL em ts/INST_MED
+[13/07/2017 20:52:50] Atribuído objeto do tipo Procedure - TS.MC_CARGA_ARQUIVO_180_DDL.SQL em ts/DEMO_MED
+[13/07/2017 20:52:50] Atribuído objeto do tipo Procedure - TS.MC_CARGA_ARQUIVO_180_DDL.SQL em ts/DEMO_ODO
+[13/07/2017 20:52:50] Atribuído objeto do tipo Procedure - TS.MC_CARGA_ARQUIVO_180_DDL.SQL em ts_teste/HOMO_MED
+[13/07/2017 20:52:50] Atribuído objeto do tipo Procedure - TS.MC_CARGA_ARQUIVO_180_DDL.SQL em ts_teste/HOMO_ODO
+[13/07/2017 20:52:50] Atribuído objeto do tipo Procedure - TS.MC_CARGA_ARQUIVO_180_DDL.SQL em ts/SEG_DES5
+[13/07/2017 20:52:50] Atribuído objeto do tipo Procedure - TS.MC_CARGA_ARQUIVO_180_DDL.SQL em odo_teste/ODO_VAZIO
+[13/07/2017 20:52:50] Atribuído objeto do tipo Procedure - TS.MC_CARGA_ARQUIVO_180_DDL.SQL em ts/nuvem_01
+[13/07/2017 20:52:52] Sistema alterando o aplica para ordem certa de aplicação
+[13/07/2017 20:52:59] Selecionado P/ Não Criptografar em: INST_ODO INST_MED DEMO_MED DEMO_ODO HOMO_MED HOMO_ODO ODO_VAZIO nuvem_01 
+[13/07/2017 20:52:59] Selecionado P/ Criptografar em: SEG_DES5 
+[13/07/2017 20:52:59] Arquivo "APLICA.SQL" criado com sucesso.
+[13/07/2017 20:53:07] Executado o aplica no sqlplus.

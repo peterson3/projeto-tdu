@@ -1,0 +1,47 @@
+[04/11/2016 11:52:34] Sistema Iniciado.
+[04/11/2016 11:53:12] Sistema finalizado.
+
+[04/11/2016 11:53:14] Sistema Iniciado.
+[04/11/2016 11:54:23] Sistema finalizado.
+
+[04/11/2016 12:13:10] Sistema Iniciado.
+[04/11/2016 12:13:21] Sistema finalizado.
+
+[04/11/2016 12:14:29] Sistema Iniciado.
+[04/11/2016 12:15:38] Sistema finalizado.
+
+[04/11/2016 12:15:41] Sistema Iniciado.
+[04/11/2016 12:19:30] Sistema finalizado.
+
+[04/11/2016 12:28:19] Sistema Iniciado.
+[04/11/2016 12:28:59] Aberto driver com Chrome.
+[04/11/2016 13:59:04] Sistema finalizado.
+
+[04/11/2016 14:18:18] Sistema Iniciado.
+[04/11/2016 14:18:27] Aberto driver com Chrome.
+[04/11/2016 14:18:40] Controle instanciado: 53591
+[04/11/2016 14:18:55] Arquivo do pacote do CA 53591 extraído.
+[04/11/2016 14:19:00] Log de versões do CA 53591 aberto.
+[04/11/2016 14:19:37] Resultado do Login na WEB quali-br    (10.10.100.131): Sucesso Ao logar.
+[04/11/2016 14:19:37] Sistema procurará os arquivos na(s) pasta(s): jtopdown TOPSAUDE 
+[04/11/2016 14:19:37] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[04/11/2016 14:19:39] Realizando busca aprofundada para objetos não encontrados...
+[04/11/2016 14:19:52] Tempo que levou para achar todos os arquivos: 0 minuto(s), 14 segundo(s) e 431 milisegundo(s).
+[04/11/2016 14:20:45] K:\Pacotes\53551-53600\53591-PEDRO\conteudo\beneficiario\benef_006.asp copiado para \\10.10.100.131\TOPSAUDE\portal_br\conteudo\beneficiario\benef_006.asp
+[04/11/2016 14:29:12] Resultado do Login na WEB quali br homo    (172.17.2.52): Sucesso Ao logar.
+[04/11/2016 14:29:12] Sistema procurará os arquivos na(s) pasta(s): arquivos 
+[04/11/2016 14:29:12] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[04/11/2016 14:29:18] Realizando busca aprofundada para objetos não encontrados...
+[04/11/2016 14:29:18] Tempo que levou para achar todos os arquivos: 0 minuto(s), 5 segundo(s) e 790 milisegundo(s).
+[04/11/2016 16:07:31] Sistema finalizado.
+
+[04/11/2016 16:29:27] Sistema Iniciado.
+[04/11/2016 16:29:46] Aberto driver com Chrome.
+[04/11/2016 16:30:18] Controle instanciado: 53559
+[04/11/2016 16:36:35] Sistema finalizado.
+
+[04/11/2016 16:36:37] Sistema Iniciado.
+[04/11/2016 16:36:55] Aberto driver com Chrome.
+[04/11/2016 16:37:08] Controle instanciado: 53559
+[04/11/2016 16:56:18] Sistema finalizado.
+

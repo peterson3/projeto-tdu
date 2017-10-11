@@ -1,0 +1,37 @@
+[04/10/2016 17:06:55] Sistema Iniciado.
+[04/10/2016 17:11:03] Aberto driver com Chrome.
+[04/10/2016 17:24:29] Controle instanciado: 53250
+[04/10/2016 17:28:17] Arquivo do pacote do CA 53250 extraído.
+[04/10/2016 17:28:30] Log de versões do CA 53250 aberto.
+[04/10/2016 17:45:43] Banco Selecionado Para aplicar: GIST
+[04/10/2016 17:45:47] Atribuído objeto do tipo Script - update_ans_criticas_sib_9_23.sql em ts/GIST
+[04/10/2016 17:45:47] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.ANS_FLEXIBILIZACAO_SIB_ddl.sql em ts/GIST
+[04/10/2016 17:45:47] Atribuído objeto do tipo Procedure - TS.ANS_RETORNO_SIB_ERR_ddl.sql em ts/GIST
+[04/10/2016 17:45:47] Atribuído objeto do tipo Procedure - TS.ANS_GERA_INF_BENEF_IN35_NEW_ddl.sql em ts/GIST
+[04/10/2016 17:45:47] Atribuído objeto do tipo Procedure - TS.ANS_CANCELA_SIB_ddl.sql em ts/GIST
+[04/10/2016 17:45:47] Atribuído objeto do tipo Trigger - TS.TR_ENTIDADE_SISTEMA_02_ddl.sql em ts/GIST
+[04/10/2016 17:45:47] Atribuído objeto do tipo Trigger - ts.tr_enderecos_03_ddl.sql em ts/GIST
+[04/10/2016 17:45:47] Atribuído objeto do tipo Trigger - TS.TR_ASSOCIADO_07_ddl.sql em ts/GIST
+[04/10/2016 17:45:47] Atribuído objeto do tipo Table - TS.ANS_FLEXIBILIZACAO_SIB_ddl.sql em ts/GIST
+[04/10/2016 17:45:49] Sistema alterando o aplica para ordem certa de aplicação
+[04/10/2016 17:45:54] Selecionado P/ Não Criptografar em: GIST 
+[04/10/2016 17:45:54] Selecionado P/ Criptografar em: 
+[04/10/2016 17:45:54] Arquivo "APLICA.SQL" criado com sucesso.
+[04/10/2016 17:46:08] Executado o aplica no sqlplus.
+[04/10/2016 17:48:50] Banco Selecionado Para aplicar: GIST
+[04/10/2016 17:48:53] Atribuído objeto do tipo Script - update_ans_criticas_sib_9_23.sql em ts/GIST
+[04/10/2016 17:48:53] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.ANS_FLEXIBILIZACAO_SIB_ddl.sql em ts/GIST
+[04/10/2016 17:48:53] Atribuído objeto do tipo Procedure - TS.ANS_RETORNO_SIB_ERR_ddl.sql em ts/GIST
+[04/10/2016 17:48:53] Atribuído objeto do tipo Procedure - TS.ANS_GERA_INF_BENEF_IN35_NEW_ddl.sql em ts/GIST
+[04/10/2016 17:48:53] Atribuído objeto do tipo Procedure - TS.ANS_CANCELA_SIB_ddl.sql em ts/GIST
+[04/10/2016 17:48:53] Atribuído objeto do tipo Trigger - TS.TR_ENTIDADE_SISTEMA_02_ddl.sql em ts/GIST
+[04/10/2016 17:48:53] Atribuído objeto do tipo Trigger - ts.tr_enderecos_03_ddl.sql em ts/GIST
+[04/10/2016 17:48:53] Atribuído objeto do tipo Trigger - TS.TR_ASSOCIADO_07_ddl.sql em ts/GIST
+[04/10/2016 17:48:53] Atribuído objeto do tipo Table - TS.ANS_FLEXIBILIZACAO_SIB_ddl.sql em ts/GIST
+[04/10/2016 17:48:54] Sistema alterando o aplica para ordem certa de aplicação
+[04/10/2016 17:48:56] Selecionado P/ Não Criptografar em: 
+[04/10/2016 17:48:56] Selecionado P/ Criptografar em: GIST 
+[04/10/2016 17:48:56] Arquivo "APLICA.SQL" criado com sucesso.
+[04/10/2016 17:49:02] Executado o aplica no sqlplus.
+[04/10/2016 18:31:37] Sistema finalizado.
+

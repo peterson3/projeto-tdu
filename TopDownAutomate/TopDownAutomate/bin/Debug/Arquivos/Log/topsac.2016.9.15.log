@@ -1,0 +1,241 @@
+[15/09/2016 11:32:13] Sistema Iniciado.
+[15/09/2016 11:32:50] Aberto driver com Chrome.
+[15/09/2016 11:33:13] Controle instanciado: 52560
+[15/09/2016 11:33:40] Arquivo do pacote do CA 52560 extraído.
+[15/09/2016 11:34:53] Arquivo do pacote do CA 52560 extraído.
+[15/09/2016 11:35:02] Banco Selecionado Para aplicar: HOMO_MED
+[15/09/2016 11:35:11] Atribuído objeto do tipo Script - ts_script_insert_negociacao.sql em ts_teste/HOMO_MED
+[15/09/2016 11:35:11] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.TS_NEGOCIACAO_COBRANCA_SEQ_ddl.sql em ts_teste/HOMO_MED
+[15/09/2016 11:35:11] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.TS_CONTROLE_COBRANCA_SEQ_ddl.sql em ts_teste/HOMO_MED
+[15/09/2016 11:35:11] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.TS_CONTROLE_COBRANCA_REG_SEQ_ddl.sql em ts_teste/HOMO_MED
+[15/09/2016 11:35:11] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.TIPO_NEGOCIACAO_COB_ddl.sql em ts_teste/HOMO_MED
+[15/09/2016 11:35:11] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.REC_NEGOCIACAO_COBRANCA_ddl.sql em ts_teste/HOMO_MED
+[15/09/2016 11:35:11] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.PERFIL_NEG_CLIENTE_ddl.sql em ts_teste/HOMO_MED
+[15/09/2016 11:35:11] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.PERFIL_NEGOCIACAO_ddl.sql em ts_teste/HOMO_MED
+[15/09/2016 11:35:11] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.PERFIL_CLI_NEGOCIACAO_ddl.sql em ts_teste/HOMO_MED
+[15/09/2016 11:35:11] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.PARCELAS_NEGOCIACAO_ddl.sql em ts_teste/HOMO_MED
+[15/09/2016 11:35:11] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.NEGOCIACAO_COBRANCA_ddl.sql em ts_teste/HOMO_MED
+[15/09/2016 11:35:11] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.CONTROLE_COBRANCA_REG_ddl.sql em ts_teste/HOMO_MED
+[15/09/2016 11:35:11] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.CONTROLE_COBRANCA_ddl.sql em ts_teste/HOMO_MED
+[15/09/2016 11:35:11] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.COBRANCAS_NEGOCIACAO_ddl.sql em ts_teste/HOMO_MED
+[15/09/2016 11:35:11] Atribuído objeto do tipo Package - TS.FAT_REL_DEMONSTRATIVO_COBRANCA_ddl.sql em ts_teste/HOMO_MED
+[15/09/2016 11:35:11] Atribuído objeto do tipo Procedure - TS.REC_TIPO_NEGOCIACAO_COB_ddl.sql em ts_teste/HOMO_MED
+[15/09/2016 11:35:11] Atribuído objeto do tipo Procedure - TS.REC_NEGOCIACAO_COBRANCA_ddl.sql em ts_teste/HOMO_MED
+[15/09/2016 11:35:11] Atribuído objeto do tipo Table - TS.TIPO_NEGOCIACAO_COB_ddl.sql em ts_teste/HOMO_MED
+[15/09/2016 11:35:11] Atribuído objeto do tipo Table - TS.PERFIL_NEG_CLIENTE_ddl.sql em ts_teste/HOMO_MED
+[15/09/2016 11:35:11] Atribuído objeto do tipo Table - TS.PERFIL_NEGOCIACAO_ddl.sql em ts_teste/HOMO_MED
+[15/09/2016 11:35:11] Atribuído objeto do tipo Table - TS.PERFIL_CLI_NEGOCIACAO_ddl.sql em ts_teste/HOMO_MED
+[15/09/2016 11:35:11] Atribuído objeto do tipo Table - TS.PARCELAS_NEGOCIACAO_ddl.sql em ts_teste/HOMO_MED
+[15/09/2016 11:35:11] Atribuído objeto do tipo Table - TS.NEGOCIACAO_COBRANCA_ddl.sql em ts_teste/HOMO_MED
+[15/09/2016 11:35:11] Atribuído objeto do tipo Table - ts.cobranca_ddl.sql em ts_teste/HOMO_MED
+[15/09/2016 11:35:13] Sistema alterando o aplica para ordem certa de aplicação
+[15/09/2016 11:35:19] Selecionado P/ Não Criptografar em: HOMO_MED 
+[15/09/2016 11:35:19] Selecionado P/ Criptografar em: 
+[15/09/2016 11:35:19] Arquivo "APLICA.SQL" criado com sucesso.
+[15/09/2016 11:35:28] Executado o aplica no sqlplus.
+[15/09/2016 12:06:21] Banco Selecionado Para aplicar: HOMO_ODO
+[15/09/2016 12:06:28] Atribuído objeto do tipo Script - ts_script_insert_negociacao.sql em ts_teste/HOMO_ODO
+[15/09/2016 12:06:28] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.TS_NEGOCIACAO_COBRANCA_SEQ_ddl.sql em ts_teste/HOMO_ODO
+[15/09/2016 12:06:28] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.TS_CONTROLE_COBRANCA_SEQ_ddl.sql em ts_teste/HOMO_ODO
+[15/09/2016 12:06:28] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.TS_CONTROLE_COBRANCA_REG_SEQ_ddl.sql em ts_teste/HOMO_ODO
+[15/09/2016 12:06:28] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.TIPO_NEGOCIACAO_COB_ddl.sql em ts_teste/HOMO_ODO
+[15/09/2016 12:06:28] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.REC_NEGOCIACAO_COBRANCA_ddl.sql em ts_teste/HOMO_ODO
+[15/09/2016 12:06:28] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.PERFIL_NEG_CLIENTE_ddl.sql em ts_teste/HOMO_ODO
+[15/09/2016 12:06:28] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.PERFIL_NEGOCIACAO_ddl.sql em ts_teste/HOMO_ODO
+[15/09/2016 12:06:28] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.PERFIL_CLI_NEGOCIACAO_ddl.sql em ts_teste/HOMO_ODO
+[15/09/2016 12:06:28] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.PARCELAS_NEGOCIACAO_ddl.sql em ts_teste/HOMO_ODO
+[15/09/2016 12:06:28] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.NEGOCIACAO_COBRANCA_ddl.sql em ts_teste/HOMO_ODO
+[15/09/2016 12:06:28] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.CONTROLE_COBRANCA_REG_ddl.sql em ts_teste/HOMO_ODO
+[15/09/2016 12:06:28] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.CONTROLE_COBRANCA_ddl.sql em ts_teste/HOMO_ODO
+[15/09/2016 12:06:28] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.COBRANCAS_NEGOCIACAO_ddl.sql em ts_teste/HOMO_ODO
+[15/09/2016 12:06:28] Atribuído objeto do tipo Package - TS.FAT_REL_DEMONSTRATIVO_COBRANCA_ddl.sql em ts_teste/HOMO_ODO
+[15/09/2016 12:06:28] Atribuído objeto do tipo Procedure - TS.REC_TIPO_NEGOCIACAO_COB_ddl.sql em ts_teste/HOMO_ODO
+[15/09/2016 12:06:28] Atribuído objeto do tipo Procedure - TS.REC_NEGOCIACAO_COBRANCA_ddl.sql em ts_teste/HOMO_ODO
+[15/09/2016 12:06:28] Atribuído objeto do tipo Table - TS.TIPO_NEGOCIACAO_COB_ddl.sql em ts_teste/HOMO_ODO
+[15/09/2016 12:06:28] Atribuído objeto do tipo Table - TS.PERFIL_NEG_CLIENTE_ddl.sql em ts_teste/HOMO_ODO
+[15/09/2016 12:06:28] Atribuído objeto do tipo Table - TS.PERFIL_NEGOCIACAO_ddl.sql em ts_teste/HOMO_ODO
+[15/09/2016 12:06:28] Atribuído objeto do tipo Table - TS.PERFIL_CLI_NEGOCIACAO_ddl.sql em ts_teste/HOMO_ODO
+[15/09/2016 12:06:28] Atribuído objeto do tipo Table - TS.PARCELAS_NEGOCIACAO_ddl.sql em ts_teste/HOMO_ODO
+[15/09/2016 12:06:28] Atribuído objeto do tipo Table - TS.NEGOCIACAO_COBRANCA_ddl.sql em ts_teste/HOMO_ODO
+[15/09/2016 12:06:28] Atribuído objeto do tipo Table - ts.cobranca_ddl.sql em ts_teste/HOMO_ODO
+[15/09/2016 12:06:29] Sistema alterando o aplica para ordem certa de aplicação
+[15/09/2016 12:06:33] Selecionado P/ Não Criptografar em: HOMO_ODO 
+[15/09/2016 12:06:33] Selecionado P/ Criptografar em: 
+[15/09/2016 12:06:34] Arquivo "APLICA.SQL" criado com sucesso.
+[15/09/2016 12:07:02] Log de aplicão no banco do CA 52560 aberto.
+[15/09/2016 12:07:07] Executado o aplica no sqlplus.
+[15/09/2016 15:06:38] Banco Selecionado Para aplicar: DEMO_MED
+[15/09/2016 15:06:38] Banco Selecionado Para aplicar: DEMO_ODO
+[15/09/2016 15:06:46] Atribuído objeto do tipo Script - ts_script_insert_negociacao.sql em ts/DEMO_MED
+[15/09/2016 15:06:46] Atribuído objeto do tipo Script - ts_script_insert_negociacao.sql em ts/DEMO_ODO
+[15/09/2016 15:06:46] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.TS_NEGOCIACAO_COBRANCA_SEQ_ddl.sql em ts/DEMO_MED
+[15/09/2016 15:06:46] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.TS_NEGOCIACAO_COBRANCA_SEQ_ddl.sql em ts/DEMO_ODO
+[15/09/2016 15:06:46] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.TS_CONTROLE_COBRANCA_SEQ_ddl.sql em ts/DEMO_MED
+[15/09/2016 15:06:46] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.TS_CONTROLE_COBRANCA_SEQ_ddl.sql em ts/DEMO_ODO
+[15/09/2016 15:06:46] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.TS_CONTROLE_COBRANCA_REG_SEQ_ddl.sql em ts/DEMO_MED
+[15/09/2016 15:06:46] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.TS_CONTROLE_COBRANCA_REG_SEQ_ddl.sql em ts/DEMO_ODO
+[15/09/2016 15:06:46] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.TIPO_NEGOCIACAO_COB_ddl.sql em ts/DEMO_MED
+[15/09/2016 15:06:46] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.TIPO_NEGOCIACAO_COB_ddl.sql em ts/DEMO_ODO
+[15/09/2016 15:06:46] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.REC_NEGOCIACAO_COBRANCA_ddl.sql em ts/DEMO_MED
+[15/09/2016 15:06:46] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.REC_NEGOCIACAO_COBRANCA_ddl.sql em ts/DEMO_ODO
+[15/09/2016 15:06:46] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.PERFIL_NEG_CLIENTE_ddl.sql em ts/DEMO_MED
+[15/09/2016 15:06:46] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.PERFIL_NEG_CLIENTE_ddl.sql em ts/DEMO_ODO
+[15/09/2016 15:06:46] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.PERFIL_NEGOCIACAO_ddl.sql em ts/DEMO_MED
+[15/09/2016 15:06:46] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.PERFIL_NEGOCIACAO_ddl.sql em ts/DEMO_ODO
+[15/09/2016 15:06:46] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.PERFIL_CLI_NEGOCIACAO_ddl.sql em ts/DEMO_MED
+[15/09/2016 15:06:46] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.PERFIL_CLI_NEGOCIACAO_ddl.sql em ts/DEMO_ODO
+[15/09/2016 15:06:46] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.PARCELAS_NEGOCIACAO_ddl.sql em ts/DEMO_MED
+[15/09/2016 15:06:46] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.PARCELAS_NEGOCIACAO_ddl.sql em ts/DEMO_ODO
+[15/09/2016 15:06:46] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.NEGOCIACAO_COBRANCA_ddl.sql em ts/DEMO_MED
+[15/09/2016 15:06:46] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.NEGOCIACAO_COBRANCA_ddl.sql em ts/DEMO_ODO
+[15/09/2016 15:06:46] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.CONTROLE_COBRANCA_REG_ddl.sql em ts/DEMO_MED
+[15/09/2016 15:06:46] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.CONTROLE_COBRANCA_REG_ddl.sql em ts/DEMO_ODO
+[15/09/2016 15:06:46] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.CONTROLE_COBRANCA_ddl.sql em ts/DEMO_MED
+[15/09/2016 15:06:46] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.CONTROLE_COBRANCA_ddl.sql em ts/DEMO_ODO
+[15/09/2016 15:06:46] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.COBRANCAS_NEGOCIACAO_ddl.sql em ts/DEMO_MED
+[15/09/2016 15:06:46] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.COBRANCAS_NEGOCIACAO_ddl.sql em ts/DEMO_ODO
+[15/09/2016 15:06:46] Atribuído objeto do tipo Package - TS.FAT_REL_DEMONSTRATIVO_COBRANCA_ddl.sql em ts/DEMO_MED
+[15/09/2016 15:06:46] Atribuído objeto do tipo Package - TS.FAT_REL_DEMONSTRATIVO_COBRANCA_ddl.sql em ts/DEMO_ODO
+[15/09/2016 15:06:46] Atribuído objeto do tipo Procedure - TS.REC_TIPO_NEGOCIACAO_COB_ddl.sql em ts/DEMO_MED
+[15/09/2016 15:06:46] Atribuído objeto do tipo Procedure - TS.REC_TIPO_NEGOCIACAO_COB_ddl.sql em ts/DEMO_ODO
+[15/09/2016 15:06:46] Atribuído objeto do tipo Procedure - TS.REC_NEGOCIACAO_COBRANCA_ddl.sql em ts/DEMO_MED
+[15/09/2016 15:06:46] Atribuído objeto do tipo Procedure - TS.REC_NEGOCIACAO_COBRANCA_ddl.sql em ts/DEMO_ODO
+[15/09/2016 15:06:46] Atribuído objeto do tipo Table - TS.TIPO_NEGOCIACAO_COB_ddl.sql em ts/DEMO_MED
+[15/09/2016 15:06:46] Atribuído objeto do tipo Table - TS.TIPO_NEGOCIACAO_COB_ddl.sql em ts/DEMO_ODO
+[15/09/2016 15:06:46] Atribuído objeto do tipo Table - TS.PERFIL_NEG_CLIENTE_ddl.sql em ts/DEMO_MED
+[15/09/2016 15:06:46] Atribuído objeto do tipo Table - TS.PERFIL_NEG_CLIENTE_ddl.sql em ts/DEMO_ODO
+[15/09/2016 15:06:46] Atribuído objeto do tipo Table - TS.PERFIL_NEGOCIACAO_ddl.sql em ts/DEMO_MED
+[15/09/2016 15:06:46] Atribuído objeto do tipo Table - TS.PERFIL_NEGOCIACAO_ddl.sql em ts/DEMO_ODO
+[15/09/2016 15:06:46] Atribuído objeto do tipo Table - TS.PERFIL_CLI_NEGOCIACAO_ddl.sql em ts/DEMO_MED
+[15/09/2016 15:06:46] Atribuído objeto do tipo Table - TS.PERFIL_CLI_NEGOCIACAO_ddl.sql em ts/DEMO_ODO
+[15/09/2016 15:06:46] Atribuído objeto do tipo Table - TS.PARCELAS_NEGOCIACAO_ddl.sql em ts/DEMO_MED
+[15/09/2016 15:06:46] Atribuído objeto do tipo Table - TS.PARCELAS_NEGOCIACAO_ddl.sql em ts/DEMO_ODO
+[15/09/2016 15:06:46] Atribuído objeto do tipo Table - TS.NEGOCIACAO_COBRANCA_ddl.sql em ts/DEMO_MED
+[15/09/2016 15:06:46] Atribuído objeto do tipo Table - TS.NEGOCIACAO_COBRANCA_ddl.sql em ts/DEMO_ODO
+[15/09/2016 15:06:46] Atribuído objeto do tipo Table - ts.cobranca_ddl.sql em ts/DEMO_MED
+[15/09/2016 15:06:46] Atribuído objeto do tipo Table - ts.cobranca_ddl.sql em ts/DEMO_ODO
+[15/09/2016 15:06:56] Sistema alterando o aplica para ordem certa de aplicação
+[15/09/2016 15:06:58] Selecionado P/ Não Criptografar em: DEMO_MED DEMO_ODO 
+[15/09/2016 15:06:58] Selecionado P/ Criptografar em: 
+[15/09/2016 15:06:58] Arquivo "APLICA.SQL" criado com sucesso.
+[15/09/2016 15:07:06] Executado o aplica no sqlplus.
+[15/09/2016 15:37:58] Log de aplicão no banco do CA 52560 aberto.
+[15/09/2016 15:39:19] Resultado do Login na WEB Demo_Med    (223.223.2.206): Sucesso Ao logar.
+[15/09/2016 15:39:19] Sistema procurará os arquivos na(s) pasta(s): jtopdown TopSaude 
+[15/09/2016 15:39:20] Quantidade de Arquivos: 12 (arquivos que não estão na raíz).
+[15/09/2016 15:39:20] Pasta ENCONTRADA em \\223.223.2.206\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\rec\
+[15/09/2016 15:39:20] Pasta ENCONTRADA em \\223.223.2.206\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\rec\
+[15/09/2016 15:39:20] Arquivo ENCONTRADO em \\223.223.2.206\TopSaude\web\rec\asp\rec0022a.asp
+[15/09/2016 15:39:20] Arquivo ENCONTRADO em \\223.223.2.206\TopSaude\web\rec\asp\rec0022b.asp
+[15/09/2016 15:39:20] Arquivo ENCONTRADO em \\223.223.2.206\TopSaude\web\rec\asp\rec0023a.asp
+[15/09/2016 15:39:20] Arquivo ENCONTRADO em \\223.223.2.206\TopSaude\web\rec\asp\rec0023b.asp
+[15/09/2016 15:39:20] Arquivo ENCONTRADO em \\223.223.2.206\TopSaude\web\rec\asp\rec0023c.asp
+[15/09/2016 15:39:20] Arquivo ENCONTRADO em \\223.223.2.206\TopSaude\web\rec\asp\rec0023d.asp
+[15/09/2016 15:39:20] Arquivo ENCONTRADO em \\223.223.2.206\TopSaude\web\rec\asp\rec0023e.asp
+[15/09/2016 15:39:20] Arquivo ENCONTRADO em \\223.223.2.206\TopSaude\web\rec\asp\rec0023f.asp
+[15/09/2016 15:39:20] Arquivo ENCONTRADO em \\223.223.2.206\TopSaude\web\rec\asp\rec1009a.asp
+[15/09/2016 15:39:20] Arquivo ENCONTRADO em \\223.223.2.206\TopSaude\web\rec\asp\rec1009b.asp
+[15/09/2016 15:39:20] Busca Aprofundada necessária não realizada
+[15/09/2016 15:39:20] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 471 milisegundo(s).
+[15/09/2016 15:39:21] K:\Pacotes\52551-52600\52560-EDSON\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\rec\TsRec1009Boleto.jasper copiado para \\223.223.2.206\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\rec\
+[15/09/2016 15:39:21] K:\Pacotes\52551-52600\52560-EDSON\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\rec\TsRec1009JRCobranca.jasper copiado para \\223.223.2.206\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\rec\
+[15/09/2016 15:39:22] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0022a.asp copiado para \\223.223.2.206\TopSaude\web\rec\asp\rec0022a.asp
+[15/09/2016 15:39:22] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0022b.asp copiado para \\223.223.2.206\TopSaude\web\rec\asp\rec0022b.asp
+[15/09/2016 15:39:22] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023a.asp copiado para \\223.223.2.206\TopSaude\web\rec\asp\rec0023a.asp
+[15/09/2016 15:39:22] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023b.asp copiado para \\223.223.2.206\TopSaude\web\rec\asp\rec0023b.asp
+[15/09/2016 15:39:22] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023c.asp copiado para \\223.223.2.206\TopSaude\web\rec\asp\rec0023c.asp
+[15/09/2016 15:39:22] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023d.asp copiado para \\223.223.2.206\TopSaude\web\rec\asp\rec0023d.asp
+[15/09/2016 15:39:22] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023e.asp copiado para \\223.223.2.206\TopSaude\web\rec\asp\rec0023e.asp
+[15/09/2016 15:39:22] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023f.asp copiado para \\223.223.2.206\TopSaude\web\rec\asp\rec0023f.asp
+[15/09/2016 15:39:22] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec1009a.asp copiado para \\223.223.2.206\TopSaude\web\rec\asp\rec1009a.asp
+[15/09/2016 15:39:22] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec1009b.asp copiado para \\223.223.2.206\TopSaude\web\rec\asp\rec1009b.asp
+[15/09/2016 15:39:28] Resultado do Login na WEB DEMO_ODO    (223.223.2.194): Sucesso Ao logar.
+[15/09/2016 15:39:28] Sistema procurará os arquivos na(s) pasta(s): jtopdown TopSaude 
+[15/09/2016 15:39:28] Quantidade de Arquivos: 12 (arquivos que não estão na raíz).
+[15/09/2016 15:39:28] Pasta ENCONTRADA em \\223.223.2.194\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\rec\
+[15/09/2016 15:39:28] Pasta ENCONTRADA em \\223.223.2.194\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\rec\
+[15/09/2016 15:39:28] Arquivo ENCONTRADO em \\223.223.2.194\TopSaude\web\rec\asp\rec0022a.asp
+[15/09/2016 15:39:28] Arquivo ENCONTRADO em \\223.223.2.194\TopSaude\web\rec\asp\rec0022b.asp
+[15/09/2016 15:39:28] Arquivo ENCONTRADO em \\223.223.2.194\TopSaude\web\rec\asp\rec0023a.asp
+[15/09/2016 15:39:28] Arquivo ENCONTRADO em \\223.223.2.194\TopSaude\web\rec\asp\rec0023b.asp
+[15/09/2016 15:39:28] Arquivo ENCONTRADO em \\223.223.2.194\TopSaude\web\rec\asp\rec0023c.asp
+[15/09/2016 15:39:28] Arquivo ENCONTRADO em \\223.223.2.194\TopSaude\web\rec\asp\rec0023d.asp
+[15/09/2016 15:39:28] Arquivo ENCONTRADO em \\223.223.2.194\TopSaude\web\rec\asp\rec0023e.asp
+[15/09/2016 15:39:28] Arquivo ENCONTRADO em \\223.223.2.194\TopSaude\web\rec\asp\rec0023f.asp
+[15/09/2016 15:39:28] Arquivo ENCONTRADO em \\223.223.2.194\TopSaude\web\rec\asp\rec1009a.asp
+[15/09/2016 15:39:28] Arquivo ENCONTRADO em \\223.223.2.194\TopSaude\web\rec\asp\rec1009b.asp
+[15/09/2016 15:39:28] Busca Aprofundada necessária não realizada
+[15/09/2016 15:39:28] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 133 milisegundo(s).
+[15/09/2016 15:39:29] K:\Pacotes\52551-52600\52560-EDSON\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\rec\TsRec1009Boleto.jasper copiado para \\223.223.2.194\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\rec\
+[15/09/2016 15:39:29] K:\Pacotes\52551-52600\52560-EDSON\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\rec\TsRec1009JRCobranca.jasper copiado para \\223.223.2.194\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\rec\
+[15/09/2016 15:39:29] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0022a.asp copiado para \\223.223.2.194\TopSaude\web\rec\asp\rec0022a.asp
+[15/09/2016 15:39:29] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0022b.asp copiado para \\223.223.2.194\TopSaude\web\rec\asp\rec0022b.asp
+[15/09/2016 15:39:29] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023a.asp copiado para \\223.223.2.194\TopSaude\web\rec\asp\rec0023a.asp
+[15/09/2016 15:39:29] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023b.asp copiado para \\223.223.2.194\TopSaude\web\rec\asp\rec0023b.asp
+[15/09/2016 15:39:29] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023c.asp copiado para \\223.223.2.194\TopSaude\web\rec\asp\rec0023c.asp
+[15/09/2016 15:39:29] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023d.asp copiado para \\223.223.2.194\TopSaude\web\rec\asp\rec0023d.asp
+[15/09/2016 15:39:29] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023e.asp copiado para \\223.223.2.194\TopSaude\web\rec\asp\rec0023e.asp
+[15/09/2016 15:39:29] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023f.asp copiado para \\223.223.2.194\TopSaude\web\rec\asp\rec0023f.asp
+[15/09/2016 15:39:29] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec1009a.asp copiado para \\223.223.2.194\TopSaude\web\rec\asp\rec1009a.asp
+[15/09/2016 15:39:29] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec1009b.asp copiado para \\223.223.2.194\TopSaude\web\rec\asp\rec1009b.asp
+[15/09/2016 15:39:35] Resultado do Login na WEB Demo_Med    (223.223.2.206): Sucesso Ao logar.
+[15/09/2016 15:39:35] Sistema procurará os arquivos na(s) pasta(s): jtopdown TopSaude 
+[15/09/2016 15:39:35] Quantidade de Arquivos: 12 (arquivos que não estão na raíz).
+[15/09/2016 15:39:35] Arquivo ENCONTRADO em \\223.223.2.206\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\rec\TsRec1009Boleto.jasper
+[15/09/2016 15:39:35] Arquivo ENCONTRADO em \\223.223.2.206\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\rec\TsRec1009JRCobranca.jasper
+[15/09/2016 15:39:35] Arquivo ENCONTRADO em \\223.223.2.206\TopSaude\web\rec\asp\rec0022a.asp
+[15/09/2016 15:39:35] Arquivo ENCONTRADO em \\223.223.2.206\TopSaude\web\rec\asp\rec0022b.asp
+[15/09/2016 15:39:35] Arquivo ENCONTRADO em \\223.223.2.206\TopSaude\web\rec\asp\rec0023a.asp
+[15/09/2016 15:39:35] Arquivo ENCONTRADO em \\223.223.2.206\TopSaude\web\rec\asp\rec0023b.asp
+[15/09/2016 15:39:35] Arquivo ENCONTRADO em \\223.223.2.206\TopSaude\web\rec\asp\rec0023c.asp
+[15/09/2016 15:39:35] Arquivo ENCONTRADO em \\223.223.2.206\TopSaude\web\rec\asp\rec0023d.asp
+[15/09/2016 15:39:35] Arquivo ENCONTRADO em \\223.223.2.206\TopSaude\web\rec\asp\rec0023e.asp
+[15/09/2016 15:39:35] Arquivo ENCONTRADO em \\223.223.2.206\TopSaude\web\rec\asp\rec0023f.asp
+[15/09/2016 15:39:35] Arquivo ENCONTRADO em \\223.223.2.206\TopSaude\web\rec\asp\rec1009a.asp
+[15/09/2016 15:39:35] Arquivo ENCONTRADO em \\223.223.2.206\TopSaude\web\rec\asp\rec1009b.asp
+[15/09/2016 15:39:35] Busca Aprofundada necessária não realizada
+[15/09/2016 15:39:35] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 66 milisegundo(s).
+[15/09/2016 15:39:40] K:\Pacotes\52551-52600\52560-EDSON\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\rec\TsRec1009Boleto.jasper copiado para \\223.223.2.206\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\rec\TsRec1009Boleto.jasper
+[15/09/2016 15:39:40] K:\Pacotes\52551-52600\52560-EDSON\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\rec\TsRec1009JRCobranca.jasper copiado para \\223.223.2.206\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\rec\TsRec1009JRCobranca.jasper
+[15/09/2016 15:39:40] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0022a.asp copiado para \\223.223.2.206\TopSaude\web\rec\asp\rec0022a.asp
+[15/09/2016 15:39:40] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0022b.asp copiado para \\223.223.2.206\TopSaude\web\rec\asp\rec0022b.asp
+[15/09/2016 15:39:40] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023a.asp copiado para \\223.223.2.206\TopSaude\web\rec\asp\rec0023a.asp
+[15/09/2016 15:39:40] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023b.asp copiado para \\223.223.2.206\TopSaude\web\rec\asp\rec0023b.asp
+[15/09/2016 15:39:40] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023c.asp copiado para \\223.223.2.206\TopSaude\web\rec\asp\rec0023c.asp
+[15/09/2016 15:39:40] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023d.asp copiado para \\223.223.2.206\TopSaude\web\rec\asp\rec0023d.asp
+[15/09/2016 15:39:40] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023e.asp copiado para \\223.223.2.206\TopSaude\web\rec\asp\rec0023e.asp
+[15/09/2016 15:39:40] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023f.asp copiado para \\223.223.2.206\TopSaude\web\rec\asp\rec0023f.asp
+[15/09/2016 15:39:40] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec1009a.asp copiado para \\223.223.2.206\TopSaude\web\rec\asp\rec1009a.asp
+[15/09/2016 15:39:40] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec1009b.asp copiado para \\223.223.2.206\TopSaude\web\rec\asp\rec1009b.asp
+[15/09/2016 15:39:43] Resultado do Login na WEB DEMO_ODO    (223.223.2.194): Sucesso Ao logar.
+[15/09/2016 15:39:43] Sistema procurará os arquivos na(s) pasta(s): jtopdown TopSaude 
+[15/09/2016 15:39:43] Quantidade de Arquivos: 12 (arquivos que não estão na raíz).
+[15/09/2016 15:39:43] Arquivo ENCONTRADO em \\223.223.2.194\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\rec\TsRec1009Boleto.jasper
+[15/09/2016 15:39:43] Arquivo ENCONTRADO em \\223.223.2.194\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\rec\TsRec1009JRCobranca.jasper
+[15/09/2016 15:39:43] Arquivo ENCONTRADO em \\223.223.2.194\TopSaude\web\rec\asp\rec0022a.asp
+[15/09/2016 15:39:43] Arquivo ENCONTRADO em \\223.223.2.194\TopSaude\web\rec\asp\rec0022b.asp
+[15/09/2016 15:39:43] Arquivo ENCONTRADO em \\223.223.2.194\TopSaude\web\rec\asp\rec0023a.asp
+[15/09/2016 15:39:43] Arquivo ENCONTRADO em \\223.223.2.194\TopSaude\web\rec\asp\rec0023b.asp
+[15/09/2016 15:39:43] Arquivo ENCONTRADO em \\223.223.2.194\TopSaude\web\rec\asp\rec0023c.asp
+[15/09/2016 15:39:43] Arquivo ENCONTRADO em \\223.223.2.194\TopSaude\web\rec\asp\rec0023d.asp
+[15/09/2016 15:39:43] Arquivo ENCONTRADO em \\223.223.2.194\TopSaude\web\rec\asp\rec0023e.asp
+[15/09/2016 15:39:43] Arquivo ENCONTRADO em \\223.223.2.194\TopSaude\web\rec\asp\rec0023f.asp
+[15/09/2016 15:39:43] Arquivo ENCONTRADO em \\223.223.2.194\TopSaude\web\rec\asp\rec1009a.asp
+[15/09/2016 15:39:43] Arquivo ENCONTRADO em \\223.223.2.194\TopSaude\web\rec\asp\rec1009b.asp
+[15/09/2016 15:39:43] Busca Aprofundada necessária não realizada
+[15/09/2016 15:39:43] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 99 milisegundo(s).
+[15/09/2016 15:39:44] K:\Pacotes\52551-52600\52560-EDSON\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\rec\TsRec1009Boleto.jasper copiado para \\223.223.2.194\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\rec\TsRec1009Boleto.jasper
+[15/09/2016 15:39:44] K:\Pacotes\52551-52600\52560-EDSON\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\rec\TsRec1009JRCobranca.jasper copiado para \\223.223.2.194\jtopdown\projetos\topsaude\topsaude-gen-relatorio\rel\rec\TsRec1009JRCobranca.jasper
+[15/09/2016 15:39:44] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0022a.asp copiado para \\223.223.2.194\TopSaude\web\rec\asp\rec0022a.asp
+[15/09/2016 15:39:44] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0022b.asp copiado para \\223.223.2.194\TopSaude\web\rec\asp\rec0022b.asp
+[15/09/2016 15:39:44] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023a.asp copiado para \\223.223.2.194\TopSaude\web\rec\asp\rec0023a.asp
+[15/09/2016 15:39:44] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023b.asp copiado para \\223.223.2.194\TopSaude\web\rec\asp\rec0023b.asp
+[15/09/2016 15:39:44] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023c.asp copiado para \\223.223.2.194\TopSaude\web\rec\asp\rec0023c.asp
+[15/09/2016 15:39:44] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023d.asp copiado para \\223.223.2.194\TopSaude\web\rec\asp\rec0023d.asp
+[15/09/2016 15:39:44] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023e.asp copiado para \\223.223.2.194\TopSaude\web\rec\asp\rec0023e.asp
+[15/09/2016 15:39:44] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec0023f.asp copiado para \\223.223.2.194\TopSaude\web\rec\asp\rec0023f.asp
+[15/09/2016 15:39:44] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec1009a.asp copiado para \\223.223.2.194\TopSaude\web\rec\asp\rec1009a.asp
+[15/09/2016 15:39:44] K:\Pacotes\52551-52600\52560-EDSON\web\rec\asp\rec1009b.asp copiado para \\223.223.2.194\TopSaude\web\rec\asp\rec1009b.asp
+[15/09/2016 15:51:03] Log de aplicão no banco do CA 52560 aberto.
+[15/09/2016 15:52:42] Sistema finalizado.
+

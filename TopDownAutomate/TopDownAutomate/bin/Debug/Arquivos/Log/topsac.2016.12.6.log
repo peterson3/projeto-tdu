@@ -1,0 +1,18 @@
+[06/12/2016 12:11:01] Sistema Iniciado.
+[06/12/2016 12:12:01] Aberto driver com Chrome.
+[06/12/2016 12:17:06] Sistema finalizado.
+
+[06/12/2016 12:31:54] Sistema Iniciado.
+[06/12/2016 12:32:11] Aberto driver com Chrome.
+[06/12/2016 12:32:47] Controle instanciado: 53925
+[06/12/2016 12:33:28] Arquivo do pacote do CA 53925 extraído.
+[06/12/2016 12:33:51] Banco Selecionado Para aplicar: SEG_DES8
+[06/12/2016 12:33:54] Atribuído objeto do tipo Script - CA_53925_TS_SEC.FUNCAO_insert.sql em ts/SEG_DES8
+[06/12/2016 12:33:54] Atribuído objeto do tipo Script - CA_53925_TS_SEC.AUTORIZACAO_PERFIL_insert.sql em ts/SEG_DES8
+[06/12/2016 12:33:55] Sistema alterando o aplica para ordem certa de aplicação
+[06/12/2016 12:33:57] Selecionado P/ Não Criptografar em: SEG_DES8 
+[06/12/2016 12:33:57] Selecionado P/ Criptografar em: 
+[06/12/2016 12:33:57] Arquivo "APLICA.SQL" criado com sucesso.
+[06/12/2016 12:34:04] Executado o aplica no sqlplus.
+[06/12/2016 16:37:29] Sistema finalizado.
+

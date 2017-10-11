@@ -1,0 +1,14 @@
+[14/07/2017 11:40:04] Banco Selecionado Para aplicar: nuvem_01
+[14/07/2017 11:40:09] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.TS_PPF_NUM_PROPOSTA_AUT_SEQ_ddl.sql em ts/nuvem_01
+[14/07/2017 11:40:09] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.TS_CMC_CALENDARIO_VENDAS_ddl.sql em ts/nuvem_01
+[14/07/2017 11:40:09] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.NC_TIPO_COBRANCA_ddl.sql em ts/nuvem_01
+[14/07/2017 11:40:09] Atribuído objeto do tipo Sinonimo - TS_SISTEMA.NC_DESCONTO_PROGRESSIVO_ddl.sql em ts/nuvem_01
+[14/07/2017 11:40:09] Atribuído objeto do tipo Package - TS.CMC_GRAVA_PROPOSTA_PKG_ddl.sql em ts/nuvem_01
+[14/07/2017 11:40:09] Atribuído objeto do tipo Procedure - TS.MC_CARGA_ARQUIVO_180_DDL.SQL em ts/nuvem_01
+[14/07/2017 11:40:11] Sistema alterando o aplica para ordem certa de aplicação
+[14/07/2017 11:40:13] Selecionado P/ Não Criptografar em: nuvem_01 
+[14/07/2017 11:40:13] Selecionado P/ Criptografar em: 
+[14/07/2017 11:40:13] Arquivo "APLICA.SQL" criado com sucesso.
+[14/07/2017 11:41:14] Executado o aplica no sqlplus.
+[14/07/2017 12:34:57] Sistema finalizado.
+

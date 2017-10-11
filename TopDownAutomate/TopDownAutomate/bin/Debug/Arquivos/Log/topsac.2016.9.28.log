@@ -1,0 +1,89 @@
+[28/09/2016 15:39:10] Sistema Iniciado.
+[28/09/2016 15:39:25] Aberto driver com Chrome.
+[28/09/2016 15:39:51] Controle instanciado: 53143
+[28/09/2016 15:40:14] Arquivo do pacote do CA 53143 extraído.
+[28/09/2016 15:41:31] Arquivo do pacote do CA 53143 extraído.
+[28/09/2016 15:41:36] Banco Selecionado Para aplicar: GIST
+[28/09/2016 15:41:42] Atribuído objeto do tipo Package - ts.mar_itf_integracao_fat_cr_sap_ddl.sql em ts/GIST
+[28/09/2016 15:41:42] Atribuído objeto do tipo Package - TS.MAR_BOLETOS_SEM_RETORNO_SAP_ddl.sql em ts/GIST
+[28/09/2016 15:41:42] Atribuído objeto do tipo Table - TS.MAR_ITF_COBRANCAAPOLICE_ddl.sql em ts/GIST
+[28/09/2016 15:41:44] Sistema alterando o aplica para ordem certa de aplicação
+[28/09/2016 15:41:46] Selecionado P/ Não Criptografar em: GIST 
+[28/09/2016 15:41:46] Selecionado P/ Criptografar em: 
+[28/09/2016 15:41:46] Arquivo "APLICA.SQL" criado com sucesso.
+[28/09/2016 15:41:50] Executado o aplica no sqlplus.
+[28/09/2016 15:44:05] Sistema finalizado.
+
+[28/09/2016 16:30:28] Sistema Iniciado.
+[28/09/2016 16:30:40] Aberto driver com Chrome.
+[28/09/2016 16:31:18] Controle instanciado: 53143
+[28/09/2016 16:31:27] Banco Selecionado Para aplicar: GIST
+[28/09/2016 16:31:30] Atribuído objeto do tipo Package - ts.mar_itf_integracao_fat_cr_sap_ddl.sql em ts/GIST
+[28/09/2016 16:31:30] Atribuído objeto do tipo Package - TS.MAR_BOLETOS_SEM_RETORNO_SAP_ddl.sql em ts/GIST
+[28/09/2016 16:31:30] Atribuído objeto do tipo Table - TS.MAR_ITF_COBRANCAAPOLICE_ddl.sql em ts/GIST
+[28/09/2016 16:31:31] Sistema alterando o aplica para ordem certa de aplicação
+[28/09/2016 16:31:32] Selecionado P/ Não Criptografar em: GIST 
+[28/09/2016 16:31:32] Selecionado P/ Criptografar em: 
+[28/09/2016 16:31:32] Arquivo "APLICA.SQL" criado com sucesso.
+[28/09/2016 16:31:41] Executado o aplica no sqlplus.
+[28/09/2016 16:36:08] Executado o aplica no sqlplus.
+[28/09/2016 16:37:34] Arquivo do pacote do CA 53143 extraído.
+[28/09/2016 16:37:39] Banco Selecionado Para aplicar: GIST
+[28/09/2016 16:37:41] Atribuído objeto do tipo Package - ts.mar_itf_integracao_fat_cr_sap_ddl.sql em ts/GIST
+[28/09/2016 16:37:41] Atribuído objeto do tipo Package - TS.MAR_BOLETOS_SEM_RETORNO_SAP_ddl.sql em ts/GIST
+[28/09/2016 16:37:41] Atribuído objeto do tipo Table - TS.MAR_ITF_COBRANCAAPOLICE_ddl.sql em ts/GIST
+[28/09/2016 16:37:43] Sistema alterando o aplica para ordem certa de aplicação
+[28/09/2016 16:37:44] Selecionado P/ Não Criptografar em: GIST 
+[28/09/2016 16:37:44] Selecionado P/ Criptografar em: 
+[28/09/2016 16:37:44] Arquivo "APLICA.SQL" criado com sucesso.
+[28/09/2016 16:37:51] Executado o aplica no sqlplus.
+[28/09/2016 16:49:23] Log de aplicão no banco do CA 53143 aberto.
+[28/09/2016 16:49:26] Log de versões do CA 53143 aberto.
+[28/09/2016 17:30:39] Sistema finalizado.
+
+[28/09/2016 17:47:09] Sistema Iniciado.
+[28/09/2016 17:47:34] Aberto driver com Chrome.
+[28/09/2016 17:47:49] Controle instanciado: 53143
+[28/09/2016 17:48:27] Arquivo do pacote do CA 53143 extraído.
+[28/09/2016 17:48:34] Banco Selecionado Para aplicar: GIST
+[28/09/2016 17:48:38] Atribuído objeto do tipo Package - ts.mar_itf_integracao_fat_cr_sap_ddl.sql em ts/GIST
+[28/09/2016 17:48:38] Atribuído objeto do tipo Package - TS.MAR_BOLETOS_SEM_RETORNO_SAP_ddl.sql em ts/GIST
+[28/09/2016 17:48:38] Atribuído objeto do tipo Procedure - TS.REL_GRAVA_FILA_ddl.sql em ts/GIST
+[28/09/2016 17:48:38] Atribuído objeto do tipo Table - TS.MAR_ITF_COBRANCAAPOLICE_ddl.sql em ts/GIST
+[28/09/2016 17:48:40] Sistema alterando o aplica para ordem certa de aplicação
+[28/09/2016 17:48:41] Selecionado P/ Não Criptografar em: GIST 
+[28/09/2016 17:48:41] Selecionado P/ Criptografar em: 
+[28/09/2016 17:48:41] Arquivo "APLICA.SQL" criado com sucesso.
+[28/09/2016 17:48:49] Executado o aplica no sqlplus.
+[28/09/2016 19:23:17] Banco Selecionado Para aplicar: MAR_VAZIO
+[28/09/2016 19:23:17] Banco Selecionado Para aplicar: GIST
+[28/09/2016 19:23:19] Atribuído objeto do tipo Package - ts.mar_itf_integracao_fat_cr_sap_ddl.sql em mar_teste/MAR_VAZIO
+[28/09/2016 19:23:19] Atribuído objeto do tipo Package - ts.mar_itf_integracao_fat_cr_sap_ddl.sql em ts/GIST
+[28/09/2016 19:23:19] Atribuído objeto do tipo Package - TS.MAR_BOLETOS_SEM_RETORNO_SAP_ddl.sql em mar_teste/MAR_VAZIO
+[28/09/2016 19:23:19] Atribuído objeto do tipo Package - TS.MAR_BOLETOS_SEM_RETORNO_SAP_ddl.sql em ts/GIST
+[28/09/2016 19:23:19] Atribuído objeto do tipo Procedure - TS.REL_GRAVA_FILA_ddl.sql em mar_teste/MAR_VAZIO
+[28/09/2016 19:23:19] Atribuído objeto do tipo Procedure - TS.REL_GRAVA_FILA_ddl.sql em ts/GIST
+[28/09/2016 19:23:19] Atribuído objeto do tipo Table - TS.MAR_ITF_COBRANCAAPOLICE_ddl.sql em mar_teste/MAR_VAZIO
+[28/09/2016 19:23:19] Atribuído objeto do tipo Table - TS.MAR_ITF_COBRANCAAPOLICE_ddl.sql em ts/GIST
+[28/09/2016 19:23:21] Sistema alterando o aplica para ordem certa de aplicação
+[28/09/2016 19:23:23] Selecionado P/ Não Criptografar em: MAR_VAZIO 
+[28/09/2016 19:23:23] Selecionado P/ Criptografar em: GIST 
+[28/09/2016 19:23:23] Arquivo "APLICA.SQL" criado com sucesso.
+[28/09/2016 19:23:28] Log de aplicão no banco do CA 53143 aberto.
+[28/09/2016 19:23:31] Executado o aplica no sqlplus.
+[28/09/2016 19:24:02] Resultado do Login na WEB Maritima    (10.1.1.159): Sucesso Ao logar.
+[28/09/2016 19:24:02] Sistema procurará os arquivos na(s) pasta(s): jtopdown topsaude web 
+[28/09/2016 19:24:02] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[28/09/2016 19:24:03] Arquivo ENCONTRADO em \\10.1.1.159\web\fat\asp\FAT1044a.asp
+[28/09/2016 19:24:03] Busca Aprofundada necessária não realizada
+[28/09/2016 19:24:03] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 451 milisegundo(s).
+[28/09/2016 19:24:04] K:\Pacotes\53101-53150\53143-JOAO\web\fat\asp\FAT1044a.asp copiado para \\10.1.1.159\web\fat\asp\FAT1044a.asp
+[28/09/2016 19:24:08] Resultado do Login na WEB Maritima    (10.1.1.159): Sucesso Ao logar.
+[28/09/2016 19:24:08] Sistema procurará os arquivos na(s) pasta(s): jtopdown topsaude web 
+[28/09/2016 19:24:08] Quantidade de Arquivos: 1 (arquivos que não estão na raíz).
+[28/09/2016 19:24:09] Arquivo ENCONTRADO em \\10.1.1.159\web\fat\asp\FAT1044a.asp
+[28/09/2016 19:24:09] Busca Aprofundada necessária não realizada
+[28/09/2016 19:24:09] Tempo que levou para achar todos os arquivos: 0 minuto(s), 0 segundo(s) e 404 milisegundo(s).
+[28/09/2016 19:24:10] K:\Pacotes\53101-53150\53143-JOAO\web\fat\asp\FAT1044a.asp copiado para \\10.1.1.159\web\fat\asp\FAT1044a.asp
+[28/09/2016 19:25:58] Sistema finalizado.
+

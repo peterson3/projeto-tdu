@@ -1,0 +1,26 @@
+[12/08/2016 11:42:51] Sistema Iniciado.
+[12/08/2016 11:42:52] Sistema Iniciado.
+[12/08/2016 11:42:54] Sistema finalizado.
+
+[12/08/2016 11:43:32] Aberto driver com Chrome.
+[12/08/2016 11:43:54] Controle instanciado: 52560
+[12/08/2016 11:45:51] Arquivo do pacote do CA 52560 extraído.
+[12/08/2016 11:46:02] Log de versões do CA 52560 aberto.
+[12/08/2016 11:46:39] Banco Selecionado Para aplicar: HOMO_MED
+[12/08/2016 11:46:43] Atribuído objeto do tipo Script - ts_script_insert_negociacao.sql em ts_teste/HOMO_MED
+[12/08/2016 11:46:43] Atribuído objeto do tipo Package - TS.FAT_REL_DEMONSTRATIVO_COBRANCA_ddl.sql em ts_teste/HOMO_MED
+[12/08/2016 11:46:43] Atribuído objeto do tipo Procedure - TS.REC_TIPO_NEGOCIACAO_COB_ddl.sql em ts_teste/HOMO_MED
+[12/08/2016 11:46:43] Atribuído objeto do tipo Procedure - TS.REC_NEGOCIACAO_COBRANCA_ddl.sql em ts_teste/HOMO_MED
+[12/08/2016 11:46:43] Atribuído objeto do tipo Table - TS.TIPO_NEGOCIACAO_COB_ddl.sql em ts_teste/HOMO_MED
+[12/08/2016 11:46:43] Atribuído objeto do tipo Table - TS.PERFIL_NEG_CLIENTE_ddl.sql em ts_teste/HOMO_MED
+[12/08/2016 11:46:43] Atribuído objeto do tipo Table - TS.PERFIL_NEGOCIACAO_ddl.sql em ts_teste/HOMO_MED
+[12/08/2016 11:46:43] Atribuído objeto do tipo Table - TS.PERFIL_CLI_NEGOCIACAO_ddl.sql em ts_teste/HOMO_MED
+[12/08/2016 11:46:43] Atribuído objeto do tipo Table - ts.cobranca_ddl.sql em ts_teste/HOMO_MED
+[12/08/2016 11:46:44] Sistema alterando o aplica para ordem certa de aplicação
+[12/08/2016 11:46:46] Selecionado P/ Não Criptografar em: HOMO_MED 
+[12/08/2016 11:46:46] Selecionado P/ Criptografar em: 
+[12/08/2016 11:46:46] Arquivo "APLICA.SQL" criado com sucesso.
+[12/08/2016 11:46:52] Executado o aplica no sqlplus.
+[12/08/2016 11:47:31] Log de aplicão no banco do CA 52560 aberto.
+[12/08/2016 14:24:11] Sistema finalizado.
+
